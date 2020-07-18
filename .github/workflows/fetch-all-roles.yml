@@ -6,7 +6,7 @@ on:
     - cron: "*/5 * * * *"
     
 jobs:
-  build:
+  fetch:
     runs-on: ubuntu-latest
     steps:
     - name: checkout
@@ -24,3 +24,33 @@ jobs:
       with:
         message: "fetch-all-roles updated"
         branch: master
+    - name: Dump steps context
+      env:
+        STEPS_CONTEXT: ${{ toJson(steps) }}
+      run: echo "$STEPS_CONTEXT"
+    - name: Dump jobs context
+      env:
+        JOBS_CONTEXT: ${{ toJson(job) }}
+      run: echo "$JOBS_CONTEXT"
+  release:
+    needs: fetch
+    runs-on: ubuntu-latest
+    if: "contains(toJSON(job.fetch.outputs.*), 'fetch-all-roles updated')"
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2 
+    - name: get date time as DTIME
+      id: dtime
+      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
+    - name: create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.dtime.outputs.DTIME }}
+        release_name: Release ${{ steps.dtime.outputs.DTIME }}
+        body: |
+          GCP IAM Roles Updated as of: ${{ steps.dtime.outputs.DTIME }}
+        draft: false
+        prerelease: false
