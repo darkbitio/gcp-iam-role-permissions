@@ -26,7 +26,7 @@ jobs:
         branch: master
     - name: commit change
       id: commitchanged
-      run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ .github.sha }}" ]; then echo false; else echo true; fi`"
+      run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ github.sha }}" ]; then echo false; else echo true; fi`"
     - name: get date time as DTIME
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
