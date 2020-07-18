@@ -1,0 +1,5 @@
+name: Tag on commit
+
+on:
+  push:
+ 
