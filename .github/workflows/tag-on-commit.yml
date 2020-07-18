@@ -1,4 +1,4 @@
-name: Tag on commit
+name: Release if updated
 
 on:
   push:
@@ -8,11 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: "! contains(toJSON(github.event.commits.*.message), '[skip-ci]')"
+    if: "contains(toJSON(github.event.commits.*.message), 'fetch-all-roles updated')"
     steps:
-    - name: Tag commit
-      uses: tvdias/github-tagger@v0.0.1
+    - name: checkout
+      uses: actions/checkout@v2 
+    - name: get date time as DTIME
+      id: dtime
+      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
+    - name: create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        tag: "my_tag"
- 
+        tag_name: ${{ steps.dtime.outputs.DTIME }}
+        release_name: Release ${{ steps.dtime.outputs.DTIME }}
+        body: |
+          GCP IAM Roles Updated as of: ${{ steps.dtime.outputs.DTIME }}
+        draft: false
+        prerelease: false
