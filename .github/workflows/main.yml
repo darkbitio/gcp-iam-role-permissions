@@ -11,6 +11,16 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v2
+    - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        version: 'latest'
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+    - name: fetch-all-roles
+      run: gcloud config set project darkbit-audit-resources
+    - name: gcloudconfiglist
+      run: gcloud config list
+    - name: gcloud organizations list
+      run: gcloud organizations list
     - name: touch
       run: date +%s > last_updated
     - name: push
