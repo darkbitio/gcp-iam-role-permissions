@@ -12,6 +12,6 @@ jobs:
     - name: checkout
       uses: actions/checkout@v2
     - name: touch
-      run: date +%s > date
+      run: date +%s > last_updated
     - name: push
       uses: actions-x/commit@v1
