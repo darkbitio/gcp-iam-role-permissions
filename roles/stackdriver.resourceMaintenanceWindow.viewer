@@ -1,7 +1,0 @@
-{
-  "description": "Read-only access to information about Stackdriver resource maintenance windows.",
-  "etag": "AA==",
-  "name": "roles/stackdriver.resourceMaintenanceWindow.viewer",
-  "stage": "GA",
-  "title": "Stackdriver Resource Maintenance Window Viewer"
-}
