@@ -1,0 +1,28 @@
+name: Node CI
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+    - name: get date time as DTIME
+      id: dtime
+      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
+    - name: push
+      uses: actions-x/commit@v1
+    - name: create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      with:
+        tag_name: ${{ steps.dtime.outputs.DTIME }}
+        release_name: Release ${{ steps.dtime.outputs.DTIME }}
+        body: |
+          Changed: ${{ steps.dtime.outputs.DTIME }}
+        draft: false
+        prerelease: false
