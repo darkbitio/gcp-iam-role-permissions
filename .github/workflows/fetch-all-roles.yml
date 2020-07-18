@@ -3,7 +3,7 @@ name: Fetch all roles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
     
 jobs:
   fetch:
@@ -24,14 +24,12 @@ jobs:
       with:
         message: "fetch-all-roles updated"
         branch: master
-    - name: Dump steps context
-      env:
-        STEPS_CONTEXT: ${{ toJson(github.sha) }}
-      run: echo "$STEPS_CONTEXT"
-    - name: Dump jobs context
-      env:
-        JOBS_CONTEXT: ${{ toJson(job) }}
-      run: echo "$JOBS_CONTEXT"
+    - name: pwd
+      run: pwd
+    - name: ls -al
+      run: ls -al
+    - name: git
+      run: git --version
   release:
     needs: fetch
     runs-on: ubuntu-latest
