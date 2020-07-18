@@ -21,3 +21,4 @@ jobs:
       run: ./fetch-all-roles.sh
     - name: push
       uses: actions-x/commit@v1
+      message: "fetch-all-roles updated"
