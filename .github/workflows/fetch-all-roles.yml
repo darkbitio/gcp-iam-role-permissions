@@ -2,6 +2,8 @@ name: fetch-all-roles
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "14 3 * * *"
     
 jobs:
   build:
@@ -19,6 +21,3 @@ jobs:
       run: ./fetch-all-roles.sh
     - name: push
       uses: actions-x/commit@v1
-      with:
-        message: "fetch-all-roles updated"
-        branch: master
