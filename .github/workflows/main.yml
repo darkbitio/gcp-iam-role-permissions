@@ -2,8 +2,8 @@ name: fetch-all-roles
 
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron:  '14 3 * * *'
+  schedule:
+    - cron:  '49 3 * * *'
     
 jobs:
   build:
