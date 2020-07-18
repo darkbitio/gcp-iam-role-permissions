@@ -21,7 +21,7 @@ jobs:
       run: ./fetch-all-roles.sh
     - name: get date time as DTIME
       id: dtime
-      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%dT%H:%M:%S')"
+      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
     - name: push
       uses: actions-x/commit@v1
     - name: create Release
