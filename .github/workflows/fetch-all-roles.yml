@@ -1,0 +1,23 @@
+name: fetch-all-roles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "14 3 * * *"
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+    - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        version: 'latest'
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+    - name: set project
+      run: gcloud config set project darkbit-audit-resources
+    - name: fetch all roles
+      run: ./fetch-all-roles.sh
+    - name: push
+      uses: actions-x/commit@v1
