@@ -26,7 +26,7 @@ jobs:
         branch: master
     - name: Dump steps context
       env:
-        STEPS_CONTEXT: ${{ toJson(steps) }}
+        STEPS_CONTEXT: ${{ toJson(github.sha) }}
       run: echo "$STEPS_CONTEXT"
     - name: Dump jobs context
       env:
