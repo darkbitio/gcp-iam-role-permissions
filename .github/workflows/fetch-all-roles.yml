@@ -1,0 +1,16 @@
+name: fetch-all-roles
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"    
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+    - name: touch
+      run: date +%s > date
+    - name: push
+      uses: actions-x/commit@v1
