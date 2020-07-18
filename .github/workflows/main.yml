@@ -15,11 +15,24 @@ jobs:
       with:
         version: 'latest'
         service_account_key: ${{ secrets.GCP_SA_KEY }}
-    - name: set-project
+    - name: set project
       run: gcloud config set project darkbit-audit-resources
-    - name: fetch-all-roles
+    - name: fetch all roles
       run: ./fetch-all-roles.sh
-    - name: touch
-      run: date +%s > last_updated
+    - name: get date time as DTIME
+      id: dtime
+      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%dT%H:%M:%S')"
     - name: push
-      uses: actions-x/commit@v1
+      uses: actions-x/commit@v2.6
+    - name: create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      with:
+        tag_name: ${{ steps.dtime.outputs.DTIME }}
+        release_name: Release ${{ steps.dtime.outputs.DTIME }}
+        body: |
+          Changed: ${{ steps.dtime.outputs.DTIME }}
+        draft: false
+        prerelease: false
