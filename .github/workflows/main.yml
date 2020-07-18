@@ -2,7 +2,7 @@ name: fetch-all-roles
 
 on:
   schedule:
-    - cron: "*/30 * * * *"    
+    - cron: "* * * * *"    
     
 jobs:
   build:
