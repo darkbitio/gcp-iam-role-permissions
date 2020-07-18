@@ -3,7 +3,7 @@ name: Fetch all roles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "14 3 * * *"
+    - cron: "*/5 * * * *"
     
 jobs:
   build:
