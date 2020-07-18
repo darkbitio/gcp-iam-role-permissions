@@ -1,4 +1,4 @@
-name: Release on auto-generated commit
+name: Automated Release
 
 on:
   push:
