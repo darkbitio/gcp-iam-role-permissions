@@ -1,0 +1,12 @@
+{
+  "description": "Access to create objects in GCS.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.objects.create"
+  ],
+  "name": "roles/storage.objectCreator",
+  "stage": "GA",
+  "title": "Storage Object Creator"
+}

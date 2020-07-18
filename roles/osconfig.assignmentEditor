@@ -1,0 +1,11 @@
+{
+  "description": "Editor of Assignment resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.assignmentEditor",
+  "stage": "GA",
+  "title": "Assignment Editor"
+}

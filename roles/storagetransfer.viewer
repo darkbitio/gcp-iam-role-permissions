@@ -1,0 +1,16 @@
+{
+  "description": "Read access to storage transfer jobs and operations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storagetransfer.jobs.get",
+    "storagetransfer.jobs.list",
+    "storagetransfer.operations.get",
+    "storagetransfer.operations.list",
+    "storagetransfer.projects.getServiceAccount"
+  ],
+  "name": "roles/storagetransfer.viewer",
+  "stage": "GA",
+  "title": "Storage Transfer Viewer"
+}

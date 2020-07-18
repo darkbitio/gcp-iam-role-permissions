@@ -1,0 +1,25 @@
+{
+  "description": "Read and write access to all functions-related resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudfunctions.functions.call",
+    "cloudfunctions.functions.create",
+    "cloudfunctions.functions.delete",
+    "cloudfunctions.functions.get",
+    "cloudfunctions.functions.invoke",
+    "cloudfunctions.functions.list",
+    "cloudfunctions.functions.sourceCodeGet",
+    "cloudfunctions.functions.sourceCodeSet",
+    "cloudfunctions.functions.update",
+    "cloudfunctions.locations.list",
+    "cloudfunctions.operations.get",
+    "cloudfunctions.operations.list",
+    "resourcemanager.projects.get",
+    "serviceusage.quotas.get",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/cloudfunctions.developer",
+  "stage": "BETA",
+  "title": "Cloud Functions Developer"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "View topics and subscriptions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "pubsublite.subscriptions.get",
+    "pubsublite.subscriptions.getCursor",
+    "pubsublite.subscriptions.list",
+    "pubsublite.topics.get",
+    "pubsublite.topics.getPartitions",
+    "pubsublite.topics.list",
+    "pubsublite.topics.listSubscriptions"
+  ],
+  "name": "roles/pubsublite.viewer",
+  "stage": "BETA",
+  "title": "Pub/Sub Lite Viewer"
+}

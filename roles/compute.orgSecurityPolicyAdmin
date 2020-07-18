@@ -1,0 +1,31 @@
+{
+  "description": "Full control of Compute Engine Organization Security Policies.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.globalOperations.get",
+    "compute.globalOperations.getIamPolicy",
+    "compute.globalOperations.list",
+    "compute.globalOperations.setIamPolicy",
+    "compute.projects.get",
+    "compute.securityPolicies.addAssociation",
+    "compute.securityPolicies.copyRules",
+    "compute.securityPolicies.create",
+    "compute.securityPolicies.delete",
+    "compute.securityPolicies.get",
+    "compute.securityPolicies.getIamPolicy",
+    "compute.securityPolicies.list",
+    "compute.securityPolicies.move",
+    "compute.securityPolicies.removeAssociation",
+    "compute.securityPolicies.setIamPolicy",
+    "compute.securityPolicies.update",
+    "compute.securityPolicies.use",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.quotas.get",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/compute.orgSecurityPolicyAdmin",
+  "stage": "BETA",
+  "title": "Compute Organization Security Policy Admin"
+}

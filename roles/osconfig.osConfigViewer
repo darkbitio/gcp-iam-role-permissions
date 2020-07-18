@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of OsConfig resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.osConfigViewer",
+  "stage": "GA",
+  "title": "OsConfig Viewer"
+}

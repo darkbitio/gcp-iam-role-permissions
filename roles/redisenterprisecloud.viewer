@@ -1,0 +1,15 @@
+{
+  "description": "This role is managed by Redis Labs, not Google.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "redisenterprisecloud.databases.get",
+    "redisenterprisecloud.databases.list",
+    "redisenterprisecloud.subscriptions.get",
+    "redisenterprisecloud.subscriptions.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/redisenterprisecloud.viewer",
+  "stage": "BETA",
+  "title": "Redis Enterprise Cloud Viewer"
+}

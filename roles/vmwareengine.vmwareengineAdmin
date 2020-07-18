@@ -1,0 +1,11 @@
+{
+  "description": "Admin has full access to VMware Engine Service",
+  "etag": "AA==",
+  "includedPermissions": [
+    "vmwareengine.services.use",
+    "vmwareengine.services.view"
+  ],
+  "name": "roles/vmwareengine.vmwareengineAdmin",
+  "stage": "GA",
+  "title": "VMware Engine Service Admin"
+}

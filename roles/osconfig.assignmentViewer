@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of Assignment resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.assignmentViewer",
+  "stage": "GA",
+  "title": "Assignment Viewer"
+}

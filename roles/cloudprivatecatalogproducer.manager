@@ -1,0 +1,21 @@
+{
+  "description": "Can manage associations between a catalog and a target resource.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudprivatecatalog.targets.get",
+    "cloudprivatecatalogproducer.associations.create",
+    "cloudprivatecatalogproducer.associations.delete",
+    "cloudprivatecatalogproducer.associations.get",
+    "cloudprivatecatalogproducer.associations.list",
+    "cloudprivatecatalogproducer.catalogs.get",
+    "cloudprivatecatalogproducer.catalogs.list",
+    "cloudprivatecatalogproducer.targets.associate",
+    "cloudprivatecatalogproducer.targets.unassociate",
+    "resourcemanager.folders.get",
+    "resourcemanager.folders.list",
+    "resourcemanager.organizations.get"
+  ],
+  "name": "roles/cloudprivatecatalogproducer.manager",
+  "stage": "BETA",
+  "title": "Catalog Manager"
+}

@@ -1,0 +1,22 @@
+{
+  "description": "Viewer of all Recommendations AI resources except automlrecommendations.apiKeys. To have all read access use Recommendations AI Admin Viewer role instead.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "automlrecommendations.catalogItems.get",
+    "automlrecommendations.catalogItems.list",
+    "automlrecommendations.catalogs.getStats",
+    "automlrecommendations.catalogs.list",
+    "automlrecommendations.eventStores.getStats",
+    "automlrecommendations.events.list",
+    "automlrecommendations.placements.getStats",
+    "automlrecommendations.placements.list",
+    "automlrecommendations.recommendations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/automlrecommendations.viewer",
+  "stage": "BETA",
+  "title": "Recommendations AI Viewer"
+}

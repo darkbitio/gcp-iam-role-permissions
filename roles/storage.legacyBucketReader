@@ -1,0 +1,11 @@
+{
+  "description": "Read access to buckets with object listing.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.buckets.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/storage.legacyBucketReader",
+  "stage": "GA",
+  "title": "Storage Legacy Bucket Reader"
+}

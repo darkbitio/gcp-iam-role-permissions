@@ -1,0 +1,25 @@
+{
+  "description": "Read-only access to Cloud SQL resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudsql.backupRuns.get",
+    "cloudsql.backupRuns.list",
+    "cloudsql.databases.get",
+    "cloudsql.databases.list",
+    "cloudsql.instances.export",
+    "cloudsql.instances.get",
+    "cloudsql.instances.list",
+    "cloudsql.instances.listServerCas",
+    "cloudsql.sslCerts.get",
+    "cloudsql.sslCerts.list",
+    "cloudsql.users.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.quotas.get",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/cloudsql.viewer",
+  "stage": "GA",
+  "title": "Cloud SQL Viewer"
+}
