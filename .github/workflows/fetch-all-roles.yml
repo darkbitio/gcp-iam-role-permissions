@@ -35,7 +35,7 @@ jobs:
   release:
     needs: fetch
     runs-on: ubuntu-latest
-    if: "contains(toJSON(job.fetch.outputs.*), 'fetch-all-roles updated')"
+    if: "contains(toJSON(needs.fetch.outputs.*), 'fetch-all-roles updated')"
     steps:
     - name: checkout
       uses: actions/checkout@v2 
