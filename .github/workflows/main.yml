@@ -23,7 +23,7 @@ jobs:
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%dT%H:%M:%S')"
     - name: push
-      uses: actions-x/commit@v2.6
+      uses: actions-x/commit@v1
     - name: create Release
       id: create_release
       uses: actions/create-release@v1
