@@ -1,0 +1,12 @@
+{
+  "description": "Enables AsymmetricSign, and GetPublicKey operations",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudkms.cryptoKeyVersions.useToSign",
+    "cloudkms.cryptoKeyVersions.viewPublicKey",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/cloudkms.signerVerifier",
+  "stage": "GA",
+  "title": "Cloud KMS CryptoKey Signer/Verifier"
+}

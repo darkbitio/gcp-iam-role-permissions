@@ -1,0 +1,21 @@
+{
+  "description": "Full control of Compute Engine Security Policy associations to the organization or folders.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.globalOperations.get",
+    "compute.globalOperations.getIamPolicy",
+    "compute.globalOperations.list",
+    "compute.globalOperations.setIamPolicy",
+    "compute.organizations.listAssociations",
+    "compute.organizations.setSecurityPolicy",
+    "compute.projects.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.quotas.get",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/compute.orgSecurityResourceAdmin",
+  "stage": "BETA",
+  "title": "Compute Organization Resource Admin"
+}

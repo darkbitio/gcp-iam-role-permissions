@@ -1,0 +1,10 @@
+{
+  "description": "Viewer has read-only access to VMware Engine Service",
+  "etag": "AA==",
+  "includedPermissions": [
+    "vmwareengine.services.view"
+  ],
+  "name": "roles/vmwareengine.vmwareengineViewer",
+  "stage": "GA",
+  "title": "VMware Engine Service Viewer"
+}

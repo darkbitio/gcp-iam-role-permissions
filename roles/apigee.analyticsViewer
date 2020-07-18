@@ -1,0 +1,18 @@
+{
+  "description": "Analytics viewer for an Apigee Organization",
+  "etag": "AA==",
+  "includedPermissions": [
+    "apigee.environments.getStats",
+    "apigee.organizations.get",
+    "apigee.organizations.list",
+    "apigee.queries.get",
+    "apigee.queries.list",
+    "apigee.reports.get",
+    "apigee.reports.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/apigee.analyticsViewer",
+  "stage": "BETA",
+  "title": "Apigee Analytics Viewer"
+}

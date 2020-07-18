@@ -1,0 +1,23 @@
+{
+  "description": "Access to read and write repository items.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "artifactregistry.files.get",
+    "artifactregistry.files.list",
+    "artifactregistry.packages.get",
+    "artifactregistry.packages.list",
+    "artifactregistry.repositories.downloadArtifacts",
+    "artifactregistry.repositories.get",
+    "artifactregistry.repositories.list",
+    "artifactregistry.repositories.uploadArtifacts",
+    "artifactregistry.tags.create",
+    "artifactregistry.tags.get",
+    "artifactregistry.tags.list",
+    "artifactregistry.tags.update",
+    "artifactregistry.versions.get",
+    "artifactregistry.versions.list"
+  ],
+  "name": "roles/artifactregistry.writer",
+  "stage": "BETA",
+  "title": "Artifact Registry Writer"
+}

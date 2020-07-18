@@ -1,0 +1,17 @@
+{
+  "description": "Full access to firebaseperformance resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebase.clients.get",
+    "firebase.projects.get",
+    "firebaseperformance.config.create",
+    "firebaseperformance.config.delete",
+    "firebaseperformance.config.update",
+    "firebaseperformance.data.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/firebaseperformance.admin",
+  "stage": "GA",
+  "title": "Firebase Performance Reporting Admin"
+}

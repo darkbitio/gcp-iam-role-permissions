@@ -1,0 +1,7 @@
+{
+  "description": "Data Processing exporter who can export IAM access history using bigquery.",
+  "etag": "AA==",
+  "name": "roles/dataprocessing.iamAccessHistoryExporter",
+  "stage": "GA",
+  "title": "Data Processing IAM Access History Exporter"
+}

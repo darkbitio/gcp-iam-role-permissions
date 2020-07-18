@@ -1,0 +1,13 @@
+{
+  "description": "Viewer of Firewall insights and recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recommender.computeFirewallInsights.get",
+    "recommender.computeFirewallInsights.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.firewallViewer",
+  "stage": "GA",
+  "title": "Firewall Recommender Viewer"
+}

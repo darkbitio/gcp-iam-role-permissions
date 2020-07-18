@@ -1,0 +1,33 @@
+{
+  "description": "Enables management of crypto resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudkms.cryptoKeyVersions.create",
+    "cloudkms.cryptoKeyVersions.destroy",
+    "cloudkms.cryptoKeyVersions.get",
+    "cloudkms.cryptoKeyVersions.list",
+    "cloudkms.cryptoKeyVersions.restore",
+    "cloudkms.cryptoKeyVersions.update",
+    "cloudkms.cryptoKeys.create",
+    "cloudkms.cryptoKeys.get",
+    "cloudkms.cryptoKeys.getIamPolicy",
+    "cloudkms.cryptoKeys.list",
+    "cloudkms.cryptoKeys.setIamPolicy",
+    "cloudkms.cryptoKeys.update",
+    "cloudkms.importJobs.create",
+    "cloudkms.importJobs.get",
+    "cloudkms.importJobs.getIamPolicy",
+    "cloudkms.importJobs.list",
+    "cloudkms.importJobs.setIamPolicy",
+    "cloudkms.importJobs.useToImport",
+    "cloudkms.keyRings.create",
+    "cloudkms.keyRings.get",
+    "cloudkms.keyRings.getIamPolicy",
+    "cloudkms.keyRings.list",
+    "cloudkms.keyRings.setIamPolicy",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/cloudkms.admin",
+  "stage": "GA",
+  "title": "Cloud KMS Admin"
+}

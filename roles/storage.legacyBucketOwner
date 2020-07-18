@@ -1,0 +1,16 @@
+{
+  "description": "Read and write access to existing buckets with object listing/creation/deletion.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.buckets.get",
+    "storage.buckets.getIamPolicy",
+    "storage.buckets.setIamPolicy",
+    "storage.buckets.update",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.list"
+  ],
+  "name": "roles/storage.legacyBucketOwner",
+  "stage": "GA",
+  "title": "Storage Legacy Bucket Owner"
+}

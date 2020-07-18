@@ -1,0 +1,11 @@
+{
+  "description": "Enables GetPublicKey operations",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudkms.cryptoKeyVersions.viewPublicKey",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/cloudkms.publicKeyViewer",
+  "stage": "GA",
+  "title": "Cloud KMS CryptoKey Public Key Viewer"
+}

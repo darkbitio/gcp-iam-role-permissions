@@ -1,0 +1,16 @@
+{
+  "description": "Worker access to Dataflow.  Intended for service accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.instanceGroupManagers.update",
+    "compute.instances.delete",
+    "compute.instances.setDiskAutoDelete",
+    "dataflow.jobs.get",
+    "logging.logEntries.create",
+    "storage.objects.create",
+    "storage.objects.get"
+  ],
+  "name": "roles/dataflow.worker",
+  "stage": "GA",
+  "title": "Dataflow Worker"
+}

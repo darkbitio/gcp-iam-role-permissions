@@ -1,0 +1,23 @@
+{
+  "description": "Access to view logs, except for logs with private contents.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "logging.buckets.get",
+    "logging.buckets.list",
+    "logging.exclusions.get",
+    "logging.exclusions.list",
+    "logging.logEntries.list",
+    "logging.logMetrics.get",
+    "logging.logMetrics.list",
+    "logging.logServiceIndexes.list",
+    "logging.logServices.list",
+    "logging.logs.list",
+    "logging.sinks.get",
+    "logging.sinks.list",
+    "logging.usage.get",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/logging.viewer",
+  "stage": "GA",
+  "title": "Logs Viewer"
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Gives Game Services Service Account access to GCP resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "container.clusters.create",
+    "container.clusters.delete",
+    "container.clusters.get",
+    "container.clusters.list",
+    "container.clusters.update"
+  ],
+  "name": "roles/gameservices.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Game Services Service Agent"
+}

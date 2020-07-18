@@ -1,0 +1,26 @@
+{
+  "description": "Can read agent and session properties; cannot query for intent.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dialogflow.agents.export",
+    "dialogflow.agents.get",
+    "dialogflow.agents.search",
+    "dialogflow.contexts.get",
+    "dialogflow.contexts.list",
+    "dialogflow.documents.get",
+    "dialogflow.documents.list",
+    "dialogflow.entityTypes.get",
+    "dialogflow.entityTypes.list",
+    "dialogflow.intents.get",
+    "dialogflow.intents.list",
+    "dialogflow.knowledgeBases.get",
+    "dialogflow.knowledgeBases.list",
+    "dialogflow.operations.get",
+    "dialogflow.sessionEntityTypes.get",
+    "dialogflow.sessionEntityTypes.list",
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/dialogflow.reader",
+  "stage": "GA",
+  "title": "Dialogflow API Reader"
+}

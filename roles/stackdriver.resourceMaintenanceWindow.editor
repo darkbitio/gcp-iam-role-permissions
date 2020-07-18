@@ -1,0 +1,7 @@
+{
+  "description": "Read/write access to manage Stackdriver resource maintenance windows.",
+  "etag": "AA==",
+  "name": "roles/stackdriver.resourceMaintenanceWindow.editor",
+  "stage": "GA",
+  "title": "Stackdriver Resource Maintenance Window Editor"
+}

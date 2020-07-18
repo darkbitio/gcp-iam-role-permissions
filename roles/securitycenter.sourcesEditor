@@ -1,0 +1,13 @@
+{
+  "description": "Read-write access to sources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "securitycenter.sources.get",
+    "securitycenter.sources.list",
+    "securitycenter.sources.update"
+  ],
+  "name": "roles/securitycenter.sourcesEditor",
+  "stage": "GA",
+  "title": "Security Center Sources Editor"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Modify topics and subscriptions, publish and consume messages.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "pubsublite.subscriptions.create",
+    "pubsublite.subscriptions.delete",
+    "pubsublite.subscriptions.get",
+    "pubsublite.subscriptions.getCursor",
+    "pubsublite.subscriptions.list",
+    "pubsublite.subscriptions.setCursor",
+    "pubsublite.subscriptions.subscribe",
+    "pubsublite.subscriptions.update",
+    "pubsublite.topics.create",
+    "pubsublite.topics.delete",
+    "pubsublite.topics.get",
+    "pubsublite.topics.getPartitions",
+    "pubsublite.topics.list",
+    "pubsublite.topics.listSubscriptions",
+    "pubsublite.topics.publish",
+    "pubsublite.topics.subscribe",
+    "pubsublite.topics.update"
+  ],
+  "name": "roles/pubsublite.editor",
+  "stage": "BETA",
+  "title": "Pub/Sub Lite Editor"
+}

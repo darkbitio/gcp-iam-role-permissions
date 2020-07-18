@@ -1,0 +1,10 @@
+{
+  "description": "Curated set of permissions for Apigee Universal Data Collection Agent to manage analytics for an Apigee Organization",
+  "etag": "AA==",
+  "includedPermissions": [
+    "apigee.environments.getDataLocation"
+  ],
+  "name": "roles/apigee.analyticsAgent",
+  "stage": "BETA",
+  "title": "Apigee Analytics Agent"
+}

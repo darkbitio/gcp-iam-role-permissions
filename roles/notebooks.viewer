@@ -1,0 +1,26 @@
+{
+  "description": "Read-only access to Notebooks all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.acceleratorTypes.list",
+    "compute.diskTypes.list",
+    "compute.machineTypes.list",
+    "compute.subnetworks.list",
+    "notebooks.environments.get",
+    "notebooks.environments.getIamPolicy",
+    "notebooks.environments.list",
+    "notebooks.instances.checkUpgradability",
+    "notebooks.instances.get",
+    "notebooks.instances.getIamPolicy",
+    "notebooks.instances.list",
+    "notebooks.locations.get",
+    "notebooks.locations.list",
+    "notebooks.operations.get",
+    "notebooks.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/notebooks.viewer",
+  "stage": "BETA",
+  "title": "Notebooks Viewer"
+}
