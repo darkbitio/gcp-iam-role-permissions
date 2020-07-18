@@ -3,36 +3,35 @@ name: Fetch all roles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "14 3 * * *"
     
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
+    - name: checkout repo
       uses: actions/checkout@v2
     - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
         version: 'latest'
         service_account_key: ${{ secrets.GCP_SA_KEY }}
-    - name: set project
+    - name: set gcp project
       run: gcloud config set project darkbit-audit-resources
-    - name: fetch all roles
+    - name: fetch all iam roles
       run: ./fetch-all-roles.sh
-    - name: push
+    - name: commit changes if any
       uses: actions-x/commit@v1
       with:
         message: "fetch-all-roles updated"
         branch: master
-    - name: commit change
+    - name: commit changed check
       id: commitchanged
       run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ github.sha }}" ]; then echo false; else echo true; fi`"
     - name: get date time as DTIME
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
-    - name: create Release
+    - name: create release if change happened
       if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
-      id: create_release
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
