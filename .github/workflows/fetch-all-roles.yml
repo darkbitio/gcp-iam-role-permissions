@@ -27,6 +27,9 @@ jobs:
     - name: commit changed check
       id: commitchanged
       run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ github.sha }}" ]; then echo false; else echo true; fi`"
+     - name: commit changes
+      id: commitchanges
+      run: echo "::set-output name=commitchanges::`git diff ${{ github.sha }} $(git rev-parse HEAD)`"     
     - name: get date time as DTIME
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
@@ -39,6 +42,7 @@ jobs:
         tag_name: ${{ steps.dtime.outputs.DTIME }}
         release_name: Release ${{ steps.dtime.outputs.DTIME }}
         body: |
-          GCP IAM Roles Updated as of: ${{ steps.dtime.outputs.DTIME }}
+          GCP IAM Roles diff: ${{ steps.dtime.outputs.DTIME }}
+          ${{ steps.commitchanges.outputs.commitchanges }}
         draft: false
         prerelease: false
