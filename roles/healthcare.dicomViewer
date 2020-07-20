@@ -8,6 +8,8 @@
     "healthcare.dicomStores.export",
     "healthcare.dicomStores.get",
     "healthcare.dicomStores.list",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

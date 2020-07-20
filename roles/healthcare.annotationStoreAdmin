@@ -4,6 +4,8 @@
   "includedPermissions": [
     "healthcare.datasets.get",
     "healthcare.datasets.list",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

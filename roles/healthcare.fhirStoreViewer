@@ -6,6 +6,8 @@
     "healthcare.datasets.list",
     "healthcare.fhirStores.get",
     "healthcare.fhirStores.list",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

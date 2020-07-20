@@ -10,6 +10,8 @@
     "healthcare.fhirStores.get",
     "healthcare.fhirStores.list",
     "healthcare.fhirStores.searchResources",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

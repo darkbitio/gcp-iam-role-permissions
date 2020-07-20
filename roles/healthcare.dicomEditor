@@ -11,6 +11,8 @@
     "healthcare.dicomStores.get",
     "healthcare.dicomStores.import",
     "healthcare.dicomStores.list",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.cancel",
     "healthcare.operations.get",
     "resourcemanager.projects.get",

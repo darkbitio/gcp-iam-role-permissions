@@ -10,6 +10,8 @@
     "healthcare.datasets.list",
     "healthcare.datasets.setIamPolicy",
     "healthcare.datasets.update",
+    "healthcare.locations.get",
+    "healthcare.locations.list",
     "healthcare.operations.cancel",
     "healthcare.operations.get",
     "healthcare.operations.list",
