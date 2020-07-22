@@ -329,6 +329,7 @@
     "container.roles.list",
     "container.runtimeClasses.list",
     "container.scheduledJobs.list",
+    "container.secrets.list",
     "container.selfSubjectAccessReviews.list",
     "container.serviceAccounts.list",
     "container.services.list",
