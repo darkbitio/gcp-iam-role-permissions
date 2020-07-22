@@ -27,15 +27,18 @@ jobs:
     - name: commit changed check
       id: commitchanged
       run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ github.sha }}" ]; then echo false; else echo true; fi`"
-    - name: commit changes
-      id: commitchanges
-      run: echo "::set-output name=commitchanges::`git diff ${{ github.sha }} $(git rev-parse HEAD)`"     
     - name: get date time as DTIME
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
     - name: checkout repo
       if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
-      uses: actions/checkout@v2      
+      uses: actions/checkout@v2
+    - name: Generate changelog
+      if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
+      id: changelog
+      uses: metcalfc/changelog-generator@v0.4.1
+      with:
+        myToken: ${{ secrets.GITHUB_TOKEN }}            
     - name: create release if change happened
       if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
       uses: actions/create-release@v1
@@ -46,6 +49,6 @@ jobs:
         release_name: Release ${{ steps.dtime.outputs.DTIME }}
         body: |
           GCP IAM Roles diff: ${{ steps.dtime.outputs.DTIME }}
-          ${{ steps.commitchanges.outputs.commitchanges }}
+         ${{ steps.changelog.outputs.changelog }}
         draft: false
         prerelease: false
