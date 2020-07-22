@@ -33,6 +33,9 @@ jobs:
     - name: get date time as DTIME
       id: dtime
       run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
+    - name: checkout repo
+      if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
+      uses: actions/checkout@v2      
     - name: create release if change happened
       if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
       uses: actions/create-release@v1
