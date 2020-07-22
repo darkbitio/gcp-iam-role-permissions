@@ -49,6 +49,6 @@ jobs:
         release_name: Release ${{ steps.dtime.outputs.DTIME }}
         body: |
           GCP IAM Roles diff: ${{ steps.dtime.outputs.DTIME }}
-         ${{ steps.changelog.outputs.changelog }}
+          ${{ steps.changelog.outputs.changelog }}
         draft: false
         prerelease: false
