@@ -32,6 +32,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gameservices.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Game Services API Admin"
 }
