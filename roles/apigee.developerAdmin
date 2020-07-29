@@ -39,6 +39,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.developerAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Apigee Developer Admin"
 }
