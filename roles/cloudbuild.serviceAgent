@@ -29,6 +29,7 @@
     "containeranalysis.occurrences.get",
     "containeranalysis.occurrences.list",
     "containeranalysis.occurrences.update",
+    "iam.serviceAccounts.get",
     "iam.serviceAccounts.getAccessToken",
     "logging.logEntries.create",
     "pubsub.subscriptions.create",

@@ -130,6 +130,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Organization Admin"
 }

@@ -1,0 +1,10 @@
+{
+  "description": "Ability to read logs in a view.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "logging.views.access"
+  ],
+  "name": "roles/logging.viewAccessor",
+  "stage": "ALPHA",
+  "title": "Log View Accessor"
+}

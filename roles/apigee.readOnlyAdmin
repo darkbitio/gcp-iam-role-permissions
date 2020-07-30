@@ -59,6 +59,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.readOnlyAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Read-only Admin"
 }

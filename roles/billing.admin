@@ -46,6 +46,12 @@
     "logging.logServices.list",
     "logging.logs.list",
     "logging.privateLogEntries.list",
+    "recommender.commitmentUtilizationInsights.get",
+    "recommender.commitmentUtilizationInsights.list",
+    "recommender.commitmentUtilizationInsights.update",
+    "recommender.usageCommitmentRecommendations.get",
+    "recommender.usageCommitmentRecommendations.list",
+    "recommender.usageCommitmentRecommendations.update",
     "resourcemanager.projects.createBillingAssignment",
     "resourcemanager.projects.deleteBillingAssignment"
   ],

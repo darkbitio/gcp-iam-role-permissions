@@ -28,6 +28,6 @@
     "servicebroker.instances.update"
   ],
   "name": "roles/servicebroker.admin",
-  "stage": "BETA",
+  "stage": "DEPRECATED",
   "title": "Service Broker Admin"
 }

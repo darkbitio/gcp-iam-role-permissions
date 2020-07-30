@@ -2,6 +2,6 @@
   "description": "Curated set of permissions for a runtime agent to access Apigee Organization resources",
   "etag": "AA==",
   "name": "roles/apigee.runtimeAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Runtime Agent"
 }

@@ -1,4 +1,5 @@
 {
+  "description": "Allows inspecting purchases",
   "etag": "AA==",
   "includedPermissions": [
     "consumerprocurement.accounts.get",

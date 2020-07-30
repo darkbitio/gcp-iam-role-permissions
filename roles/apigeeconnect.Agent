@@ -5,6 +5,6 @@
     "apigeeconnect.endpoints.connect"
   ],
   "name": "roles/apigeeconnect.Agent",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Connect Agent"
 }

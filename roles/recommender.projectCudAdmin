@@ -1,0 +1,17 @@
+{
+  "description": "Admin of Project Usage Commitment Recommender.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recommender.commitmentUtilizationInsights.get",
+    "recommender.commitmentUtilizationInsights.list",
+    "recommender.commitmentUtilizationInsights.update",
+    "recommender.usageCommitmentRecommendations.get",
+    "recommender.usageCommitmentRecommendations.list",
+    "recommender.usageCommitmentRecommendations.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.projectCudAdmin",
+  "stage": "ALPHA",
+  "title": "Project Usage Commitment Recommender Admin"
+}

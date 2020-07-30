@@ -1,4 +1,5 @@
 {
+  "description": "Allows managing purchases",
   "etag": "AA==",
   "includedPermissions": [
     "consumerprocurement.accounts.create",

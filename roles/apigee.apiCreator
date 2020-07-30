@@ -42,6 +42,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.apiCreator",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee API Creator"
 }

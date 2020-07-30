@@ -5,6 +5,6 @@
     "apigee.environments.getDataLocation"
   ],
   "name": "roles/apigee.analyticsAgent",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Analytics Agent"
 }

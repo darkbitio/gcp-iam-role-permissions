@@ -5,6 +5,6 @@
     "apigeeconnect.connections.list"
   ],
   "name": "roles/apigeeconnect.Admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Connect Admin"
 }
