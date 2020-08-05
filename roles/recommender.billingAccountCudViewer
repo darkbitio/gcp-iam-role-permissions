@@ -10,6 +10,6 @@
     "recommender.usageCommitmentRecommendations.list"
   ],
   "name": "roles/recommender.billingAccountCudViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Billing Account Usage Commitment Recommender Viewer"
 }

@@ -39,6 +39,6 @@
     "storage.buckets.create"
   ],
   "name": "roles/privateca.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "CA Service Admin"
 }
