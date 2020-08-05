@@ -5,6 +5,6 @@
     "logging.views.access"
   ],
   "name": "roles/logging.viewAccessor",
-  "stage": "ALPHA",
-  "title": "Log View Accessor"
+  "stage": "GA",
+  "title": "Logs View Accessor"
 }
