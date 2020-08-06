@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.projectCudAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Project Usage Commitment Recommender Admin"
 }
