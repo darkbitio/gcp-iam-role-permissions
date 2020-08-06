@@ -12,6 +12,6 @@
     "recommender.usageCommitmentRecommendations.update"
   ],
   "name": "roles/recommender.billingAccountCudAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Billing Account Usage Commitment Recommender Admin"
 }

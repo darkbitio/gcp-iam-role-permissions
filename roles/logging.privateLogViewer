@@ -16,6 +16,7 @@
     "logging.sinks.get",
     "logging.sinks.list",
     "logging.usage.get",
+    "logging.views.access",
     "resourcemanager.projects.get"
   ],
   "name": "roles/logging.privateLogViewer",

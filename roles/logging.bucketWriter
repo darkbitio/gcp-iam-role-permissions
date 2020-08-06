@@ -5,6 +5,6 @@
     "logging.buckets.write"
   ],
   "name": "roles/logging.bucketWriter",
-  "stage": "GA",
-  "title": "Logs Bucket Writer"
+  "stage": "ALPHA",
+  "title": "Log Bucket Writer"
 }
