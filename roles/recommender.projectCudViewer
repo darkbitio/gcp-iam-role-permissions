@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.projectCudViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Project Usage Commitment Recommender Viewer"
 }
