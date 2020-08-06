@@ -23,7 +23,7 @@ if [[ ${CHANGES} -eq 1 ]]; then
   git commit -m 'Fetch all roles'
 
   # Create tag
-  NEW_TAG="v$(date +'%Y-%m-%d-%H-%M-%S')"
+  NEW_TAG="$(date +'%Y-%m-%d-%H-%M-%S')"
   echo "New tag: ${NEW_TAG}"
   NEW_GITHUB_SHA="$(git rev-parse HEAD)"
   echo "New sha: ${NEW_GITHUB_SHA}"
@@ -36,8 +36,8 @@ if [[ ${CHANGES} -eq 1 ]]; then
 
   # Create release body
   RELEASE_DIFF="$(git diff ${GITHUB_SHA} ${NEW_GITHUB_SHA} --compact-summary | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/\\n/g')"
-  RELEASE_TEXT="GCP IAM Update ${NEW_TAG}\n${RELEASE_DIFF}"
-  RELEASE_BODY="$(printf '{"tag_name": "%s","target_commitish": "master","name": "%s","body": "%s","draft": false,"prerelease": false}' $NEW_TAG $NEW_TAG "$RELEASE_TEXT")"
+  RELEASE_TEXT="GCP IAM Update ${NEW_TAG}\n\n\`\`\`\n${RELEASE_DIFF}\n\`\`\`"
+  RELEASE_BODY="$(printf '{"tag_name": "%s","target_commitish": "master","name": "Release %s","body": "%s","draft": false,"prerelease": false}' $NEW_TAG $NEW_TAG "$RELEASE_TEXT")"
   # Push release
   echo curl -H "Authorization: token <mytoken>" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
   curl -H "Authorization: token ${GITHUB_TOKEN}" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
