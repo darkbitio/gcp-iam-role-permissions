@@ -19,36 +19,7 @@ jobs:
       run: gcloud config set project darkbit-audit-resources
     - name: fetch all iam roles
       run: ./fetch-all-roles.sh
-    - name: commit changes if any
-      uses: actions-x/commit@v1
-      with:
-        message: "fetch-all-roles updated"
-        branch: master
-    - name: commit changed check
-      id: commitchanged
-      run: echo "::set-output name=commitchanged::`if [ "$(git rev-parse HEAD)" == "${{ github.sha }}" ]; then echo false; else echo true; fi`"
-    - name: get date time as DTIME
-      id: dtime
-      run: echo "::set-output name=DTIME::$(date +'%Y-%m-%d-%H-%M-%S')"
-    - name: checkout repo
-      if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
-      uses: actions/checkout@v2
-    - name: Generate changelog
-      if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
-      id: changelog
-      uses: metcalfc/changelog-generator@v0.4.1
-      with:
-        myToken: ${{ secrets.GITHUB_TOKEN }}            
-    - name: create release if change happened
-      if: ${{ steps.commitchanged.outputs.commitchanged == 'true' }}
-      uses: actions/create-release@v1
+    - name: commit, tag, and release
+      run: ./.github/commit-and-release.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ steps.dtime.outputs.DTIME }}
-        release_name: Release ${{ steps.dtime.outputs.DTIME }}
-        body: |
-          GCP IAM Roles diff: ${{ steps.dtime.outputs.DTIME }}
-          ${{ steps.changelog.outputs.changelog }}
-        draft: false
-        prerelease: false
