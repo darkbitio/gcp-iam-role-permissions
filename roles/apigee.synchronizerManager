@@ -6,6 +6,6 @@
     "apigee.environments.manageRuntime"
   ],
   "name": "roles/apigee.synchronizerManager",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Synchronizer Manager"
 }

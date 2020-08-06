@@ -21,6 +21,6 @@
     "servicebroker.instances.update"
   ],
   "name": "roles/servicebroker.operator",
-  "stage": "BETA",
+  "stage": "DEPRECATED",
   "title": "Service Broker Operator"
 }

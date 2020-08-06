@@ -1,5 +1,5 @@
 {
-  "description": "Full read-write access to technical support cases (Premium Customer Care only).",
+  "description": "Full read-write access to technical support cases (applicable for GCP Customer Care and Maps support).",
   "etag": "AA==",
   "includedPermissions": [
     "cloudsupport.properties.get",

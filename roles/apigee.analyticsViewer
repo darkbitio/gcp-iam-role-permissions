@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.analyticsViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Analytics Viewer"
 }

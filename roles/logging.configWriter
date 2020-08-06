@@ -2,8 +2,11 @@
   "description": "Access to configure log exporting and metrics.",
   "etag": "AA==",
   "includedPermissions": [
+    "logging.buckets.create",
+    "logging.buckets.delete",
     "logging.buckets.get",
     "logging.buckets.list",
+    "logging.buckets.undelete",
     "logging.buckets.update",
     "logging.cmekSettings.get",
     "logging.cmekSettings.update",

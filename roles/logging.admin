@@ -2,8 +2,11 @@
   "description": "Access to all logging permissions, and dependent permissions.",
   "etag": "AA==",
   "includedPermissions": [
+    "logging.buckets.create",
+    "logging.buckets.delete",
     "logging.buckets.get",
     "logging.buckets.list",
+    "logging.buckets.undelete",
     "logging.buckets.update",
     "logging.cmekSettings.get",
     "logging.cmekSettings.update",
@@ -30,6 +33,7 @@
     "logging.sinks.list",
     "logging.sinks.update",
     "logging.usage.get",
+    "logging.views.access",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

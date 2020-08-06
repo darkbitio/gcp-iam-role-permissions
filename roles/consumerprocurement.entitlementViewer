@@ -1,4 +1,5 @@
 {
+  "description": "Allows inspecting entitlements and service states for a consumer project",
   "etag": "AA==",
   "includedPermissions": [
     "consumerprocurement.entitlements.get",

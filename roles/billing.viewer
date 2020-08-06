@@ -18,7 +18,11 @@
     "consumerprocurement.accounts.list",
     "consumerprocurement.orders.get",
     "consumerprocurement.orders.list",
-    "dataprocessing.groupcontrols.list"
+    "dataprocessing.groupcontrols.list",
+    "recommender.commitmentUtilizationInsights.get",
+    "recommender.commitmentUtilizationInsights.list",
+    "recommender.usageCommitmentRecommendations.get",
+    "recommender.usageCommitmentRecommendations.list"
   ],
   "name": "roles/billing.viewer",
   "stage": "GA",

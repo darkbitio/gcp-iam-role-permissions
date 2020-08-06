@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gameservices.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Game Services API Viewer"
 }

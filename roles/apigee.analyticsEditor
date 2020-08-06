@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.analyticsEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Analytics Editor"
 }
