@@ -8,8 +8,8 @@ echo "------------------"
 echo "Current Hash: ${GITHUB_SHA}"
 
 # Set GH settings
-echo "git config --global user.email ${GITHUB_ACTOR_EMAIL}"
-echo "git config --global user.name ${GITHUB_ACTOR}"
+git config --global user.email "${GITHUB_ACTOR_EMAIL}"
+git config --global user.name "${GITHUB_ACTOR}"
 
 # Test if changes
 git diff --quiet roles || CHANGES=1
