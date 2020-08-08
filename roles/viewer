@@ -786,6 +786,7 @@
     "dialogflow.documents.list",
     "dialogflow.entityTypes.get",
     "dialogflow.entityTypes.list",
+    "dialogflow.fulfillments.get",
     "dialogflow.intents.get",
     "dialogflow.intents.list",
     "dialogflow.knowledgeBases.get",

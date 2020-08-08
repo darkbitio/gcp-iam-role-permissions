@@ -28,6 +28,8 @@
     "dialogflow.entityTypes.list",
     "dialogflow.entityTypes.update",
     "dialogflow.entityTypes.updateEntity",
+    "dialogflow.fulfillments.get",
+    "dialogflow.fulfillments.update",
     "dialogflow.intents.create",
     "dialogflow.intents.delete",
     "dialogflow.intents.get",
