@@ -2,6 +2,7 @@
   "description": "Can manage catalog and view its associations.",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudprivatecatalog.targets.get",
     "cloudprivatecatalogproducer.associations.create",
     "cloudprivatecatalogproducer.associations.delete",
     "cloudprivatecatalogproducer.associations.get",
@@ -14,9 +15,13 @@
     "cloudprivatecatalogproducer.catalogs.setIamPolicy",
     "cloudprivatecatalogproducer.catalogs.undelete",
     "cloudprivatecatalogproducer.catalogs.update",
+    "cloudprivatecatalogproducer.targets.associate",
+    "cloudprivatecatalogproducer.targets.unassociate",
     "resourcemanager.folders.get",
     "resourcemanager.folders.list",
-    "resourcemanager.organizations.get"
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.admin",
   "stage": "BETA",
