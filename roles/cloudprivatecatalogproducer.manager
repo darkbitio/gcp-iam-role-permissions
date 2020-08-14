@@ -13,7 +13,9 @@
     "cloudprivatecatalogproducer.targets.unassociate",
     "resourcemanager.folders.get",
     "resourcemanager.folders.list",
-    "resourcemanager.organizations.get"
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.manager",
   "stage": "BETA",
