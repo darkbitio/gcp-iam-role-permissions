@@ -1,0 +1,21 @@
+{
+  "description": "Grants access to read and write to Assured Workloads resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "assuredworkloads.operations.get",
+    "assuredworkloads.operations.list",
+    "assuredworkloads.workload.create",
+    "assuredworkloads.workload.delete",
+    "assuredworkloads.workload.get",
+    "assuredworkloads.workload.list",
+    "orgpolicy.policy.get",
+    "orgpolicy.policy.set",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.create",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/assuredworkloads.editor",
+  "stage": "ALPHA",
+  "title": "Assured Workloads Editor"
+}

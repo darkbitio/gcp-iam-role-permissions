@@ -2,6 +2,10 @@
   "description": "Read and list annotations in an Annotation store.",
   "etag": "AA==",
   "includedPermissions": [
+    "healthcare.annotationStores.get",
+    "healthcare.annotationStores.list",
+    "healthcare.annotations.get",
+    "healthcare.annotations.list",
     "healthcare.datasets.get",
     "healthcare.datasets.list",
     "healthcare.locations.get",

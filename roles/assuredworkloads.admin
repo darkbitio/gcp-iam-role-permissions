@@ -1,0 +1,21 @@
+{
+  "description": "Grants full access to Assured Workloads resources, including IAM policy administration.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "assuredworkloads.operations.get",
+    "assuredworkloads.operations.list",
+    "assuredworkloads.workload.create",
+    "assuredworkloads.workload.delete",
+    "assuredworkloads.workload.get",
+    "assuredworkloads.workload.list",
+    "orgpolicy.policy.get",
+    "orgpolicy.policy.set",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.create",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/assuredworkloads.admin",
+  "stage": "ALPHA",
+  "title": "Assured Workloads Administrator"
+}
