@@ -12,7 +12,6 @@
     "automlrecommendations.catalogItems.update",
     "automlrecommendations.catalogs.getStats",
     "automlrecommendations.catalogs.list",
-    "automlrecommendations.catalogs.update",
     "automlrecommendations.eventStores.getStats",
     "automlrecommendations.events.create",
     "automlrecommendations.events.list",
