@@ -3,7 +3,8 @@
   "etag": "AA==",
   "includedPermissions": [
     "apigee.environments.get",
-    "apigee.environments.manageRuntime"
+    "apigee.environments.manageRuntime",
+    "apigee.ingressconfigs.get"
   ],
   "name": "roles/apigee.synchronizerManager",
   "stage": "GA",

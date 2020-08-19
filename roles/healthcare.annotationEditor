@@ -2,6 +2,13 @@
   "description": "Create, delete, update, read and list annotations.",
   "etag": "AA==",
   "includedPermissions": [
+    "healthcare.annotationStores.get",
+    "healthcare.annotationStores.list",
+    "healthcare.annotations.create",
+    "healthcare.annotations.delete",
+    "healthcare.annotations.get",
+    "healthcare.annotations.list",
+    "healthcare.annotations.update",
     "healthcare.datasets.get",
     "healthcare.datasets.list",
     "healthcare.locations.get",
