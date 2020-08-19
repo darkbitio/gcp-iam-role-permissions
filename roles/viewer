@@ -816,7 +816,6 @@
     "dialogflow.environments.get",
     "dialogflow.environments.getHistory",
     "dialogflow.environments.list",
-    "dialogflow.environments.lookupHistory",
     "dialogflow.flows.get",
     "dialogflow.flows.list",
     "dialogflow.fulfillments.get",
