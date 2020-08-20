@@ -8,7 +8,6 @@
     "assuredworkloads.workload.delete",
     "assuredworkloads.workload.get",
     "assuredworkloads.workload.list",
-    "assuredworkloads.workload.update",
     "orgpolicy.policy.get",
     "orgpolicy.policy.set",
     "resourcemanager.organizations.get",
