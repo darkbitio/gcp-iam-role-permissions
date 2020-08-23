@@ -32,6 +32,7 @@
     "bigquery.jobs.update",
     "bigquery.models.create",
     "bigquery.models.delete",
+    "bigquery.models.export",
     "bigquery.models.getData",
     "bigquery.models.getMetadata",
     "bigquery.models.list",

@@ -1,0 +1,7 @@
+{
+  "description": "Portal admin for an Apigee Organization",
+  "etag": "AA==",
+  "name": "roles/apigee.portalAdmin",
+  "stage": "ALPHA",
+  "title": "Apigee Portal Admin"
+}

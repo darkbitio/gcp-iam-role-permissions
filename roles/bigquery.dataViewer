@@ -4,6 +4,7 @@
   "includedPermissions": [
     "bigquery.datasets.get",
     "bigquery.datasets.getIamPolicy",
+    "bigquery.models.export",
     "bigquery.models.getData",
     "bigquery.models.getMetadata",
     "bigquery.models.list",
