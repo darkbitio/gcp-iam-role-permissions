@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/assuredworkloads.editor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Assured Workloads Editor"
 }

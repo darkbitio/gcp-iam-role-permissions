@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/assuredworkloads.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Assured Workloads Administrator"
 }
