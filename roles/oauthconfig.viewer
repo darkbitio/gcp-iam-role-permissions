@@ -11,6 +11,6 @@
     "oauthconfig.verification.get"
   ],
   "name": "roles/oauthconfig.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "OAuth Config Viewer"
 }

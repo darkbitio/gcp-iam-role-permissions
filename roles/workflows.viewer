@@ -15,6 +15,6 @@
     "workflows.workflows.list"
   ],
   "name": "roles/workflows.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Workflows Viewer"
 }

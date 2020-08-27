@@ -22,6 +22,6 @@
     "workflows.workflows.update"
   ],
   "name": "roles/workflows.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Workflows Admin"
 }
