@@ -13,6 +13,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudfunctions.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Functions Viewer"
 }

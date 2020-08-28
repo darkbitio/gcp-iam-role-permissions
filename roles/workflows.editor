@@ -21,6 +21,6 @@
     "workflows.workflows.update"
   ],
   "name": "roles/workflows.editor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Workflows Editor"
 }
