@@ -22,6 +22,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudfunctions.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Functions Admin"
 }

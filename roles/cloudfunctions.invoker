@@ -5,6 +5,6 @@
     "cloudfunctions.functions.invoke"
   ],
   "name": "roles/cloudfunctions.invoker",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Functions Invoker"
 }

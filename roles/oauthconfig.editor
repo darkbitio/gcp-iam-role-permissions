@@ -24,6 +24,6 @@
     "oauthconfig.verification.update"
   ],
   "name": "roles/oauthconfig.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "OAuth Config Editor"
 }
