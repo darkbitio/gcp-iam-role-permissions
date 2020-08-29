@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/assuredworkloads.reader",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Assured Workloads Reader"
 }

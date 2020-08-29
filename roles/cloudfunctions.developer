@@ -20,6 +20,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudfunctions.developer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Functions Developer"
 }
