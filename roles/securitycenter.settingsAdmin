@@ -26,6 +26,6 @@
     "securitycenter.websecurityscannersettings.update"
   ],
   "name": "roles/securitycenter.settingsAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Security Center Settings Admin"
 }
