@@ -1,5 +1,5 @@
 {
-  "description": "Read and write access to Cloud Workflows and related resources.",
+  "description": "Read and write access to workflows and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
@@ -22,5 +22,5 @@
   ],
   "name": "roles/workflows.editor",
   "stage": "BETA",
-  "title": "Cloud Workflows Editor"
+  "title": "Workflows Editor"
 }

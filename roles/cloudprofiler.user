@@ -1,5 +1,5 @@
 {
-  "description": "Stackdriver Profiler users are allowed to query and view the profiling data.",
+  "description": "Cloud Profiler users are allowed to query and view the profiling data.",
   "etag": "AA==",
   "includedPermissions": [
     "cloudprofiler.profiles.list",
@@ -10,6 +10,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudprofiler.user",
-  "stage": "BETA",
-  "title": "Stackdriver Profiler User"
+  "stage": "GA",
+  "title": "Cloud Profiler User"
 }

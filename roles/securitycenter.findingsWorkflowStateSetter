@@ -1,0 +1,10 @@
+{
+  "description": "Set workflow state access to findings",
+  "etag": "AA==",
+  "includedPermissions": [
+    "securitycenter.findings.setWorkflowState"
+  ],
+  "name": "roles/securitycenter.findingsWorkflowStateSetter",
+  "stage": "ALPHA",
+  "title": "Security Center Findings Workflow State Setter"
+}

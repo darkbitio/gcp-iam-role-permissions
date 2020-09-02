@@ -23,6 +23,7 @@
     "cloudsql.instances.import",
     "cloudsql.instances.list",
     "cloudsql.instances.listServerCas",
+    "cloudsql.instances.login",
     "cloudsql.instances.promoteReplica",
     "cloudsql.instances.resetSslConfig",
     "cloudsql.instances.restart",

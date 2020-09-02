@@ -35,6 +35,7 @@
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
     "securitycenter.findings.setState",
+    "securitycenter.findings.setWorkflowState",
     "securitycenter.findings.update",
     "securitycenter.findingsecuritymarks.update",
     "securitycenter.notificationconfig.create",

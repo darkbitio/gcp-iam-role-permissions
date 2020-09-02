@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Cloud Workflows and related resources.",
+  "description": "Full access to workflows and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
@@ -23,5 +23,5 @@
   ],
   "name": "roles/workflows.admin",
   "stage": "BETA",
-  "title": "Cloud Workflows Admin"
+  "title": "Workflows Admin"
 }

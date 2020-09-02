@@ -192,6 +192,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/notebooks.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Notebooks Admin"
 }

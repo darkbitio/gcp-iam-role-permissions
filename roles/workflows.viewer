@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Cloud Workflows and related resources.",
+  "description": "Read-only access to workflows and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
@@ -16,5 +16,5 @@
   ],
   "name": "roles/workflows.viewer",
   "stage": "BETA",
-  "title": "Cloud Workflows Viewer"
+  "title": "Workflows Viewer"
 }

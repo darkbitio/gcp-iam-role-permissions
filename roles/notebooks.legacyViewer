@@ -176,6 +176,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/notebooks.legacyViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Notebooks Legacy Viewer"
 }
