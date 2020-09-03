@@ -17,6 +17,6 @@
     "securitycenter.websecurityscannersettings.get"
   ],
   "name": "roles/securitycenter.settingsViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Settings Viewer"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Access to execute Cloud Workflows and manage the executions.",
+  "description": "Access to execute workflows and manage the executions.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
@@ -11,5 +11,5 @@
   ],
   "name": "roles/workflows.invoker",
   "stage": "BETA",
-  "title": "Cloud Workflows Invoker"
+  "title": "Workflows Invoker"
 }
