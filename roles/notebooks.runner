@@ -177,6 +177,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/notebooks.runner",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Notebooks Runner"
 }

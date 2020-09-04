@@ -496,6 +496,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/notebooks.legacyAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Notebooks Legacy Admin"
 }

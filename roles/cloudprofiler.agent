@@ -1,11 +1,11 @@
 {
-  "description": "Stackdriver Profiler agents are allowed to register and provide the profiling data.",
+  "description": "Cloud Profiler agents are allowed to register and provide the profiling data.",
   "etag": "AA==",
   "includedPermissions": [
     "cloudprofiler.profiles.create",
     "cloudprofiler.profiles.update"
   ],
   "name": "roles/cloudprofiler.agent",
-  "stage": "BETA",
-  "title": "Stackdriver Profiler Agent"
+  "stage": "GA",
+  "title": "Cloud Profiler Agent"
 }

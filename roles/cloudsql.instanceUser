@@ -6,6 +6,6 @@
     "cloudsql.instances.login"
   ],
   "name": "roles/cloudsql.instanceUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud SQL Instance User"
 }
