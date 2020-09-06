@@ -1,0 +1,24 @@
+{
+  "description": "Read-only access to ApiGateway and related resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "apigateway.apiconfigs.get",
+    "apigateway.apiconfigs.getIamPolicy",
+    "apigateway.apiconfigs.list",
+    "apigateway.apis.get",
+    "apigateway.apis.getIamPolicy",
+    "apigateway.apis.list",
+    "apigateway.gateways.get",
+    "apigateway.gateways.getIamPolicy",
+    "apigateway.gateways.list",
+    "apigateway.locations.get",
+    "apigateway.locations.list",
+    "apigateway.operations.get",
+    "apigateway.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/apigateway.viewer",
+  "stage": "BETA",
+  "title": "ApiGateway Viewer"
+}
