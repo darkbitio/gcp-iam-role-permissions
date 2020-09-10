@@ -117,6 +117,7 @@
     "compute.networks.list",
     "compute.networks.use",
     "compute.networks.useExternalIp",
+    "compute.nodeGroups.get",
     "compute.projects.get",
     "compute.regionOperations.get",
     "compute.regionOperations.list",
