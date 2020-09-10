@@ -5,6 +5,6 @@
     "securitycenter.findings.setWorkflowState"
   ],
   "name": "roles/securitycenter.findingsWorkflowStateSetter",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Security Center Findings Workflow State Setter"
 }
