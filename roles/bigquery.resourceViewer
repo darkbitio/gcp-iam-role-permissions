@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/bigquery.resourceViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "BigQuery Resource Viewer"
 }
