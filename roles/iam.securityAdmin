@@ -784,6 +784,8 @@
     "tpu.nodes.list",
     "tpu.operations.list",
     "tpu.tensorflowversions.list",
+    "transcoder.jobTemplates.list",
+    "transcoder.jobs.list",
     "vmmigration.deployments.list",
     "vpcaccess.connectors.list",
     "vpcaccess.locations.list",

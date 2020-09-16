@@ -118,7 +118,6 @@
     "compute.networks.use",
     "compute.networks.useExternalIp",
     "compute.nodeGroups.get",
-    "compute.nodeTypes.get",
     "compute.projects.get",
     "compute.regionOperations.get",
     "compute.regionOperations.list",

@@ -4,6 +4,8 @@
   "includedPermissions": [
     "recommender.commitmentUtilizationInsights.get",
     "recommender.commitmentUtilizationInsights.list",
+    "recommender.locations.get",
+    "recommender.locations.list",
     "recommender.usageCommitmentRecommendations.get",
     "recommender.usageCommitmentRecommendations.list",
     "resourcemanager.projects.get",
