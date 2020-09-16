@@ -5,6 +5,8 @@
     "recommender.computeFirewallInsights.get",
     "recommender.computeFirewallInsights.list",
     "recommender.computeFirewallInsights.update",
+    "recommender.locations.get",
+    "recommender.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
