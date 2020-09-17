@@ -5,8 +5,6 @@
     "recommender.commitmentUtilizationInsights.get",
     "recommender.commitmentUtilizationInsights.list",
     "recommender.commitmentUtilizationInsights.update",
-    "recommender.locations.get",
-    "recommender.locations.list",
     "recommender.usageCommitmentRecommendations.get",
     "recommender.usageCommitmentRecommendations.list",
     "recommender.usageCommitmentRecommendations.update",

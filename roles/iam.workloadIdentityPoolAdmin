@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/iam.workloadIdentityPoolAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "IAM Workload Identity Pool Admin"
 }
