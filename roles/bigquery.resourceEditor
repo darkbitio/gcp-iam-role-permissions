@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/bigquery.resourceEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "BigQuery Resource Editor"
 }
