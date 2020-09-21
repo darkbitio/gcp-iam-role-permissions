@@ -1,0 +1,10 @@
+{
+  "description": "Grants Cloud Pub/Sub Service Account access to manage resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "iam.serviceAccounts.getOpenIdToken"
+  ],
+  "name": "roles/pubsub.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Cloud Pub/Sub Service Agent"
+}

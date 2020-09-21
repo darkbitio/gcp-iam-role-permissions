@@ -1,0 +1,10 @@
+{
+  "description": "Grants permissions to deliver notifications directly to resources within the target project, such as delivering to Cloud PubSub topics within the project.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "serviceusage.services.use"
+  ],
+  "name": "roles/monitoring.notificationServiceAgent",
+  "stage": "ALPHA",
+  "title": "Monitoring Notification Service Agent"
+}

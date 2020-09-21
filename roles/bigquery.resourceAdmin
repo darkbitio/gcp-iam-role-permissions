@@ -8,6 +8,7 @@
     "bigquery.capacityCommitments.delete",
     "bigquery.capacityCommitments.get",
     "bigquery.capacityCommitments.list",
+    "bigquery.capacityCommitments.update",
     "bigquery.jobs.get",
     "bigquery.jobs.list",
     "bigquery.jobs.listAll",

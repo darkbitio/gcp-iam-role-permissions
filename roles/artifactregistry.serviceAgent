@@ -1,0 +1,10 @@
+{
+  "description": "Gives the Artifact Registry service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "pubsub.topics.publish"
+  ],
+  "name": "roles/artifactregistry.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Artifact Registry Service Agent"
+}

@@ -1,0 +1,13 @@
+{
+  "description": "Gives Compute Engine Service Account access to assert service account authority. Includes access to service accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
+    "iam.serviceAccounts.signJwt",
+    "logging.logEntries.create"
+  ],
+  "name": "roles/compute.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Compute Engine Service Agent"
+}
