@@ -234,6 +234,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/lifesciences.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Life Sciences Service Agent"
 }

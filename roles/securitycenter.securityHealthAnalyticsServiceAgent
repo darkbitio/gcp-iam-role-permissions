@@ -340,6 +340,6 @@
     "stackdriver.projects.get"
   ],
   "name": "roles/securitycenter.securityHealthAnalyticsServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Health Analytics Service Agent"
 }

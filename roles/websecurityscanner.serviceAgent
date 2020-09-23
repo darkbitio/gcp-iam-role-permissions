@@ -13,6 +13,6 @@
     "compute.urlMaps.get"
   ],
   "name": "roles/websecurityscanner.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Web Security Scanner Service Agent"
 }

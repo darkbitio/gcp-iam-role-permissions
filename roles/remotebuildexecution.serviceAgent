@@ -11,6 +11,6 @@
     "remotebuildexecution.logstreams.update"
   ],
   "name": "roles/remotebuildexecution.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Remote Build Execution Service Agent"
 }

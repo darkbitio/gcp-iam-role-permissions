@@ -1,5 +1,5 @@
 {
-  "description": "Full access to GKE Hubs and related resources.",
+  "description": "Full access to GKE Hub resources.",
   "etag": "AA==",
   "includedPermissions": [
     "gkehub.features.create",

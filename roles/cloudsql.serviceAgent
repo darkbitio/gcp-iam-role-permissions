@@ -5,6 +5,6 @@
     "cloudsql.instances.get"
   ],
   "name": "roles/cloudsql.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud SQL Service Agent"
 }

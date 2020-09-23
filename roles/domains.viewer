@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/domains.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Domains Viewer"
 }

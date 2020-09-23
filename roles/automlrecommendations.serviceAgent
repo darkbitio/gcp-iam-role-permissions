@@ -53,6 +53,6 @@
     "storage.objects.update"
   ],
   "name": "roles/automlrecommendations.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Recommendations AI Service Agent"
 }

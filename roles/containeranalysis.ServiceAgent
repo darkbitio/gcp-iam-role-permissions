@@ -48,6 +48,6 @@
     "storage.objects.list"
   ],
   "name": "roles/containeranalysis.ServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Container Analysis Service Agent"
 }

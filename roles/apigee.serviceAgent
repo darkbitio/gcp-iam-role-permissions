@@ -33,6 +33,6 @@
     "monitoring.timeSeries.create"
   ],
   "name": "roles/apigee.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Service Agent"
 }
