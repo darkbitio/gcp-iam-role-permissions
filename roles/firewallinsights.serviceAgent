@@ -29,6 +29,6 @@
     "compute.vpnTunnels.list"
   ],
   "name": "roles/firewallinsights.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Firewall Insights Service Agent"
 }

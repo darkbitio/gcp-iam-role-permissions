@@ -13,6 +13,6 @@
     "monitoring.timeSeries.create"
   ],
   "name": "roles/bigqueryconnection.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "BigQuery Connection Service Agent"
 }

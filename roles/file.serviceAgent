@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/file.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Filestore Service Agent"
 }

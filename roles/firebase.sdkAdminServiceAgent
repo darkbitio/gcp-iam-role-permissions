@@ -86,6 +86,6 @@
     "storage.objects.update"
   ],
   "name": "roles/firebase.sdkAdminServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Firebase Admin SDK Administrator Service Agent"
 }

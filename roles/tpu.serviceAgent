@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/tpu.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud TPU API Service Agent"
 }

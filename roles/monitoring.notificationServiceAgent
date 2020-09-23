@@ -5,6 +5,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/monitoring.notificationServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Monitoring Notification Service Agent"
 }

@@ -16,6 +16,6 @@
     "serviceusage.services.enable"
   ],
   "name": "roles/securitycenter.automationServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Automation Service Agent"
 }

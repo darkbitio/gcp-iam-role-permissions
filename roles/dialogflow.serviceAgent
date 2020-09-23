@@ -51,6 +51,6 @@
     "storage.objects.list"
   ],
   "name": "roles/dialogflow.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Service Agent"
 }

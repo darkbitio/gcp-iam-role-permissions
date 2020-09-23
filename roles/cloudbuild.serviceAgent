@@ -55,6 +55,6 @@
     "storage.objects.update"
   ],
   "name": "roles/cloudbuild.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Build Service Agent"
 }

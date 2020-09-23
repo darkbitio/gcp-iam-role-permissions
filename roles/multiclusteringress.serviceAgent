@@ -101,6 +101,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/multiclusteringress.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Multi Cluster Ingress Service Agent"
 }

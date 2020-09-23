@@ -7,6 +7,6 @@
     "logging.logEntries.create"
   ],
   "name": "roles/cloudtasks.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Tasks Service Agent"
 }

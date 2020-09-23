@@ -269,6 +269,6 @@
     "storage.objects.update"
   ],
   "name": "roles/datafusion.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Data Fusion API Service Agent"
 }

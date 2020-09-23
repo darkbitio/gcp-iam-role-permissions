@@ -47,6 +47,6 @@
     "vpcaccess.connectors.use"
   ],
   "name": "roles/cloudfunctions.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Functions Service Agent"
 }

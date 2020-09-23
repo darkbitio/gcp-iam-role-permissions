@@ -22,6 +22,6 @@
     "storage.objects.update"
   ],
   "name": "roles/automl.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "AutoML Service Agent"
 }

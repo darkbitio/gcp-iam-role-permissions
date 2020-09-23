@@ -8,6 +8,6 @@
     "logging.logEntries.create"
   ],
   "name": "roles/compute.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Compute Engine Service Agent"
 }

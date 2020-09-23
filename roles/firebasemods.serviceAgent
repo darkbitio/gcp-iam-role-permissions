@@ -44,6 +44,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/firebasemods.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase Extensions API Service Agent"
 }

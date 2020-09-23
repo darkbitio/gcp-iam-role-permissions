@@ -37,6 +37,6 @@
     "stackdriver.projects.get"
   ],
   "name": "roles/healthcare.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Healthcare Service Agent"
 }

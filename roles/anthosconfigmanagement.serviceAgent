@@ -9,6 +9,6 @@
     "gkehub.memberships.list"
   ],
   "name": "roles/anthosconfigmanagement.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Anthos Config Management Service Agent"
 }

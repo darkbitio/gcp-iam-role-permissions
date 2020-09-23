@@ -18,6 +18,6 @@
     "storage.objects.get"
   ],
   "name": "roles/cloudasset.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Asset Service Agent"
 }

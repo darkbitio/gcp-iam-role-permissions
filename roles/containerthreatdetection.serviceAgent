@@ -148,6 +148,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/containerthreatdetection.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Container Threat Detection Service Agent"
 }

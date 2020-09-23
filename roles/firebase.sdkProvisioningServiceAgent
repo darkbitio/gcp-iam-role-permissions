@@ -10,6 +10,6 @@
     "serviceusage.services.enable"
   ],
   "name": "roles/firebase.sdkProvisioningServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase SDK Provisioning Service Agent"
 }

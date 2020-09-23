@@ -25,6 +25,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/computescanning.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Compute Scanning Service Agent"
 }

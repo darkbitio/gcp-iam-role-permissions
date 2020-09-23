@@ -6,6 +6,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/cloudiot.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud IoT Core Service Agent"
 }
