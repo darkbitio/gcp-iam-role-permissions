@@ -24,6 +24,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud OS Config Service Agent"
 }

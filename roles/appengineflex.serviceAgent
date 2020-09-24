@@ -158,6 +158,6 @@
     "storage.objects.list"
   ],
   "name": "roles/appengineflex.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "App Engine flexible environment Service Agent"
 }

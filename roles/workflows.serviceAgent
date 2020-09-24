@@ -7,6 +7,6 @@
     "iam.serviceAccounts.getOpenIdToken"
   ],
   "name": "roles/workflows.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Workflows Service Agent"
 }

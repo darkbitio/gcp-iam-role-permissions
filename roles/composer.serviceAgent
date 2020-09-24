@@ -952,6 +952,6 @@
     "storage.objects.update"
   ],
   "name": "roles/composer.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Composer API Service Agent"
 }

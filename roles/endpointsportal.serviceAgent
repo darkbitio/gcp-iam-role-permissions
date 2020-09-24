@@ -7,6 +7,6 @@
     "source.repos.get"
   ],
   "name": "roles/endpointsportal.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Endpoints Portal Service Agent"
 }

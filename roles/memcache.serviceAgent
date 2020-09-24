@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/memcache.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Memorystore Memcached Service Agent"
 }

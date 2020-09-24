@@ -5,6 +5,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/artifactregistry.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Artifact Registry Service Agent"
 }

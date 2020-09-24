@@ -635,6 +635,6 @@
     "storage.objects.update"
   ],
   "name": "roles/dataflow.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Dataflow Service Agent"
 }

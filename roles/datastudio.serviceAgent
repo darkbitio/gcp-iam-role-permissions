@@ -5,6 +5,6 @@
     "bigquery.jobs.create"
   ],
   "name": "roles/datastudio.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Data Studio Service Agent"
 }

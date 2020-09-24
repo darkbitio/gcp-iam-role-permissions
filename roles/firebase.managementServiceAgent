@@ -48,6 +48,6 @@
     "storage.buckets.setIamPolicy"
   ],
   "name": "roles/firebase.managementServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase Service Management Service Agent"
 }

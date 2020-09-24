@@ -302,6 +302,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gameservices.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Game Services Service Agent"
 }

@@ -234,6 +234,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/genomics.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Genomics Service Agent"
 }

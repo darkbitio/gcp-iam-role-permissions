@@ -42,6 +42,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/managedidentities.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Managed Identities Service Agent"
 }

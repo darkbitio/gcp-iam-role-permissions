@@ -5,6 +5,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/securitycenter.notificationServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Security Center Notification Service Agent"
 }

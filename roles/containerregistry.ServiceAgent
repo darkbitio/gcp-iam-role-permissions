@@ -8,6 +8,6 @@
     "storage.objects.list"
   ],
   "name": "roles/containerregistry.ServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Container Registry Service Agent"
 }

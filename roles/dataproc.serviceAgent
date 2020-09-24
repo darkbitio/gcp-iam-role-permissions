@@ -178,6 +178,6 @@
     "storage.objects.update"
   ],
   "name": "roles/dataproc.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataproc Service Agent"
 }

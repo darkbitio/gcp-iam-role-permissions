@@ -816,6 +816,6 @@
     "tpu.operations.list"
   ],
   "name": "roles/container.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Kubernetes Engine Service Agent"
 }
