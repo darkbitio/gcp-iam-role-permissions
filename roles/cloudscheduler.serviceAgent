@@ -8,6 +8,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/cloudscheduler.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Scheduler Service Agent"
 }

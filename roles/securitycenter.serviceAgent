@@ -470,6 +470,6 @@
     "storage.buckets.list"
   ],
   "name": "roles/securitycenter.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Service Agent"
 }

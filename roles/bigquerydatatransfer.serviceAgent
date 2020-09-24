@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/bigquerydatatransfer.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "BigQuery Data Transfer Service Agent"
 }

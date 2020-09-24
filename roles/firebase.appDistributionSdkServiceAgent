@@ -10,6 +10,6 @@
     "firebaseappdistro.testers.update"
   ],
   "name": "roles/firebase.appDistributionSdkServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase App Distribution Admin SDK Service Agent"
 }

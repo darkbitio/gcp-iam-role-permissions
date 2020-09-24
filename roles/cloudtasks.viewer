@@ -9,7 +9,6 @@
     "cloudtasks.tasks.fullView",
     "cloudtasks.tasks.get",
     "cloudtasks.tasks.list",
-    "monitoring.timeSeries.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

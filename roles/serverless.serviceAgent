@@ -43,6 +43,6 @@
     "vpcaccess.connectors.use"
   ],
   "name": "roles/serverless.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Run Service Agent"
 }

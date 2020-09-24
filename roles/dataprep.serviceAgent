@@ -232,6 +232,6 @@
     "storage.objects.update"
   ],
   "name": "roles/dataprep.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataprep Service Agent"
 }

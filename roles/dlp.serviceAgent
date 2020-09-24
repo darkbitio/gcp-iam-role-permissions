@@ -124,6 +124,6 @@
     "storage.objects.update"
   ],
   "name": "roles/dlp.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "DLP API Service Agent"
 }

@@ -50,6 +50,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/servicenetworking.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Service Networking Service Agent"
 }

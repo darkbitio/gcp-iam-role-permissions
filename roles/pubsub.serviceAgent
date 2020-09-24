@@ -5,6 +5,6 @@
     "iam.serviceAccounts.getOpenIdToken"
   ],
   "name": "roles/pubsub.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Pub/Sub Service Agent"
 }

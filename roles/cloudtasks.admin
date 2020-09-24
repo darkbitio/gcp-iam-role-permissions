@@ -20,6 +20,7 @@
     "cloudtasks.tasks.get",
     "cloudtasks.tasks.list",
     "cloudtasks.tasks.run",
+    "monitoring.timeSeries.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
