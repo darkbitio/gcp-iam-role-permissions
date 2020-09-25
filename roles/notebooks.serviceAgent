@@ -291,6 +291,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/notebooks.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "AI Platform Notebooks Service Agent"
 }

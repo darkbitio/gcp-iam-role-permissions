@@ -11,6 +11,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/anthos.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Anthos Service Agent"
 }

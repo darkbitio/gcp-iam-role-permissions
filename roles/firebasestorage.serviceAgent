@@ -12,6 +12,6 @@
     "storage.objects.update"
   ],
   "name": "roles/firebasestorage.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Storage for Firebase Service Agent"
 }

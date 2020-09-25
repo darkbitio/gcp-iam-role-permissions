@@ -24,6 +24,6 @@
     "storage.objects.list"
   ],
   "name": "roles/containerscanning.ServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Container Scanner Service Agent"
 }

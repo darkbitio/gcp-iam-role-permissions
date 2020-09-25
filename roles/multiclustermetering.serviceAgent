@@ -9,6 +9,6 @@
     "gkehub.memberships.list"
   ],
   "name": "roles/multiclustermetering.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Multi-cluster metering Service Agent"
 }

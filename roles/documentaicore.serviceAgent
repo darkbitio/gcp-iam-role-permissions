@@ -11,6 +11,6 @@
     "storage.objects.update"
   ],
   "name": "roles/documentaicore.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "DocumentAI Core Service Agent"
 }

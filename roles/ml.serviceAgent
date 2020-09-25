@@ -51,6 +51,6 @@
     "storage.objects.update"
   ],
   "name": "roles/ml.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud ML Service Agent"
 }

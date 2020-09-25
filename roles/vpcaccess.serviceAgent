@@ -98,6 +98,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/vpcaccess.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Serverless VPC Access Service Agent"
 }

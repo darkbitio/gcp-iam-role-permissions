@@ -34,6 +34,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/gkehub.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "GKE Hub Service Agent"
 }

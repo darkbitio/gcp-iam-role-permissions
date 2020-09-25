@@ -6,6 +6,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/sourcerepo.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Source Repositories Service Agent"
 }

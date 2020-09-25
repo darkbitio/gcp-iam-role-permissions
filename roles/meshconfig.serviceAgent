@@ -99,6 +99,6 @@
     "networkservices.httpfilters.update"
   ],
   "name": "roles/meshconfig.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Mesh Config Service Agent"
 }
