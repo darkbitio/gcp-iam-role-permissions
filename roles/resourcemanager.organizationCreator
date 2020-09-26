@@ -1,7 +1,0 @@
-{
-  "description": "Access to create and list organizations.",
-  "etag": "AA==",
-  "name": "roles/resourcemanager.organizationCreator",
-  "stage": "GA",
-  "title": "Organization Creator"
-}

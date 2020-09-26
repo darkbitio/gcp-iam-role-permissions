@@ -1,0 +1,12 @@
+{
+  "description": "Grants full access to all resources in AI Platform Feature Store",
+  "etag": "AA==",
+  "includedPermissions": [
+    "aiplatform.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/aiplatform.featurestoreAdmin",
+  "stage": "ALPHA",
+  "title": "Cloud AI Platform Feature Store Admin"
+}
