@@ -80,6 +80,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.user",
-  "stage": "ALPHA",
-  "title": "Cloud AI Platform User"
+  "stage": "BETA",
+  "title": "AI Platform User"
 }

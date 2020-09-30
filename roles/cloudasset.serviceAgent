@@ -8,6 +8,7 @@
     "bigquery.tables.create",
     "bigquery.tables.delete",
     "bigquery.tables.get",
+    "bigquery.tables.update",
     "bigquery.tables.updateData",
     "pubsub.topics.publish",
     "storage.buckets.create",
