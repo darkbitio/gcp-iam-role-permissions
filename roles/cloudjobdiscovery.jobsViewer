@@ -6,6 +6,7 @@
     "cloudjobdiscovery.companies.list",
     "cloudjobdiscovery.jobs.get",
     "cloudjobdiscovery.jobs.search",
+    "cloudjobdiscovery.tenants.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

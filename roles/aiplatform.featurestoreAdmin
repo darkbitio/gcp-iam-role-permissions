@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreAdmin",
-  "stage": "ALPHA",
-  "title": "Cloud AI Platform Feature Store Admin"
+  "stage": "BETA",
+  "title": "AI Platform Feature Store Admin"
 }
