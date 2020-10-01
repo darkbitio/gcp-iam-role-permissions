@@ -82,6 +82,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.admin",
-  "stage": "BETA",
-  "title": "AI Platform Admininistrator"
+  "stage": "ALPHA",
+  "title": "Cloud AI Platform Admininistrator"
 }
