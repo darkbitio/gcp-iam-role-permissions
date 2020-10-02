@@ -38,6 +38,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.viewer",
-  "stage": "ALPHA",
-  "title": "Cloud AI Platform Viewer"
+  "stage": "BETA",
+  "title": "AI Platform Viewer"
 }
