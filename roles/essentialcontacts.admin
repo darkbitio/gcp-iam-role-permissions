@@ -1,0 +1,14 @@
+{
+  "description": "Full access to all essential contacts",
+  "etag": "AA==",
+  "includedPermissions": [
+    "essentialcontacts.contacts.create",
+    "essentialcontacts.contacts.delete",
+    "essentialcontacts.contacts.get",
+    "essentialcontacts.contacts.list",
+    "essentialcontacts.contacts.update"
+  ],
+  "name": "roles/essentialcontacts.admin",
+  "stage": "ALPHA",
+  "title": "Essential Contacts Admin"
+}

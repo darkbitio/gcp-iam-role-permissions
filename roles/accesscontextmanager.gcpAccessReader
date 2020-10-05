@@ -1,0 +1,11 @@
+{
+  "description": "Read access to GCP user access bindings.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "accesscontextmanager.gcpUserAccessBindings.get",
+    "accesscontextmanager.gcpUserAccessBindings.list"
+  ],
+  "name": "roles/accesscontextmanager.gcpAccessReader",
+  "stage": "ALPHA",
+  "title": "Access Context Manager GCP User Access Binding Reader"
+}
