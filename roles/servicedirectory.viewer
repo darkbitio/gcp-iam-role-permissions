@@ -18,6 +18,6 @@
     "servicedirectory.services.resolve"
   ],
   "name": "roles/servicedirectory.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Service Directory Viewer"
 }

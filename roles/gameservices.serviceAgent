@@ -288,8 +288,6 @@
     "gkehub.features.get",
     "gkehub.features.getIamPolicy",
     "gkehub.features.list",
-    "gkehub.gateway.get",
-    "gkehub.gateway.getIamPolicy",
     "gkehub.locations.get",
     "gkehub.locations.list",
     "gkehub.memberships.generateConnectManifest",

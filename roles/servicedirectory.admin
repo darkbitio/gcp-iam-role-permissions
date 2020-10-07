@@ -31,6 +31,6 @@
     "servicedirectory.services.update"
   ],
   "name": "roles/servicedirectory.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Service Directory Admin"
 }

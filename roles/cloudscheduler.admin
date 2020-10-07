@@ -20,6 +20,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudscheduler.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Scheduler Admin"
 }

@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.attributeDefinitionEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Healthcare Attribute Definition Editor"
 }

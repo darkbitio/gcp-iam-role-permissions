@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/eventarc.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Eventarc Viewer"
 }
