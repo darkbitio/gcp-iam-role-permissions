@@ -28,6 +28,6 @@
     "servicedirectory.services.update"
   ],
   "name": "roles/servicedirectory.editor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Service Directory Editor"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Create, edit, and change GCP user access bindings.",
+  "description": "Create, edit, and change Cloud access bindings.",
   "etag": "AA==",
   "includedPermissions": [
     "accesscontextmanager.gcpUserAccessBindings.create",
@@ -9,6 +9,6 @@
     "accesscontextmanager.gcpUserAccessBindings.update"
   ],
   "name": "roles/accesscontextmanager.gcpAccessAdmin",
-  "stage": "ALPHA",
-  "title": "Access Context Manager GCP User Access Binding Admin"
+  "stage": "GA",
+  "title": "Cloud Access Binding Admin"
 }

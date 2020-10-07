@@ -181,7 +181,6 @@
     "notebooks.instances.start",
     "notebooks.instances.stop",
     "notebooks.instances.update",
-    "notebooks.instances.updateConfig",
     "notebooks.instances.upgrade",
     "notebooks.locations.get",
     "notebooks.locations.list",
