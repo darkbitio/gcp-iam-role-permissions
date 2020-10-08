@@ -12,8 +12,7 @@
     "cloudsupport.accounts.update",
     "cloudsupport.accounts.updateUserRoles",
     "cloudsupport.operations.get",
-    "cloudsupport.properties.get",
-    "resourcemanager.organizations.get"
+    "cloudsupport.properties.get"
   ],
   "name": "roles/cloudsupport.admin",
   "stage": "GA",

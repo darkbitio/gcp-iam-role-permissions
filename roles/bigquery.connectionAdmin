@@ -11,6 +11,6 @@
     "bigquery.connections.use"
   ],
   "name": "roles/bigquery.connectionAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "BigQuery Connection Admin"
 }

@@ -1257,7 +1257,6 @@
     "pubsublite.subscriptions.get",
     "pubsublite.subscriptions.getCursor",
     "pubsublite.subscriptions.list",
-    "pubsublite.subscriptions.subscribe",
     "pubsublite.topics.computeMessageStats",
     "pubsublite.topics.get",
     "pubsublite.topics.getPartitions",
