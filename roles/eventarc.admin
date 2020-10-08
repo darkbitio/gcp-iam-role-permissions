@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/eventarc.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Eventarc Admin"
 }

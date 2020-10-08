@@ -14,6 +14,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudscheduler.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Scheduler Viewer"
 }

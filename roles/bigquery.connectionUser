@@ -7,6 +7,6 @@
     "bigquery.connections.use"
   ],
   "name": "roles/bigquery.connectionUser",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "BigQuery Connection User"
 }
