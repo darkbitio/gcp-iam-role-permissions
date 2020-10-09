@@ -11,6 +11,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/cloudscheduler.jobRunner",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Scheduler Job Runner"
 }

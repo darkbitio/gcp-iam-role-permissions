@@ -6,6 +6,6 @@
     "essentialcontacts.contacts.list"
   ],
   "name": "roles/essentialcontacts.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Essential Contacts Viewer"
 }
