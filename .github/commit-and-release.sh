@@ -16,6 +16,9 @@ git diff --quiet roles || CHANGES=1
 
 # If changes are present
 if [[ ${CHANGES} -eq 1 ]]; then
+  # Create a CAI-formatted inventory of all the roles
+  cat roles/* | jq -c '. + {asset_type: "iam.googleapis.com/ExportedIAMRole"}' > gcp_roles_cai.json
+
   # Add and commit
   echo "git add -A roles"
   git add -A roles
