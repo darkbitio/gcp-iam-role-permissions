@@ -98,6 +98,7 @@
     "compute.instances.updateShieldedInstanceConfig",
     "compute.instances.updateShieldedVmConfig",
     "compute.instances.use",
+    "compute.instances.useReadOnly",
     "compute.licenses.get",
     "compute.licenses.list",
     "compute.machineImages.create",

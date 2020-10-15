@@ -99,6 +99,7 @@
     "compute.instances.list",
     "compute.instances.listReferrers",
     "compute.instances.use",
+    "compute.instances.useReadOnly",
     "compute.interconnectAttachments.create",
     "compute.interconnectAttachments.delete",
     "compute.interconnectAttachments.get",

@@ -258,6 +258,7 @@
     "compute.instances.updateShieldedInstanceConfig",
     "compute.instances.updateShieldedVmConfig",
     "compute.instances.use",
+    "compute.instances.useReadOnly",
     "compute.interconnectAttachments.create",
     "compute.interconnectAttachments.delete",
     "compute.interconnectAttachments.get",
