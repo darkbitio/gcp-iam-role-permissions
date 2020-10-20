@@ -1,0 +1,13 @@
+{
+  "description": "Grants access to view Early Access Center Campaigns and Enrollments in the Early Access Center.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "earlyaccesscenter.campaigns.get",
+    "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerWhitelists.get",
+    "earlyaccesscenter.customerWhitelists.list"
+  ],
+  "name": "roles/earlyaccesscenter.viewer",
+  "stage": "ALPHA",
+  "title": "Early Access Center Viewer"
+}

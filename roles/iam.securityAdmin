@@ -493,6 +493,8 @@
     "domains.registrations.getIamPolicy",
     "domains.registrations.list",
     "domains.registrations.setIamPolicy",
+    "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerWhitelists.list",
     "errorreporting.applications.list",
     "errorreporting.errorEvents.list",
     "errorreporting.groups.list",

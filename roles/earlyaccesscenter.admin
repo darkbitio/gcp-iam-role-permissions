@@ -1,0 +1,14 @@
+{
+  "description": "Grants full access to all Early Access Center actions, including enrolling into Early Access Campaigns.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "earlyaccesscenter.campaigns.enroll",
+    "earlyaccesscenter.campaigns.get",
+    "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerWhitelists.get",
+    "earlyaccesscenter.customerWhitelists.list"
+  ],
+  "name": "roles/earlyaccesscenter.admin",
+  "stage": "ALPHA",
+  "title": "Early Access Center Admininistrator"
+}

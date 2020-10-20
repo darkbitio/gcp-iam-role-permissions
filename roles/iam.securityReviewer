@@ -429,6 +429,8 @@
     "domains.operations.list",
     "domains.registrations.getIamPolicy",
     "domains.registrations.list",
+    "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerWhitelists.list",
     "errorreporting.applications.list",
     "errorreporting.errorEvents.list",
     "errorreporting.groups.list",
