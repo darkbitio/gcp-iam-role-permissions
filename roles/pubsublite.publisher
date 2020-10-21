@@ -6,6 +6,6 @@
     "pubsublite.topics.publish"
   ],
   "name": "roles/pubsublite.publisher",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Pub/Sub Lite Publisher"
 }

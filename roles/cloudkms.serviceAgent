@@ -1,5 +1,5 @@
 {
-  "description": "Gives Cloud KMS service account access to call Cloud Asset Inventory ListAssets for KMS CryptoKeys.",
+  "description": "Gives Cloud KMS service account access to managed resources.",
   "etag": "AA==",
   "name": "roles/cloudkms.serviceAgent",
   "stage": "GA",
