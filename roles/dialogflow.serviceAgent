@@ -2,7 +2,6 @@
   "description": "Gives Dialogflow Service Account access to resources on behalf of user project for intent detection in integrations (Facebook Messenger, Slack, Telephony, etc.).",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudfunctions.functions.invoke",
     "dialogflow.agents.export",
     "dialogflow.agents.get",
     "dialogflow.agents.list",

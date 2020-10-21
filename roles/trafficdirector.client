@@ -6,6 +6,6 @@
     "trafficdirector.networks.reportMetrics"
   ],
   "name": "roles/trafficdirector.client",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Traffic Director Client"
 }
