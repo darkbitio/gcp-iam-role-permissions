@@ -6,5 +6,5 @@
   ],
   "name": "roles/gkehub.connect",
   "stage": "GA",
-  "title": "GKE Hub Connection Agent"
+  "title": "GKE Connect Agent"
 }
