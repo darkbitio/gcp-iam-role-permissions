@@ -6,7 +6,6 @@
     "container.clusterRoleBindings.delete",
     "container.clusterRoleBindings.get",
     "container.clusterRoleBindings.update",
-    "container.clusterRoles.bind",
     "container.clusterRoles.create",
     "container.clusterRoles.delete",
     "container.clusterRoles.get",

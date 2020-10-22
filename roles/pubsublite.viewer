@@ -11,6 +11,6 @@
     "pubsublite.topics.listSubscriptions"
   ],
   "name": "roles/pubsublite.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Pub/Sub Lite Viewer"
 }

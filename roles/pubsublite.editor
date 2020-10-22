@@ -22,6 +22,6 @@
     "pubsublite.topics.update"
   ],
   "name": "roles/pubsublite.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Pub/Sub Lite Editor"
 }
