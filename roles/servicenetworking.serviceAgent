@@ -11,6 +11,7 @@
     "compute.networks.list",
     "compute.networks.removePeering",
     "compute.networks.update",
+    "compute.networks.updatePeering",
     "compute.networks.updatePolicy",
     "compute.projects.get",
     "compute.regionOperations.get",
