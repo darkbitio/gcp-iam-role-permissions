@@ -15,6 +15,8 @@
     "logging.exclusions.get",
     "logging.exclusions.list",
     "logging.exclusions.update",
+    "logging.locations.get",
+    "logging.locations.list",
     "logging.logEntries.create",
     "logging.logEntries.list",
     "logging.logMetrics.create",

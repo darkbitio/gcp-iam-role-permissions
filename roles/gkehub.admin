@@ -20,6 +20,7 @@
     "gkehub.memberships.setIamPolicy",
     "gkehub.memberships.update",
     "gkehub.operations.cancel",
+    "gkehub.operations.delete",
     "gkehub.operations.get",
     "gkehub.operations.list",
     "resourcemanager.projects.get",

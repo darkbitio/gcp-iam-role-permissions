@@ -1117,6 +1117,8 @@
     "logging.cmekSettings.get",
     "logging.exclusions.get",
     "logging.exclusions.list",
+    "logging.locations.get",
+    "logging.locations.list",
     "logging.logEntries.list",
     "logging.logMetrics.get",
     "logging.logMetrics.list",

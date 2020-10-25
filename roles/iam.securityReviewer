@@ -522,6 +522,7 @@
     "lifesciences.operations.list",
     "logging.buckets.list",
     "logging.exclusions.list",
+    "logging.locations.list",
     "logging.logEntries.list",
     "logging.logMetrics.list",
     "logging.logServiceIndexes.list",
