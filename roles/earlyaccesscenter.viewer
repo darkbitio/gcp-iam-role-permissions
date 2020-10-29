@@ -1,5 +1,5 @@
 {
-  "description": "Grants view access to the Early Access Center, including access to all DATA_READ but no DATA_WRITE permissions.",
+  "description": "Grants access to view Early Access Center Campaigns and Enrollments in the Early Access Center.",
   "etag": "AA==",
   "includedPermissions": [
     "earlyaccesscenter.campaigns.get",
@@ -8,6 +8,6 @@
     "earlyaccesscenter.customerWhitelists.list"
   ],
   "name": "roles/earlyaccesscenter.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Early Access Center Viewer"
 }
