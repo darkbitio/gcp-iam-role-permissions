@@ -1,0 +1,13 @@
+{
+  "description": "Grants access to process documents in Cloud DocumentAI",
+  "etag": "AA==",
+  "includedPermissions": [
+    "documentai.humanReviewConfigs.review",
+    "documentai.operations.getLegacy",
+    "documentai.processors.processBatch",
+    "documentai.processors.processOnline"
+  ],
+  "name": "roles/documentai.apiUser",
+  "stage": "ALPHA",
+  "title": "Cloud DocumentAI API User"
+}

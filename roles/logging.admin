@@ -18,6 +18,7 @@
     "logging.locations.get",
     "logging.locations.list",
     "logging.logEntries.create",
+    "logging.logEntries.download",
     "logging.logEntries.list",
     "logging.logMetrics.create",
     "logging.logMetrics.delete",

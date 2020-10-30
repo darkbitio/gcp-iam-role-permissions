@@ -30,6 +30,7 @@
     "compute.globalForwardingRules.list",
     "compute.globalForwardingRules.setLabels",
     "compute.globalForwardingRules.setTarget",
+    "compute.globalForwardingRules.update",
     "compute.healthChecks.create",
     "compute.healthChecks.delete",
     "compute.healthChecks.get",

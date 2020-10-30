@@ -1,0 +1,26 @@
+{
+  "description": "Grants access to view all resources and process documents in Cloud DocumentAI",
+  "etag": "AA==",
+  "includedPermissions": [
+    "documentai.humanReviewConfigs.get",
+    "documentai.humanReviewConfigs.review",
+    "documentai.labelerPools.get",
+    "documentai.labelerPools.list",
+    "documentai.locations.get",
+    "documentai.locations.list",
+    "documentai.operations.getLegacy",
+    "documentai.processorTypes.list",
+    "documentai.processorVersions.get",
+    "documentai.processorVersions.list",
+    "documentai.processors.fetchHumanReviewDetails",
+    "documentai.processors.get",
+    "documentai.processors.list",
+    "documentai.processors.processBatch",
+    "documentai.processors.processOnline",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/documentai.viewer",
+  "stage": "ALPHA",
+  "title": "Cloud DocumentAI Viewer"
+}

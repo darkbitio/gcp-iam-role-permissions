@@ -2,6 +2,7 @@
   "description": "Ability to read logs in a view.",
   "etag": "AA==",
   "includedPermissions": [
+    "logging.logEntries.download",
     "logging.views.access"
   ],
   "name": "roles/logging.viewAccessor",
