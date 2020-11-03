@@ -159,6 +159,8 @@
     "cloudkms.keyRings.getIamPolicy",
     "cloudkms.keyRings.list",
     "cloudnotifications.activities.list",
+    "cloudonefs.isiloncloud.com/clusters.list",
+    "cloudonefs.isiloncloud.com/fileshares.list",
     "cloudprivatecatalogproducer.associations.list",
     "cloudprivatecatalogproducer.catalogs.getIamPolicy",
     "cloudprivatecatalogproducer.catalogs.list",
