@@ -30,6 +30,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/documentai.editor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud DocumentAI Editor"
 }

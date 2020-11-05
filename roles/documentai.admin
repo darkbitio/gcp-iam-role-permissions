@@ -30,6 +30,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/documentai.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud DocumentAI Administrator."
 }

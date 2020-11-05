@@ -8,6 +8,6 @@
     "documentai.processors.processOnline"
   ],
   "name": "roles/documentai.apiUser",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud DocumentAI API User"
 }
