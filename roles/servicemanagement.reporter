@@ -5,6 +5,6 @@
     "servicemanagement.services.report"
   ],
   "name": "roles/servicemanagement.reporter",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Service Reporter"
 }

@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/documentai.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud DocumentAI Viewer"
 }

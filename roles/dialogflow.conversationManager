@@ -2,6 +2,6 @@
   "description": "Can manage all the resources related to Dialogflow Conversations.",
   "etag": "AA==",
   "name": "roles/dialogflow.conversationManager",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dialogflow Conversation Manager"
 }
