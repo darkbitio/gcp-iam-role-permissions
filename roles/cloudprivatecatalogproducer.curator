@@ -1,0 +1,14 @@
+{
+  "description": "Can add and remove products to catalogs.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudprivatecatalogproducer.producerCatalogs.attachProduct",
+    "cloudprivatecatalogproducer.producerCatalogs.detachProduct",
+    "cloudprivatecatalogproducer.products.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudprivatecatalogproducer.curator",
+  "stage": "ALPHA",
+  "title": "Catalog Curator"
+}
