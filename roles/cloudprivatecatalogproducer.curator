@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.curator",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Catalog Curator"
 }
