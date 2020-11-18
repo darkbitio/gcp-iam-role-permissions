@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.orgAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Catalog Org Admin"
 }

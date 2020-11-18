@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.productManager",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Catalog Product Manager"
 }
