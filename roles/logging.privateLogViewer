@@ -1,5 +1,5 @@
 {
-  "description": "Access to view all logs, including logs with private contents. This role applies only to the _Required and _Default buckets.",
+  "description": "Access to view all logs, including logs with private contents.",
   "etag": "AA==",
   "includedPermissions": [
     "logging.buckets.get",
@@ -23,6 +23,7 @@
     "logging.sinks.get",
     "logging.sinks.list",
     "logging.usage.get",
+    "logging.views.access",
     "resourcemanager.projects.get"
   ],
   "name": "roles/logging.privateLogViewer",
