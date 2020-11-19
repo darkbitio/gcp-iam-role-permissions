@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dellemccloudonefs.user",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dell EMC Cloud OneFS User"
 }
