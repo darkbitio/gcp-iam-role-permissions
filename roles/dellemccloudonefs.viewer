@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dellemccloudonefs.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dell EMC Cloud OneFS Viewer"
 }
