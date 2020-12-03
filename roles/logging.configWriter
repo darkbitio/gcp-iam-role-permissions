@@ -30,6 +30,11 @@
     "logging.sinks.get",
     "logging.sinks.list",
     "logging.sinks.update",
+    "logging.views.create",
+    "logging.views.delete",
+    "logging.views.get",
+    "logging.views.list",
+    "logging.views.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

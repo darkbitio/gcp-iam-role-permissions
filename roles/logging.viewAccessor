@@ -3,7 +3,10 @@
   "etag": "AA==",
   "includedPermissions": [
     "logging.logEntries.download",
-    "logging.views.access"
+    "logging.views.access",
+    "logging.views.listLogs",
+    "logging.views.listResourceKeys",
+    "logging.views.listResourceValues"
   ],
   "name": "roles/logging.viewAccessor",
   "stage": "GA",
