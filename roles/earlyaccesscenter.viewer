@@ -4,6 +4,8 @@
   "includedPermissions": [
     "earlyaccesscenter.campaigns.get",
     "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerAllowlists.get",
+    "earlyaccesscenter.customerAllowlists.list",
     "earlyaccesscenter.customerWhitelists.get",
     "earlyaccesscenter.customerWhitelists.list"
   ],

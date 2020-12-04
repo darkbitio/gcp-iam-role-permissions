@@ -516,6 +516,7 @@
     "domains.registrations.list",
     "domains.registrations.setIamPolicy",
     "earlyaccesscenter.campaigns.list",
+    "earlyaccesscenter.customerAllowlists.list",
     "earlyaccesscenter.customerWhitelists.list",
     "errorreporting.applications.list",
     "errorreporting.errorEvents.list",
