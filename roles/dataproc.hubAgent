@@ -43,6 +43,8 @@
     "logging.sinks.get",
     "logging.sinks.list",
     "logging.usage.get",
+    "logging.views.get",
+    "logging.views.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "storage.buckets.get",
@@ -50,6 +52,6 @@
     "storage.objects.list"
   ],
   "name": "roles/dataproc.hubAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dataproc Hub Agent"
 }

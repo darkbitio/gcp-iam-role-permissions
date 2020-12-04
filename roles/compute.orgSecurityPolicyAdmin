@@ -26,6 +26,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/compute.orgSecurityPolicyAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compute Organization Security Policy Admin"
 }

@@ -450,7 +450,6 @@
     "domains.registrations.getIamPolicy",
     "domains.registrations.list",
     "earlyaccesscenter.campaigns.list",
-    "earlyaccesscenter.customerAllowlists.list",
     "earlyaccesscenter.customerWhitelists.list",
     "errorreporting.applications.list",
     "errorreporting.errorEvents.list",

@@ -1,0 +1,7 @@
+{
+  "description": "Read only access to all Firebase App Check services.",
+  "etag": "AA==",
+  "name": "roles/firebaseappcheck.servicesReader",
+  "stage": "ALPHA",
+  "title": "Firebase App Check Services Reader"
+}
