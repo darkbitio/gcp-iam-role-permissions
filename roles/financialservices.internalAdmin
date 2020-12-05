@@ -1,7 +1,0 @@
-{
-  "description": "Full access to FinancialServices producer APIs.",
-  "etag": "AA==",
-  "name": "roles/financialservices.internalAdmin",
-  "stage": "ALPHA",
-  "title": "FinancialServices Producer API Admin Role for cloud Financial Services"
-}

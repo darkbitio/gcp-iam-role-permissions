@@ -1,5 +1,5 @@
 {
-  "description": "Full control of Compute Engine Security Policy associations to the organization or folders.",
+  "description": "Full control of Compute Engine Firewall Policy associations to the organization or folders.",
   "etag": "AA==",
   "includedPermissions": [
     "compute.globalOperations.get",
@@ -16,6 +16,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/compute.orgSecurityResourceAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Compute Organization Resource Admin"
 }
