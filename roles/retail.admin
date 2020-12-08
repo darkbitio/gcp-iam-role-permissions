@@ -1,0 +1,25 @@
+{
+  "description": "Full access to Retail api resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "retail.catalogs.list",
+    "retail.catalogs.update",
+    "retail.operations.get",
+    "retail.operations.list",
+    "retail.placements.predict",
+    "retail.products.create",
+    "retail.products.delete",
+    "retail.products.export",
+    "retail.products.get",
+    "retail.products.import",
+    "retail.products.list",
+    "retail.products.update",
+    "retail.userEvents.create",
+    "retail.userEvents.import",
+    "retail.userEvents.purge",
+    "retail.userEvents.rejoin"
+  ],
+  "name": "roles/retail.admin",
+  "stage": "ALPHA",
+  "title": "Retail Admin"
+}

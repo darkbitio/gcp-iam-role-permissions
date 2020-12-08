@@ -1,0 +1,28 @@
+{
+  "description": "Read and write access to all Dataproc Metastore resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "metastore.imports.create",
+    "metastore.imports.get",
+    "metastore.imports.list",
+    "metastore.imports.update",
+    "metastore.locations.get",
+    "metastore.locations.list",
+    "metastore.operations.cancel",
+    "metastore.operations.delete",
+    "metastore.operations.get",
+    "metastore.operations.list",
+    "metastore.services.create",
+    "metastore.services.delete",
+    "metastore.services.export",
+    "metastore.services.get",
+    "metastore.services.getIamPolicy",
+    "metastore.services.list",
+    "metastore.services.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/metastore.editor",
+  "stage": "BETA",
+  "title": "Dataproc Metastore Editor"
+}

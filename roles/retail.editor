@@ -1,0 +1,23 @@
+{
+  "description": "Full access to Retail api resources except purge and rejoin.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "retail.catalogs.list",
+    "retail.catalogs.update",
+    "retail.operations.get",
+    "retail.operations.list",
+    "retail.placements.predict",
+    "retail.products.create",
+    "retail.products.delete",
+    "retail.products.export",
+    "retail.products.get",
+    "retail.products.import",
+    "retail.products.list",
+    "retail.products.update",
+    "retail.userEvents.create",
+    "retail.userEvents.import"
+  ],
+  "name": "roles/retail.editor",
+  "stage": "ALPHA",
+  "title": "Retail Editor"
+}

@@ -9,6 +9,7 @@
     "container.clusterRoles.bind",
     "container.clusterRoles.create",
     "container.clusterRoles.delete",
+    "container.clusterRoles.escalate",
     "container.clusterRoles.get",
     "container.clusterRoles.update",
     "container.clusters.get",

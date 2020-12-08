@@ -1,0 +1,16 @@
+{
+  "description": "Grants access to read all resources in Retail.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "retail.catalogs.list",
+    "retail.operations.get",
+    "retail.operations.list",
+    "retail.placements.predict",
+    "retail.products.export",
+    "retail.products.get",
+    "retail.products.list"
+  ],
+  "name": "roles/retail.viewer",
+  "stage": "ALPHA",
+  "title": "Retail Viewer"
+}

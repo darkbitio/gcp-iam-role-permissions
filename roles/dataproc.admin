@@ -25,6 +25,8 @@
     "dataproc.clusters.getIamPolicy",
     "dataproc.clusters.list",
     "dataproc.clusters.setIamPolicy",
+    "dataproc.clusters.start",
+    "dataproc.clusters.stop",
     "dataproc.clusters.update",
     "dataproc.clusters.use",
     "dataproc.jobs.cancel",

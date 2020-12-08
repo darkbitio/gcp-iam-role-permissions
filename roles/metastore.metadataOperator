@@ -1,0 +1,23 @@
+{
+  "description": "Read-only access to Dataproc Metastore resources with additional metadata operations permission.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "metastore.imports.create",
+    "metastore.imports.get",
+    "metastore.imports.list",
+    "metastore.imports.update",
+    "metastore.locations.get",
+    "metastore.locations.list",
+    "metastore.operations.get",
+    "metastore.operations.list",
+    "metastore.services.export",
+    "metastore.services.get",
+    "metastore.services.getIamPolicy",
+    "metastore.services.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/metastore.metadataOperator",
+  "stage": "BETA",
+  "title": "Dataproc Metastore Metadata Operator"
+}

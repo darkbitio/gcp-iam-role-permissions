@@ -117,6 +117,7 @@
     "apigee.operations.get",
     "apigee.operations.list",
     "apigee.organizations.create",
+    "apigee.organizations.delete",
     "apigee.organizations.get",
     "apigee.organizations.list",
     "apigee.organizations.update",
