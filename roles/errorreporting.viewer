@@ -6,9 +6,7 @@
     "errorreporting.applications.list",
     "errorreporting.errorEvents.list",
     "errorreporting.groupMetadata.get",
-    "errorreporting.groups.list",
-    "logging.notificationRules.get",
-    "logging.notificationRules.list"
+    "errorreporting.groups.list"
   ],
   "name": "roles/errorreporting.viewer",
   "stage": "BETA",
