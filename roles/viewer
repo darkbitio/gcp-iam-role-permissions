@@ -124,6 +124,8 @@
     "apigee.operations.list",
     "apigee.organizations.get",
     "apigee.organizations.list",
+    "apigee.portals.get",
+    "apigee.portals.list",
     "apigee.proxies.get",
     "apigee.proxies.list",
     "apigee.proxyrevisions.get",

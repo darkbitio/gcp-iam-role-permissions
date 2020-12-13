@@ -1,0 +1,21 @@
+{
+  "description": "View or use Compute Engine Firewall Policies to associate with the organization or folders.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.firewallPolicies.get",
+    "compute.firewallPolicies.list",
+    "compute.firewallPolicies.use",
+    "compute.globalOperations.get",
+    "compute.globalOperations.getIamPolicy",
+    "compute.globalOperations.list",
+    "compute.projects.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.quotas.get",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/compute.orgFirewallPolicyUser",
+  "stage": "ALPHA",
+  "title": "Compute Organization Firewall Policy User"
+}

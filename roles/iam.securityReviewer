@@ -61,6 +61,7 @@
     "apigee.keyvaluemaps.list",
     "apigee.operations.list",
     "apigee.organizations.list",
+    "apigee.portals.list",
     "apigee.proxies.list",
     "apigee.proxyrevisions.list",
     "apigee.queries.list",
