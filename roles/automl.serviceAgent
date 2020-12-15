@@ -9,7 +9,6 @@
     "bigquery.tables.export",
     "bigquery.tables.get",
     "bigquery.tables.getData",
-    "bigquery.tables.update",
     "bigquery.tables.updateData",
     "bigtable.tables.get",
     "bigtable.tables.list",

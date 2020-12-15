@@ -8,7 +8,10 @@
     "errorreporting.errorEvents.list",
     "errorreporting.groupMetadata.get",
     "errorreporting.groupMetadata.update",
-    "errorreporting.groups.list"
+    "errorreporting.groups.list",
+    "logging.notificationRules.get",
+    "logging.notificationRules.list",
+    "logging.notificationRules.update"
   ],
   "name": "roles/errorreporting.user",
   "stage": "BETA",
