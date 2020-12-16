@@ -20,6 +20,6 @@
     "retail.userEvents.rejoin"
   ],
   "name": "roles/retail.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Retail Admin"
 }
