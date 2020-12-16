@@ -24,6 +24,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/compute.orgFirewallPolicyAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Compute Organization Firewall Policy Admin"
 }
