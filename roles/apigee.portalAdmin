@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.portalAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Apigee Portal Admin"
 }

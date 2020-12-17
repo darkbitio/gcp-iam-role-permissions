@@ -33,6 +33,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigateway.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "ApiGateway Admin"
 }
