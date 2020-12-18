@@ -9,6 +9,6 @@
     "gkehub.memberships.list"
   ],
   "name": "roles/anthosidentityservice.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Anthos Identity Service Agent"
 }

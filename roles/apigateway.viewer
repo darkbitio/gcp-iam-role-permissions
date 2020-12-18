@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigateway.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "ApiGateway Viewer"
 }

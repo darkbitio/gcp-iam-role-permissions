@@ -9,7 +9,12 @@
     "errorreporting.errorEvents.list",
     "errorreporting.groupMetadata.get",
     "errorreporting.groupMetadata.update",
-    "errorreporting.groups.list"
+    "errorreporting.groups.list",
+    "logging.notificationRules.create",
+    "logging.notificationRules.delete",
+    "logging.notificationRules.get",
+    "logging.notificationRules.list",
+    "logging.notificationRules.update"
   ],
   "name": "roles/errorreporting.admin",
   "stage": "BETA",
