@@ -78,6 +78,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.environmentAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Environment Admin"
 }

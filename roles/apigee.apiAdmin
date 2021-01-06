@@ -50,6 +50,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.apiAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee API Admin"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Enables Sign operations",
+  "description": "Enables the AsymmetricSign operation",
   "etag": "AA==",
   "includedPermissions": [
     "cloudkms.cryptoKeyVersions.useToSign",
