@@ -1,5 +1,5 @@
 {
-  "description": "Enables AsymmetricSign, and GetPublicKey operations",
+  "description": "Enables Sign, Verify, and GetPublicKey operations",
   "etag": "AA==",
   "includedPermissions": [
     "cloudkms.cryptoKeyVersions.useToSign",

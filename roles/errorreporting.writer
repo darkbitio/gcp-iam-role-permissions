@@ -6,5 +6,5 @@
   ],
   "name": "roles/errorreporting.writer",
   "stage": "BETA",
-  "title": "Errors Writer"
+  "title": "Error Reporting Writer"
 }

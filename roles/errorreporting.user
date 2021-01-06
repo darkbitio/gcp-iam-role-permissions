@@ -11,7 +11,8 @@
     "errorreporting.groups.list",
     "logging.notificationRules.get",
     "logging.notificationRules.list",
-    "logging.notificationRules.update"
+    "logging.notificationRules.update",
+    "stackdriver.projects.get"
   ],
   "name": "roles/errorreporting.user",
   "stage": "BETA",
