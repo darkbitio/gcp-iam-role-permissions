@@ -30,6 +30,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/earthengine.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Earth Engine Resource Admin"
 }
