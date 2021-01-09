@@ -32,6 +32,7 @@
     "compute.globalAddresses.list",
     "compute.globalForwardingRules.get",
     "compute.globalForwardingRules.list",
+    "compute.globalForwardingRules.pscGet",
     "compute.globalNetworkEndpointGroups.get",
     "compute.globalNetworkEndpointGroups.list",
     "compute.globalOperations.get",

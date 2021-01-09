@@ -1,0 +1,20 @@
+{
+  "description": "Can view and export cost information of billing accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "billing.accounts.get",
+    "billing.accounts.getIamPolicy",
+    "billing.accounts.getSpendingInformation",
+    "billing.accounts.getUsageExportSpec",
+    "billing.accounts.list",
+    "billing.accounts.updateUsageExportSpec",
+    "billing.budgets.create",
+    "billing.budgets.delete",
+    "billing.budgets.get",
+    "billing.budgets.list",
+    "billing.budgets.update"
+  ],
+  "name": "roles/billing.costsManager",
+  "stage": "ALPHA",
+  "title": "Billing Account Costs Manager"
+}

@@ -20,6 +20,7 @@
     "compute.globalAddresses.list",
     "compute.globalForwardingRules.get",
     "compute.globalForwardingRules.list",
+    "compute.globalForwardingRules.pscGet",
     "compute.healthChecks.get",
     "compute.healthChecks.list",
     "compute.httpHealthChecks.get",

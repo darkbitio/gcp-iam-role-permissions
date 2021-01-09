@@ -1,0 +1,13 @@
+{
+  "description": "Editor of Binary Authorization ContinuousValidationConfig",
+  "etag": "AA==",
+  "includedPermissions": [
+    "binaryauthorization.continuousValidationConfig.get",
+    "binaryauthorization.continuousValidationConfig.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/binaryauthorization.continuousValidationConfigEditor",
+  "stage": "BETA",
+  "title": "Binary Authorization ContinuousValidationConfig Editor"
+}

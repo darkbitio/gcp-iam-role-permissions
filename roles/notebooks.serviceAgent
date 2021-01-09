@@ -48,6 +48,7 @@
     "compute.globalAddresses.use",
     "compute.globalForwardingRules.get",
     "compute.globalForwardingRules.list",
+    "compute.globalForwardingRules.pscGet",
     "compute.globalNetworkEndpointGroups.attachNetworkEndpoints",
     "compute.globalNetworkEndpointGroups.create",
     "compute.globalNetworkEndpointGroups.delete",

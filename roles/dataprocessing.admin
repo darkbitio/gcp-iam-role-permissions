@@ -4,8 +4,12 @@
   "includedPermissions": [
     "billing.accounts.get",
     "billing.accounts.list",
+    "dataprocessing.datasources.get",
+    "dataprocessing.datasources.list",
+    "dataprocessing.datasources.update",
     "dataprocessing.featurecontrols.list",
     "dataprocessing.featurecontrols.update",
+    "dataprocessing.groupcontrols.get",
     "dataprocessing.groupcontrols.list",
     "dataprocessing.groupcontrols.update"
   ],

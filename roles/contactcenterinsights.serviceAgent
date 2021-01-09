@@ -1,0 +1,19 @@
+{
+  "description": "Gives Contact Center AI Service Account access to get Google Cloud Storage files and to export data to BigQuery",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.datasets.create",
+    "bigquery.datasets.get",
+    "bigquery.jobs.create",
+    "bigquery.jobs.get",
+    "bigquery.tables.create",
+    "bigquery.tables.get",
+    "bigquery.tables.update",
+    "bigquery.tables.updateData",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/contactcenterinsights.serviceAgent",
+  "stage": "GA",
+  "title": "Contact Center AI Insights Service Agent"
+}

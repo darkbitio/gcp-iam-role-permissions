@@ -94,6 +94,7 @@
     "compute.globalAddresses.list",
     "compute.globalForwardingRules.get",
     "compute.globalForwardingRules.list",
+    "compute.globalForwardingRules.pscGet",
     "compute.globalOperations.get",
     "compute.healthChecks.get",
     "compute.healthChecks.list",
