@@ -1,0 +1,15 @@
+{
+  "description": "Testing execution access to G Suite Add-ons resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "gsuiteaddons.deployments.execute",
+    "gsuiteaddons.deployments.install",
+    "gsuiteaddons.deployments.installStatus",
+    "gsuiteaddons.deployments.uninstall",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/gsuiteaddons.tester",
+  "stage": "ALPHA",
+  "title": "G Suite Add-ons Tester"
+}

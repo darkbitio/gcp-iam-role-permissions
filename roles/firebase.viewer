@@ -101,6 +101,8 @@
     "firebaserules.releases.list",
     "firebaserules.rulesets.get",
     "firebaserules.rulesets.list",
+    "firebasestorage.buckets.get",
+    "firebasestorage.buckets.list",
     "logging.logEntries.list",
     "monitoring.timeSeries.list",
     "resourcemanager.projects.get",

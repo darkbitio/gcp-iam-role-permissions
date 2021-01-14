@@ -1,0 +1,17 @@
+{
+  "description": "Full management of Firebase Storage.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebase.clients.get",
+    "firebase.projects.get",
+    "firebasestorage.buckets.addFirebase",
+    "firebasestorage.buckets.get",
+    "firebasestorage.buckets.list",
+    "firebasestorage.buckets.removeFirebase",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/firebasestorage.admin",
+  "stage": "ALPHA",
+  "title": "Firebase Storage Admin"
+}
