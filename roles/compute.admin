@@ -34,6 +34,7 @@
     "compute.commitments.create",
     "compute.commitments.get",
     "compute.commitments.list",
+    "compute.commitments.updateReservations",
     "compute.diskTypes.get",
     "compute.diskTypes.list",
     "compute.disks.addResourcePolicies",

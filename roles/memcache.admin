@@ -4,6 +4,7 @@
   "includedPermissions": [
     "compute.networks.list",
     "memcache.instances.applyParameters",
+    "memcache.instances.applySoftwareUpdate",
     "memcache.instances.create",
     "memcache.instances.delete",
     "memcache.instances.get",

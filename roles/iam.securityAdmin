@@ -743,6 +743,7 @@
     "notebooks.instances.setIamPolicy",
     "notebooks.locations.list",
     "notebooks.operations.list",
+    "ondemandscanning.operations.list",
     "osconfig.guestPolicies.list",
     "osconfig.patchDeployments.list",
     "osconfig.patchJobs.list",
