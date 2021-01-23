@@ -1,5 +1,5 @@
 {
-  "description": "Full access to G Suite Add-ons resources",
+  "description": "Full access to Google Workspace Add-ons resources",
   "etag": "AA==",
   "includedPermissions": [
     "gsuiteaddons.authorizations.get",
@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gsuiteaddons.developer",
-  "stage": "ALPHA",
-  "title": "G Suite Add-ons Developer"
+  "stage": "GA",
+  "title": "Google Workspace Add-ons Developer"
 }

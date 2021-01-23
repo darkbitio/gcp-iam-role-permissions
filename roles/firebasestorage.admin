@@ -1,5 +1,5 @@
 {
-  "description": "Full management of Firebase Storage.",
+  "description": "Full management of Cloud Storage for Firebase.",
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebasestorage.admin",
-  "stage": "ALPHA",
-  "title": "Firebase Storage Admin"
+  "stage": "BETA",
+  "title": "Cloud Storage for Firebase Admin"
 }

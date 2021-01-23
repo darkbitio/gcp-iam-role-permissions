@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.attestorsVerifier",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Binary Authorization Attestor Image Verifier"
 }

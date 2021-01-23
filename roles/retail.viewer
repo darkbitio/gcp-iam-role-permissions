@@ -20,6 +20,6 @@
     "retail.products.list"
   ],
   "name": "roles/retail.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Retail Viewer"
 }
