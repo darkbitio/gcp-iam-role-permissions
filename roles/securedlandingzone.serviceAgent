@@ -2,6 +2,7 @@
   "description": "Grants Secured Landing Zone service account permissions to manage resources in the customer project",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudasset.assets.exportOrgPolicy",
     "cloudasset.assets.exportResource",
     "cloudasset.feeds.create",
     "cloudasset.feeds.delete",
@@ -21,7 +22,8 @@
     "securitycenter.findings.list",
     "securitycenter.findings.update",
     "securitycenter.sources.list",
-    "securitycenter.sources.update"
+    "securitycenter.sources.update",
+    "serviceusage.services.use"
   ],
   "name": "roles/securedlandingzone.serviceAgent",
   "stage": "GA",

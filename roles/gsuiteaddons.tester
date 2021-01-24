@@ -1,5 +1,5 @@
 {
-  "description": "Testing execution access to G Suite Add-ons resources",
+  "description": "Testing execution access to Google Workspace Add-ons resources",
   "etag": "AA==",
   "includedPermissions": [
     "gsuiteaddons.deployments.execute",
@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gsuiteaddons.tester",
-  "stage": "ALPHA",
-  "title": "G Suite Add-ons Tester"
+  "stage": "GA",
+  "title": "Google Workspace Add-ons Tester"
 }

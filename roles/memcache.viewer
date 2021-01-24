@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/memcache.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Memorystore Memcached Viewer"
 }
