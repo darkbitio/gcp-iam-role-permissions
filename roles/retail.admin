@@ -45,6 +45,6 @@
     "retail.userEvents.rejoin"
   ],
   "name": "roles/retail.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Retail Admin"
 }

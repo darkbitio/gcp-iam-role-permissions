@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/memcache.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Memorystore Memcached Editor"
 }

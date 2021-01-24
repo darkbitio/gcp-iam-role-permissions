@@ -11,6 +11,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/kuberun.eventsDataPlaneServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "KubeRun Events Data Plane Service Agent"
 }

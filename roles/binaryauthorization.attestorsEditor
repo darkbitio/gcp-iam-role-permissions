@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.attestorsEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Binary Authorization Attestor Editor"
 }

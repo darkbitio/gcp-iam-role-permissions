@@ -16,7 +16,6 @@
     "container.customResourceDefinitions.create",
     "container.customResourceDefinitions.delete",
     "container.customResourceDefinitions.get",
-    "container.customResourceDefinitions.list",
     "container.customResourceDefinitions.update",
     "container.namespaces.get",
     "container.thirdPartyObjects.create",

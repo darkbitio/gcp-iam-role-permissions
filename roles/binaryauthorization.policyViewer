@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.policyViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Binary Authorization Policy Viewer"
 }

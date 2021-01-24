@@ -1,0 +1,32 @@
+{
+  "description": "Gives the Anthos Service Mesh service agent access to Cloud Platform resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "container.configMaps.get",
+    "container.configMaps.list",
+    "container.customResourceDefinitions.create",
+    "container.customResourceDefinitions.get",
+    "container.customResourceDefinitions.list",
+    "container.deployments.get",
+    "container.deployments.list",
+    "container.events.get",
+    "container.events.list",
+    "container.namespaces.get",
+    "container.namespaces.list",
+    "container.pods.get",
+    "container.pods.list",
+    "container.services.get",
+    "container.services.list",
+    "container.thirdPartyObjects.get",
+    "container.thirdPartyObjects.list",
+    "container.thirdPartyObjects.update",
+    "gkehub.features.get",
+    "gkehub.locations.get",
+    "gkehub.locations.list",
+    "gkehub.memberships.get",
+    "gkehub.memberships.list"
+  ],
+  "name": "roles/anthosservicemesh.serviceAgent",
+  "stage": "GA",
+  "title": "Anthos Service Mesh Service Agent"
+}

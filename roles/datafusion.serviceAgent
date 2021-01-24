@@ -86,8 +86,6 @@
     "compute.backendBuckets.list",
     "compute.backendServices.get",
     "compute.backendServices.list",
-    "compute.externalVpnGateways.get",
-    "compute.externalVpnGateways.list",
     "compute.firewalls.get",
     "compute.firewalls.list",
     "compute.forwardingRules.get",
