@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to G Suite Add-ons resources",
+  "description": "Read-only access to Google Workspace Add-ons resources",
   "etag": "AA==",
   "includedPermissions": [
     "gsuiteaddons.authorizations.get",
@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gsuiteaddons.reader",
-  "stage": "ALPHA",
-  "title": "G Suite Add-ons Reader"
+  "stage": "GA",
+  "title": "Google Workspace Add-ons Reader"
 }

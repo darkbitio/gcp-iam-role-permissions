@@ -12,6 +12,6 @@
     "ondemandscanning.scans.scan"
   ],
   "name": "roles/ondemandscanning.admin",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "On-Demand Scanning Admin"
 }
