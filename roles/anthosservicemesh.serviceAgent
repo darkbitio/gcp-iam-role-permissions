@@ -4,9 +4,6 @@
   "includedPermissions": [
     "container.configMaps.get",
     "container.configMaps.list",
-    "container.customResourceDefinitions.create",
-    "container.customResourceDefinitions.get",
-    "container.customResourceDefinitions.list",
     "container.deployments.get",
     "container.deployments.list",
     "container.events.get",
@@ -19,7 +16,6 @@
     "container.services.list",
     "container.thirdPartyObjects.get",
     "container.thirdPartyObjects.list",
-    "container.thirdPartyObjects.update",
     "gkehub.features.get",
     "gkehub.locations.get",
     "gkehub.locations.list",

@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.attestorsViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Binary Authorization Attestor Viewer"
 }

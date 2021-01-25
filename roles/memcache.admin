@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/memcache.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Memorystore Memcached Admin"
 }

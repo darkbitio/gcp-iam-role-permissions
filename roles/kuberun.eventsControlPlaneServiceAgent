@@ -22,6 +22,6 @@
     "storage.buckets.update"
   ],
   "name": "roles/kuberun.eventsControlPlaneServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "KubeRun Events Control Plane Service Agent"
 }

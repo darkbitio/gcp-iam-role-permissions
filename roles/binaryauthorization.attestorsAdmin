@@ -14,6 +14,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.attestorsAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Binary Authorization Attestor Admin"
 }

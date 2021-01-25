@@ -10,6 +10,8 @@
     "apigee.appkeys.delete",
     "apigee.appkeys.get",
     "apigee.appkeys.manage",
+    "apigee.apps.get",
+    "apigee.apps.list",
     "apigee.datacollectors.create",
     "apigee.datacollectors.delete",
     "apigee.datacollectors.get",

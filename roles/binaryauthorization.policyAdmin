@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.policyAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Binary Authorization Policy Administrator"
 }

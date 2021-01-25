@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.policyEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Binary Authorization Policy Editor"
 }

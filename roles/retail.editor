@@ -41,6 +41,6 @@
     "retail.userEvents.import"
   ],
   "name": "roles/retail.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Retail Editor"
 }
