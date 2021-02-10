@@ -2,6 +2,8 @@
   "description": "View topics, subscriptions, and snapshots.",
   "etag": "AA==",
   "includedPermissions": [
+    "pubsub.schemas.get",
+    "pubsub.schemas.list",
     "pubsub.snapshots.get",
     "pubsub.snapshots.list",
     "pubsub.subscriptions.get",

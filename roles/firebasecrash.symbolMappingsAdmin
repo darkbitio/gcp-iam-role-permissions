@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
+    "firebase.clients.list",
     "resourcemanager.projects.get"
   ],
   "name": "roles/firebasecrash.symbolMappingsAdmin",

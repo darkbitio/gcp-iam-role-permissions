@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.projects.get",
     "firebasedynamiclinks.destinations.list",
     "firebasedynamiclinks.domains.get",

@@ -5,6 +5,7 @@
     "cloudconfig.configs.get",
     "cloudconfig.configs.update",
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.projects.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

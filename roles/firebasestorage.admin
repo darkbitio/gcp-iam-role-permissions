@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.projects.get",
     "firebasestorage.buckets.addFirebase",
     "firebasestorage.buckets.get",
