@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
-    "firebase.clients.list",
     "firebase.projects.get",
     "firebaseml.compressionjobs.create",
     "firebaseml.compressionjobs.delete",

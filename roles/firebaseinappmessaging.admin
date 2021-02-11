@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
-    "firebase.clients.list",
     "firebase.projects.get",
     "firebaseinappmessaging.campaigns.create",
     "firebaseinappmessaging.campaigns.delete",

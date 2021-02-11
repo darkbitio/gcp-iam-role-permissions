@@ -12,7 +12,6 @@
     "cloudtoolresults.steps.get",
     "cloudtoolresults.steps.list",
     "firebase.clients.get",
-    "firebase.clients.list",
     "firebase.projects.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",

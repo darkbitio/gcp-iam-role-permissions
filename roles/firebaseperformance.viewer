@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
-    "firebase.clients.list",
     "firebase.projects.get",
     "firebaseperformance.data.get",
     "resourcemanager.projects.get",
