@@ -4,6 +4,7 @@
   "includedPermissions": [
     "cloudconfig.configs.get",
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.projects.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

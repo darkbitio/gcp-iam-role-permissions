@@ -56,6 +56,7 @@
     "errorreporting.groups.list",
     "firebase.billingPlans.get",
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.links.list",
     "firebase.projects.get",
     "firebaseabt.experimentresults.get",

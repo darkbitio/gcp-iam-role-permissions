@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "firebase.clients.get",
+    "firebase.clients.list",
     "firebase.projects.get",
     "firebasepredictions.predictions.list",
     "resourcemanager.projects.get",
