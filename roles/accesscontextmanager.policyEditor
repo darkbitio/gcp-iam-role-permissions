@@ -32,6 +32,7 @@
     "accesscontextmanager.servicePerimeters.list",
     "accesscontextmanager.servicePerimeters.replaceAll",
     "accesscontextmanager.servicePerimeters.update",
+    "cloudasset.assets.searchAllResources",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

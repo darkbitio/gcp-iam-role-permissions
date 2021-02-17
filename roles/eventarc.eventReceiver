@@ -5,6 +5,6 @@
     "eventarc.events.receiveAuditLogWritten"
   ],
   "name": "roles/eventarc.eventReceiver",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Eventarc Event Receiver"
 }

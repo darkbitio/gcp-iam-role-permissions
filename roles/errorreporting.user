@@ -12,6 +12,8 @@
     "logging.notificationRules.get",
     "logging.notificationRules.list",
     "logging.notificationRules.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
     "stackdriver.projects.get"
   ],
   "name": "roles/errorreporting.user",

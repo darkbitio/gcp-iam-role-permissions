@@ -1,9 +1,11 @@
 {
-  "description": "Allows the Kubernetes Engine service account in the host project to configure shared network resources for cluster management. Also gives access to inspect the firewall rules in the host project.iu';",
+  "description": "Allows the Kubernetes Engine service account in the host project to configure shared network resources for cluster management. Also gives access to inspect the firewall rules in the host project, and configure Cloud DNS resources.",
   "etag": "AA==",
   "includedPermissions": [
     "compute.firewalls.get",
-    "container.hostServiceAgent.use"
+    "container.hostServiceAgent.use",
+    "dns.networks.bindPrivateDNSPolicy",
+    "dns.networks.bindPrivateDNSZone"
   ],
   "name": "roles/container.hostServiceAgentUser",
   "stage": "GA",

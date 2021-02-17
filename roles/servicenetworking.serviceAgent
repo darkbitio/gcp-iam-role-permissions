@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "compute.globalAddresses.get",
+    "compute.globalAddresses.list",
     "compute.globalOperations.get",
     "compute.networks.addPeering",
     "compute.networks.create",

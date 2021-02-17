@@ -9,6 +9,8 @@
     "errorreporting.groups.list",
     "logging.notificationRules.get",
     "logging.notificationRules.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
     "stackdriver.projects.get"
   ],
   "name": "roles/errorreporting.viewer",

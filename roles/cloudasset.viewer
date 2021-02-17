@@ -95,7 +95,9 @@
     "cloudasset.assets.exportSqladminInstances",
     "cloudasset.assets.exportStorageBuckets",
     "cloudasset.assets.searchAllIamPolicies",
-    "cloudasset.assets.searchAllResources"
+    "cloudasset.assets.searchAllResources",
+    "recommender.locations.get",
+    "recommender.locations.list"
   ],
   "name": "roles/cloudasset.viewer",
   "stage": "GA",

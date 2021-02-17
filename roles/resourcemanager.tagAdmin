@@ -18,6 +18,6 @@
     "resourcemanager.tagValues.update"
   ],
   "name": "roles/resourcemanager.tagAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Tag Administrator"
 }

@@ -83,5 +83,5 @@
   ],
   "name": "roles/aiplatform.admin",
   "stage": "BETA",
-  "title": "AI Platform Admininistrator"
+  "title": "AI Platform Administrator"
 }

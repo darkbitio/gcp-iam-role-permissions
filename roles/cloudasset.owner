@@ -100,7 +100,9 @@
     "cloudasset.feeds.delete",
     "cloudasset.feeds.get",
     "cloudasset.feeds.list",
-    "cloudasset.feeds.update"
+    "cloudasset.feeds.update",
+    "recommender.locations.get",
+    "recommender.locations.list"
   ],
   "name": "roles/cloudasset.owner",
   "stage": "GA",

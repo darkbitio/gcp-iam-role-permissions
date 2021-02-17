@@ -9,6 +9,6 @@
     "policysimulator.replays.run"
   ],
   "name": "roles/policysimulator.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Simulator Admin"
 }

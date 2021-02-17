@@ -9,6 +9,6 @@
     "resourcemanager.tagValues.list"
   ],
   "name": "roles/resourcemanager.tagViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Tag viewer"
 }

@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.productSuggestionViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Product Suggestion Recommenders Viewer"
 }

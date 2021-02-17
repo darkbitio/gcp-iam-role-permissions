@@ -7,6 +7,6 @@
     "storage.objects.get"
   ],
   "name": "roles/mediaasset.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Media Asset Service Agent"
 }

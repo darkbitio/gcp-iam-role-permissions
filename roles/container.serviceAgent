@@ -917,6 +917,7 @@
     "dns.resourceRecordSets.list",
     "dns.resourceRecordSets.update",
     "iam.serviceAccounts.actAs",
+    "iam.serviceAccounts.get",
     "logging.logEntries.create",
     "monitoring.metricDescriptors.create",
     "monitoring.metricDescriptors.get",

@@ -13,6 +13,6 @@
     "resourcemanager.tagValues.list"
   ],
   "name": "roles/resourcemanager.tagUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Tag User"
 }

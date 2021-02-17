@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.productSuggestionAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Product Suggestion Recommenders Admin"
 }

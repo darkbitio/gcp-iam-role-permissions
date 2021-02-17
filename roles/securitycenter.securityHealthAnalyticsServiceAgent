@@ -328,6 +328,8 @@
     "monitoring.alertPolicies.get",
     "monitoring.alertPolicies.list",
     "orgpolicy.policy.get",
+    "recommender.locations.get",
+    "recommender.locations.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
