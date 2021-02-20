@@ -33,6 +33,8 @@
     "compute.routers.list",
     "compute.routes.get",
     "compute.routes.list",
+    "compute.serviceAttachments.get",
+    "compute.serviceAttachments.list",
     "compute.subnetworks.get",
     "compute.subnetworks.list",
     "compute.subnetworks.use",

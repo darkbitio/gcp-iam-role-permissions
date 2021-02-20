@@ -2,6 +2,9 @@
   "description": "Grants access to use all resources in Cloud DocumentAI",
   "etag": "AA==",
   "includedPermissions": [
+    "documentai.evaluations.create",
+    "documentai.evaluations.get",
+    "documentai.evaluations.list",
     "documentai.humanReviewConfigs.get",
     "documentai.humanReviewConfigs.review",
     "documentai.humanReviewConfigs.update",

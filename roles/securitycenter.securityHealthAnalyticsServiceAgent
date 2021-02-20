@@ -262,6 +262,8 @@
     "compute.securityPolicies.get",
     "compute.securityPolicies.getIamPolicy",
     "compute.securityPolicies.list",
+    "compute.serviceAttachments.get",
+    "compute.serviceAttachments.list",
     "compute.snapshots.get",
     "compute.snapshots.getIamPolicy",
     "compute.snapshots.list",

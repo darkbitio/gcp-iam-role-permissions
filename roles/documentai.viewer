@@ -2,6 +2,8 @@
   "description": "Grants access to view all resources and process documents in Cloud DocumentAI",
   "etag": "AA==",
   "includedPermissions": [
+    "documentai.evaluations.get",
+    "documentai.evaluations.list",
     "documentai.humanReviewConfigs.get",
     "documentai.humanReviewConfigs.review",
     "documentai.labelerPools.get",
