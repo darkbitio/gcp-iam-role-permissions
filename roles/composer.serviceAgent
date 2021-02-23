@@ -1132,7 +1132,9 @@
     "storage.objects.getIamPolicy",
     "storage.objects.list",
     "storage.objects.setIamPolicy",
-    "storage.objects.update"
+    "storage.objects.update",
+    "trafficdirector.networks.getConfigs",
+    "trafficdirector.networks.reportMetrics"
   ],
   "name": "roles/composer.serviceAgent",
   "stage": "GA",

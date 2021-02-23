@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.consentArtifactReader",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Healthcare Consent Artifact Reader"
 }
