@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.consentStoreViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Healthcare Consent Store Viewer"
 }

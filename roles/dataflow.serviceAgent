@@ -717,9 +717,7 @@
     "storage.objects.getIamPolicy",
     "storage.objects.list",
     "storage.objects.setIamPolicy",
-    "storage.objects.update",
-    "trafficdirector.networks.getConfigs",
-    "trafficdirector.networks.reportMetrics"
+    "storage.objects.update"
   ],
   "name": "roles/dataflow.serviceAgent",
   "stage": "GA",
