@@ -132,9 +132,7 @@
     "servicenetworking.services.get",
     "serviceusage.quotas.get",
     "serviceusage.services.get",
-    "serviceusage.services.list",
-    "trafficdirector.networks.getConfigs",
-    "trafficdirector.networks.reportMetrics"
+    "serviceusage.services.list"
   ],
   "name": "roles/compute.networkViewer",
   "stage": "GA",

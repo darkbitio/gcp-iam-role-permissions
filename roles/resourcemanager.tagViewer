@@ -1,5 +1,5 @@
 {
-  "description": "Access to specific tag values and to list tag values at a resource",
+  "description": "Access to list Tags and their associations with resources",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.resourceTagBindings.list",
@@ -10,5 +10,5 @@
   ],
   "name": "roles/resourcemanager.tagViewer",
   "stage": "BETA",
-  "title": "Tag viewer"
+  "title": "Tag Viewer"
 }
