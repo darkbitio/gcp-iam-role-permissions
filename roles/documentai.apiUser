@@ -4,8 +4,6 @@
   "includedPermissions": [
     "documentai.humanReviewConfigs.review",
     "documentai.operations.getLegacy",
-    "documentai.processorVersions.processBatch",
-    "documentai.processorVersions.processOnline",
     "documentai.processors.processBatch",
     "documentai.processors.processOnline"
   ],

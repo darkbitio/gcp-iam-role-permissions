@@ -1,5 +1,5 @@
 {
-  "description": "Access to list Tags and manage their associations with resources",
+  "description": "Access to create, delete bindings, and list tag values at a resource.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",

@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.consentArtifactEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Healthcare Consent Artifact Editor"
 }

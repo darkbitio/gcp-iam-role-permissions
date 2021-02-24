@@ -12,6 +12,7 @@
     "compute.networks.access",
     "firebasedatabase.instances.get",
     "firebasedatabase.instances.update",
+    "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.getAccessToken",
     "iam.serviceAccounts.getOpenIdToken",
     "iam.serviceAccounts.signBlob",
