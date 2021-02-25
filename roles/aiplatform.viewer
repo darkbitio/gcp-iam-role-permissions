@@ -32,8 +32,12 @@
     "aiplatform.specialistPools.get",
     "aiplatform.specialistPools.list",
     "aiplatform.specialistPools.update",
+    "aiplatform.studies.get",
+    "aiplatform.studies.list",
     "aiplatform.trainingPipelines.get",
     "aiplatform.trainingPipelines.list",
+    "aiplatform.trials.get",
+    "aiplatform.trials.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
