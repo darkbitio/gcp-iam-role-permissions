@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.userDataMappingReader",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Healthcare User Data Mapping Reader"
 }
