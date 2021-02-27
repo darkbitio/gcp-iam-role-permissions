@@ -1007,7 +1007,9 @@
     "tpu.nodes.get",
     "tpu.nodes.list",
     "tpu.operations.get",
-    "tpu.operations.list"
+    "tpu.operations.list",
+    "trafficdirector.networks.getConfigs",
+    "trafficdirector.networks.reportMetrics"
   ],
   "name": "roles/container.serviceAgent",
   "stage": "GA",

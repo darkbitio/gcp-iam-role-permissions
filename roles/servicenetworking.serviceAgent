@@ -10,6 +10,7 @@
     "compute.networks.delete",
     "compute.networks.get",
     "compute.networks.list",
+    "compute.networks.listPeeringRoutes",
     "compute.networks.removePeering",
     "compute.networks.update",
     "compute.networks.updatePeering",

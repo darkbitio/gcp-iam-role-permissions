@@ -22,6 +22,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.userDataMappingEditor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Healthcare User Data Mapping Editor"
 }

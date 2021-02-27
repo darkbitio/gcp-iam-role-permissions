@@ -24,6 +24,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.consentEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Healthcare Consent Editor"
 }
