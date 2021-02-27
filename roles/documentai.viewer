@@ -14,6 +14,8 @@
     "documentai.processorTypes.list",
     "documentai.processorVersions.get",
     "documentai.processorVersions.list",
+    "documentai.processorVersions.processBatch",
+    "documentai.processorVersions.processOnline",
     "documentai.processors.fetchHumanReviewDetails",
     "documentai.processors.get",
     "documentai.processors.list",
