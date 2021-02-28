@@ -570,7 +570,9 @@
     "servicenetworking.services.get",
     "serviceusage.quotas.get",
     "serviceusage.services.get",
-    "serviceusage.services.list"
+    "serviceusage.services.list",
+    "trafficdirector.networks.getConfigs",
+    "trafficdirector.networks.reportMetrics"
   ],
   "name": "roles/cloudtpu.serviceAgent",
   "stage": "GA",

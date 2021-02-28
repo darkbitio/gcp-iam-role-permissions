@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/healthcare.consentStoreAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Healthcare Consent Store Administrator"
 }

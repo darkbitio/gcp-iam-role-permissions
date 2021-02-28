@@ -1,5 +1,5 @@
 {
-  "description": "Access to create, delete, update, and control access to  tag keys and values.",
+  "description": "Access to create, delete, update, and manage access to Tags",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.tagKeys.create",
