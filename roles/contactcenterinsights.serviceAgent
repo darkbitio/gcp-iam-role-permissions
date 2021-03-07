@@ -10,6 +10,11 @@
     "bigquery.tables.get",
     "bigquery.tables.update",
     "bigquery.tables.updateData",
+    "dialogflow.conversationDatasets.create",
+    "dialogflow.conversationDatasets.delete",
+    "dialogflow.conversationDatasets.get",
+    "dialogflow.conversationDatasets.import",
+    "dialogflow.conversationDatasets.list",
     "storage.objects.get",
     "storage.objects.list"
   ],
