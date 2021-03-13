@@ -18,7 +18,6 @@
     "metastore.services.get",
     "metastore.services.getIamPolicy",
     "metastore.services.list",
-    "metastore.services.restore",
     "metastore.services.setIamPolicy",
     "metastore.services.update",
     "resourcemanager.projects.get",

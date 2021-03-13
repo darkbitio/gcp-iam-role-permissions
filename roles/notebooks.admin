@@ -211,7 +211,6 @@
     "notebooks.instances.stop",
     "notebooks.instances.update",
     "notebooks.instances.updateConfig",
-    "notebooks.instances.updateShieldInstanceConfig",
     "notebooks.instances.upgrade",
     "notebooks.instances.use",
     "notebooks.locations.get",
