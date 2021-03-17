@@ -1,5 +1,5 @@
 {
-  "description": "Access to create and delete devices from registries, but not to modify the registries, and enable devices to publish to topics associated with IoT registry.",
+  "description": "Access to create and delete devices from registries, but not to modify the registries.",
   "etag": "AA==",
   "includedPermissions": [
     "cloudiot.devices.bindGateway",
