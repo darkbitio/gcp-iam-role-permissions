@@ -25,6 +25,8 @@
     "cloudkms.keyRings.getIamPolicy",
     "cloudkms.keyRings.list",
     "cloudkms.keyRings.setIamPolicy",
+    "cloudkms.locations.get",
+    "cloudkms.locations.list",
     "resourcemanager.projects.get"
   ],
   "name": "roles/cloudkms.admin",

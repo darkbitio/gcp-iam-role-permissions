@@ -43,6 +43,8 @@
     "bigquery.tables.updateData",
     "bigquery.tables.updateTag",
     "cloudkms.cryptoKeyVersions.useToDecrypt",
+    "cloudkms.locations.get",
+    "cloudkms.locations.list",
     "datacatalog.tagTemplates.create",
     "datacatalog.tagTemplates.delete",
     "datacatalog.tagTemplates.get",
