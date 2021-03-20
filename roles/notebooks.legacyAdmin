@@ -311,7 +311,6 @@
     "compute.organizations.enableXpnHost",
     "compute.organizations.enableXpnResource",
     "compute.organizations.listAssociations",
-    "compute.organizations.setFirewallPolicy",
     "compute.organizations.setSecurityPolicy",
     "compute.oslogin.updateExternalUser",
     "compute.packetMirrorings.update",

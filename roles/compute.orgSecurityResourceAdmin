@@ -7,7 +7,6 @@
     "compute.globalOperations.list",
     "compute.globalOperations.setIamPolicy",
     "compute.organizations.listAssociations",
-    "compute.organizations.setFirewallPolicy",
     "compute.organizations.setSecurityPolicy",
     "compute.projects.get",
     "resourcemanager.projects.get",
