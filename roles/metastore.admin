@@ -2,6 +2,11 @@
   "description": "Full access to all Dataproc Metastore resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "metastore.backups.create",
+    "metastore.backups.delete",
+    "metastore.backups.get",
+    "metastore.backups.list",
+    "metastore.backups.use",
     "metastore.imports.create",
     "metastore.imports.get",
     "metastore.imports.list",

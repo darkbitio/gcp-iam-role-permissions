@@ -697,6 +697,7 @@
     "memcache.instances.list",
     "memcache.locations.list",
     "memcache.operations.list",
+    "metastore.backups.list",
     "metastore.imports.list",
     "metastore.locations.list",
     "metastore.operations.list",

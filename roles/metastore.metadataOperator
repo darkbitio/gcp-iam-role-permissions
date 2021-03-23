@@ -2,6 +2,11 @@
   "description": "Read-only access to Dataproc Metastore resources with additional metadata operations permission.",
   "etag": "AA==",
   "includedPermissions": [
+    "metastore.backups.create",
+    "metastore.backups.delete",
+    "metastore.backups.get",
+    "metastore.backups.list",
+    "metastore.backups.use",
     "metastore.imports.create",
     "metastore.imports.get",
     "metastore.imports.list",

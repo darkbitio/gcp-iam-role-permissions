@@ -5,6 +5,7 @@
     "pubsublite.subscriptions.getCursor",
     "pubsublite.subscriptions.setCursor",
     "pubsublite.subscriptions.subscribe",
+    "pubsublite.topics.computeHeadCursor",
     "pubsublite.topics.computeMessageStats",
     "pubsublite.topics.getPartitions",
     "pubsublite.topics.subscribe"

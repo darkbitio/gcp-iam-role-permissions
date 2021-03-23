@@ -2,6 +2,8 @@
   "description": "Read-only access to all Dataproc Metastore resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "metastore.backups.get",
+    "metastore.backups.list",
     "metastore.imports.get",
     "metastore.imports.list",
     "metastore.locations.get",
