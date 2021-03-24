@@ -33,6 +33,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datamigration.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Database Migration Admin"
 }
