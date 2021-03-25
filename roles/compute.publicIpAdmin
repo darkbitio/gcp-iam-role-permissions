@@ -44,6 +44,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/compute.publicIpAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compute Public IP Admin"
 }
