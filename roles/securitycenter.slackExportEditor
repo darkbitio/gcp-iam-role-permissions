@@ -1,0 +1,12 @@
+{
+  "description": "Read-Write access to Slack security center exports and access to create essential contacts",
+  "etag": "AA==",
+  "includedPermissions": [
+    "essentialcontacts.contacts.create",
+    "essentialcontacts.contacts.get",
+    "essentialcontacts.contacts.list"
+  ],
+  "name": "roles/securitycenter.slackExportEditor",
+  "stage": "ALPHA",
+  "title": "Security Center Slack Export Editor"
+}
