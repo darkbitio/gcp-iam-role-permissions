@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.monetizationAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Apigee Monetization Admin"
 }
