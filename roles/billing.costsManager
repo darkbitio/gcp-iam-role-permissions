@@ -12,7 +12,8 @@
     "billing.budgets.delete",
     "billing.budgets.get",
     "billing.budgets.list",
-    "billing.budgets.update"
+    "billing.budgets.update",
+    "billing.resourceAssociations.list"
   ],
   "name": "roles/billing.costsManager",
   "stage": "GA",

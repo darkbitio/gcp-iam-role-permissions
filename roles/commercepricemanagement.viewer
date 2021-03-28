@@ -1,0 +1,13 @@
+{
+  "description": "Allows viewing offers, free trials, skus",
+  "etag": "AA==",
+  "includedPermissions": [
+    "commerceprice.privateoffers.get",
+    "commerceprice.privateoffers.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/commercepricemanagement.viewer",
+  "stage": "ALPHA",
+  "title": "Commerce Price Management Viewer"
+}

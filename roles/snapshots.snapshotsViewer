@@ -1,7 +1,0 @@
-{
-  "description": "Viewer of Snapshots",
-  "etag": "AA==",
-  "name": "roles/snapshots.snapshotsViewer",
-  "stage": "ALPHA",
-  "title": "Snapshots Viewer"
-}
