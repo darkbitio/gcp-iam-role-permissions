@@ -1,0 +1,11 @@
+{
+  "description": "Full access to all Payments reseller subscription resource features",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/paymentsresellersubscription.partnerAdmin",
+  "stage": "ALPHA",
+  "title": "Payments Reseller Subscriptions Admin"
+}

@@ -21,6 +21,6 @@
     "workflows.workflows.update"
   ],
   "name": "roles/workflows.editor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Workflows Editor"
 }
