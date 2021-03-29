@@ -1,0 +1,6 @@
+{
+  "etag": "AA==",
+  "name": "roles/speakeasy.CcbAccessVoicemailListener",
+  "stage": "ALPHA",
+  "title": "Voicemail listener that has privilege to access CCB and predefined set of children"
+}

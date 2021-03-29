@@ -7,6 +7,6 @@
     "apikeys.keys.lookup"
   ],
   "name": "roles/serviceusage.apiKeysViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "API Keys Viewer"
 }
