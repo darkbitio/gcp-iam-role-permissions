@@ -16,6 +16,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/serviceusage.serviceUsageAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Service Usage Admin"
 }

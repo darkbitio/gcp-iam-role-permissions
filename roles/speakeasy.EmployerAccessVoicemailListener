@@ -1,6 +1,0 @@
-{
-  "etag": "AA==",
-  "name": "roles/speakeasy.EmployerAccessVoicemailListener",
-  "stage": "ALPHA",
-  "title": "Voicemail listener that has privilege to access employer and predefined set of children. If bound to a CCB's policy, provides access to voicemails across the CCB."
-}
