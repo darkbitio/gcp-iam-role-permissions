@@ -15,6 +15,6 @@
     "workflows.workflows.list"
   ],
   "name": "roles/workflows.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Workflows Viewer"
 }
