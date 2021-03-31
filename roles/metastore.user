@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/metastore.user",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Dataproc Metastore Viewer"
 }

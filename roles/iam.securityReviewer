@@ -664,6 +664,8 @@
     "notebooks.instances.list",
     "notebooks.locations.list",
     "notebooks.operations.list",
+    "notebooks.runtimes.getIamPolicy",
+    "notebooks.runtimes.list",
     "notebooks.schedules.getIamPolicy",
     "notebooks.schedules.list",
     "ondemandscanning.operations.list",
