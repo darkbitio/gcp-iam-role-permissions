@@ -26,6 +26,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dialogflow.consoleSimulatorUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Console Simulator User"
 }
