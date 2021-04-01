@@ -5,6 +5,7 @@
     "apigee.apiproducts.get",
     "apigee.apiproducts.list",
     "apigee.appkeys.create",
+    "apigee.appkeys.delete",
     "apigee.appkeys.manage",
     "apigee.apps.get",
     "apigee.canaryevaluations.create",

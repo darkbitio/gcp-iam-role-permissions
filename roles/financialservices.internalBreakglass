@@ -1,7 +1,0 @@
-{
-  "description": "Permissions for breakglass by oncall.",
-  "etag": "AA==",
-  "name": "roles/financialservices.internalBreakglass",
-  "stage": "ALPHA",
-  "title": "FinancialServices Breakglass Role"
-}
