@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/metastore.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Dataproc Metastore Editor"
 }

@@ -30,6 +30,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/metastore.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Dataproc Metastore Admin"
 }

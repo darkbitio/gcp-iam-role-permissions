@@ -9,6 +9,6 @@
     "earlyaccesscenter.customerAllowlists.list"
   ],
   "name": "roles/earlyaccesscenter.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Early Access Center Administrator"
 }

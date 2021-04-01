@@ -10,6 +10,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/serviceusage.serviceUsageViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Service Usage Viewer"
 }
