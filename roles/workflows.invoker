@@ -10,6 +10,6 @@
     "workflows.executions.list"
   ],
   "name": "roles/workflows.invoker",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Workflows Invoker"
 }
