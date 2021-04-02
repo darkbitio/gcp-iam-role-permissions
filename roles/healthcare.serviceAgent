@@ -28,6 +28,7 @@
     "monitoring.timeSeries.list",
     "monitoring.uptimeCheckConfigs.get",
     "monitoring.uptimeCheckConfigs.list",
+    "opsconfigmonitoring.resourceMetadata.list",
     "pubsub.snapshots.seek",
     "pubsub.subscriptions.consume",
     "pubsub.topics.attachSubscription",
