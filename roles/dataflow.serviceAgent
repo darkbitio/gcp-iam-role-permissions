@@ -660,7 +660,6 @@
     "networkservices.operations.delete",
     "networkservices.operations.get",
     "networkservices.operations.list",
-    "opsconfigmonitoring.resourceMetadata.list",
     "pubsub.schemas.attach",
     "pubsub.schemas.create",
     "pubsub.schemas.delete",

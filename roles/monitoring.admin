@@ -56,7 +56,6 @@
     "monitoring.uptimeCheckConfigs.get",
     "monitoring.uptimeCheckConfigs.list",
     "monitoring.uptimeCheckConfigs.update",
-    "opsconfigmonitoring.resourceMetadata.list",
     "opsconfigmonitoring.resourceMetadata.write",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
