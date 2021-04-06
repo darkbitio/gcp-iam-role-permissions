@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dialogflow.consoleSmartMessagingAllowlistEditor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Console Smart Messaging Allowlist Editor"
 }
