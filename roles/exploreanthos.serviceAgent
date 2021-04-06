@@ -37,6 +37,6 @@
     "source.repos.update"
   ],
   "name": "roles/exploreanthos.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Explore Anthos Service Agent"
 }

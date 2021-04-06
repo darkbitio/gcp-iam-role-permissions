@@ -13,6 +13,6 @@
     "serviceusage.operations.get"
   ],
   "name": "roles/serviceusage.apiKeysAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "API Keys Admin"
 }
