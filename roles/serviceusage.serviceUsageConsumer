@@ -11,6 +11,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/serviceusage.serviceUsageConsumer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Service Usage Consumer"
 }
