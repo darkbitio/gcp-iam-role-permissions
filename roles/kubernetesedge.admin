@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Kubernetes Edge all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/kubernetesedge.admin",
+  "stage": "ALPHA",
+  "title": "Kubernetes Edge Admin"
+}

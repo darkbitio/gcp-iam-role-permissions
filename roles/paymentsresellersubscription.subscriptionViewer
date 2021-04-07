@@ -1,0 +1,11 @@
+{
+  "description": "Read access to Payments Reseller Subscription resource",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/paymentsresellersubscription.subscriptionViewer",
+  "stage": "ALPHA",
+  "title": "Payments Reseller Subscriptions Viewer"
+}

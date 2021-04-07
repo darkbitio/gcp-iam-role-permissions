@@ -1,0 +1,7 @@
+{
+  "description": "Connect through Endpoint Gateway which uses Identity-Aware Proxy",
+  "etag": "AA==",
+  "name": "roles/iap.gatewayUser",
+  "stage": "ALPHA",
+  "title": "IAP-Secured Gateway User"
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of Inventory resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.inventoryViewer",
+  "stage": "ALPHA",
+  "title": "Inventory Viewer"
+}

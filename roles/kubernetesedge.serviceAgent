@@ -1,0 +1,15 @@
+{
+  "description": "Grants a Kubernetes Edge Service Account the ability to provide access to created Kubernetes Edge clusters to the customer project.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "gkehub.memberships.create",
+    "gkehub.memberships.delete",
+    "gkehub.memberships.generateConnectManifest",
+    "gkehub.memberships.get",
+    "gkehub.operations.cancel",
+    "gkehub.operations.get"
+  ],
+  "name": "roles/kubernetesedge.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Kubernetes Edge Service Agent"
+}

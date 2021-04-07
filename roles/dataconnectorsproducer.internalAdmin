@@ -1,0 +1,7 @@
+{
+  "description": "Full access to all internal Dataconnectors objects.",
+  "etag": "AA==",
+  "name": "roles/dataconnectorsproducer.internalAdmin",
+  "stage": "ALPHA",
+  "title": "Dataconnectors Producer API Admin role"
+}

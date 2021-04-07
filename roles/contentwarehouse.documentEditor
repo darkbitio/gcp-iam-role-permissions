@@ -1,0 +1,11 @@
+{
+  "description": "Grants edit access to document resource in Content Warehouse",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/contentwarehouse.documentEditor",
+  "stage": "ALPHA",
+  "title": "Content Warehouse Document Editor"
+}
