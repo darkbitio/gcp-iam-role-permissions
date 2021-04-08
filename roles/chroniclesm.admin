@@ -1,7 +1,0 @@
-{
-  "description": "The admin role that grants full access to administer all Service Manager details.",
-  "etag": "AA==",
-  "name": "roles/chroniclesm.admin",
-  "stage": "ALPHA",
-  "title": "Chronicle Service Manager Admin"
-}

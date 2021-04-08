@@ -6,6 +6,8 @@
     "gkemulticloud.awsClusters.list",
     "gkemulticloud.awsNodePools.get",
     "gkemulticloud.awsNodePools.list",
+    "gkemulticloud.azureClients.get",
+    "gkemulticloud.azureClients.list",
     "gkemulticloud.azureClusters.get",
     "gkemulticloud.azureClusters.list",
     "gkemulticloud.azureNodePools.get",

@@ -630,6 +630,7 @@
     "gkehub.operations.list",
     "gkemulticloud.awsClusters.list",
     "gkemulticloud.awsNodePools.list",
+    "gkemulticloud.azureClients.list",
     "gkemulticloud.azureClusters.list",
     "gkemulticloud.azureNodePools.list",
     "gkemulticloud.operations.list",
