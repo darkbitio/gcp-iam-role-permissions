@@ -3,7 +3,17 @@
   "etag": "AA==",
   "includedPermissions": [
     "vmmigration.deployments.get",
-    "vmmigration.deployments.list"
+    "vmmigration.deployments.list",
+    "vmmigration.groups.get",
+    "vmmigration.groups.list",
+    "vmmigration.locations.get",
+    "vmmigration.locations.list",
+    "vmmigration.operations.get",
+    "vmmigration.operations.list",
+    "vmmigration.sources.get",
+    "vmmigration.sources.list",
+    "vmmigration.targets.get",
+    "vmmigration.targets.list"
   ],
   "name": "roles/vmmigration.viewer",
   "stage": "BETA",

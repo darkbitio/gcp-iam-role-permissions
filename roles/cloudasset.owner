@@ -101,6 +101,9 @@
     "cloudasset.feeds.get",
     "cloudasset.feeds.list",
     "cloudasset.feeds.update",
+    "recommender.cloudAssetInsights.get",
+    "recommender.cloudAssetInsights.list",
+    "recommender.cloudAssetInsights.update",
     "recommender.locations.get",
     "recommender.locations.list"
   ],
