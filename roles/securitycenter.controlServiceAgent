@@ -491,8 +491,6 @@
     "monitoring.alertPolicies.get",
     "monitoring.alertPolicies.list",
     "orgpolicy.policy.get",
-    "recommender.cloudAssetInsights.get",
-    "recommender.cloudAssetInsights.list",
     "recommender.locations.get",
     "recommender.locations.list",
     "resourcemanager.folders.get",

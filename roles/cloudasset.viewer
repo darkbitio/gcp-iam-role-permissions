@@ -96,8 +96,6 @@
     "cloudasset.assets.exportStorageBuckets",
     "cloudasset.assets.searchAllIamPolicies",
     "cloudasset.assets.searchAllResources",
-    "recommender.cloudAssetInsights.get",
-    "recommender.cloudAssetInsights.list",
     "recommender.locations.get",
     "recommender.locations.list"
   ],
