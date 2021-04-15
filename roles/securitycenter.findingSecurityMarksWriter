@@ -2,7 +2,8 @@
   "description": "Write access to finding security marks",
   "etag": "AA==",
   "includedPermissions": [
-    "securitycenter.findingsecuritymarks.update"
+    "securitycenter.findingsecuritymarks.update",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.findingSecurityMarksWriter",
   "stage": "GA",

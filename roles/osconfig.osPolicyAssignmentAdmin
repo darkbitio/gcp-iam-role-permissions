@@ -1,0 +1,16 @@
+{
+  "description": "Full admin access to OSPolicyAssignments",
+  "etag": "AA==",
+  "includedPermissions": [
+    "osconfig.osPolicyAssignments.create",
+    "osconfig.osPolicyAssignments.delete",
+    "osconfig.osPolicyAssignments.get",
+    "osconfig.osPolicyAssignments.list",
+    "osconfig.osPolicyAssignments.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.osPolicyAssignmentAdmin",
+  "stage": "ALPHA",
+  "title": "OSPolicyAssignment Admin"
+}

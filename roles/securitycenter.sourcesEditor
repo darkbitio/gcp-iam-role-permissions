@@ -5,7 +5,8 @@
     "resourcemanager.organizations.get",
     "securitycenter.sources.get",
     "securitycenter.sources.list",
-    "securitycenter.sources.update"
+    "securitycenter.sources.update",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.sourcesEditor",
   "stage": "GA",

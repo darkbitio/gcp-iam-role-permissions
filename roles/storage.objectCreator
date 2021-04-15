@@ -4,6 +4,9 @@
   "includedPermissions": [
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.listParts",
     "storage.objects.create"
   ],
   "name": "roles/storage.objectCreator",

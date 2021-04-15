@@ -7,7 +7,8 @@
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
     "securitycenter.sources.get",
-    "securitycenter.sources.list"
+    "securitycenter.sources.list",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.findingsViewer",
   "stage": "GA",

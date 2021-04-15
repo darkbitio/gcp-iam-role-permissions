@@ -1,0 +1,17 @@
+{
+  "description": "Read-only access to Hub and Spoke resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "networkconnectivity.hubs.get",
+    "networkconnectivity.hubs.getIamPolicy",
+    "networkconnectivity.hubs.list",
+    "networkconnectivity.spokes.get",
+    "networkconnectivity.spokes.getIamPolicy",
+    "networkconnectivity.spokes.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/networkconnectivity.hubViewer",
+  "stage": "ALPHA",
+  "title": "Hub & Spoke Viewer"
+}

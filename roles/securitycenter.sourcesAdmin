@@ -7,7 +7,8 @@
     "securitycenter.sources.getIamPolicy",
     "securitycenter.sources.list",
     "securitycenter.sources.setIamPolicy",
-    "securitycenter.sources.update"
+    "securitycenter.sources.update",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.sourcesAdmin",
   "stage": "GA",

@@ -13,6 +13,7 @@
     "securitycenter.securityhealthanalyticssettings.calculate",
     "securitycenter.securityhealthanalyticssettings.get",
     "securitycenter.subscription.get",
+    "securitycenter.userinterfacemetadata.get",
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get"
   ],

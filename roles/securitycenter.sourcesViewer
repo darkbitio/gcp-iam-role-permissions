@@ -4,7 +4,8 @@
   "includedPermissions": [
     "resourcemanager.organizations.get",
     "securitycenter.sources.get",
-    "securitycenter.sources.list"
+    "securitycenter.sources.list",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.sourcesViewer",
   "stage": "GA",

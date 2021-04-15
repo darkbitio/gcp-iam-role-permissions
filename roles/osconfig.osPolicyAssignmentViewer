@@ -1,0 +1,13 @@
+{
+  "description": "Viewer of OSPolicyAssignment resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "osconfig.osPolicyAssignments.get",
+    "osconfig.osPolicyAssignments.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.osPolicyAssignmentViewer",
+  "stage": "ALPHA",
+  "title": "OSPolicyAssignment Viewer"
+}

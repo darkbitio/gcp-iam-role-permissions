@@ -530,6 +530,7 @@
     "securitycenter.sources.list",
     "securitycenter.sources.update",
     "securitycenter.subscription.get",
+    "securitycenter.userinterfacemetadata.get",
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get",
     "serviceusage.quotas.get",

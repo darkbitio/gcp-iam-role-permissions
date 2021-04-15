@@ -2,7 +2,8 @@
   "description": "Set state access to findings",
   "etag": "AA==",
   "includedPermissions": [
-    "securitycenter.findings.setState"
+    "securitycenter.findings.setState",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.findingsStateSetter",
   "stage": "GA",

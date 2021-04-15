@@ -1,0 +1,13 @@
+{
+  "description": "Viewer of InstanceOSPoliciesCompliance resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "osconfig.instanceOSPoliciesCompliances.get",
+    "osconfig.instanceOSPoliciesCompliances.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.instanceOSPoliciesComplianceViewer",
+  "stage": "ALPHA",
+  "title": "InstanceOSPoliciesCompliance Viewer"
+}

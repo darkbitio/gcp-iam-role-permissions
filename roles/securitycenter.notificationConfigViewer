@@ -3,7 +3,8 @@
   "etag": "AA==",
   "includedPermissions": [
     "securitycenter.notificationconfig.get",
-    "securitycenter.notificationconfig.list"
+    "securitycenter.notificationconfig.list",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.notificationConfigViewer",
   "stage": "GA",

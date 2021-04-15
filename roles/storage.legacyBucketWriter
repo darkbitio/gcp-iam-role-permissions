@@ -3,6 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "storage.buckets.get",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.listParts",
     "storage.objects.create",
     "storage.objects.delete",
     "storage.objects.list"

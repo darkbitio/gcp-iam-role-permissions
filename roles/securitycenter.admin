@@ -56,6 +56,7 @@
     "securitycenter.sources.setIamPolicy",
     "securitycenter.sources.update",
     "securitycenter.subscription.get",
+    "securitycenter.userinterfacemetadata.get",
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get",
     "securitycenter.websecurityscannersettings.update",

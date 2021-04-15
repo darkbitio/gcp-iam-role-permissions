@@ -30,6 +30,7 @@
     "securitycenter.sources.get",
     "securitycenter.sources.list",
     "securitycenter.subscription.get",
+    "securitycenter.userinterfacemetadata.get",
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get",
     "serviceusage.quotas.get",

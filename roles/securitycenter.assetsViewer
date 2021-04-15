@@ -5,7 +5,8 @@
     "resourcemanager.organizations.get",
     "securitycenter.assets.group",
     "securitycenter.assets.list",
-    "securitycenter.assets.listAssetPropertyNames"
+    "securitycenter.assets.listAssetPropertyNames",
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/securitycenter.assetsViewer",
   "stage": "GA",
