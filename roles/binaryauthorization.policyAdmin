@@ -2,6 +2,10 @@
   "description": "Administrator of Binary Authorization Policy",
   "etag": "AA==",
   "includedPermissions": [
+    "binaryauthorization.continuousValidationConfig.get",
+    "binaryauthorization.continuousValidationConfig.getIamPolicy",
+    "binaryauthorization.continuousValidationConfig.setIamPolicy",
+    "binaryauthorization.continuousValidationConfig.update",
     "binaryauthorization.policy.get",
     "binaryauthorization.policy.getIamPolicy",
     "binaryauthorization.policy.setIamPolicy",

@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkconnectivity.spokeAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Spoke Admin"
 }
