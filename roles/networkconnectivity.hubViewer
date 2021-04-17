@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkconnectivity.hubViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Hub & Spoke Viewer"
 }

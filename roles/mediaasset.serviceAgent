@@ -2,8 +2,6 @@
   "description": "Downloads and uploads media files from and to customer GCS buckets.",
   "etag": "AA==",
   "includedPermissions": [
-    "pubsub.topics.get",
-    "pubsub.topics.publish",
     "storage.objects.create",
     "storage.objects.delete",
     "storage.objects.get"

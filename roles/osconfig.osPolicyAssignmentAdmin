@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.osPolicyAssignmentAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "OSPolicyAssignment Admin"
 }

@@ -5,6 +5,6 @@
     "commerceoffercatalog.offers.get"
   ],
   "name": "roles/commerceoffercatalog.offersViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Offer Catalog Offers Viewer"
 }

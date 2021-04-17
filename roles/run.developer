@@ -21,6 +21,6 @@
     "run.services.update"
   ],
   "name": "roles/run.developer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Run Developer"
 }

@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudAssetInsightsAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Asset Insights Admin"
 }

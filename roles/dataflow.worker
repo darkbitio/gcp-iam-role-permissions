@@ -7,6 +7,7 @@
     "compute.instances.setDiskAutoDelete",
     "dataflow.jobs.get",
     "logging.logEntries.create",
+    "storage.buckets.get",
     "storage.objects.create",
     "storage.objects.get"
   ],

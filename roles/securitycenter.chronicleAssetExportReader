@@ -1,0 +1,7 @@
+{
+  "description": "Read access to Chronicle Asset Export",
+  "etag": "AA==",
+  "name": "roles/securitycenter.chronicleAssetExportReader",
+  "stage": "ALPHA",
+  "title": "Security Center Chronicle Asset Export Reader"
+}
