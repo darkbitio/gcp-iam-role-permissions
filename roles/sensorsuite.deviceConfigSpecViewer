@@ -1,7 +1,0 @@
-{
-  "description": "Allows access to view device config specs",
-  "etag": "AA==",
-  "name": "roles/sensorsuite.deviceConfigSpecViewer",
-  "stage": "ALPHA",
-  "title": " Sensor Suite Device Config Spec Viewer"
-}

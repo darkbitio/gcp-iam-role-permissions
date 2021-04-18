@@ -2,8 +2,6 @@
   "description": "Editor of Binary Authorization Policy",
   "etag": "AA==",
   "includedPermissions": [
-    "binaryauthorization.continuousValidationConfig.get",
-    "binaryauthorization.continuousValidationConfig.update",
     "binaryauthorization.policy.get",
     "binaryauthorization.policy.update",
     "resourcemanager.projects.get",

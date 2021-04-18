@@ -1,7 +1,0 @@
-{
-  "description": "Super user that can perform all Resource Settings operations",
-  "etag": "AA==",
-  "name": "roles/resourcesettings.superUser",
-  "stage": "ALPHA",
-  "title": "Resource Settings Super User"
-}

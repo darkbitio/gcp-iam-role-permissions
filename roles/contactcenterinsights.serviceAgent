@@ -1,5 +1,5 @@
 {
-  "description": "Gives Contact Center AI Service Account access to get Google Cloud Storage files and to export data to BigQuery",
+  "description": "Allows Contact Center AI to read and write APIs including BigQuery, Dialogflow, and Storage.",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.datasets.create",
@@ -25,6 +25,9 @@
     "dialogflow.documents.delete",
     "dialogflow.documents.get",
     "dialogflow.documents.list",
+    "dialogflow.operations.get",
+    "pubsub.topics.get",
+    "pubsub.topics.publish",
     "storage.objects.get",
     "storage.objects.list"
   ],

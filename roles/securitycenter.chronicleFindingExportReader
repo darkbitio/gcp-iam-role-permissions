@@ -1,7 +1,0 @@
-{
-  "description": "Read access to Chronicle Finding Export",
-  "etag": "AA==",
-  "name": "roles/securitycenter.chronicleFindingExportReader",
-  "stage": "ALPHA",
-  "title": "Security Center Chronicle Finding Export Reader"
-}
