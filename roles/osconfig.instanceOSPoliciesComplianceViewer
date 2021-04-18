@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.instanceOSPoliciesComplianceViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "InstanceOSPoliciesCompliance Viewer"
 }

@@ -23,6 +23,7 @@
     "compute.subnetworks.list",
     "compute.zones.get",
     "container.clusters.get",
+    "container.clusters.list",
     "container.pods.list",
     "container.serviceAccounts.get",
     "container.serviceAccounts.update",

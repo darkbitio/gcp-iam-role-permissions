@@ -2,9 +2,6 @@
   "description": "Gives AI Platform the permissions it needs to function.",
   "etag": "AA==",
   "includedPermissions": [
-    "aiplatform.batchPredictionJobs.create",
-    "aiplatform.batchPredictionJobs.get",
-    "aiplatform.batchPredictionJobs.list",
     "aiplatform.customJobs.cancel",
     "aiplatform.customJobs.create",
     "aiplatform.customJobs.get",

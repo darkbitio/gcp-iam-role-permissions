@@ -2,8 +2,6 @@
   "description": "Admin has full access to VMware Engine Service",
   "etag": "AA==",
   "includedPermissions": [
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
     "vmwareengine.services.use",
     "vmwareengine.services.view"
   ],
