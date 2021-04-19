@@ -1,0 +1,17 @@
+{
+  "description": "Full management of Firebase App Check.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebaseappcheck.debugTokens.get",
+    "firebaseappcheck.debugTokens.update",
+    "firebaseappcheck.deviceCheckConfig.get",
+    "firebaseappcheck.deviceCheckConfig.update",
+    "firebaseappcheck.recaptchaConfig.get",
+    "firebaseappcheck.recaptchaConfig.update",
+    "firebaseappcheck.services.get",
+    "firebaseappcheck.services.update"
+  ],
+  "name": "roles/firebaseappcheck.admin",
+  "stage": "ALPHA",
+  "title": "Firebase App Check Admin"
+}

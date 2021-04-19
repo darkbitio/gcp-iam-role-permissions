@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudAssetInsightsViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Asset Insights Viewer"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Create and manage CAs, revoke certificates, create CA configurations, and read-only access for CA Service resources.",
+  "description": "Create and manage CAs, revoke certificates, create certificates templates, and read-only access for CA Service resources.",
   "etag": "AA==",
   "includedPermissions": [
     "privateca.certificateAuthorities.create",

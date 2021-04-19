@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkconnectivity.hubAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Hub & Spoke Admin"
 }
