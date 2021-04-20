@@ -25,7 +25,6 @@
     "compute.instances.getEffectiveFirewalls",
     "compute.instances.setShieldedInstanceIntegrityPolicy",
     "compute.instances.setShieldedVmIntegrityPolicy",
-    "compute.instances.updateSecurity",
     "compute.instances.updateShieldedInstanceConfig",
     "compute.instances.updateShieldedVmConfig",
     "compute.networks.get",

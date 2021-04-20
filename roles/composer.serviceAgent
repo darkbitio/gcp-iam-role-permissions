@@ -260,7 +260,6 @@
     "compute.instances.updateAccessConfig",
     "compute.instances.updateDisplayDevice",
     "compute.instances.updateNetworkInterface",
-    "compute.instances.updateSecurity",
     "compute.instances.updateShieldedInstanceConfig",
     "compute.instances.updateShieldedVmConfig",
     "compute.instances.use",
