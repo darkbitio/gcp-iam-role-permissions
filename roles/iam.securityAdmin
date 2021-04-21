@@ -841,6 +841,8 @@
     "pubsublite.topics.list",
     "recaptchaenterprise.keys.list",
     "recommender.cloudAssetInsights.list",
+    "recommender.cloudsqlInstanceDiskUsageTrendInsights.list",
+    "recommender.cloudsqlInstanceOutOfDiskRecommendations.list",
     "recommender.commitmentUtilizationInsights.list",
     "recommender.computeAddressIdleResourceInsights.list",
     "recommender.computeAddressIdleResourceRecommendations.list",
