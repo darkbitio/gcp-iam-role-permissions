@@ -16,6 +16,6 @@
     "run.services.list"
   ],
   "name": "roles/run.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Run Viewer"
 }
