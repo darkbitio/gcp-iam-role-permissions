@@ -5,6 +5,6 @@
     "privateca.certificates.create"
   ],
   "name": "roles/privateca.certificateRequester",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "CA Service Certificate Requester"
 }

@@ -1,0 +1,7 @@
+{
+  "description": "Access to edit GCP flexible resources. This role excludes permission to set IAM policy.",
+  "etag": "AA==",
+  "name": "roles/resourcemanager.flexResourceEditor",
+  "stage": "ALPHA",
+  "title": "FlexibleResource Editor"
+}

@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of InstanceOSPoliciesCompliance resources",
+  "description": "Viewer of OS Policies Compliance of VM instances",
   "etag": "AA==",
   "includedPermissions": [
     "osconfig.instanceOSPoliciesCompliances.get",

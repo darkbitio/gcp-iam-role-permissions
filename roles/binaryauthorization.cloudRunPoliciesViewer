@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of Binary Authorization Cloud Run Policies",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/binaryauthorization.cloudRunPoliciesViewer",
+  "stage": "ALPHA",
+  "title": "Binary Authorization Cloud Run Policies Viewer"
+}

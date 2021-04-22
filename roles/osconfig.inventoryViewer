@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of Inventory resources",
+  "description": "Viewer of OS Inventories",
   "etag": "AA==",
   "includedPermissions": [
     "osconfig.inventories.get",
@@ -9,5 +9,5 @@
   ],
   "name": "roles/osconfig.inventoryViewer",
   "stage": "BETA",
-  "title": "Inventory Viewer"
+  "title": "OS Inventory Viewer"
 }

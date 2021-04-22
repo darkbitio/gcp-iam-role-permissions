@@ -22,6 +22,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/privateca.auditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "CA Service Auditor"
 }

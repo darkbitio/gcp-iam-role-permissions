@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudsqlViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud SQL Recommender Viewer"
 }

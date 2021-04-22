@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/privateca.certificateManager",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "CA Service Certificate Manager"
 }

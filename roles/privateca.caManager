@@ -31,6 +31,6 @@
     "storage.buckets.create"
   ],
   "name": "roles/privateca.caManager",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "CA Service Operation Manager"
 }
