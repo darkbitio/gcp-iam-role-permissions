@@ -12,6 +12,6 @@
     "firebaseappcheck.services.update"
   ],
   "name": "roles/firebaseappcheck.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Firebase App Check Admin"
 }

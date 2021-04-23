@@ -2,10 +2,10 @@
   "description": "Access to list Tags and manage their associations with resources",
   "etag": "AA==",
   "includedPermissions": [
-    "resourcemanager.hierarchyNodes.createTagBinding",
-    "resourcemanager.hierarchyNodes.deleteTagBinding",
-    "resourcemanager.hierarchyNodes.listTagBindings",
     "resourcemanager.projects.get",
+    "resourcemanager.resourceTagBindings.create",
+    "resourcemanager.resourceTagBindings.delete",
+    "resourcemanager.resourceTagBindings.list",
     "resourcemanager.tagKeys.list",
     "resourcemanager.tagValueBindings.create",
     "resourcemanager.tagValueBindings.delete",

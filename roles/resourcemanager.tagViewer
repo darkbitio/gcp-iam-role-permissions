@@ -2,7 +2,7 @@
   "description": "Access to list Tags and their associations with resources",
   "etag": "AA==",
   "includedPermissions": [
-    "resourcemanager.hierarchyNodes.listTagBindings",
+    "resourcemanager.resourceTagBindings.list",
     "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",
     "resourcemanager.tagValues.get",
