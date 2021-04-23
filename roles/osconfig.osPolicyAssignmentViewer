@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of OS Policy Assignments",
+  "description": "Viewer of OSPolicyAssignment resources",
   "etag": "AA==",
   "includedPermissions": [
     "osconfig.osPolicyAssignments.get",

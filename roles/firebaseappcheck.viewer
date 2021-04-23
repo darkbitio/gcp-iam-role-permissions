@@ -8,6 +8,6 @@
     "firebaseappcheck.services.get"
   ],
   "name": "roles/firebaseappcheck.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Firebase App Check Viewer"
 }

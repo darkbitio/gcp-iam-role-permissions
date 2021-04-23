@@ -3321,7 +3321,6 @@
     "redis.instances.getAuthString",
     "redis.instances.import",
     "redis.instances.list",
-    "redis.instances.rescheduleMaintenance",
     "redis.instances.update",
     "redis.instances.updateAuth",
     "redis.instances.upgrade",

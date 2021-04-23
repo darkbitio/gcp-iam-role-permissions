@@ -2,6 +2,7 @@
   "description": "Specify resources to be mirrored.",
   "etag": "AA==",
   "includedPermissions": [
+    "compute.instances.updateSecurity",
     "compute.networks.mirror",
     "compute.projects.get",
     "compute.subnetworks.mirror",
