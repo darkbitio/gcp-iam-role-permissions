@@ -117,6 +117,7 @@
     "compute.instances.getSerialPortOutput",
     "compute.instances.list",
     "compute.instances.listReferrers",
+    "compute.instances.updateSecurity",
     "compute.instances.use",
     "compute.instances.useReadOnly",
     "compute.interconnectAttachments.create",

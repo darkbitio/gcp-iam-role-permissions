@@ -2,9 +2,12 @@
   "description": "Create and manage CAs, revoke certificates, create certificates templates, and read-only access for CA Service resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "privateca.caPools.create",
+    "privateca.caPools.delete",
     "privateca.caPools.get",
     "privateca.caPools.getIamPolicy",
     "privateca.caPools.list",
+    "privateca.caPools.update",
     "privateca.certificateAuthorities.create",
     "privateca.certificateAuthorities.delete",
     "privateca.certificateAuthorities.get",
@@ -15,9 +18,12 @@
     "privateca.certificateRevocationLists.getIamPolicy",
     "privateca.certificateRevocationLists.list",
     "privateca.certificateRevocationLists.update",
+    "privateca.certificateTemplates.create",
+    "privateca.certificateTemplates.delete",
     "privateca.certificateTemplates.get",
     "privateca.certificateTemplates.getIamPolicy",
     "privateca.certificateTemplates.list",
+    "privateca.certificateTemplates.update",
     "privateca.certificates.get",
     "privateca.certificates.getIamPolicy",
     "privateca.certificates.list",
@@ -37,6 +43,6 @@
     "storage.buckets.create"
   ],
   "name": "roles/privateca.caManager",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "CA Service Operation Manager"
 }

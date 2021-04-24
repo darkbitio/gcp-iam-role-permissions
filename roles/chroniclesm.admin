@@ -1,5 +1,5 @@
 {
-  "description": "The admin role that grants full access to administer all Service Manager details.",
+  "description": "Admins can view and modify Chronicle service details.",
   "etag": "AA==",
   "includedPermissions": [
     "chroniclesm.gcpAssociations.create",
@@ -9,6 +9,6 @@
     "chroniclesm.gcpSettings.update"
   ],
   "name": "roles/chroniclesm.admin",
-  "stage": "ALPHA",
-  "title": "Chronicle Service Manager Admin"
+  "stage": "GA",
+  "title": "Chronicle Service Admin"
 }
