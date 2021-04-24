@@ -22,6 +22,6 @@
     "run.services.update"
   ],
   "name": "roles/run.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Run Admin"
 }

@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudsqlAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud SQL Recommender Admin"
 }

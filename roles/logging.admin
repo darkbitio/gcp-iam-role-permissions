@@ -2,6 +2,7 @@
   "description": "Access to all logging permissions, and dependent permissions.",
   "etag": "AA==",
   "includedPermissions": [
+    "logging.buckets.copyLogEntries",
     "logging.buckets.create",
     "logging.buckets.delete",
     "logging.buckets.get",
@@ -34,6 +35,9 @@
     "logging.notificationRules.get",
     "logging.notificationRules.list",
     "logging.notificationRules.update",
+    "logging.operations.cancel",
+    "logging.operations.get",
+    "logging.operations.list",
     "logging.privateLogEntries.list",
     "logging.queries.create",
     "logging.queries.delete",

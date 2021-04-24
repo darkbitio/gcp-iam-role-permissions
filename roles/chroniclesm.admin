@@ -1,0 +1,14 @@
+{
+  "description": "The admin role that grants full access to administer all Service Manager details.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "chroniclesm.gcpAssociations.create",
+    "chroniclesm.gcpAssociations.delete",
+    "chroniclesm.gcpAssociations.get",
+    "chroniclesm.gcpSettings.get",
+    "chroniclesm.gcpSettings.update"
+  ],
+  "name": "roles/chroniclesm.admin",
+  "stage": "ALPHA",
+  "title": "Chronicle Service Manager Admin"
+}

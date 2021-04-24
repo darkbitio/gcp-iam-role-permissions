@@ -2,12 +2,18 @@
   "description": "Create certificates and read-only access for CA Service resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "privateca.caPools.get",
+    "privateca.caPools.getIamPolicy",
+    "privateca.caPools.list",
     "privateca.certificateAuthorities.get",
     "privateca.certificateAuthorities.getIamPolicy",
     "privateca.certificateAuthorities.list",
     "privateca.certificateRevocationLists.get",
     "privateca.certificateRevocationLists.getIamPolicy",
     "privateca.certificateRevocationLists.list",
+    "privateca.certificateTemplates.get",
+    "privateca.certificateTemplates.getIamPolicy",
+    "privateca.certificateTemplates.list",
     "privateca.certificates.create",
     "privateca.certificates.get",
     "privateca.certificates.getIamPolicy",
@@ -23,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/privateca.certificateManager",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "CA Service Certificate Manager"
 }

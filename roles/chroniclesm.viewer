@@ -1,0 +1,11 @@
+{
+  "description": "Viewer gives the ability to view all Service Manager details but not change them.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "chroniclesm.gcpAssociations.get",
+    "chroniclesm.gcpSettings.get"
+  ],
+  "name": "roles/chroniclesm.viewer",
+  "stage": "ALPHA",
+  "title": "Chronicle Service Manager Viewer"
+}
