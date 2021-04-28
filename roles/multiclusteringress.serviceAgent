@@ -28,6 +28,7 @@
     "compute.forwardingRules.setLabels",
     "compute.forwardingRules.setTarget",
     "compute.forwardingRules.update",
+    "compute.globalAddresses.list",
     "compute.globalAddresses.use",
     "compute.globalForwardingRules.create",
     "compute.globalForwardingRules.delete",
