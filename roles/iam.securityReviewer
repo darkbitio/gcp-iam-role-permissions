@@ -836,6 +836,7 @@
     "tpu.tensorflowversions.list",
     "transcoder.jobTemplates.list",
     "transcoder.jobs.list",
+    "translationhub.portals.list",
     "vmmigration.cloneJobs.list",
     "vmmigration.cutoverJobs.list",
     "vmmigration.datacenterConnectors.list",

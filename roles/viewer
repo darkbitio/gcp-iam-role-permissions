@@ -1761,6 +1761,8 @@
     "transcoder.jobTemplates.list",
     "transcoder.jobs.get",
     "transcoder.jobs.list",
+    "translationhub.portals.get",
+    "translationhub.portals.list",
     "vmmigration.cloneJobs.get",
     "vmmigration.cloneJobs.list",
     "vmmigration.cutoverJobs.get",
