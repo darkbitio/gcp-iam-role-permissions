@@ -27,6 +27,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkemulticloud.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Anthos Multi-Cloud Service Agent"
 }

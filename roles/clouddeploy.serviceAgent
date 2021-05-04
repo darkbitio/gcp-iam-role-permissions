@@ -15,6 +15,6 @@
     "storage.buckets.get"
   ],
   "name": "roles/clouddeploy.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Deploy Service Agent"
 }
