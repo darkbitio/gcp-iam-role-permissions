@@ -1,5 +1,5 @@
 {
-  "description": "Admin of Translation Hub.",
+  "description": "Admin of Translation Hub",
   "etag": "AA==",
   "includedPermissions": [
     "automl.models.get",
@@ -19,6 +19,6 @@
     "translationhub.portals.update"
   ],
   "name": "roles/translationhub.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Translation Hub Admin"
 }
