@@ -1,5 +1,5 @@
 {
-  "description": "Portal user of Translation Hub.",
+  "description": "Portal user of Translation Hub",
   "etag": "AA==",
   "includedPermissions": [
     "automl.models.get",
@@ -14,6 +14,6 @@
     "translationhub.portals.list"
   ],
   "name": "roles/translationhub.portalUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Translation Hub Portal User"
 }
