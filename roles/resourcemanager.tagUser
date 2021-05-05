@@ -6,6 +6,7 @@
     "resourcemanager.hierarchyNodes.deleteTagBinding",
     "resourcemanager.hierarchyNodes.listTagBindings",
     "resourcemanager.projects.get",
+    "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",
     "resourcemanager.tagValueBindings.create",
     "resourcemanager.tagValueBindings.delete",
