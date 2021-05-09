@@ -94,6 +94,7 @@
     "cloudasset.assets.exportSpannerInstances",
     "cloudasset.assets.exportSqladminInstances",
     "cloudasset.assets.exportStorageBuckets",
+    "cloudasset.assets.listCloudkmsCryptoKeys",
     "cloudasset.assets.searchAllIamPolicies",
     "cloudasset.assets.searchAllResources",
     "cloudasset.feeds.create",
