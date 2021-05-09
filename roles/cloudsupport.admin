@@ -8,7 +8,6 @@
     "cloudsupport.accounts.getIamPolicy",
     "cloudsupport.accounts.getUserRoles",
     "cloudsupport.accounts.list",
-    "cloudsupport.accounts.purchase",
     "cloudsupport.accounts.setIamPolicy",
     "cloudsupport.accounts.update",
     "cloudsupport.accounts.updateUserRoles",
