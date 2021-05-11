@@ -6,6 +6,6 @@
     "dlp.columnDataProfiles.list"
   ],
   "name": "roles/dlp.columnDataProfilesReader",
-  "stage": "ALPHA",
-  "title": "DLP column Data Profiles Reader"
+  "stage": "GA",
+  "title": "DLP Column Data Profiles Reader"
 }
