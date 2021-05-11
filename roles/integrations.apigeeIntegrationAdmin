@@ -1,5 +1,5 @@
 {
-  "description": "A user that has full access (CRUD) to all Apigee integrations.",
+  "description": "A user that has full access to all Apigee integrations.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",

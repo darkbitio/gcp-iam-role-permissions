@@ -6,6 +6,6 @@
     "dlp.projectDataProfiles.list"
   ],
   "name": "roles/dlp.projectDataProfilesReader",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "DLP Project Data Profiles Reader"
 }

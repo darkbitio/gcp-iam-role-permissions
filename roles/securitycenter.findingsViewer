@@ -2,7 +2,9 @@
   "description": "Read access to findings",
   "etag": "AA==",
   "includedPermissions": [
+    "resourcemanager.folders.get",
     "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
     "securitycenter.findings.group",
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
