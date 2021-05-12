@@ -336,7 +336,6 @@
     "recommender.cloudAssetInsights.list",
     "recommender.locations.get",
     "recommender.locations.list",
-    "resourcemanager.folders.get",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
