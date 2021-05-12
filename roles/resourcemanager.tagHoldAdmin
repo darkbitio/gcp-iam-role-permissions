@@ -1,0 +1,7 @@
+{
+  "description": "Access to create, delete and list TagHolds under a TagValue",
+  "etag": "AA==",
+  "name": "roles/resourcemanager.tagHoldAdmin",
+  "stage": "ALPHA",
+  "title": "Tag Hold Administrator"
+}

@@ -9,6 +9,6 @@
     "dlp.estimates.list"
   ],
   "name": "roles/dlp.estimatesAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "DLP Cost Estimation"
 }
