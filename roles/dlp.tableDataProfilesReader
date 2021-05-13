@@ -6,6 +6,6 @@
     "dlp.tableDataProfiles.list"
   ],
   "name": "roles/dlp.tableDataProfilesReader",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "DLP Table Data Profiles Reader"
 }
