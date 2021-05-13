@@ -17,7 +17,6 @@
     "cloudsecurityscanner.scans.run",
     "cloudsecurityscanner.scans.update",
     "compute.addresses.list",
-    "resourcemanager.folders.get",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
