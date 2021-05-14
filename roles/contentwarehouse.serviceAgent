@@ -1,0 +1,11 @@
+{
+  "description": "Gives the Content Warehouse service account to manage customer resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/contentwarehouse.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Content Warehouse Service Agent"
+}

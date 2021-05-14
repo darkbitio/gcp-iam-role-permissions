@@ -1618,6 +1618,8 @@
     "resourcemanager.tagValues.get",
     "resourcemanager.tagValues.getIamPolicy",
     "resourcemanager.tagValues.list",
+    "resourcesettings.settings.get",
+    "resourcesettings.settings.list",
     "retail.catalogs.list",
     "retail.operations.get",
     "retail.operations.list",

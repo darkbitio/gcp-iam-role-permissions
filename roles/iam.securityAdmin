@@ -894,6 +894,7 @@
     "resourcemanager.tagValues.getIamPolicy",
     "resourcemanager.tagValues.list",
     "resourcemanager.tagValues.setIamPolicy",
+    "resourcesettings.settings.list",
     "retail.catalogs.list",
     "retail.operations.list",
     "retail.products.list",

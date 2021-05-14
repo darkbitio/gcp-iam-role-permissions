@@ -764,6 +764,7 @@
     "resourcemanager.tagKeys.list",
     "resourcemanager.tagValues.getIamPolicy",
     "resourcemanager.tagValues.list",
+    "resourcesettings.settings.list",
     "retail.catalogs.list",
     "retail.operations.list",
     "retail.products.list",

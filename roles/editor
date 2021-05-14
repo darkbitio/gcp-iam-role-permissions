@@ -3412,6 +3412,8 @@
     "resourcemanager.tagValues.getIamPolicy",
     "resourcemanager.tagValues.list",
     "resourcemanager.tagValues.update",
+    "resourcesettings.settings.get",
+    "resourcesettings.settings.list",
     "retail.catalogs.list",
     "retail.catalogs.update",
     "retail.operations.get",
