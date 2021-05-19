@@ -28,6 +28,8 @@
     "aiplatform.modelEvaluations.list",
     "aiplatform.models.get",
     "aiplatform.models.list",
+    "aiplatform.nasJobs.get",
+    "aiplatform.nasJobs.list",
     "aiplatform.operations.list",
     "aiplatform.specialistPools.get",
     "aiplatform.specialistPools.list",

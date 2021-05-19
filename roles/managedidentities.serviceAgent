@@ -30,6 +30,7 @@
     "dns.projects.get",
     "dns.resourceRecordSets.create",
     "dns.resourceRecordSets.delete",
+    "dns.resourceRecordSets.get",
     "dns.resourceRecordSets.list",
     "dns.resourceRecordSets.update",
     "monitoring.metricDescriptors.create",
