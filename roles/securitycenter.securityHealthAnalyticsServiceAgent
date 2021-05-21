@@ -7,7 +7,6 @@
     "apikeys.keys.lookup",
     "appengine.applications.get",
     "cloudasset.assets.analyzeIamPolicy",
-    "cloudasset.assets.analyzeMove",
     "cloudasset.assets.exportAccessLevel",
     "cloudasset.assets.exportAccessPolicy",
     "cloudasset.assets.exportAllAccessPolicy",

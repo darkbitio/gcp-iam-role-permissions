@@ -54,8 +54,6 @@
     "dialogflow.phoneNumberOrders.get",
     "dialogflow.phoneNumberOrders.list",
     "dialogflow.phoneNumbers.list",
-    "dialogflow.securitySettings.get",
-    "dialogflow.securitySettings.list",
     "dialogflow.sessionEntityTypes.create",
     "dialogflow.sessionEntityTypes.delete",
     "dialogflow.sessionEntityTypes.get",

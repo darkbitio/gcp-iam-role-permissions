@@ -14,7 +14,6 @@
     "dns.policies.get",
     "dns.policies.list",
     "dns.projects.get",
-    "dns.resourceRecordSets.get",
     "dns.resourceRecordSets.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
