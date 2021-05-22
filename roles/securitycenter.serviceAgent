@@ -15,6 +15,7 @@
     "appengine.versions.get",
     "appengine.versions.list",
     "cloudasset.assets.analyzeIamPolicy",
+    "cloudasset.assets.analyzeMove",
     "cloudasset.assets.exportAccessLevel",
     "cloudasset.assets.exportAccessPolicy",
     "cloudasset.assets.exportAllAccessPolicy",

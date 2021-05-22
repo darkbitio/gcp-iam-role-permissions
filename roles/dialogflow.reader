@@ -43,6 +43,8 @@
     "dialogflow.phoneNumberOrders.get",
     "dialogflow.phoneNumberOrders.list",
     "dialogflow.phoneNumbers.list",
+    "dialogflow.securitySettings.get",
+    "dialogflow.securitySettings.list",
     "dialogflow.sessionEntityTypes.get",
     "dialogflow.sessionEntityTypes.list",
     "dialogflow.smartMessagingEntries.get",
