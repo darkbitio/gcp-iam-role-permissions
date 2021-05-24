@@ -1,5 +1,5 @@
 {
-  "description": "Grants full access to all resources in AI Platform Feature Store",
+  "description": "Grants access to use all resources in AI Platform Feature Store",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.create",
@@ -30,7 +30,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/aiplatform.featurestoreAdmin",
-  "stage": "BETA",
-  "title": "AI Platform Feature Store Admin"
+  "name": "roles/aiplatform.featurestoreUser",
+  "stage": "ALPHA",
+  "title": "AI Platform Feature Store User"
 }

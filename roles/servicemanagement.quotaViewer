@@ -3,9 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "monitoring.timeSeries.list",
-    "servicemanagement.consumerSettings.get",
-    "servicemanagement.consumerSettings.getIamPolicy",
-    "servicemanagement.consumerSettings.list",
     "serviceusage.quotas.get",
     "serviceusage.services.get",
     "serviceusage.services.list"
