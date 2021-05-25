@@ -7,6 +7,6 @@
     "resourcesettings.settings.update"
   ],
   "name": "roles/resourcesettings.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Resource Settings Administrator"
 }

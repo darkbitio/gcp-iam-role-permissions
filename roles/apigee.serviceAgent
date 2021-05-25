@@ -27,6 +27,8 @@
     "apigee.organizations.get",
     "apigee.proxyrevisions.get",
     "cloudtrace.traces.patch",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
     "monitoring.metricDescriptors.create",
     "monitoring.metricDescriptors.get",
     "monitoring.metricDescriptors.list",
