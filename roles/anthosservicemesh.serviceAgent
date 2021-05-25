@@ -2,6 +2,7 @@
   "description": "Gives the Anthos Service Mesh service agent access to Cloud Platform resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "container.clusters.get",
     "container.configMaps.get",
     "container.configMaps.list",
     "container.customResourceDefinitions.create",

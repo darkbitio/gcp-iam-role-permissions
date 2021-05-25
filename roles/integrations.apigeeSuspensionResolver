@@ -1,5 +1,5 @@
 {
-  "description": "A role that can resolve suspended Apigee integrations.",
+  "description": "A role that can approve / reject Apigee integrations that contain a suspension/wait task.",
   "etag": "AA==",
   "includedPermissions": [
     "integrations.apigeeSuspensions.list",
@@ -9,5 +9,5 @@
   ],
   "name": "roles/integrations.apigeeSuspensionResolver",
   "stage": "ALPHA",
-  "title": "Apigee Suspension Resolver"
+  "title": "Apigee Integration Approver"
 }
