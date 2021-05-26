@@ -1,7 +1,0 @@
-{
-  "description": "An admin has access to all resources and can perform all administrative actions in an AAM project.",
-  "etag": "AA==",
-  "name": "roles/dialogflow.aamAdmin",
-  "stage": "ALPHA",
-  "title": "AAM Admin"
-}

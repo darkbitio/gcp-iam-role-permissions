@@ -1,7 +1,0 @@
-{
-  "description": "A Dialog Designer can label conversational data and propose taxonomy changes for virtual agent modeling.",
-  "etag": "AA==",
-  "name": "roles/dialogflow.aamDialogDesigner",
-  "stage": "ALPHA",
-  "title": "AAM Dialog Designer"
-}

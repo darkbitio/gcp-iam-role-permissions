@@ -6,6 +6,6 @@
     "storage.objects.list"
   ],
   "name": "roles/contentwarehouse.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Content Warehouse Service Agent"
 }

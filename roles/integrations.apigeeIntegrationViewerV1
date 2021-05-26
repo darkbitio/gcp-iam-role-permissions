@@ -1,0 +1,11 @@
+{
+  "description": "A developer that can list and view Apigee integrations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/integrations.apigeeIntegrationViewerV1",
+  "stage": "ALPHA",
+  "title": "Apigee Integration Viewer"
+}

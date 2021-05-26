@@ -1,7 +1,0 @@
-{
-  "description": "A Conversational Architect can label conversational data, approve taxonomy changes and design virtual agents for a customer's use cases.",
-  "etag": "AA==",
-  "name": "roles/dialogflow.aamConversationalArchitect",
-  "stage": "ALPHA",
-  "title": "AAM Conversational Architect"
-}

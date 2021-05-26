@@ -1,7 +1,0 @@
-{
-  "description": "A user can view the taxonomy and data reports in an AAM project.",
-  "etag": "AA==",
-  "name": "roles/dialogflow.aamViewer",
-  "stage": "ALPHA",
-  "title": "AAM Viewer"
-}
