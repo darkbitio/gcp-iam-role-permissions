@@ -1,0 +1,20 @@
+{
+  "description": "Gives Enterprise Knowledge Graph Service Account access to consumer resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.datasets.create",
+    "bigquery.datasets.get",
+    "bigquery.readsessions.create",
+    "bigquery.tables.create",
+    "bigquery.tables.get",
+    "bigquery.tables.getData",
+    "bigquery.tables.list",
+    "bigquery.tables.update",
+    "bigquery.tables.updateData",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/enterpriseknowledgegraph.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Enterprise Knowledge Graph Service Agent"
+}
