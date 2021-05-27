@@ -6,6 +6,6 @@
     "resourcesettings.settings.list"
   ],
   "name": "roles/resourcesettings.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Resource Settings Viewer"
 }
