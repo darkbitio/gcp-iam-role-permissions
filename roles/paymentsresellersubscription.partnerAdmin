@@ -1,0 +1,18 @@
+{
+  "description": "Full access to all Payments reseller subscription resource features",
+  "etag": "AA==",
+  "includedPermissions": [
+    "paymentsresellersubscription.products.list",
+    "paymentsresellersubscription.promotions.list",
+    "paymentsresellersubscription.subscriptions.cancel",
+    "paymentsresellersubscription.subscriptions.extend",
+    "paymentsresellersubscription.subscriptions.get",
+    "paymentsresellersubscription.subscriptions.provision",
+    "paymentsresellersubscription.subscriptions.undoCancel",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/paymentsresellersubscription.partnerAdmin",
+  "stage": "ALPHA",
+  "title": "Payments Reseller Subscriptions Admin"
+}
