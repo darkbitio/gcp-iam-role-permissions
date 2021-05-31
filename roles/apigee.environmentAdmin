@@ -2,13 +2,6 @@
   "description": "Full read/write access to apigee environment resources, including deployments.",
   "etag": "AA==",
   "includedPermissions": [
-    "apigee.archivedeployments.create",
-    "apigee.archivedeployments.delete",
-    "apigee.archivedeployments.download",
-    "apigee.archivedeployments.get",
-    "apigee.archivedeployments.list",
-    "apigee.archivedeployments.update",
-    "apigee.archivedeployments.upload",
     "apigee.datacollectors.get",
     "apigee.datacollectors.list",
     "apigee.deployments.create",

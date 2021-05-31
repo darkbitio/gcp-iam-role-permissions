@@ -33,7 +33,6 @@
     "bigquery.routines.get",
     "bigquery.routines.list",
     "bigquery.routines.update",
-    "bigquery.routines.updateTag",
     "bigquery.savedqueries.get",
     "bigquery.savedqueries.list",
     "bigquery.tables.create",
