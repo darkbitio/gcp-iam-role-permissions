@@ -57,6 +57,7 @@
     "bigquery.routines.get",
     "bigquery.routines.list",
     "bigquery.routines.update",
+    "bigquery.routines.updateTag",
     "bigquery.savedqueries.create",
     "bigquery.savedqueries.delete",
     "bigquery.savedqueries.get",

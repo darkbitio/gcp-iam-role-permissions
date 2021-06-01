@@ -20,6 +20,7 @@
     "bigquery.routines.get",
     "bigquery.routines.list",
     "bigquery.routines.update",
+    "bigquery.routines.updateTag",
     "bigquery.tables.create",
     "bigquery.tables.delete",
     "bigquery.tables.export",
