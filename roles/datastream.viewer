@@ -28,6 +28,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datastream.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Datastream Viewer"
 }

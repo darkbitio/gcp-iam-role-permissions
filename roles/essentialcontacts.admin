@@ -10,6 +10,6 @@
     "essentialcontacts.contacts.update"
   ],
   "name": "roles/essentialcontacts.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Essential Contacts Admin"
 }

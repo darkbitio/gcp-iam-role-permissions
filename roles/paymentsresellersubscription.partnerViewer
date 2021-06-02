@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/paymentsresellersubscription.partnerViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Payments Reseller Subscriptions Admin"
 }

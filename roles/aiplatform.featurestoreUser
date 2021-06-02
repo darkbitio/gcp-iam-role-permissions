@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to use all resources in AI Platform Feature Store",
+  "description": "Grants access to use all resources in Vertex AI Feature Store",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.create",
@@ -31,6 +31,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreUser",
-  "stage": "ALPHA",
-  "title": "AI Platform Feature Store User"
+  "stage": "BETA",
+  "title": "Vertex AI Feature Store User"
 }

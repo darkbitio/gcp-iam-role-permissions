@@ -4,6 +4,7 @@
   "includedPermissions": [
     "bigquery.datasets.updateTag",
     "bigquery.models.updateTag",
+    "bigquery.routines.updateTag",
     "bigquery.tables.updateTag",
     "datacatalog.entries.updateTag",
     "pubsub.topics.updateTag"

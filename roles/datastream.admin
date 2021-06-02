@@ -48,6 +48,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datastream.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Datastream Admin"
 }

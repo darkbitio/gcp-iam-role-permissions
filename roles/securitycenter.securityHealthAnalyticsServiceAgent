@@ -6,6 +6,7 @@
     "apikeys.keys.list",
     "apikeys.keys.lookup",
     "appengine.applications.get",
+    "bigquery.datasets.get",
     "cloudasset.assets.analyzeIamPolicy",
     "cloudasset.assets.analyzeMove",
     "cloudasset.assets.exportAccessLevel",
