@@ -2,7 +2,6 @@
   "description": "Access to view reCAPTCHA Enterprise keys and metrics",
   "etag": "AA==",
   "includedPermissions": [
-    "monitoring.timeSeries.list",
     "recaptchaenterprise.keys.get",
     "recaptchaenterprise.keys.list",
     "recaptchaenterprise.metrics.get",

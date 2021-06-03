@@ -1,5 +1,5 @@
 {
-  "description": "Grants full access to all resources in Vertex AI",
+  "description": "Grants full access to all resources in AI Platform",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.annotationSpecs.create",
@@ -211,5 +211,5 @@
   ],
   "name": "roles/aiplatform.admin",
   "stage": "BETA",
-  "title": "Vertex AI Administrator"
+  "title": "AI Platform Administrator"
 }

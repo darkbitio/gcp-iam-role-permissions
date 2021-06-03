@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Retail api resources except purge, rejoin, and setSponsorship.",
+  "description": "Full access to Retail api resources except purge and rejoin.",
   "etag": "AA==",
   "includedPermissions": [
     "automlrecommendations.apiKeys.create",
