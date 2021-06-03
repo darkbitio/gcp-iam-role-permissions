@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/paymentsresellersubscription.productViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Payments Reseller Subscriptions Viewer"
 }

@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "storage.buckets.get",
-    "storage.multipartUploads.list",
     "storage.objects.list"
   ],
   "name": "roles/storage.legacyBucketReader",

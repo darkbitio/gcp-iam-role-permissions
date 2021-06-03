@@ -15,6 +15,6 @@
     "storage.objects.list"
   ],
   "name": "roles/enterpriseknowledgegraph.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Enterprise Knowledge Graph Service Agent"
 }
