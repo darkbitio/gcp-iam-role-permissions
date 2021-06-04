@@ -6,7 +6,6 @@
     "bigquery.datasets.updateTag",
     "bigquery.models.getMetadata",
     "bigquery.models.updateTag",
-    "bigquery.routines.updateTag",
     "bigquery.tables.get",
     "bigquery.tables.updateTag",
     "datacatalog.categories.getIamPolicy",

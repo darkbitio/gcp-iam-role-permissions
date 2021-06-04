@@ -455,7 +455,6 @@
     "resourcemanager.projects.setIamPolicy",
     "serviceusage.services.enable",
     "serviceusage.services.list",
-    "serviceusage.services.use",
     "source.repos.create",
     "source.repos.delete",
     "source.repos.get",
