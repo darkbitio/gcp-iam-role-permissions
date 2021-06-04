@@ -14,7 +14,6 @@
     "appengine.services.list",
     "appengine.versions.get",
     "appengine.versions.list",
-    "bigquery.datasets.get",
     "cloudasset.assets.analyzeIamPolicy",
     "cloudasset.assets.analyzeMove",
     "cloudasset.assets.exportAccessLevel",

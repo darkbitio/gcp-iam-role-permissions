@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeSuspensionResolver",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Apigee Integration Approver"
 }

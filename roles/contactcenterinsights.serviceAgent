@@ -26,6 +26,7 @@
     "dialogflow.documents.get",
     "dialogflow.documents.list",
     "dialogflow.operations.get",
+    "dialogflow.participants.suggest",
     "dialogflow.sessions.detectIntent",
     "pubsub.topics.get",
     "pubsub.topics.publish",

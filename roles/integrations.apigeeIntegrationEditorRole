@@ -24,6 +24,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeIntegrationEditorRole",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Apigee Integration Editor"
 }
