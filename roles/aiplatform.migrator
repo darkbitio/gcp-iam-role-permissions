@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to use migration service in AI platform",
+  "description": "Grants access to use migration service in Vertex AI",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.migratableResources.migrate",
@@ -7,5 +7,5 @@
   ],
   "name": "roles/aiplatform.migrator",
   "stage": "BETA",
-  "title": "AI Platform Migration Service User"
+  "title": "Vertex AI Migration Service User"
 }
