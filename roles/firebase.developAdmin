@@ -77,6 +77,7 @@
     "cloudfunctions.functions.sourceCodeGet",
     "cloudfunctions.functions.sourceCodeSet",
     "cloudfunctions.functions.update",
+    "cloudfunctions.locations.get",
     "cloudfunctions.locations.list",
     "cloudfunctions.operations.get",
     "cloudfunctions.operations.list",

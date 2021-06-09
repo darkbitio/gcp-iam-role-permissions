@@ -2,6 +2,10 @@
   "description": "Provide access for notebooks service agent to manage notebook instances in user projects",
   "etag": "AA==",
   "includedPermissions": [
+    "aiplatform.customJobs.cancel",
+    "aiplatform.customJobs.create",
+    "aiplatform.customJobs.get",
+    "aiplatform.customJobs.list",
     "compute.acceleratorTypes.get",
     "compute.acceleratorTypes.list",
     "compute.addresses.get",

@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "pubsublite.subscriptions.getCursor",
+    "pubsublite.subscriptions.seek",
     "pubsublite.subscriptions.setCursor",
     "pubsublite.subscriptions.subscribe",
     "pubsublite.topics.computeHeadCursor",
