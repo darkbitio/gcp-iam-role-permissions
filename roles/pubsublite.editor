@@ -1,5 +1,5 @@
 {
-  "description": "Modify topics and subscriptions, publish and consume messages.",
+  "description": "Modify topics, subscriptions and reservations, publish and consume messages.",
   "etag": "AA==",
   "includedPermissions": [
     "pubsublite.subscriptions.create",

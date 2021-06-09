@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/fleetengine.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "FleetEngine Service Agent"
 }

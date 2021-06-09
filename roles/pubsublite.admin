@@ -1,5 +1,5 @@
 {
-  "description": "Full access to topics and subscriptions.",
+  "description": "Full access to topics, subscriptions and reservations.",
   "etag": "AA==",
   "includedPermissions": [
     "pubsublite.subscriptions.create",
