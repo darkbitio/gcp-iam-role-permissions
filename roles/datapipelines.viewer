@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of datapipelines resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datapipelines.viewer",
+  "stage": "ALPHA",
+  "title": "Viewer"
+}

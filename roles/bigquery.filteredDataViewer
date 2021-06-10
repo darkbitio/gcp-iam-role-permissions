@@ -5,6 +5,6 @@
     "bigquery.rowAccessPolicies.getFilteredData"
   ],
   "name": "roles/bigquery.filteredDataViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "BigQuery Filtered Data Viewer"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "View topics and subscriptions.",
+  "description": "View topics, subscriptions and reservations.",
   "etag": "AA==",
   "includedPermissions": [
     "pubsublite.subscriptions.get",
