@@ -17,6 +17,6 @@
     "contactcenterinsights.settings.get"
   ],
   "name": "roles/contactcenterinsights.viewer",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "Contact Center AI Insights viewer"
 }
