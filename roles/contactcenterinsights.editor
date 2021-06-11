@@ -32,6 +32,6 @@
     "contactcenterinsights.settings.update"
   ],
   "name": "roles/contactcenterinsights.editor",
-  "stage": "EAP",
+  "stage": "BETA",
   "title": "Contact Center AI Insights editor"
 }
