@@ -21,6 +21,8 @@
     "dialogflow.callMatchers.create",
     "dialogflow.callMatchers.delete",
     "dialogflow.callMatchers.list",
+    "dialogflow.changelogs.get",
+    "dialogflow.changelogs.list",
     "dialogflow.contexts.create",
     "dialogflow.contexts.delete",
     "dialogflow.contexts.get",

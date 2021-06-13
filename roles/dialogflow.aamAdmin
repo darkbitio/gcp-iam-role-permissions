@@ -9,6 +9,8 @@
     "dialogflow.answerrecords.get",
     "dialogflow.answerrecords.list",
     "dialogflow.callMatchers.list",
+    "dialogflow.changelogs.get",
+    "dialogflow.changelogs.list",
     "dialogflow.contexts.get",
     "dialogflow.contexts.list",
     "dialogflow.conversationDatasets.get",

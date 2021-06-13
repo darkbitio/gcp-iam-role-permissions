@@ -16,6 +16,10 @@
     "dns.projects.get",
     "dns.resourceRecordSets.get",
     "dns.resourceRecordSets.list",
+    "dns.responsePolicies.get",
+    "dns.responsePolicies.list",
+    "dns.responsePolicyRules.get",
+    "dns.responsePolicyRules.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

@@ -4,6 +4,7 @@
   "includedPermissions": [
     "compute.firewalls.get",
     "container.hostServiceAgent.use",
+    "dns.networks.bindDNSResponsePolicy",
     "dns.networks.bindPrivateDNSPolicy",
     "dns.networks.bindPrivateDNSZone"
   ],

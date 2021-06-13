@@ -4,6 +4,8 @@
   "includedPermissions": [
     "recommender.iamPolicyInsights.get",
     "recommender.iamPolicyInsights.list",
+    "recommender.iamPolicyLateralMovementInsights.get",
+    "recommender.iamPolicyLateralMovementInsights.list",
     "recommender.iamPolicyRecommendations.get",
     "recommender.iamPolicyRecommendations.list",
     "recommender.iamServiceAccountInsights.get",

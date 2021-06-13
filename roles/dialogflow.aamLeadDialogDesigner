@@ -1,5 +1,5 @@
 {
-  "description": "Can read agent and session properties; cannot query for intent.",
+  "description": "A Dialog Designer Lead can label conversational data and approve taxonomy changes for virtual agent modeling.",
   "etag": "AA==",
   "includedPermissions": [
     "dialogflow.agents.export",
@@ -57,9 +57,10 @@
     "dialogflow.versions.list",
     "dialogflow.webhooks.get",
     "dialogflow.webhooks.list",
-    "resourcemanager.projects.get"
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
   ],
-  "name": "roles/dialogflow.reader",
-  "stage": "GA",
-  "title": "Dialogflow API Reader"
+  "name": "roles/dialogflow.aamLeadDialogDesigner",
+  "stage": "ALPHA",
+  "title": "AAM Lead Dialog Designer"
 }

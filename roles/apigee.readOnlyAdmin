@@ -26,6 +26,8 @@
     "apigee.developerapps.list",
     "apigee.developerattributes.get",
     "apigee.developerattributes.list",
+    "apigee.developerbalances.get",
+    "apigee.developermonetizationconfigs.get",
     "apigee.developers.get",
     "apigee.developers.list",
     "apigee.developersubscriptions.get",

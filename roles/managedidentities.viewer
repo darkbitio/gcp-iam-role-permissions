@@ -9,6 +9,8 @@
     "managedidentities.locations.list",
     "managedidentities.operations.get",
     "managedidentities.operations.list",
+    "managedidentities.sqlintegrations.get",
+    "managedidentities.sqlintegrations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
