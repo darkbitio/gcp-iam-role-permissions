@@ -8,6 +8,6 @@
     "storage.objects.list"
   ],
   "name": "roles/firestore.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firestore Service Agent"
 }
