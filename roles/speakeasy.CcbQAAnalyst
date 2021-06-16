@@ -1,0 +1,6 @@
+{
+  "etag": "AA==",
+  "name": "roles/speakeasy.CcbQAAnalyst",
+  "stage": "ALPHA",
+  "title": "QA Analyst that has privilege to access recordings across the CCB, regardless of their employer's access level."
+}

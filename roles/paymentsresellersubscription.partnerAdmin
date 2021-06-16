@@ -1,5 +1,5 @@
 {
-  "description": "Full access to all Payments reseller subscription resource features",
+  "description": "Full access to all Payments Reseller resources, including subscriptions, products and promotions",
   "etag": "AA==",
   "includedPermissions": [
     "paymentsresellersubscription.products.list",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/paymentsresellersubscription.partnerAdmin",
   "stage": "BETA",
-  "title": "Payments Reseller Subscriptions Admin"
+  "title": "Payments Reseller Admin"
 }
