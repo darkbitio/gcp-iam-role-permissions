@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.projectUtilViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Project Utilization Recommender Viewer"
 }
