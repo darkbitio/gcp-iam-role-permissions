@@ -175,6 +175,7 @@
     "apigee.resourcefiles.get",
     "apigee.resourcefiles.list",
     "apigee.resourcefiles.update",
+    "apigee.runtimeconfigs.get",
     "apigee.sharedflowrevisions.delete",
     "apigee.sharedflowrevisions.deploy",
     "apigee.sharedflowrevisions.get",

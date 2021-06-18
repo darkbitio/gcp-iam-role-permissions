@@ -1,13 +1,11 @@
 {
-  "description": "Grants read access to all Assured Workloads resources and CRM resources - project/folder",
+  "description": "Grants read access to all Assured Workloads resources.",
   "etag": "AA==",
   "includedPermissions": [
     "assuredworkloads.operations.get",
     "assuredworkloads.operations.list",
     "assuredworkloads.workload.get",
     "assuredworkloads.workload.list",
-    "resourcemanager.folders.get",
-    "resourcemanager.folders.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

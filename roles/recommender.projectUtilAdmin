@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.projectUtilAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Project Utilization Recommender Admin"
 }

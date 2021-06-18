@@ -26,6 +26,7 @@
     "apigee.operations.list",
     "apigee.organizations.get",
     "apigee.proxyrevisions.get",
+    "apigee.runtimeconfigs.get",
     "cloudtrace.traces.patch",
     "iam.serviceAccounts.getAccessToken",
     "iam.serviceAccounts.getOpenIdToken",
