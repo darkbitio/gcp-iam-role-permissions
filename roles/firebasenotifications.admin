@@ -2,7 +2,6 @@
   "description": "Full read/write access to Firebase Cloud Messaging resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "fcmdata.deliverydata.list",
     "firebase.clients.get",
     "firebase.clients.list",
     "firebase.projects.get",
