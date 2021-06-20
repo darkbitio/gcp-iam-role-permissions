@@ -4,6 +4,7 @@
   "includedPermissions": [
     "cloudconfig.configs.get",
     "cloudnotifications.activities.list",
+    "fcmdata.deliverydata.list",
     "firebase.billingPlans.get",
     "firebase.clients.get",
     "firebase.clients.list",

@@ -3,7 +3,11 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "videostitcher.liveSessions.create",
+    "videostitcher.liveSessions.get",
+    "videostitcher.vodSessions.create",
+    "videostitcher.vodSessions.get"
   ],
   "name": "roles/videostitcher.user",
   "stage": "EAP",

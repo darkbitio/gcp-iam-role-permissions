@@ -2,6 +2,9 @@
   "description": "View topics, subscriptions and reservations.",
   "etag": "AA==",
   "includedPermissions": [
+    "pubsublite.reservations.get",
+    "pubsublite.reservations.list",
+    "pubsublite.reservations.listTopics",
     "pubsublite.subscriptions.get",
     "pubsublite.subscriptions.getCursor",
     "pubsublite.subscriptions.list",
