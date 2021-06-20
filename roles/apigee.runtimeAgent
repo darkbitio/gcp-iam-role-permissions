@@ -8,7 +8,8 @@
     "apigee.instances.reportStatus",
     "apigee.operations.get",
     "apigee.operations.list",
-    "apigee.organizations.get"
+    "apigee.organizations.get",
+    "apigee.runtimeconfigs.get"
   ],
   "name": "roles/apigee.runtimeAgent",
   "stage": "GA",

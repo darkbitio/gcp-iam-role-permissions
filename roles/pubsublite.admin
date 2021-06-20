@@ -2,6 +2,13 @@
   "description": "Full access to topics, subscriptions and reservations.",
   "etag": "AA==",
   "includedPermissions": [
+    "pubsublite.reservations.attachTopic",
+    "pubsublite.reservations.create",
+    "pubsublite.reservations.delete",
+    "pubsublite.reservations.get",
+    "pubsublite.reservations.list",
+    "pubsublite.reservations.listTopics",
+    "pubsublite.reservations.update",
     "pubsublite.subscriptions.create",
     "pubsublite.subscriptions.delete",
     "pubsublite.subscriptions.get",

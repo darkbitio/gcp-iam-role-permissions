@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to video stitcher resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/videostitcher.viewer",
+  "stage": "EAP",
+  "title": "Video Stitcher Viewer"
+}

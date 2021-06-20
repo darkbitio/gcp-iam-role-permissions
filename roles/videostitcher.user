@@ -1,0 +1,11 @@
+{
+  "description": "Full access to video stitcher sessions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/videostitcher.user",
+  "stage": "EAP",
+  "title": "Video Stitcher User"
+}
