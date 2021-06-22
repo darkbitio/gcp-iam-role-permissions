@@ -8,5 +8,5 @@
   ],
   "name": "roles/paymentsresellersubscription.promotionViewer",
   "stage": "BETA",
-  "title": "Payments Reseller Promotions Viewer"
+  "title": "Payments Reseller Subscriptions Viewer"
 }

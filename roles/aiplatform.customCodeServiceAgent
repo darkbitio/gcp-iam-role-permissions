@@ -1,5 +1,5 @@
 {
-  "description": "Gives Vertex AI Custom Code the proper permissions.",
+  "description": "Gives AI Platform Custom Code the proper permissions.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.annotationSpecs.create",
@@ -243,5 +243,5 @@
   ],
   "name": "roles/aiplatform.customCodeServiceAgent",
   "stage": "GA",
-  "title": "Vertex AI Custom Code Service Agent"
+  "title": "AI Platform Custom Code Service Agent"
 }
