@@ -1,0 +1,7 @@
+{
+  "description": "Viewer of Bare Metal Solution resources",
+  "etag": "AA==",
+  "name": "roles/baremetalsolution.viewer",
+  "stage": "ALPHA",
+  "title": "Viewer"
+}

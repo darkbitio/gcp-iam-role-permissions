@@ -1,0 +1,7 @@
+{
+  "description": "Editor of Bare Metal Solution resources",
+  "etag": "AA==",
+  "name": "roles/baremetalsolution.editor",
+  "stage": "ALPHA",
+  "title": "Editor"
+}

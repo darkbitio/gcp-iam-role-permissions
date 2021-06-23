@@ -11,7 +11,10 @@
     "resourcemanager.tagValueBindings.create",
     "resourcemanager.tagValueBindings.delete",
     "resourcemanager.tagValues.get",
-    "resourcemanager.tagValues.list"
+    "resourcemanager.tagValues.list",
+    "storage.buckets.createTagBinding",
+    "storage.buckets.deleteTagBinding",
+    "storage.buckets.listTagBindings"
   ],
   "name": "roles/resourcemanager.tagUser",
   "stage": "BETA",

@@ -6,7 +6,8 @@
     "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",
     "resourcemanager.tagValues.get",
-    "resourcemanager.tagValues.list"
+    "resourcemanager.tagValues.list",
+    "storage.buckets.listTagBindings"
   ],
   "name": "roles/resourcemanager.tagViewer",
   "stage": "BETA",

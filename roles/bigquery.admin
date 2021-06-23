@@ -18,6 +18,7 @@
     "bigquery.connections.list",
     "bigquery.connections.setIamPolicy",
     "bigquery.connections.update",
+    "bigquery.connections.updateTag",
     "bigquery.connections.use",
     "bigquery.datasets.create",
     "bigquery.datasets.delete",
