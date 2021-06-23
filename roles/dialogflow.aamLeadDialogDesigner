@@ -61,6 +61,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dialogflow.aamLeadDialogDesigner",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "AAM Lead Dialog Designer"
 }

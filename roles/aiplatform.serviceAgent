@@ -1,5 +1,5 @@
 {
-  "description": "Gives AI Platform the permissions it needs to function.",
+  "description": "Gives Vertex AI the permissions it needs to function.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.artifacts.create",
@@ -100,5 +100,5 @@
   ],
   "name": "roles/aiplatform.serviceAgent",
   "stage": "GA",
-  "title": "AI Platform Service Agent"
+  "title": "Vertex AI Service Agent"
 }
