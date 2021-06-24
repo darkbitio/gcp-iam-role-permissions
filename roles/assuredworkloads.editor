@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to read and write to Assured Workloads resources.",
+  "description": "Grants read, write access to Assured Workloads resources, CRM resources - project/folder and Organization Policy administration",
   "etag": "AA==",
   "includedPermissions": [
     "assuredworkloads.operations.get",
@@ -11,6 +11,9 @@
     "assuredworkloads.workload.update",
     "orgpolicy.policy.get",
     "orgpolicy.policy.set",
+    "resourcemanager.folders.create",
+    "resourcemanager.folders.get",
+    "resourcemanager.folders.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.create",
     "resourcemanager.projects.get",
