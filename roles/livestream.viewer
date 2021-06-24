@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/livestream.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Live Stream Viewer"
 }

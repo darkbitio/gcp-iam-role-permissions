@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Cloud Data Fusion Instances and related resources.",
+  "description": "Read-only access to Cloud Data Fusion Instances, Namespaces and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "datafusion.instances.get",
