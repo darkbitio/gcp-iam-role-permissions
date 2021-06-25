@@ -2,8 +2,6 @@
   "description": "Create Spokes and attach them to an existing Hub.",
   "etag": "AA==",
   "includedPermissions": [
-    "networkconnectivity.locations.get",
-    "networkconnectivity.locations.list",
     "networkconnectivity.spokes.create",
     "networkconnectivity.spokes.delete",
     "networkconnectivity.spokes.get",

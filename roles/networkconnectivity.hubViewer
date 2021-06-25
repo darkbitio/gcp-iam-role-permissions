@@ -5,8 +5,6 @@
     "networkconnectivity.hubs.get",
     "networkconnectivity.hubs.getIamPolicy",
     "networkconnectivity.hubs.list",
-    "networkconnectivity.locations.get",
-    "networkconnectivity.locations.list",
     "networkconnectivity.spokes.get",
     "networkconnectivity.spokes.getIamPolicy",
     "networkconnectivity.spokes.list",
