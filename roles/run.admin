@@ -2,6 +2,8 @@
   "description": "Full control over all Cloud Run resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "recommender.locations.get",
+    "recommender.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "run.configurations.get",

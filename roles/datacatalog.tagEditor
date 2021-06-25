@@ -2,7 +2,6 @@
   "description": "Gives permission to modify tags on a GCP assets (BigQuery, Pub/Sub etc).",
   "etag": "AA==",
   "includedPermissions": [
-    "bigquery.connections.updateTag",
     "bigquery.datasets.updateTag",
     "bigquery.models.updateTag",
     "bigquery.routines.updateTag",

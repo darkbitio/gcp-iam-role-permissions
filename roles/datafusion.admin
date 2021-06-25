@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Cloud Data Fusion Instances, Namespaces and related resources.",
+  "description": "Full access to Cloud Data Fusion Instances and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "datafusion.instances.create",
