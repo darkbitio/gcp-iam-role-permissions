@@ -2,8 +2,6 @@
   "description": "Can view the state of all Cloud Run resources, including IAM policies.",
   "etag": "AA==",
   "includedPermissions": [
-    "recommender.locations.get",
-    "recommender.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "run.configurations.get",

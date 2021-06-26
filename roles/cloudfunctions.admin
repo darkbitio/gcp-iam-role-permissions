@@ -34,8 +34,6 @@
     "eventarc.triggers.setIamPolicy",
     "eventarc.triggers.undelete",
     "eventarc.triggers.update",
-    "recommender.locations.get",
-    "recommender.locations.list",
     "remotebuildexecution.blobs.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
