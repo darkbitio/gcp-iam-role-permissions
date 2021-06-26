@@ -2,6 +2,6 @@
   "description": "Viewer of Bare Metal Solution resources",
   "etag": "AA==",
   "name": "roles/baremetalsolution.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Viewer"
 }

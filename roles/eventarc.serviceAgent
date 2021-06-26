@@ -17,7 +17,9 @@
     "pubsub.topics.publish",
     "pubsub.topics.update",
     "run.services.get",
-    "serviceusage.services.use"
+    "serviceusage.services.use",
+    "storage.buckets.get",
+    "storage.buckets.update"
   ],
   "name": "roles/eventarc.serviceAgent",
   "stage": "GA",
