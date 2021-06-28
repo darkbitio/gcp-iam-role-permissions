@@ -11,7 +11,6 @@
     "dialogflow.agents.list",
     "dialogflow.agents.restore",
     "dialogflow.agents.search",
-    "dialogflow.agents.searchResources",
     "dialogflow.agents.train",
     "dialogflow.agents.update",
     "dialogflow.agents.validate",

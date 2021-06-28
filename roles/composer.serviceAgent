@@ -243,7 +243,6 @@
     "compute.instances.removeResourcePolicies",
     "compute.instances.reset",
     "compute.instances.resume",
-    "compute.instances.sendDiagnosticInterrupt",
     "compute.instances.setDeletionProtection",
     "compute.instances.setDiskAutoDelete",
     "compute.instances.setIamPolicy",
