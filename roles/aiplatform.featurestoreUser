@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to use all resources in Vertex AI Feature Store",
+  "description": "Deprecated. Use featurestoreAdmin instead.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.create",
