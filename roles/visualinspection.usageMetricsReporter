@@ -5,6 +5,6 @@
     "visualinspection.locations.reportUsageMetrics"
   ],
   "name": "roles/visualinspection.usageMetricsReporter",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Visual Inspection AI Usage Metrics Reporter"
 }
