@@ -1,5 +1,5 @@
 {
-  "description": "Editor access to Visual Inspection AI Resources",
+  "description": "Read and write access to all Visual Inspection AI resources except visualinspection.locations.reportUsageMetrics",
   "etag": "AA==",
   "includedPermissions": [
     "visualinspection.annotationSets.create",
@@ -56,6 +56,6 @@
     "visualinspection.solutions.list"
   ],
   "name": "roles/visualinspection.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Visual Inspection AI Solution Editor"
 }
