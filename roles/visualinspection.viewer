@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Visual Inspection AI Resources",
+  "description": "Read access to Visual Inspection AI resources",
   "etag": "AA==",
   "includedPermissions": [
     "visualinspection.annotationSets.get",
@@ -30,6 +30,6 @@
     "visualinspection.solutions.list"
   ],
   "name": "roles/visualinspection.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Visual Inspection AI Viewer"
 }
