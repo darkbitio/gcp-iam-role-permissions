@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.artifacts.create",
-    "aiplatform.artifacts.delete",
     "aiplatform.artifacts.get",
     "aiplatform.artifacts.list",
     "aiplatform.artifacts.update",
@@ -32,7 +31,6 @@
     "aiplatform.entityTypes.get",
     "aiplatform.executions.addExecutionEvents",
     "aiplatform.executions.create",
-    "aiplatform.executions.delete",
     "aiplatform.executions.get",
     "aiplatform.executions.list",
     "aiplatform.executions.queryExecutionInputsAndOutputs",
