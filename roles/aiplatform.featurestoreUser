@@ -11,6 +11,7 @@
     "aiplatform.entityTypes.readFeatureValues",
     "aiplatform.entityTypes.streamingReadFeatureValues",
     "aiplatform.entityTypes.update",
+    "aiplatform.entityTypes.writeFeatureValues",
     "aiplatform.features.create",
     "aiplatform.features.delete",
     "aiplatform.features.get",
