@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Cloud ML Engine.",
+  "description": "Full access to AI Platform.",
   "etag": "AA==",
   "includedPermissions": [
     "ml.jobs.cancel",
@@ -44,5 +44,5 @@
   ],
   "name": "roles/ml.admin",
   "stage": "GA",
-  "title": "ML Engine Admin"
+  "title": "AI Platform Admin"
 }

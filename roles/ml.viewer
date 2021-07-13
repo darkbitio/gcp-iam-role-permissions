@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Cloud ML Engine resources.",
+  "description": "Read-only access to AI Platform resources.",
   "etag": "AA==",
   "includedPermissions": [
     "ml.jobs.get",
@@ -22,5 +22,5 @@
   ],
   "name": "roles/ml.viewer",
   "stage": "GA",
-  "title": "ML Engine Viewer"
+  "title": "AI Platform Viewer"
 }

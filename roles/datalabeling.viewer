@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of all DataLabeling resources",
+  "description": "Viewer of all Data Labeling resources",
   "etag": "AA==",
   "includedPermissions": [
     "datalabeling.annotateddatasets.get",
@@ -21,5 +21,5 @@
   ],
   "name": "roles/datalabeling.viewer",
   "stage": "BETA",
-  "title": "DataLabeling Service Viewer"
+  "title": "Data Labeling Service Viewer"
 }
