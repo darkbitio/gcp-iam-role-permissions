@@ -19,5 +19,5 @@
   ],
   "name": "roles/ml.modelOwner",
   "stage": "GA",
-  "title": "ML Engine Model Owner"
+  "title": "AI Platform Model Owner"
 }

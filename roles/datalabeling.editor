@@ -1,5 +1,5 @@
 {
-  "description": "Editor of all Data Labeling resources",
+  "description": "Editor of all DataLabeling resources",
   "etag": "AA==",
   "includedPermissions": [
     "datalabeling.annotateddatasets.delete",
@@ -32,5 +32,5 @@
   ],
   "name": "roles/datalabeling.editor",
   "stage": "BETA",
-  "title": "Data Labeling Service Editor"
+  "title": "DataLabeling Service Editor"
 }

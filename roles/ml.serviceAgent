@@ -1,5 +1,5 @@
 {
-  "description": "AI Platform service agent can act as log writer, Cloud Storage admin, Artifact Registry Reader, BigQuery writer, and service account access token creator.",
+  "description": "Cloud ML service agent can act as log writer, Cloud Storage admin, Artifact Registry Reader, BigQuery writer, and service account access token creator.",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.files.get",
@@ -59,5 +59,5 @@
   ],
   "name": "roles/ml.serviceAgent",
   "stage": "GA",
-  "title": "AI Platform Service Agent"
+  "title": "Cloud ML Service Agent"
 }
