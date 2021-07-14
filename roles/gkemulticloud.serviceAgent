@@ -23,11 +23,6 @@
     "gkehub.operations.delete",
     "gkehub.operations.get",
     "gkehub.operations.list",
-    "gkemulticloud.awsClusters.delete",
-    "gkemulticloud.awsNodePools.delete",
-    "gkemulticloud.azureClients.delete",
-    "gkemulticloud.azureClusters.delete",
-    "gkemulticloud.azureNodePools.delete",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

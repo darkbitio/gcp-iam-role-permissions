@@ -11,6 +11,6 @@
     "aiplatform.operations.list"
   ],
   "name": "roles/aiplatform.featurestoreResourceViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Feature Store Resource Viewer"
 }

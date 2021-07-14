@@ -10,5 +10,5 @@
   ],
   "name": "roles/ml.modelUser",
   "stage": "GA",
-  "title": "ML Engine Model User"
+  "title": "AI Platform Model User"
 }

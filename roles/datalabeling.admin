@@ -1,5 +1,5 @@
 {
-  "description": "Full access to all Data Labeling resources",
+  "description": "Full access to all DataLabeling resources",
   "etag": "AA==",
   "includedPermissions": [
     "datalabeling.annotateddatasets.delete",
@@ -32,5 +32,5 @@
   ],
   "name": "roles/datalabeling.admin",
   "stage": "BETA",
-  "title": "Data Labeling Service Admin"
+  "title": "DataLabeling Service Admin"
 }

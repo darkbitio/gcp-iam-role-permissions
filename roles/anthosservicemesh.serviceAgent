@@ -8,7 +8,6 @@
     "container.customResourceDefinitions.create",
     "container.customResourceDefinitions.get",
     "container.customResourceDefinitions.list",
-    "container.customResourceDefinitions.update",
     "container.deployments.get",
     "container.deployments.list",
     "container.events.get",
