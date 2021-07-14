@@ -34,5 +34,5 @@
   ],
   "name": "roles/ml.developer",
   "stage": "GA",
-  "title": "ML Engine Developer"
+  "title": "AI Platform Developer"
 }

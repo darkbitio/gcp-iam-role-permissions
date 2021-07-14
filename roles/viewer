@@ -1602,6 +1602,8 @@
     "paymentsresellersubscription.products.list",
     "paymentsresellersubscription.promotions.list",
     "paymentsresellersubscription.subscriptions.get",
+    "policyanalyzer.serviceAccountKeyLastAuthenticationActivities.query",
+    "policyanalyzer.serviceAccountLastAuthenticationActivities.query",
     "policysimulator.replayResults.list",
     "policysimulator.replays.get",
     "policysimulator.replays.list",

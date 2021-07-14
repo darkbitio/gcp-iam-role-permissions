@@ -8,5 +8,5 @@
   ],
   "name": "roles/ml.operationOwner",
   "stage": "GA",
-  "title": "ML Engine Operation Owner"
+  "title": "AI Platform Operation Owner"
 }

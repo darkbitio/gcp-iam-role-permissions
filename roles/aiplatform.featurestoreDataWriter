@@ -1,0 +1,17 @@
+{
+  "description": "When applied to a EntityType, this roles provides permissions to read and write data for any Features in that EntityType.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "aiplatform.entityTypes.get",
+    "aiplatform.entityTypes.importFeatureValues",
+    "aiplatform.entityTypes.readFeatureValues",
+    "aiplatform.entityTypes.streamingReadFeatureValues",
+    "aiplatform.entityTypes.writeFeatureValues",
+    "aiplatform.features.get",
+    "aiplatform.features.list",
+    "aiplatform.featurestores.batchReadFeatureValues"
+  ],
+  "name": "roles/aiplatform.featurestoreDataWriter",
+  "stage": "ALPHA",
+  "title": "Vertex AI Feature Store Data Writer"
+}
