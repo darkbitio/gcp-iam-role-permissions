@@ -1,0 +1,11 @@
+{
+  "description": "Grants full access to Workstation Config resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/workstations.workstationConfigAdmin",
+  "stage": "ALPHA",
+  "title": "Workstation Config Admin"
+}

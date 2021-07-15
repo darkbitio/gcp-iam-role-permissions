@@ -1,0 +1,11 @@
+{
+  "description": "Grants full access to Workstation resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/workstations.workstationAdmin",
+  "stage": "ALPHA",
+  "title": "Workstation Admin"
+}

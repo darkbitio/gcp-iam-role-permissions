@@ -1,0 +1,11 @@
+{
+  "description": "Grants ablility to create to Workstation resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/workstations.workstationCreator",
+  "stage": "ALPHA",
+  "title": "Workstation Creator"
+}
