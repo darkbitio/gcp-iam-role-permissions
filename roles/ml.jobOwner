@@ -12,5 +12,5 @@
   ],
   "name": "roles/ml.jobOwner",
   "stage": "GA",
-  "title": "AI Platform Job Owner"
+  "title": "ML Engine Job Owner"
 }

@@ -22,6 +22,7 @@
     "monitoring.metricDescriptors.delete",
     "monitoring.metricDescriptors.get",
     "monitoring.metricDescriptors.list",
+    "monitoring.metricsScopes.link",
     "monitoring.monitoredResourceDescriptors.get",
     "monitoring.monitoredResourceDescriptors.list",
     "monitoring.notificationChannelDescriptors.get",

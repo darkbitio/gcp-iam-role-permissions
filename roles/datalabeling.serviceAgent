@@ -1,5 +1,5 @@
 {
-  "description": "Gives DataLabeling service account read/write access to Cloud Storage, read/write BigQuery, update CMLE model versions, editor access to Annotation service and AutoML service.",
+  "description": "Gives Data Labeling service account read/write access to Cloud Storage, read/write BigQuery, update CMLE model versions, editor access to Annotation service and AutoML service.",
   "etag": "AA==",
   "includedPermissions": [
     "automl.annotationSpecs.create",
@@ -101,5 +101,5 @@
   ],
   "name": "roles/datalabeling.serviceAgent",
   "stage": "GA",
-  "title": "DataLabeling Service Agent"
+  "title": "Data Labeling Service Agent"
 }
