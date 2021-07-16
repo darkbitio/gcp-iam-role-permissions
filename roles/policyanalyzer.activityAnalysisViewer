@@ -6,6 +6,6 @@
     "policyanalyzer.serviceAccountLastAuthenticationActivities.query"
   ],
   "name": "roles/policyanalyzer.activityAnalysisViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Activity Analysis Viewer"
 }

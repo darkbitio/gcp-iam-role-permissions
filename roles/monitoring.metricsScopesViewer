@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/monitoring.metricsScopesViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Monitoring Metrics Scopes Viewer"
 }

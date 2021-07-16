@@ -17,6 +17,6 @@
     "aiplatform.operations.list"
   ],
   "name": "roles/aiplatform.featurestoreResourceEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Feature Store Resource Editor"
 }

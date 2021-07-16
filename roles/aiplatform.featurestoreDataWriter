@@ -12,6 +12,6 @@
     "aiplatform.featurestores.batchReadFeatureValues"
   ],
   "name": "roles/aiplatform.featurestoreDataWriter",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Feature Store Data Writer"
 }
