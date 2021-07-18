@@ -1,15 +1,14 @@
 {
-  "description": "Enables Sign, Verify, and GetPublicKey operations",
+  "description": "Enables Verify and GetPublicKey operations",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudkms.cryptoKeyVersions.useToSign",
     "cloudkms.cryptoKeyVersions.useToVerify",
     "cloudkms.cryptoKeyVersions.viewPublicKey",
     "cloudkms.locations.get",
     "cloudkms.locations.list",
     "resourcemanager.projects.get"
   ],
-  "name": "roles/cloudkms.signerVerifier",
-  "stage": "GA",
-  "title": "Cloud KMS CryptoKey Signer/Verifier"
+  "name": "roles/cloudkms.verifier",
+  "stage": "ALPHA",
+  "title": "Cloud KMS CryptoKey Verifier"
 }
