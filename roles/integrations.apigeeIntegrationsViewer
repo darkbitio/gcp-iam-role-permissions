@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeIntegrationsViewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Apigee Integration Viewer"
 }
