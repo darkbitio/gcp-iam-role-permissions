@@ -325,6 +325,8 @@
     "logging.logServiceIndexes.list",
     "logging.logServices.list",
     "logging.logs.list",
+    "logging.operations.get",
+    "logging.operations.list",
     "logging.queries.create",
     "logging.queries.delete",
     "logging.queries.get",
