@@ -2,7 +2,6 @@
   "description": "Administrator access to create and manage repositories.",
   "etag": "AA==",
   "includedPermissions": [
-    "artifactregistry.aptartifacts.create",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.delete",
@@ -25,8 +24,7 @@
     "artifactregistry.tags.update",
     "artifactregistry.versions.delete",
     "artifactregistry.versions.get",
-    "artifactregistry.versions.list",
-    "artifactregistry.yumartifacts.create"
+    "artifactregistry.versions.list"
   ],
   "name": "roles/artifactregistry.admin",
   "stage": "BETA",

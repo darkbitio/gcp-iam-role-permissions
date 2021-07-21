@@ -2,8 +2,6 @@
   "description": "Modify topics, subscriptions and reservations, publish and consume messages.",
   "etag": "AA==",
   "includedPermissions": [
-    "pubsublite.operations.get",
-    "pubsublite.operations.list",
     "pubsublite.reservations.attachTopic",
     "pubsublite.reservations.create",
     "pubsublite.reservations.delete",
