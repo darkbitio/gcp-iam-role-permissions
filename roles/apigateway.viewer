@@ -15,8 +15,13 @@
     "apigateway.locations.list",
     "apigateway.operations.get",
     "apigateway.operations.list",
+    "monitoring.metricDescriptors.list",
+    "monitoring.monitoredResourceDescriptors.get",
+    "monitoring.timeSeries.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "servicemanagement.services.get",
+    "serviceusage.services.list"
   ],
   "name": "roles/apigateway.viewer",
   "stage": "GA",

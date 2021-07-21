@@ -2,6 +2,9 @@
   "description": "Access to list Tags and manage their associations with resources",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudkms.keyRings.createTagBinding",
+    "cloudkms.keyRings.deleteTagBinding",
+    "cloudkms.keyRings.listTagBindings",
     "resourcemanager.hierarchyNodes.createTagBinding",
     "resourcemanager.hierarchyNodes.deleteTagBinding",
     "resourcemanager.hierarchyNodes.listTagBindings",

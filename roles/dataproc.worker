@@ -20,7 +20,6 @@
     "storage.buckets.get",
     "storage.multipartUploads.abort",
     "storage.multipartUploads.create",
-    "storage.multipartUploads.list",
     "storage.multipartUploads.listParts",
     "storage.objects.create",
     "storage.objects.delete",

@@ -2,6 +2,7 @@
   "description": "Access to manage artifacts in repositories.",
   "etag": "AA==",
   "includedPermissions": [
+    "artifactregistry.aptartifacts.create",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.delete",
@@ -19,7 +20,8 @@
     "artifactregistry.tags.update",
     "artifactregistry.versions.delete",
     "artifactregistry.versions.get",
-    "artifactregistry.versions.list"
+    "artifactregistry.versions.list",
+    "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.repoAdmin",
   "stage": "BETA",

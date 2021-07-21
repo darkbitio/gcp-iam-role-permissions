@@ -2,6 +2,7 @@
   "description": "Access to list Tags and their associations with resources",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudkms.keyRings.listTagBindings",
     "resourcemanager.hierarchyNodes.listTagBindings",
     "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",
