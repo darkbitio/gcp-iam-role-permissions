@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/managedidentities.peeringViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Google Cloud Managed Identities Peering Viewer"
 }
