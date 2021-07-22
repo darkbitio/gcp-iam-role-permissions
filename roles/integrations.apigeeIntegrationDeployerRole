@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeIntegrationDeployerRole",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Apigee Integration Deployer"
 }

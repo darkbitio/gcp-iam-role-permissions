@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datapipelines.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Viewer"
 }
