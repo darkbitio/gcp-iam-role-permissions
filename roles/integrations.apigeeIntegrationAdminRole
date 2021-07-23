@@ -32,6 +32,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeIntegrationAdminRole",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Apigee Integration Admin"
 }

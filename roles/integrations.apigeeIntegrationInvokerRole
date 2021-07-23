@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.apigeeIntegrationInvokerRole",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Apigee Integration Invoker"
 }

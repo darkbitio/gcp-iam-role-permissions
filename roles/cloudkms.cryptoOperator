@@ -13,6 +13,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/cloudkms.cryptoOperator",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud KMS Crypto Operator"
 }

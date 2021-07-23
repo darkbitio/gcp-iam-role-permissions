@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datapipelines.invoker",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Invoker"
 }
