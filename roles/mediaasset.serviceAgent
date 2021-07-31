@@ -6,7 +6,10 @@
     "pubsub.topics.publish",
     "storage.objects.create",
     "storage.objects.delete",
-    "storage.objects.get"
+    "storage.objects.get",
+    "transcoder.jobs.create",
+    "transcoder.jobs.delete",
+    "transcoder.jobs.get"
   ],
   "name": "roles/mediaasset.serviceAgent",
   "stage": "GA",

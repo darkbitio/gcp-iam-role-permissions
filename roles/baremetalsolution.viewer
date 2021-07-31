@@ -1,6 +1,10 @@
 {
   "description": "Viewer of Bare Metal Solution resources",
   "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
   "name": "roles/baremetalsolution.viewer",
   "stage": "GA",
   "title": "Viewer"

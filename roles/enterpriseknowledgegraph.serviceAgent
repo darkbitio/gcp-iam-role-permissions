@@ -4,6 +4,7 @@
   "includedPermissions": [
     "bigquery.datasets.create",
     "bigquery.datasets.get",
+    "bigquery.jobs.create",
     "bigquery.readsessions.create",
     "bigquery.tables.create",
     "bigquery.tables.get",
@@ -11,6 +12,8 @@
     "bigquery.tables.list",
     "bigquery.tables.update",
     "bigquery.tables.updateData",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
     "storage.objects.get",
     "storage.objects.list"
   ],

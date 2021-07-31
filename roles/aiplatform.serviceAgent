@@ -46,6 +46,8 @@
     "aiplatform.metadataStores.delete",
     "aiplatform.metadataStores.get",
     "aiplatform.metadataStores.list",
+    "aiplatform.modelDeploymentMonitoringJobs.create",
+    "aiplatform.modelDeploymentMonitoringJobs.update",
     "artifactregistry.repositories.create",
     "artifactregistry.repositories.downloadArtifacts",
     "artifactregistry.repositories.get",

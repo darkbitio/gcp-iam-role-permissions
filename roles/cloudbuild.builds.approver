@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.builds.approver",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Build Approver"
 }

@@ -2,9 +2,11 @@
   "description": "Read-only access for Firebase App Check.",
   "etag": "AA==",
   "includedPermissions": [
+    "firebaseappcheck.appAttestConfig.get",
     "firebaseappcheck.debugTokens.get",
     "firebaseappcheck.deviceCheckConfig.get",
     "firebaseappcheck.recaptchaConfig.get",
+    "firebaseappcheck.safetyNetConfig.get",
     "firebaseappcheck.services.get"
   ],
   "name": "roles/firebaseappcheck.viewer",

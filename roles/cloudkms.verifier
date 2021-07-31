@@ -9,6 +9,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/cloudkms.verifier",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud KMS CryptoKey Verifier"
 }
