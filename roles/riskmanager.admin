@@ -20,6 +20,6 @@
     "riskmanager.settings.update"
   ],
   "name": "roles/riskmanager.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Risk Manager Admin"
 }

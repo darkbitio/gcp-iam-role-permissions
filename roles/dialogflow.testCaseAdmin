@@ -2,6 +2,6 @@
   "description": "Can read & write test cases.",
   "etag": "AA==",
   "name": "roles/dialogflow.testCaseAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dialogflow Test Case Admin"
 }

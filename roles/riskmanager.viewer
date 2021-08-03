@@ -13,6 +13,6 @@
     "riskmanager.settings.get"
   ],
   "name": "roles/riskmanager.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Risk Manager Viewer"
 }
