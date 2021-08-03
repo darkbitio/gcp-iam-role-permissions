@@ -12,6 +12,6 @@
     "dialogflow.entityTypes.updateEntity"
   ],
   "name": "roles/dialogflow.entityTypeAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Entity Type Admin"
 }

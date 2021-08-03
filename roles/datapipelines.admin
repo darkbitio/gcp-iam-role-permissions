@@ -14,5 +14,5 @@
   ],
   "name": "roles/datapipelines.admin",
   "stage": "BETA",
-  "title": "Admin"
+  "title": "Data pipelines Admin"
 }

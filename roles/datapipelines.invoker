@@ -8,5 +8,5 @@
   ],
   "name": "roles/datapipelines.invoker",
   "stage": "BETA",
-  "title": "Invoker"
+  "title": "Data pipelines Invoker"
 }
