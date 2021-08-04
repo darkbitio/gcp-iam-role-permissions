@@ -25,6 +25,6 @@
     "dialogflow.versions.update"
   ],
   "name": "roles/dialogflow.flowEditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dialogflow Flow editor"
 }

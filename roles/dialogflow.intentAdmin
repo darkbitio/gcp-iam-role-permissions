@@ -9,6 +9,6 @@
     "dialogflow.intents.update"
   ],
   "name": "roles/dialogflow.intentAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Intent Admin"
 }

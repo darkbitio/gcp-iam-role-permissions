@@ -9,6 +9,6 @@
     "dialogflow.environments.update"
   ],
   "name": "roles/dialogflow.environmentEditor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Environment editor"
 }

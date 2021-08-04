@@ -9,5 +9,5 @@
   ],
   "name": "roles/datapipelines.viewer",
   "stage": "BETA",
-  "title": "Data pipelines Viewer"
+  "title": "Viewer"
 }
