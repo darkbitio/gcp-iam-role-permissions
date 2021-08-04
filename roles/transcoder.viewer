@@ -10,6 +10,6 @@
     "transcoder.jobs.list"
   ],
   "name": "roles/transcoder.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Transcoder Viewer"
 }

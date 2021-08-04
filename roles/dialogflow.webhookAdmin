@@ -9,6 +9,6 @@
     "dialogflow.webhooks.update"
   ],
   "name": "roles/dialogflow.webhookAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dialogflow Webhook Admin"
 }

@@ -14,6 +14,6 @@
     "transcoder.jobs.list"
   ],
   "name": "roles/transcoder.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Transcoder Admin"
 }

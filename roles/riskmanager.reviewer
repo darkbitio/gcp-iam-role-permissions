@@ -11,6 +11,6 @@
     "riskmanager.reports.review"
   ],
   "name": "roles/riskmanager.reviewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Risk Manager Report Reviewer"
 }
