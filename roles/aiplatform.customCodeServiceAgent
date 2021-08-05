@@ -219,6 +219,7 @@
     "bigquery.jobs.create",
     "bigquery.jobs.get",
     "bigquery.readsessions.create",
+    "bigquery.readsessions.getData",
     "bigquery.tables.create",
     "bigquery.tables.export",
     "bigquery.tables.get",
