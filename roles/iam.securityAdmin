@@ -1049,6 +1049,8 @@
     "spanner.instances.list",
     "spanner.instances.setIamPolicy",
     "spanner.sessions.list",
+    "speech.customClasses.list",
+    "speech.phraseSets.list",
     "storage.buckets.getIamPolicy",
     "storage.buckets.list",
     "storage.buckets.setIamPolicy",

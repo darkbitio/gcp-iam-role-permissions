@@ -895,6 +895,8 @@
     "spanner.instances.getIamPolicy",
     "spanner.instances.list",
     "spanner.sessions.list",
+    "speech.customClasses.list",
+    "speech.phraseSets.list",
     "storage.buckets.getIamPolicy",
     "storage.buckets.list",
     "storage.hmacKeys.list",
