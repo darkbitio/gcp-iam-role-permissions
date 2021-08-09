@@ -728,6 +728,8 @@
     "networksecurity.serverTlsPolicies.list",
     "networkservices.endpointConfigSelectors.getIamPolicy",
     "networkservices.endpointConfigSelectors.list",
+    "networkservices.endpointPolicies.getIamPolicy",
+    "networkservices.endpointPolicies.list",
     "networkservices.httpFilters.getIamPolicy",
     "networkservices.httpFilters.list",
     "networkservices.httpfilters.getIamPolicy",

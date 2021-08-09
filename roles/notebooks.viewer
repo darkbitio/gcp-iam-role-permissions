@@ -194,6 +194,7 @@
     "notebooks.executions.list",
     "notebooks.instances.checkUpgradability",
     "notebooks.instances.get",
+    "notebooks.instances.getHealth",
     "notebooks.instances.getIamPolicy",
     "notebooks.instances.list",
     "notebooks.locations.get",

@@ -123,6 +123,8 @@
     "networksecurity.serverTlsPolicies.list",
     "networkservices.endpointConfigSelectors.get",
     "networkservices.endpointConfigSelectors.list",
+    "networkservices.endpointPolicies.get",
+    "networkservices.endpointPolicies.list",
     "networkservices.httpFilters.get",
     "networkservices.httpFilters.list",
     "networkservices.httpfilters.get",

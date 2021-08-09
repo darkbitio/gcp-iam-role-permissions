@@ -196,6 +196,7 @@
     "notebooks.instances.checkUpgradability",
     "notebooks.instances.create",
     "notebooks.instances.get",
+    "notebooks.instances.getHealth",
     "notebooks.instances.getIamPolicy",
     "notebooks.instances.list",
     "notebooks.locations.get",
