@@ -15,6 +15,6 @@
     "speech.phraseSets.update"
   ],
   "name": "roles/speech.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Speech Administrator"
 }

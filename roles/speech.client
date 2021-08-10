@@ -5,6 +5,6 @@
     "speech.adaptations.execute"
   ],
   "name": "roles/speech.client",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Speech Client"
 }

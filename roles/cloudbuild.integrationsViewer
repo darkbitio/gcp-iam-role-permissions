@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.integrationsViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Build Integrations Viewer"
 }
