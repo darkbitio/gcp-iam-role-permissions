@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkconnectivity.spokeAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Spoke Admin"
 }

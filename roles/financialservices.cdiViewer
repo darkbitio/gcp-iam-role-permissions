@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to CDI Financial Services all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/financialservices.cdiViewer",
+  "stage": "EAP",
+  "title": "CDI Financial Services Viewer"
+}

@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.integrationsEditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud Build Integrations Editor"
 }

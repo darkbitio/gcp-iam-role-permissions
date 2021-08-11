@@ -1,0 +1,11 @@
+{
+  "description": "Full access to CDI Financial Services all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/financialservices.cdiAdmin",
+  "stage": "EAP",
+  "title": "CDI Financial Services Admin"
+}
