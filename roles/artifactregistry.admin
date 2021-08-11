@@ -29,6 +29,6 @@
     "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Artifact Registry Administrator"
 }

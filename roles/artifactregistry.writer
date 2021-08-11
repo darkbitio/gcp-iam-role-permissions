@@ -20,6 +20,6 @@
     "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.writer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Artifact Registry Writer"
 }
