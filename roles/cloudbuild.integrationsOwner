@@ -14,6 +14,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.integrationsOwner",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Build Integrations Owner"
 }

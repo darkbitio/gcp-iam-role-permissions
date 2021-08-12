@@ -15,6 +15,6 @@
     "artifactregistry.versions.list"
   ],
   "name": "roles/artifactregistry.reader",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Artifact Registry Reader"
 }
