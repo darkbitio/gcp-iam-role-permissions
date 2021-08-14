@@ -2,6 +2,8 @@
   "description": "Viewer of Bare Metal Solution resources",
   "etag": "AA==",
   "includedPermissions": [
+    "baremetalsolution.instances.get",
+    "baremetalsolution.instances.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

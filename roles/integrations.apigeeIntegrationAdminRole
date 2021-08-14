@@ -10,6 +10,7 @@
     "integrations.apigeeCertificates.get",
     "integrations.apigeeExecutions.list",
     "integrations.apigeeIntegrationVers.create",
+    "integrations.apigeeIntegrationVers.delete",
     "integrations.apigeeIntegrationVers.deploy",
     "integrations.apigeeIntegrationVers.get",
     "integrations.apigeeIntegrationVers.list",

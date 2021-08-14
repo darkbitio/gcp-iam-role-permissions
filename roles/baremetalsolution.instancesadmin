@@ -1,5 +1,5 @@
 {
-  "description": "Editor of Bare Metal Solution resources",
+  "description": "Admin of Bare Metal Solution Instance resources",
   "etag": "AA==",
   "includedPermissions": [
     "baremetalsolution.instances.create",
@@ -8,7 +8,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/baremetalsolution.editor",
-  "stage": "GA",
-  "title": "Editor"
+  "name": "roles/baremetalsolution.instancesadmin",
+  "stage": "ALPHA",
+  "title": "Instances Admin"
 }

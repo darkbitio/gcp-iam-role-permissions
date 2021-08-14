@@ -30,6 +30,7 @@
     "compute.forwardingRules.setLabels",
     "compute.forwardingRules.setTarget",
     "compute.forwardingRules.update",
+    "compute.forwardingRules.use",
     "compute.globalAddresses.list",
     "compute.globalAddresses.use",
     "compute.globalForwardingRules.create",
