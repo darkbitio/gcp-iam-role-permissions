@@ -1,5 +1,5 @@
 {
-  "description": "Gives DLP API service agent permissions for biquery, storage, datastore, pubsub and KMS.",
+  "description": "Gives Cloud DLP service agent permissions for BigQuery, Cloud Storage, Datastore, Pub/Sub and Cloud KMS.",
   "etag": "AA==",
   "includedPermissions": [
     "appengine.applications.get",
@@ -49,6 +49,8 @@
     "bigquery.tables.update",
     "bigquery.tables.updateData",
     "bigquery.tables.updateTag",
+    "cloudasset.assets.analyzeIamPolicy",
+    "cloudasset.assets.exportResource",
     "cloudkms.cryptoKeyVersions.useToDecrypt",
     "cloudkms.locations.get",
     "cloudkms.locations.list",

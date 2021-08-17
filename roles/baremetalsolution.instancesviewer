@@ -1,14 +1,13 @@
 {
-  "description": "Editor of Bare Metal Solution resources",
+  "description": "Viewer of Bare Metal Solution Instance resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.instances.create",
     "baremetalsolution.instances.get",
     "baremetalsolution.instances.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/baremetalsolution.editor",
+  "name": "roles/baremetalsolution.instancesviewer",
   "stage": "GA",
-  "title": "Bare Metal Solution Editor"
+  "title": "Bare Metal Solution Instances Viewer"
 }
