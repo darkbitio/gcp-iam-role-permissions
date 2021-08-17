@@ -4,11 +4,6 @@
   "includedPermissions": [
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "storagetransfer.agentpools.create",
-    "storagetransfer.agentpools.delete",
-    "storagetransfer.agentpools.get",
-    "storagetransfer.agentpools.list",
-    "storagetransfer.agentpools.update",
     "storagetransfer.jobs.create",
     "storagetransfer.jobs.delete",
     "storagetransfer.jobs.get",

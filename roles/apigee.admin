@@ -146,7 +146,6 @@
     "apigee.proxies.delete",
     "apigee.proxies.get",
     "apigee.proxies.list",
-    "apigee.proxies.update",
     "apigee.proxyrevisions.delete",
     "apigee.proxyrevisions.deploy",
     "apigee.proxyrevisions.get",

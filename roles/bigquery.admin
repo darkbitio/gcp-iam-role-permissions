@@ -28,7 +28,6 @@
     "bigquery.datasets.update",
     "bigquery.datasets.updateTag",
     "bigquery.jobs.create",
-    "bigquery.jobs.delete",
     "bigquery.jobs.get",
     "bigquery.jobs.list",
     "bigquery.jobs.listAll",

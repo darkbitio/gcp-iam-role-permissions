@@ -11,7 +11,6 @@
     "dialogflow.conversations.create",
     "dialogflow.conversations.get",
     "dialogflow.conversations.list",
-    "dialogflow.conversations.update",
     "dialogflow.documents.get",
     "dialogflow.documents.list",
     "dialogflow.knowledgeBases.get",

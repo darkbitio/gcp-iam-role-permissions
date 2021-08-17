@@ -53,7 +53,6 @@
     "compute.forwardingRules.setLabels",
     "compute.forwardingRules.setTarget",
     "compute.forwardingRules.update",
-    "compute.forwardingRules.use",
     "compute.globalAddresses.create",
     "compute.globalAddresses.createInternal",
     "compute.globalAddresses.delete",

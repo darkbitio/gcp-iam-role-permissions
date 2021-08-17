@@ -12,7 +12,6 @@
     "dialogflow.conversations.create",
     "dialogflow.conversations.get",
     "dialogflow.conversations.list",
-    "dialogflow.conversations.update",
     "dialogflow.messages.list",
     "dialogflow.participants.analyzeContent",
     "dialogflow.participants.create",
