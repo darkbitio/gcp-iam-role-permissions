@@ -10,5 +10,5 @@
   ],
   "name": "roles/baremetalsolution.admin",
   "stage": "GA",
-  "title": "Admin"
+  "title": "Bare Metal Solution Admin"
 }

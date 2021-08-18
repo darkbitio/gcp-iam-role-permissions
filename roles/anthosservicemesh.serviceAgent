@@ -23,7 +23,6 @@
     "container.pods.list",
     "container.services.get",
     "container.services.list",
-    "container.thirdPartyObjects.create",
     "container.thirdPartyObjects.get",
     "container.thirdPartyObjects.list",
     "container.thirdPartyObjects.update",

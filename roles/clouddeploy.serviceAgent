@@ -5,7 +5,6 @@
     "cloudbuild.builds.create",
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
-    "cloudbuild.workerpools.use",
     "iam.serviceAccounts.actAs",
     "logging.logEntries.create",
     "pubsub.topics.get",
