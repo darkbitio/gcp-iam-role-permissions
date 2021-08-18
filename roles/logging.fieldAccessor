@@ -5,6 +5,6 @@
     "logging.fields.access"
   ],
   "name": "roles/logging.fieldAccessor",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Log Field Accessor"
 }

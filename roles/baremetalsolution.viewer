@@ -9,5 +9,5 @@
   ],
   "name": "roles/baremetalsolution.viewer",
   "stage": "GA",
-  "title": "Viewer"
+  "title": "Bare Metal Solution Viewer"
 }

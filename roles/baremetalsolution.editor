@@ -10,5 +10,5 @@
   ],
   "name": "roles/baremetalsolution.editor",
   "stage": "GA",
-  "title": "Bare Metal Solution Editor"
+  "title": "Editor"
 }
