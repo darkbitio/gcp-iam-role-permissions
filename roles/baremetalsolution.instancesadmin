@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/baremetalsolution.instancesadmin",
-  "stage": "ALPHA",
-  "title": "Instances Admin"
+  "stage": "GA",
+  "title": "Bare Metal Solution Instances Admin"
 }

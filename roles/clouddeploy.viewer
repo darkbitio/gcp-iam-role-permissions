@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Deploy Viewer"
 }

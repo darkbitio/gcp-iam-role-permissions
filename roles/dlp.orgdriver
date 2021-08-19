@@ -212,6 +212,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/dlp.orgdriver",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "DLP Organization Data Profiles Driver"
 }
