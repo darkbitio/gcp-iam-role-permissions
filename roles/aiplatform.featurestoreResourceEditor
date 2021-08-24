@@ -1,5 +1,5 @@
 {
-  "description": "Manage all resources within a Feature Store, but cannot create or update the Feature Store itself.",
+  "description": "Manage all resources within Featurestores, but cannot create or update the Featurestores.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.create",
