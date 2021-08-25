@@ -18,7 +18,6 @@
     "retail.operations.get",
     "retail.operations.list",
     "retail.placements.predict",
-    "retail.placements.search",
     "retail.products.export",
     "retail.products.get",
     "retail.products.list",

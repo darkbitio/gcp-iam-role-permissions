@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/eventarc.developer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Eventarc Developer"
 }

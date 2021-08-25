@@ -11,12 +11,10 @@
     "automlrecommendations.placements.getStats",
     "automlrecommendations.placements.list",
     "automlrecommendations.recommendations.list",
-    "retail.catalogs.completeQuery",
     "retail.catalogs.list",
     "retail.operations.get",
     "retail.operations.list",
     "retail.placements.predict",
-    "retail.placements.search",
     "retail.products.export",
     "retail.products.get",
     "retail.products.list"

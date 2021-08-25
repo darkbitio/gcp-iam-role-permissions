@@ -1,5 +1,5 @@
 {
-  "description": "Administer of Feature Store resource, but not the child resources under Feature Store.",
+  "description": "Administer of Featurestore resources, but not the child resources under Featurestores.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.featurestores.create",

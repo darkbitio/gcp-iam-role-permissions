@@ -19,7 +19,8 @@
     "run.services.get",
     "serviceusage.services.use",
     "storage.buckets.get",
-    "storage.buckets.update"
+    "storage.buckets.update",
+    "workflows.workflows.get"
   ],
   "name": "roles/eventarc.serviceAgent",
   "stage": "GA",

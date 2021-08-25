@@ -35,7 +35,6 @@
     "retail.operations.get",
     "retail.operations.list",
     "retail.placements.predict",
-    "retail.placements.search",
     "retail.products.create",
     "retail.products.delete",
     "retail.products.export",
