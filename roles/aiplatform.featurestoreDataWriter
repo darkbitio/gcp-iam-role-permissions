@@ -1,5 +1,5 @@
 {
-  "description": "When applied to a EntityType, this roles provides permissions to read and write data for any Features in that EntityType.",
+  "description": "This role provides permissions to read and write Feature data.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.get",
