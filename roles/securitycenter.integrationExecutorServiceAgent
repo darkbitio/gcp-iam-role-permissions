@@ -1,0 +1,7 @@
+{
+  "description": "Gives Security Center access to execute Integrations.",
+  "etag": "AA==",
+  "name": "roles/securitycenter.integrationExecutorServiceAgent",
+  "stage": "GA",
+  "title": "Security Center Integration Executor Service Agent"
+}
