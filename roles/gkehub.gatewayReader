@@ -6,6 +6,6 @@
     "serviceusage.services.get"
   ],
   "name": "roles/gkehub.gatewayReader",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Connect Gateway Reader"
 }
