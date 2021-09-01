@@ -2,13 +2,11 @@
   "description": "Full access to all DataCatalog resources",
   "etag": "AA==",
   "includedPermissions": [
-    "bigquery.connections.get",
     "bigquery.connections.updateTag",
     "bigquery.datasets.get",
     "bigquery.datasets.updateTag",
     "bigquery.models.getMetadata",
     "bigquery.models.updateTag",
-    "bigquery.routines.get",
     "bigquery.routines.updateTag",
     "bigquery.tables.get",
     "bigquery.tables.updateTag",

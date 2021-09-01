@@ -99,7 +99,6 @@
     "compute.sslCertificates.delete",
     "compute.sslCertificates.get",
     "compute.sslCertificates.list",
-    "compute.sslPolicies.use",
     "compute.subnetworks.list",
     "compute.targetHttpProxies.create",
     "compute.targetHttpProxies.delete",

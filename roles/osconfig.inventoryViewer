@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.inventoryViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "OS Inventory Viewer"
 }

@@ -2,10 +2,8 @@
   "description": "Grants metadata read permissions to cataloged GCP assets (BigQuery, Pub/Sub etc)",
   "etag": "AA==",
   "includedPermissions": [
-    "bigquery.connections.get",
     "bigquery.datasets.get",
     "bigquery.models.getMetadata",
-    "bigquery.routines.get",
     "bigquery.tables.get",
     "datacatalog.entries.get",
     "datacatalog.entries.list",
