@@ -572,7 +572,6 @@
     "file.snapshots.list",
     "firebase.clients.list",
     "firebase.links.list",
-    "firebase.playLinks.list",
     "firebaseabt.experiments.list",
     "firebaseappdistro.groups.list",
     "firebaseappdistro.releases.list",

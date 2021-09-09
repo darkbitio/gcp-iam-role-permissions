@@ -10,7 +10,6 @@
     "bigquery.models.list",
     "bigquery.routines.get",
     "bigquery.routines.list",
-    "bigquery.tables.createSnapshot",
     "bigquery.tables.export",
     "bigquery.tables.get",
     "bigquery.tables.getData",

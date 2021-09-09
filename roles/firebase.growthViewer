@@ -9,8 +9,6 @@
     "firebase.clients.get",
     "firebase.clients.list",
     "firebase.links.list",
-    "firebase.playLinks.get",
-    "firebase.playLinks.list",
     "firebase.projects.get",
     "firebaseabt.experimentresults.get",
     "firebaseabt.experiments.get",
