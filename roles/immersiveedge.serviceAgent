@@ -1,0 +1,13 @@
+{
+  "description": "Minimal access for Immersive Edge P4SA accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/immersiveedge.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Immersive Edge Service Agent used by P4SA accounts"
+}

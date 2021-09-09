@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Immersive Edge all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/immersiveedge.admin",
+  "stage": "ALPHA",
+  "title": "Immersive Edge Admin"
+}

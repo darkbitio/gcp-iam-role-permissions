@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to Immersive Edge all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/immersiveedge.viewer",
+  "stage": "ALPHA",
+  "title": "Immersive Edge Viewer"
+}
