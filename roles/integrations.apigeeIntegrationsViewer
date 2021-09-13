@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "integrations.apigeeAuthConfigs.list",
-    "integrations.apigeeCertificates.list",
     "integrations.apigeeIntegrationVers.get",
     "integrations.apigeeIntegrationVers.list",
     "integrations.apigeeIntegrations.list",
