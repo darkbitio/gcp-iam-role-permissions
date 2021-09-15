@@ -1,0 +1,17 @@
+{
+  "description": "Billing Account Admin of Bigquery Capacity Commitments insights and recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "billing.accounts.get",
+    "billing.accounts.list",
+    "recommender.bigqueryCapacityCommitmentsInsights.get",
+    "recommender.bigqueryCapacityCommitmentsInsights.list",
+    "recommender.bigqueryCapacityCommitmentsInsights.update",
+    "recommender.bigqueryCapacityCommitmentsRecommendations.get",
+    "recommender.bigqueryCapacityCommitmentsRecommendations.list",
+    "recommender.bigqueryCapacityCommitmentsRecommendations.update"
+  ],
+  "name": "roles/recommender.bigQueryCapacityCommitmentsBillingAccountAdmin",
+  "stage": "ALPHA",
+  "title": "Bigquery Recommender Billing Account Admin"
+}

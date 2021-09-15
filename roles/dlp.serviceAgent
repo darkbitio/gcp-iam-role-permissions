@@ -66,6 +66,7 @@
     "datacatalog.tagTemplates.update",
     "datacatalog.tagTemplates.use",
     "datastore.databases.get",
+    "datastore.databases.getMetadata",
     "datastore.entities.allocateIds",
     "datastore.entities.create",
     "datastore.entities.delete",

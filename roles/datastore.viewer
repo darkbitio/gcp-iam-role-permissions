@@ -4,6 +4,7 @@
   "includedPermissions": [
     "appengine.applications.get",
     "datastore.databases.get",
+    "datastore.databases.getMetadata",
     "datastore.databases.list",
     "datastore.entities.get",
     "datastore.entities.list",
