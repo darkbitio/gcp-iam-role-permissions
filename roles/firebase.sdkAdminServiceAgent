@@ -7,7 +7,6 @@
     "cloudconfig.configs.update",
     "cloudmessaging.messages.create",
     "datastore.databases.get",
-    "datastore.databases.getMetadata",
     "datastore.databases.list",
     "datastore.entities.allocateIds",
     "datastore.entities.create",

@@ -21,12 +21,6 @@
     "bigquery.reservations.get",
     "bigquery.reservations.list",
     "bigquery.reservations.update",
-    "recommender.bigqueryCapacityCommitmentsInsights.get",
-    "recommender.bigqueryCapacityCommitmentsInsights.list",
-    "recommender.bigqueryCapacityCommitmentsInsights.update",
-    "recommender.bigqueryCapacityCommitmentsRecommendations.get",
-    "recommender.bigqueryCapacityCommitmentsRecommendations.list",
-    "recommender.bigqueryCapacityCommitmentsRecommendations.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
