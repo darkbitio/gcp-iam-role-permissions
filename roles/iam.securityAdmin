@@ -942,6 +942,8 @@
     "pubsublite.subscriptions.list",
     "pubsublite.topics.list",
     "recaptchaenterprise.keys.list",
+    "recommender.bigqueryCapacityCommitmentsInsights.list",
+    "recommender.bigqueryCapacityCommitmentsRecommendations.list",
     "recommender.cloudAssetInsights.list",
     "recommender.cloudsqlInstanceDiskUsageTrendInsights.list",
     "recommender.cloudsqlInstanceOutOfDiskRecommendations.list",

@@ -111,6 +111,7 @@
     "datastore.databases.export",
     "datastore.databases.get",
     "datastore.databases.getIamPolicy",
+    "datastore.databases.getMetadata",
     "datastore.databases.import",
     "datastore.databases.list",
     "datastore.databases.setIamPolicy",
