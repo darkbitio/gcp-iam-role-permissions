@@ -1,5 +1,5 @@
 {
-  "description": "Create Spokes and attach them to an existing Hub.",
+  "description": "Enables full access to spoke resources and read-only access to hub resources",
   "etag": "AA==",
   "includedPermissions": [
     "networkconnectivity.hubs.get",
