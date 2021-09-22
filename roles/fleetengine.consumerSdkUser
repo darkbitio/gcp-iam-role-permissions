@@ -8,6 +8,6 @@
     "fleetengine.vehicles.searchFuzzed"
   ],
   "name": "roles/fleetengine.consumerSdkUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Fleet Engine Consumer SDK User"
 }

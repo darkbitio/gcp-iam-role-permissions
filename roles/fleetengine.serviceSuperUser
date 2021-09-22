@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/fleetengine.serviceSuperUser",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Fleet Engine Service Super User"
 }
