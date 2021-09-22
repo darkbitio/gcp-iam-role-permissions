@@ -12,6 +12,6 @@
     "recommender.bigqueryCapacityCommitmentsRecommendations.update"
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsBillingAccountAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Bigquery Recommender Billing Account Admin"
 }

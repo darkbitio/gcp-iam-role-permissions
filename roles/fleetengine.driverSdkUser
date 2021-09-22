@@ -9,6 +9,6 @@
     "fleetengine.vehicles.updateLocation"
   ],
   "name": "roles/fleetengine.driverSdkUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Fleet Engine Driver SDK User"
 }

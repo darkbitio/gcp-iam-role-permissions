@@ -1,5 +1,5 @@
 {
-  "description": "Read-only access to Hub and Spoke resources.",
+  "description": "Enables read-only access to hub and spoke resources",
   "etag": "AA==",
   "includedPermissions": [
     "networkconnectivity.hubs.get",

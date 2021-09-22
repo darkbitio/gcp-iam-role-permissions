@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Hub and Spoke resources.",
+  "description": "Enables full access to hub and spoke resources",
   "etag": "AA==",
   "includedPermissions": [
     "networkconnectivity.hubs.create",
