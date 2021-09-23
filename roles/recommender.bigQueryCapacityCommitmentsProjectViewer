@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsProjectViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Bigquery Recommender Project Viewer"
 }

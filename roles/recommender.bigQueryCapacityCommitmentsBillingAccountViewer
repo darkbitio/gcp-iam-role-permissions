@@ -10,6 +10,6 @@
     "recommender.bigqueryCapacityCommitmentsRecommendations.list"
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsBillingAccountViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Bigquery Recommender Billing Account Viewer"
 }
