@@ -4,6 +4,7 @@
   "includedPermissions": [
     "compute.addresses.get",
     "compute.addresses.list",
+    "compute.addresses.use",
     "compute.backendServices.create",
     "compute.backendServices.delete",
     "compute.backendServices.get",
@@ -73,6 +74,10 @@
     "compute.regionHealthChecks.update",
     "compute.regionHealthChecks.use",
     "compute.regionHealthChecks.useReadOnly",
+    "compute.regionSslCertificates.create",
+    "compute.regionSslCertificates.delete",
+    "compute.regionSslCertificates.get",
+    "compute.regionSslCertificates.list",
     "compute.regionTargetHttpProxies.create",
     "compute.regionTargetHttpProxies.delete",
     "compute.regionTargetHttpProxies.get",
