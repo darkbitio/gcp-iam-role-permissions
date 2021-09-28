@@ -25,6 +25,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkehub.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "GKE Hub Editor"
 }
