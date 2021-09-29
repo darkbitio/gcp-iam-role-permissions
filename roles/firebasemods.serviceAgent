@@ -39,6 +39,7 @@
     "iam.serviceAccounts.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
+    "resourcemanager.projects.updateLiens",
     "run.services.getIamPolicy",
     "run.services.setIamPolicy",
     "serviceusage.quotas.get",

@@ -5,7 +5,8 @@
     "pubsub.topics.publish",
     "storage.objects.create",
     "storage.objects.delete",
-    "storage.objects.get"
+    "storage.objects.get",
+    "transcoder.jobs.delete"
   ],
   "name": "roles/transcoder.serviceAgent",
   "stage": "GA",
