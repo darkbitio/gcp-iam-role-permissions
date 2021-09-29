@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/connectors.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Connectors Viewer"
 }
