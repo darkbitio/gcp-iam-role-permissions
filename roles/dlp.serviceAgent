@@ -57,7 +57,6 @@
     "cloudkms.cryptoKeyVersions.useToDecrypt",
     "cloudkms.locations.get",
     "cloudkms.locations.list",
-    "datacatalog.categories.fineGrainedGet",
     "datacatalog.tagTemplates.create",
     "datacatalog.tagTemplates.delete",
     "datacatalog.tagTemplates.get",

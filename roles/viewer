@@ -1339,6 +1339,7 @@
     "firebaserules.releases.getExecutable",
     "firebaserules.releases.list",
     "firebaserules.rulesets.list",
+    "firebaserules.rulesets.test",
     "firebasestorage.buckets.get",
     "firebasestorage.buckets.list",
     "fleetengine.trips.get",

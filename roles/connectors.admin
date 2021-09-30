@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/connectors.admin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Connector Admin"
 }
