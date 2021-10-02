@@ -16,6 +16,7 @@
     "cloudsql.instances.get",
     "cloudsql.instances.list",
     "cloudsql.instances.listServerCas",
+    "cloudsql.instances.listTagBindings",
     "cloudsql.instances.restart",
     "cloudsql.instances.rotateServerCa",
     "cloudsql.instances.truncateLog",

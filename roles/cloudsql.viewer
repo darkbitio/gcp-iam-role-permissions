@@ -10,6 +10,7 @@
     "cloudsql.instances.get",
     "cloudsql.instances.list",
     "cloudsql.instances.listServerCas",
+    "cloudsql.instances.listTagBindings",
     "cloudsql.sslCerts.get",
     "cloudsql.sslCerts.list",
     "cloudsql.users.list",

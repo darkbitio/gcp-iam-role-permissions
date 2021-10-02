@@ -3,6 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "cloudkms.keyRings.listTagBindings",
+    "cloudsql.instances.listTagBindings",
     "resourcemanager.hierarchyNodes.listTagBindings",
     "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",
