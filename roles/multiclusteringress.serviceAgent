@@ -2,8 +2,6 @@
   "description": "Gives the Multi Cluster Ingress service agent access to CloudPlatform resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "compute.addresses.create",
-    "compute.addresses.delete",
     "compute.addresses.get",
     "compute.addresses.list",
     "compute.addresses.use",
@@ -34,9 +32,6 @@
     "compute.forwardingRules.setTarget",
     "compute.forwardingRules.update",
     "compute.forwardingRules.use",
-    "compute.globalAddresses.create",
-    "compute.globalAddresses.delete",
-    "compute.globalAddresses.get",
     "compute.globalAddresses.list",
     "compute.globalAddresses.use",
     "compute.globalForwardingRules.create",
