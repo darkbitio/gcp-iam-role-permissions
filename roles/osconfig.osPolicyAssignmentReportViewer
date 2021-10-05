@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.osPolicyAssignmentReportViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "OSPolicyAssignmentReport Viewer"
 }
