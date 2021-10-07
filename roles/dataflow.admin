@@ -3,6 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "compute.machineTypes.get",
+    "compute.projects.get",
+    "compute.regions.list",
+    "compute.zones.list",
     "dataflow.jobs.cancel",
     "dataflow.jobs.create",
     "dataflow.jobs.get",

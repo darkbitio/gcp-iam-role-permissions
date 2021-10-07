@@ -2,6 +2,9 @@
   "description": "Full operational access to Dataflow jobs.",
   "etag": "AA==",
   "includedPermissions": [
+    "compute.projects.get",
+    "compute.regions.list",
+    "compute.zones.list",
     "dataflow.jobs.cancel",
     "dataflow.jobs.create",
     "dataflow.jobs.get",
