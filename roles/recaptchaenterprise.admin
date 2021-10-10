@@ -10,6 +10,7 @@
     "recaptchaenterprise.keys.update",
     "recaptchaenterprise.metrics.get",
     "recaptchaenterprise.projectmetadata.get",
+    "recaptchaenterprise.projectmetadata.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
