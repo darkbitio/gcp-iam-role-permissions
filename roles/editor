@@ -3733,6 +3733,7 @@
     "recaptchaenterprise.keys.update",
     "recaptchaenterprise.metrics.get",
     "recaptchaenterprise.projectmetadata.get",
+    "recaptchaenterprise.projectmetadata.update",
     "recommender.bigqueryCapacityCommitmentsInsights.get",
     "recommender.bigqueryCapacityCommitmentsInsights.list",
     "recommender.bigqueryCapacityCommitmentsInsights.update",
