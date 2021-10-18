@@ -1768,6 +1768,8 @@
     "recaptchaenterprise.keys.list",
     "recaptchaenterprise.metrics.get",
     "recaptchaenterprise.projectmetadata.get",
+    "recaptchaenterprise.relatedaccountgroupmemberships.list",
+    "recaptchaenterprise.relatedaccountgroups.list",
     "recommender.bigqueryCapacityCommitmentsInsights.get",
     "recommender.bigqueryCapacityCommitmentsInsights.list",
     "recommender.bigqueryCapacityCommitmentsRecommendations.get",

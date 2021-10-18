@@ -28,8 +28,6 @@
     "firebasecrashlytics.issues.update",
     "firebasecrashlytics.sessions.get",
     "firebaseextensions.configs.list",
-    "firebaseperformance.config.create",
-    "firebaseperformance.config.delete",
     "firebaseperformance.config.update",
     "firebaseperformance.data.get",
     "monitoring.timeSeries.list",

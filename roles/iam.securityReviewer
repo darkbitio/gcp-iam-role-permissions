@@ -822,6 +822,8 @@
     "pubsublite.subscriptions.list",
     "pubsublite.topics.list",
     "recaptchaenterprise.keys.list",
+    "recaptchaenterprise.relatedaccountgroupmemberships.list",
+    "recaptchaenterprise.relatedaccountgroups.list",
     "recommender.bigqueryCapacityCommitmentsInsights.list",
     "recommender.bigqueryCapacityCommitmentsRecommendations.list",
     "recommender.cloudAssetInsights.list",

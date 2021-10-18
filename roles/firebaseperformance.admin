@@ -5,8 +5,6 @@
     "firebase.clients.get",
     "firebase.clients.list",
     "firebase.projects.get",
-    "firebaseperformance.config.create",
-    "firebaseperformance.config.delete",
     "firebaseperformance.config.update",
     "firebaseperformance.data.get",
     "resourcemanager.projects.get",

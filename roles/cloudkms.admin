@@ -8,6 +8,8 @@
     "cloudkms.cryptoKeyVersions.list",
     "cloudkms.cryptoKeyVersions.restore",
     "cloudkms.cryptoKeyVersions.update",
+    "cloudkms.cryptoKeyVersions.useToDecryptViaDelegation",
+    "cloudkms.cryptoKeyVersions.useToEncryptViaDelegation",
     "cloudkms.cryptoKeys.create",
     "cloudkms.cryptoKeys.get",
     "cloudkms.cryptoKeys.getIamPolicy",

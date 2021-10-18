@@ -268,8 +268,6 @@
     "firebasenotifications.messages.get",
     "firebasenotifications.messages.list",
     "firebasenotifications.messages.update",
-    "firebaseperformance.config.create",
-    "firebaseperformance.config.delete",
     "firebaseperformance.config.update",
     "firebaseperformance.data.get",
     "firebasepredictions.predictions.create",

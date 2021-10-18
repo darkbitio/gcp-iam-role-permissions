@@ -418,6 +418,7 @@
     "compute.reservations.get",
     "compute.reservations.list",
     "compute.reservations.resize",
+    "compute.reservations.update",
     "compute.resourcePolicies.create",
     "compute.resourcePolicies.delete",
     "compute.resourcePolicies.get",
