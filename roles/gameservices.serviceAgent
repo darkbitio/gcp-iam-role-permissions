@@ -401,6 +401,7 @@
     "gkehub.memberships.list",
     "gkehub.operations.get",
     "gkehub.operations.list",
+    "iam.serviceAccounts.actAs",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
