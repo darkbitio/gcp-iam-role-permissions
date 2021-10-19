@@ -3,10 +3,13 @@
   "etag": "AA==",
   "includedPermissions": [
     "compute.addresses.create",
+    "compute.addresses.createInternal",
     "compute.addresses.delete",
+    "compute.addresses.deleteInternal",
     "compute.addresses.get",
     "compute.addresses.list",
     "compute.addresses.use",
+    "compute.addresses.useInternal",
     "compute.backendServices.create",
     "compute.backendServices.delete",
     "compute.backendServices.get",

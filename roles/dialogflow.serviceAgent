@@ -82,7 +82,6 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "serviceusage.services.use",
-    "storage.objects.create",
     "storage.objects.get",
     "storage.objects.list"
   ],
