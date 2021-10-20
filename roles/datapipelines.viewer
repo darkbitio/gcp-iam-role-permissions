@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of datapipelines resources",
+  "description": "Viewer of Data pipelines resources",
   "etag": "AA==",
   "includedPermissions": [
     "datapipelines.pipelines.get",
@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datapipelines.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Data pipelines Viewer"
 }

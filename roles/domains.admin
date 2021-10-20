@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/domains.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Cloud Domains Admin"
 }

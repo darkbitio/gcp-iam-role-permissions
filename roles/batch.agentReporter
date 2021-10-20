@@ -1,7 +1,0 @@
-{
-  "description": "Reporter of agent states.",
-  "etag": "AA==",
-  "name": "roles/batch.agentReporter",
-  "stage": "ALPHA",
-  "title": "Agent Reporter"
-}
