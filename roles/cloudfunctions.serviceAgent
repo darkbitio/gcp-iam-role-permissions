@@ -92,8 +92,6 @@
     "serviceusage.services.disable",
     "serviceusage.services.enable",
     "serviceusage.services.use",
-    "source.repos.get",
-    "source.repos.list",
     "storage.buckets.create",
     "storage.buckets.delete",
     "storage.buckets.get",

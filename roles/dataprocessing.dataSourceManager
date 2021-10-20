@@ -6,6 +6,6 @@
     "dataprocessing.datasources.update"
   ],
   "name": "roles/dataprocessing.dataSourceManager",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Data Processing Controls Data Source Manager"
 }
