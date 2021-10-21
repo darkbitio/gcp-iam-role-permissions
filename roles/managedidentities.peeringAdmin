@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/managedidentities.peeringAdmin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Google Cloud Managed Identities Peering Admin"
 }

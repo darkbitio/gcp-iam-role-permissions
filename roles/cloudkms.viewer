@@ -15,6 +15,6 @@
     "resourcemanager.projects.get"
   ],
   "name": "roles/cloudkms.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud KMS Viewer"
 }

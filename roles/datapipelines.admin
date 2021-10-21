@@ -1,5 +1,5 @@
 {
-  "description": "Administrator of datapipelines resources",
+  "description": "Administrator of Data pipelines resources",
   "etag": "AA==",
   "includedPermissions": [
     "datapipelines.pipelines.create",
@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datapipelines.admin",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Data pipelines Admin"
 }

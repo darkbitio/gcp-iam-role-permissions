@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudkms.cryptoKeyEncrypterViaDelegation",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud KMS CryptoKey Encrypter Via Delegation"
 }

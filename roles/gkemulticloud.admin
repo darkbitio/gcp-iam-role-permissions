@@ -1,5 +1,5 @@
 {
-  "description": "Administrator of Anthos Multi-cloud resources",
+  "description": "Admin access to Anthos Multi-cloud resources.",
   "etag": "AA==",
   "includedPermissions": [
     "gkemulticloud.awsClusters.create",

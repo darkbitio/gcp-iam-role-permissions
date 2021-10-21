@@ -1,5 +1,5 @@
 {
-  "description": "Grants a Cloud Logging Service Account the ability to create and link datasets.",
+  "description": "Grants a Cloud Logging Service Account the ability to create Datasets and manage BigQuery Authorized Views inside those Datasets.",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.datasets.create"

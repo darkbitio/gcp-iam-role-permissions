@@ -31,7 +31,6 @@
     "dataproc.jobs.get",
     "dataproc.jobs.list",
     "dataproc.jobs.update",
-    "dataproc.operations.cancel",
     "dataproc.operations.delete",
     "dataproc.operations.get",
     "dataproc.operations.list",
