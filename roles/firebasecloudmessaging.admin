@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebasecloudmessaging.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Firebase Cloud Messaging API Admin"
 }

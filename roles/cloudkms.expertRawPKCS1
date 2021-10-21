@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudkms.expertRawPKCS1",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud KMS Expert Raw PKCS#1 Key Manager"
 }
