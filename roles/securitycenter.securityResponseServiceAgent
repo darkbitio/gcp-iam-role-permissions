@@ -5,9 +5,10 @@
     "compute.instances.deleteAccessConfig",
     "compute.instances.setMetadata",
     "pubsub.topics.publish",
+    "securitycenter.findings.list",
     "storage.buckets.update"
   ],
   "name": "roles/securitycenter.securityResponseServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Google Cloud Security Response Service Agent"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of Anthos Multi-cloud resources",
+  "description": "Viewer access to Anthos Multi-cloud resources.",
   "etag": "AA==",
   "includedPermissions": [
     "gkemulticloud.awsClusters.get",
