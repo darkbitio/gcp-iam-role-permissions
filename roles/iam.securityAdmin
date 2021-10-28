@@ -740,6 +740,7 @@
     "healthcare.locations.list",
     "healthcare.operations.list",
     "healthcare.userDataMappings.list",
+    "iam.denypolicies.list",
     "iam.googleapis.com/workloadIdentityPoolProviders.list",
     "iam.googleapis.com/workloadIdentityPools.list",
     "iam.roles.get",

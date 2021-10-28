@@ -148,6 +148,8 @@
     "firebaseappcheck.deviceCheckConfig.update",
     "firebaseappcheck.recaptchaConfig.get",
     "firebaseappcheck.recaptchaConfig.update",
+    "firebaseappcheck.recaptchaEnterpriseConfig.get",
+    "firebaseappcheck.recaptchaEnterpriseConfig.update",
     "firebaseappcheck.safetyNetConfig.get",
     "firebaseappcheck.safetyNetConfig.update",
     "firebaseappcheck.services.get",

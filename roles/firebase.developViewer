@@ -66,6 +66,7 @@
     "firebaseappcheck.debugTokens.get",
     "firebaseappcheck.deviceCheckConfig.get",
     "firebaseappcheck.recaptchaConfig.get",
+    "firebaseappcheck.recaptchaEnterpriseConfig.get",
     "firebaseappcheck.safetyNetConfig.get",
     "firebaseappcheck.services.get",
     "firebaseauth.configs.get",
