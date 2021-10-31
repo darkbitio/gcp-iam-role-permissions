@@ -4,9 +4,6 @@
   "includedPermissions": [
     "cloudkms.keyRings.listTagBindings",
     "cloudsql.instances.listTagBindings",
-    "compute.disks.listTagBindings",
-    "compute.images.listTagBindings",
-    "compute.snapshots.listTagBindings",
     "resourcemanager.hierarchyNodes.listTagBindings",
     "resourcemanager.tagKeys.get",
     "resourcemanager.tagKeys.list",

@@ -59,7 +59,6 @@
     "apigee.developerattributes.get",
     "apigee.developerattributes.list",
     "apigee.developerattributes.update",
-    "apigee.developerbalances.adjust",
     "apigee.developerbalances.get",
     "apigee.developerbalances.update",
     "apigee.developermonetizationconfigs.get",
