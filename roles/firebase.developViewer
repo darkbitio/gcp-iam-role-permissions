@@ -99,6 +99,8 @@
     "run.configurations.get",
     "run.configurations.list",
     "run.locations.list",
+    "run.operations.get",
+    "run.operations.list",
     "run.revisions.get",
     "run.revisions.list",
     "run.routes.get",

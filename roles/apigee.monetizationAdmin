@@ -4,6 +4,7 @@
   "includedPermissions": [
     "apigee.apiproducts.get",
     "apigee.apiproducts.list",
+    "apigee.developerbalances.adjust",
     "apigee.developerbalances.get",
     "apigee.developerbalances.update",
     "apigee.developermonetizationconfigs.get",
