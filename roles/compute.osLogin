@@ -2,10 +2,13 @@
   "description": "Access to log in to a Compute Engine instance as a standard (non-administrator) user.",
   "etag": "AA==",
   "includedPermissions": [
+    "compute.disks.listTagBindings",
+    "compute.images.listTagBindings",
     "compute.instances.get",
     "compute.instances.list",
     "compute.instances.osLogin",
     "compute.projects.get",
+    "compute.snapshots.listTagBindings",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "serviceusage.quotas.get",
