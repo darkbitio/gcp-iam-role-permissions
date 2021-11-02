@@ -12,6 +12,8 @@
     "datastream.locations.fetchStaticIps",
     "datastream.locations.get",
     "datastream.locations.list",
+    "datastream.objects.get",
+    "datastream.objects.list",
     "datastream.operations.get",
     "datastream.operations.list",
     "datastream.privateConnections.get",
