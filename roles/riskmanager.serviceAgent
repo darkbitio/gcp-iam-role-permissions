@@ -120,6 +120,8 @@
     "securitycenter.findings.group",
     "securitycenter.findings.list",
     "securitycenter.findings.listFindingPropertyNames",
+    "securitycenter.muteconfigs.get",
+    "securitycenter.muteconfigs.list",
     "securitycenter.notificationconfig.get",
     "securitycenter.notificationconfig.list",
     "securitycenter.organizationsettings.get",

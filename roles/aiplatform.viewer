@@ -74,6 +74,7 @@
     "aiplatform.tensorboardExperiments.list",
     "aiplatform.tensorboardRuns.get",
     "aiplatform.tensorboardRuns.list",
+    "aiplatform.tensorboardTimeSeries.batchRead",
     "aiplatform.tensorboardTimeSeries.get",
     "aiplatform.tensorboardTimeSeries.list",
     "aiplatform.tensorboardTimeSeries.read",
