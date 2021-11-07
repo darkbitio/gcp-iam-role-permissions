@@ -2,7 +2,6 @@
   "description": "Viewer access to Anthos Multi-cloud resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "gkemulticloud.awsClusters.generateAccessToken",
     "gkemulticloud.awsClusters.get",
     "gkemulticloud.awsClusters.list",
     "gkemulticloud.awsNodePools.get",
@@ -10,7 +9,6 @@
     "gkemulticloud.awsServerConfigs.get",
     "gkemulticloud.azureClients.get",
     "gkemulticloud.azureClients.list",
-    "gkemulticloud.azureClusters.generateAccessToken",
     "gkemulticloud.azureClusters.get",
     "gkemulticloud.azureClusters.list",
     "gkemulticloud.azureNodePools.get",

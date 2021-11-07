@@ -2,8 +2,6 @@
   "description": "Grants access to view all resources and process documents in Cloud DocumentAI",
   "etag": "AA==",
   "includedPermissions": [
-    "documentai.datasetSchemas.get",
-    "documentai.datasets.get",
     "documentai.evaluations.get",
     "documentai.evaluations.list",
     "documentai.humanReviewConfigs.get",
@@ -13,7 +11,6 @@
     "documentai.locations.get",
     "documentai.locations.list",
     "documentai.operations.getLegacy",
-    "documentai.processorTypes.get",
     "documentai.processorTypes.list",
     "documentai.processorVersions.get",
     "documentai.processorVersions.list",

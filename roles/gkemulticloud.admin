@@ -4,7 +4,6 @@
   "includedPermissions": [
     "gkemulticloud.awsClusters.create",
     "gkemulticloud.awsClusters.delete",
-    "gkemulticloud.awsClusters.generateAccessToken",
     "gkemulticloud.awsClusters.get",
     "gkemulticloud.awsClusters.getAdminKubeconfig",
     "gkemulticloud.awsClusters.list",
@@ -21,7 +20,6 @@
     "gkemulticloud.azureClients.list",
     "gkemulticloud.azureClusters.create",
     "gkemulticloud.azureClusters.delete",
-    "gkemulticloud.azureClusters.generateAccessToken",
     "gkemulticloud.azureClusters.get",
     "gkemulticloud.azureClusters.getAdminKubeconfig",
     "gkemulticloud.azureClusters.list",

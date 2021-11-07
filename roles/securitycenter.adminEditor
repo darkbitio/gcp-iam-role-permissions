@@ -30,7 +30,6 @@
     "securitycenter.containerthreatdetectionsettings.get",
     "securitycenter.eventthreatdetectionsettings.calculate",
     "securitycenter.eventthreatdetectionsettings.get",
-    "securitycenter.findingexternalsystems.update",
     "securitycenter.findings.bulkMuteUpdate",
     "securitycenter.findings.group",
     "securitycenter.findings.list",
