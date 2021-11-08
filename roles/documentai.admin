@@ -2,6 +2,10 @@
   "description": "Grants full access to all resources in Cloud DocumentAI",
   "etag": "AA==",
   "includedPermissions": [
+    "documentai.datasetSchemas.get",
+    "documentai.datasetSchemas.update",
+    "documentai.datasets.get",
+    "documentai.datasets.update",
     "documentai.evaluations.create",
     "documentai.evaluations.get",
     "documentai.evaluations.list",
@@ -16,6 +20,7 @@
     "documentai.locations.get",
     "documentai.locations.list",
     "documentai.operations.getLegacy",
+    "documentai.processorTypes.get",
     "documentai.processorTypes.list",
     "documentai.processorVersions.create",
     "documentai.processorVersions.delete",
