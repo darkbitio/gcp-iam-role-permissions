@@ -26,6 +26,6 @@
     "videostitcher.vodStitchDetails.list"
   ],
   "name": "roles/videostitcher.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Video Stitcher Admin"
 }

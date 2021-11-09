@@ -9,6 +9,6 @@
     "securitycenter.muteconfigs.update"
   ],
   "name": "roles/securitycenter.muteConfigsEditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Security Center Mute Configurations Editor"
 }

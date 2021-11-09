@@ -25,7 +25,6 @@
     "apigee.environments.getStats",
     "apigee.environments.list",
     "apigee.environments.setIamPolicy",
-    "apigee.environments.update",
     "apigee.flowhooks.attachSharedFlow",
     "apigee.flowhooks.detachSharedFlow",
     "apigee.flowhooks.getSharedFlow",

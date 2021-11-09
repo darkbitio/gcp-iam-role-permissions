@@ -41,6 +41,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkemulticloud.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Anthos Multi-cloud Admin"
 }

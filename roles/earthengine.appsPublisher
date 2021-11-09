@@ -8,8 +8,7 @@
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.getIamPolicy",
     "iam.serviceAccounts.setIamPolicy",
-    "resourcemanager.projects.get",
-    "serviceusage.services.get"
+    "resourcemanager.projects.get"
   ],
   "name": "roles/earthengine.appsPublisher",
   "stage": "BETA",

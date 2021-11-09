@@ -5,6 +5,6 @@
     "securitycenter.findings.bulkMuteUpdate"
   ],
   "name": "roles/securitycenter.findingsBulkMuteEditor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Findings Bulk Mute Editor"
 }

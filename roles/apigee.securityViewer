@@ -8,6 +8,6 @@
     "apigee.securityreports.list"
   ],
   "name": "roles/apigee.securityViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Security Viewer"
 }

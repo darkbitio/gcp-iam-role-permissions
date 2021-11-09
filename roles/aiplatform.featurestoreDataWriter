@@ -9,7 +9,9 @@
     "aiplatform.entityTypes.writeFeatureValues",
     "aiplatform.features.get",
     "aiplatform.features.list",
-    "aiplatform.featurestores.batchReadFeatureValues"
+    "aiplatform.featurestores.batchReadFeatureValues",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreDataWriter",
   "stage": "BETA",
