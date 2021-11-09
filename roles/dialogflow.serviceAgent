@@ -75,6 +75,8 @@
     "dialogflow.versions.list",
     "dialogflow.webhooks.get",
     "dialogflow.webhooks.list",
+    "dlp.deidentifyTemplates.get",
+    "dlp.deidentifyTemplates.list",
     "dlp.inspectTemplates.get",
     "dlp.inspectTemplates.list",
     "logging.logEntries.create",

@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Stream all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/stream.admin",
+  "stage": "ALPHA",
+  "title": "Stream Admin"
+}

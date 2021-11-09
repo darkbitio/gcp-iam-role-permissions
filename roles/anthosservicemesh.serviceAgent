@@ -13,6 +13,7 @@
     "container.clusterRoles.escalate",
     "container.clusterRoles.get",
     "container.clusterRoles.list",
+    "container.clusterRoles.update",
     "container.clusters.get",
     "container.configMaps.create",
     "container.configMaps.delete",

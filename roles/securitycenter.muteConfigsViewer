@@ -6,6 +6,6 @@
     "securitycenter.muteconfigs.list"
   ],
   "name": "roles/securitycenter.muteConfigsViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Mute Configurations Viewer"
 }

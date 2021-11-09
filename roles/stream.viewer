@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to Stream all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/stream.viewer",
+  "stage": "ALPHA",
+  "title": "Stream Viewer"
+}

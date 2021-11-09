@@ -1,5 +1,5 @@
 {
-  "description": "Admin of Bigquery Capacity Commitments insights and recommendations.",
+  "description": "Admin of BigQuery Capacity Commitments insights and recommendations.",
   "etag": "AA==",
   "includedPermissions": [
     "recommender.bigqueryCapacityCommitmentsInsights.get",
@@ -15,5 +15,5 @@
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsAdmin",
   "stage": "BETA",
-  "title": "Bigquery Slot Recommender Admin"
+  "title": "BigQuery Slot Recommender Admin"
 }

@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkemulticloud.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Anthos Multi-cloud Viewer"
 }

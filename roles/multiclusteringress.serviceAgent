@@ -114,6 +114,7 @@
     "compute.sslCertificates.list",
     "compute.sslPolicies.use",
     "compute.subnetworks.list",
+    "compute.subnetworks.use",
     "compute.targetHttpProxies.create",
     "compute.targetHttpProxies.delete",
     "compute.targetHttpProxies.get",
