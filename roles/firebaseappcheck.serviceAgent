@@ -6,6 +6,6 @@
     "recaptchaenterprise.assessments.create"
   ],
   "name": "roles/firebaseappcheck.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Firebase App Check Service Agent"
 }

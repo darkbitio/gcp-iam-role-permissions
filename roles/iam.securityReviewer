@@ -174,7 +174,6 @@
     "clientauthconfig.brands.list",
     "clientauthconfig.clients.list",
     "cloudasset.feeds.list",
-    "cloudasset.savedqueries.list",
     "cloudbuild.builds.list",
     "cloudbuild.workerpools.list",
     "clouddebugger.breakpoints.list",

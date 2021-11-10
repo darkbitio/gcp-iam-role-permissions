@@ -197,6 +197,7 @@
     "clientauthconfig.clients.list",
     "cloudasset.assets.searchAllResources",
     "cloudasset.feeds.list",
+    "cloudasset.savedqueries.list",
     "cloudbuild.builds.list",
     "cloudbuild.workerpools.list",
     "clouddebugger.breakpoints.list",

@@ -1,5 +1,5 @@
 {
-  "description": "Viewer of Bigquery Capacity Commitments insights and recommendations.",
+  "description": "Viewer of BigQuery Capacity Commitments insights and recommendations.",
   "etag": "AA==",
   "includedPermissions": [
     "recommender.bigqueryCapacityCommitmentsInsights.get",
@@ -13,5 +13,5 @@
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsViewer",
   "stage": "BETA",
-  "title": "Bigquery Slot Recommender Viewer"
+  "title": "BigQuery Slot Recommender Viewer"
 }

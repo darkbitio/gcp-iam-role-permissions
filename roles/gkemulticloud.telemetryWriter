@@ -12,6 +12,6 @@
     "opsconfigmonitoring.resourceMetadata.write"
   ],
   "name": "roles/gkemulticloud.telemetryWriter",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Anthos Multi-cloud Telemetry Writer"
 }

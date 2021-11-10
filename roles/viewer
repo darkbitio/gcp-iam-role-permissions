@@ -428,8 +428,6 @@
     "cloudasset.assets.exportStorageBuckets",
     "cloudasset.assets.searchAllIamPolicies",
     "cloudasset.assets.searchAllResources",
-    "cloudasset.savedqueries.get",
-    "cloudasset.savedqueries.list",
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
     "cloudbuild.workerpools.get",

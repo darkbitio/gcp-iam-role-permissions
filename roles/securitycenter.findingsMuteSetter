@@ -5,6 +5,6 @@
     "securitycenter.findings.setMute"
   ],
   "name": "roles/securitycenter.findingsMuteSetter",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Findings Mute Setter"
 }

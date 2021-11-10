@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datastore.keyVisualizerViewer",
-  "stage": "ALPHA",
-  "title": "Cloud Datastore Key Visualizer"
+  "stage": "GA",
+  "title": "Cloud Datastore Key Visualizer Viewer"
 }

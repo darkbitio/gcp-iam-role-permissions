@@ -1,5 +1,5 @@
 {
-  "description": "Billing Account Viewer of Bigquery Capacity Commitments insights and recommendations.",
+  "description": "Billing Account Viewer of BigQuery Capacity Commitments insights and recommendations.",
   "etag": "AA==",
   "includedPermissions": [
     "billing.accounts.get",
@@ -11,5 +11,5 @@
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsBillingAccountViewer",
   "stage": "BETA",
-  "title": "Bigquery Recommender Billing Account Viewer"
+  "title": "BigQuery Recommender Billing Account Viewer"
 }

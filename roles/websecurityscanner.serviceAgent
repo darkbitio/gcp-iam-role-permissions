@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "appengine.applications.get",
-    "cloudasset.assets.listResource",
     "compute.addresses.list",
     "compute.backendServices.get",
     "compute.forwardingRules.get",
