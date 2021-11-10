@@ -127,6 +127,8 @@
     "datastore.indexes.get",
     "datastore.indexes.list",
     "datastore.indexes.update",
+    "datastore.keyVisualizerScans.get",
+    "datastore.keyVisualizerScans.list",
     "datastore.locations.get",
     "datastore.locations.list",
     "datastore.namespaces.get",

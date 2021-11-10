@@ -8,9 +8,7 @@
     "aiplatform.features.list",
     "aiplatform.featurestores.get",
     "aiplatform.featurestores.list",
-    "aiplatform.operations.list",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "aiplatform.operations.list"
   ],
   "name": "roles/aiplatform.featurestoreResourceViewer",
   "stage": "BETA",

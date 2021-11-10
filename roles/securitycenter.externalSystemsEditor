@@ -5,6 +5,6 @@
     "securitycenter.findingexternalsystems.update"
   ],
   "name": "roles/securitycenter.externalSystemsEditor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center External Systems Editor"
 }

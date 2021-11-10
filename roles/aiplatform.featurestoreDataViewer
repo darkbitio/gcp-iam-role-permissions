@@ -7,9 +7,7 @@
     "aiplatform.entityTypes.streamingReadFeatureValues",
     "aiplatform.features.get",
     "aiplatform.features.list",
-    "aiplatform.featurestores.batchReadFeatureValues",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "aiplatform.featurestores.batchReadFeatureValues"
   ],
   "name": "roles/aiplatform.featurestoreDataViewer",
   "stage": "BETA",

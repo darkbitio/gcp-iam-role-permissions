@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to view all resources and process documents in Cloud DocumentAI",
+  "description": "Grants access to view all resources and process documents in Document AI",
   "etag": "AA==",
   "includedPermissions": [
     "documentai.datasetSchemas.get",
@@ -29,5 +29,5 @@
   ],
   "name": "roles/documentai.viewer",
   "stage": "BETA",
-  "title": "Cloud DocumentAI Viewer"
+  "title": "Document AI Viewer"
 }

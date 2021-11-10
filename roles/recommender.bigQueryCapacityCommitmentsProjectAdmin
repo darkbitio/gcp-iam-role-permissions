@@ -1,5 +1,5 @@
 {
-  "description": "Project Admin of Bigquery Capacity Commitments insights and recommendations.",
+  "description": "Project Admin of BigQuery Capacity Commitments insights and recommendations.",
   "etag": "AA==",
   "includedPermissions": [
     "recommender.bigqueryCapacityCommitmentsInsights.get",
@@ -15,5 +15,5 @@
   ],
   "name": "roles/recommender.bigQueryCapacityCommitmentsProjectAdmin",
   "stage": "BETA",
-  "title": "Bigquery Recommender Project Admin"
+  "title": "BigQuery Recommender Project Admin"
 }

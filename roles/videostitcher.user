@@ -10,6 +10,6 @@
     "videostitcher.vodSessions.get"
   ],
   "name": "roles/videostitcher.user",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Video Stitcher User"
 }
