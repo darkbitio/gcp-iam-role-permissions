@@ -215,6 +215,8 @@
     "aiplatform.trials.list",
     "aiplatform.trials.update",
     "artifactregistry.aptartifacts.create",
+    "artifactregistry.dockerimages.get",
+    "artifactregistry.dockerimages.list",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.delete",
