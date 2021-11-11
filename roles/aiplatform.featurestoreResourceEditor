@@ -14,7 +14,9 @@
     "aiplatform.features.update",
     "aiplatform.featurestores.get",
     "aiplatform.featurestores.list",
-    "aiplatform.operations.list"
+    "aiplatform.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreResourceEditor",
   "stage": "BETA",

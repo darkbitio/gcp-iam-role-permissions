@@ -2,8 +2,6 @@
   "description": "Gives Container Analysis API the access it needs to function",
   "etag": "AA==",
   "includedPermissions": [
-    "artifactregistry.dockerimages.get",
-    "artifactregistry.dockerimages.list",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.get",

@@ -2,8 +2,6 @@
   "description": "Gives Compliance Scanning the access it needs to analyze containers and VMs for compliance and create occurrences using the Container Analysis API",
   "etag": "AA==",
   "includedPermissions": [
-    "artifactregistry.dockerimages.get",
-    "artifactregistry.dockerimages.list",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.get",

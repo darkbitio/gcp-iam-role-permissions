@@ -2,8 +2,6 @@
   "description": "Gives Cloud Run service account access to managed resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "artifactregistry.dockerimages.get",
-    "artifactregistry.dockerimages.list",
     "artifactregistry.files.get",
     "artifactregistry.files.list",
     "artifactregistry.packages.get",

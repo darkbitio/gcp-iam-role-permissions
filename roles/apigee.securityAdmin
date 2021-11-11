@@ -10,6 +10,6 @@
     "apigee.securityreports.list"
   ],
   "name": "roles/apigee.securityAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Security Admin"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to use all resources in Cloud DocumentAI",
+  "description": "Grants access to use all resources in Document AI",
   "etag": "AA==",
   "includedPermissions": [
     "documentai.datasetSchemas.get",
@@ -42,5 +42,5 @@
   ],
   "name": "roles/documentai.editor",
   "stage": "BETA",
-  "title": "Cloud DocumentAI Editor"
+  "title": "Document AI Editor"
 }

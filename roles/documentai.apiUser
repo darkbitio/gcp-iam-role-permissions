@@ -1,5 +1,5 @@
 {
-  "description": "Grants access to process documents in Cloud DocumentAI",
+  "description": "Grants access to process documents in Document AI",
   "etag": "AA==",
   "includedPermissions": [
     "documentai.humanReviewConfigs.review",
@@ -11,5 +11,5 @@
   ],
   "name": "roles/documentai.apiUser",
   "stage": "BETA",
-  "title": "Cloud DocumentAI API User"
+  "title": "Document AI API User"
 }
