@@ -1,7 +1,0 @@
-{
-  "description": "Access to read AlloyDB Producer resources.",
-  "etag": "AA==",
-  "name": "roles/alloydbproducer.backupViewer",
-  "stage": "ALPHA",
-  "title": "AlloyDB Producer API readonly backup admin role"
-}

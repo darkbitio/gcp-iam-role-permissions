@@ -1,13 +1,9 @@
 {
-  "description": "Administrator of Bare Metal Solution resources",
+  "description": "Administrator of Bare Metal Solution storage resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.instances.create",
-    "baremetalsolution.instances.get",
-    "baremetalsolution.instances.list",
-    "baremetalsolution.instances.reset",
-    "baremetalsolution.networks.get",
-    "baremetalsolution.networks.list",
+    "baremetalsolution.luns.get",
+    "baremetalsolution.luns.list",
     "baremetalsolution.snapshotschedulepolicies.create",
     "baremetalsolution.snapshotschedulepolicies.delete",
     "baremetalsolution.snapshotschedulepolicies.get",
@@ -24,7 +20,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/baremetalsolution.admin",
-  "stage": "GA",
-  "title": "Bare Metal Solution Admin"
+  "name": "roles/baremetalsolution.storageadmin",
+  "stage": "ALPHA",
+  "title": "Bare Metal Solution Storage Admin"
 }
