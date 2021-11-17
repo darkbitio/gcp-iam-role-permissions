@@ -5,7 +5,6 @@
     "baremetalsolution.instances.create",
     "baremetalsolution.instances.get",
     "baremetalsolution.instances.list",
-    "baremetalsolution.instances.reset",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
