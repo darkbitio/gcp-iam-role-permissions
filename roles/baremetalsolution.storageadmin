@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/baremetalsolution.storageadmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Bare Metal Solution Storage Admin"
 }
