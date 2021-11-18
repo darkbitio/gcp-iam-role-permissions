@@ -4,14 +4,6 @@
   "includedPermissions": [
     "baremetalsolution.instances.get",
     "baremetalsolution.instances.list",
-    "baremetalsolution.networks.get",
-    "baremetalsolution.networks.list",
-    "baremetalsolution.snapshotschedulepolicies.get",
-    "baremetalsolution.snapshotschedulepolicies.list",
-    "baremetalsolution.volumes.get",
-    "baremetalsolution.volumes.list",
-    "baremetalsolution.volumesnapshots.get",
-    "baremetalsolution.volumesnapshots.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
