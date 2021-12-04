@@ -1,0 +1,7 @@
+{
+  "description": "Can execute on behalf of the bot",
+  "etag": "AA==",
+  "name": "roles/chat.executor",
+  "stage": "ALPHA",
+  "title": "Chat Bots Executor"
+}
