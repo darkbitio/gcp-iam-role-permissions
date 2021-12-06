@@ -61,8 +61,7 @@
     "gkehub.locations.get",
     "gkehub.locations.list",
     "gkehub.memberships.get",
-    "gkehub.memberships.list",
-    "meshconfig.projects.init"
+    "gkehub.memberships.list"
   ],
   "name": "roles/anthosservicemesh.serviceAgent",
   "stage": "GA",
