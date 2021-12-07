@@ -38,6 +38,7 @@
     "container.mutatingWebhookConfigurations.get",
     "container.mutatingWebhookConfigurations.list",
     "container.mutatingWebhookConfigurations.update",
+    "container.namespaces.create",
     "container.namespaces.get",
     "container.namespaces.list",
     "container.pods.get",
@@ -61,7 +62,8 @@
     "gkehub.locations.get",
     "gkehub.locations.list",
     "gkehub.memberships.get",
-    "gkehub.memberships.list"
+    "gkehub.memberships.list",
+    "meshconfig.projects.init"
   ],
   "name": "roles/anthosservicemesh.serviceAgent",
   "stage": "GA",
