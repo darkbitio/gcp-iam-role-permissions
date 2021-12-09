@@ -8,6 +8,6 @@
     "dataconnectors.connectors.use"
   ],
   "name": "roles/dataconnectors.connectorUser",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Connector User"
 }
