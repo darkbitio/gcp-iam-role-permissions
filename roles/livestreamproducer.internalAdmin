@@ -1,7 +1,0 @@
-{
-  "description": "Full access to livestream producer APIs.",
-  "etag": "AA==",
-  "name": "roles/livestreamproducer.internalAdmin",
-  "stage": "ALPHA",
-  "title": "Live Stream Producer API Internal Admin"
-}

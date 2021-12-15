@@ -15,6 +15,6 @@
     "serviceconsumermanagement.tenancyu.removeResource"
   ],
   "name": "roles/workloadcertificate.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Workload Certificate Service Agent"
 }
