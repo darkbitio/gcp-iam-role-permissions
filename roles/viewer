@@ -1989,6 +1989,8 @@
     "securitycenter.sources.list",
     "securitycenter.subscription.get",
     "securitycenter.userinterfacemetadata.get",
+    "securitycenter.virtualmachinethreatdetectionsettings.calculate",
+    "securitycenter.virtualmachinethreatdetectionsettings.get",
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get",
     "servicebroker.bindingoperations.get",
