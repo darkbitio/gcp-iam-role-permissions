@@ -2,7 +2,6 @@
   "description": "Viewer of Data pipelines resources",
   "etag": "AA==",
   "includedPermissions": [
-    "datapipelines.jobs.list",
     "datapipelines.pipelines.get",
     "datapipelines.pipelines.list",
     "resourcemanager.projects.get",

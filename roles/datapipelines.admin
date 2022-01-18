@@ -2,7 +2,6 @@
   "description": "Administrator of Data pipelines resources",
   "etag": "AA==",
   "includedPermissions": [
-    "datapipelines.jobs.list",
     "datapipelines.pipelines.create",
     "datapipelines.pipelines.delete",
     "datapipelines.pipelines.get",

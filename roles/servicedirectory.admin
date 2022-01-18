@@ -22,7 +22,6 @@
     "servicedirectory.namespaces.setIamPolicy",
     "servicedirectory.namespaces.update",
     "servicedirectory.networks.attach",
-    "servicedirectory.services.bind",
     "servicedirectory.services.create",
     "servicedirectory.services.delete",
     "servicedirectory.services.get",
