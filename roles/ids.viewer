@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ids.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud IDS Viewer"
 }

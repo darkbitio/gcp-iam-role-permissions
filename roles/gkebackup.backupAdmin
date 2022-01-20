@@ -5,7 +5,9 @@
     "gkebackup.backupPlans.create",
     "gkebackup.backupPlans.delete",
     "gkebackup.backupPlans.get",
+    "gkebackup.backupPlans.getIamPolicy",
     "gkebackup.backupPlans.list",
+    "gkebackup.backupPlans.setIamPolicy",
     "gkebackup.backupPlans.update",
     "gkebackup.backups.create",
     "gkebackup.backups.delete",
@@ -22,6 +24,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkebackup.backupAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Backup for GKE Backup Admin"
 }
