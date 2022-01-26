@@ -1,0 +1,11 @@
+{
+  "description": "Access to create lineage resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datalineage.internalProducer",
+  "stage": "ALPHA",
+  "title": "Lineage Internal Producer"
+}
