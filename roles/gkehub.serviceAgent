@@ -31,7 +31,6 @@
     "gkehub.features.list",
     "gkehub.locations.get",
     "gkehub.locations.list",
-    "gkehub.memberships.create",
     "gkehub.memberships.generateConnectManifest",
     "gkehub.memberships.get",
     "gkehub.memberships.list",
