@@ -8,8 +8,7 @@
     "servicenetworking.operations.list",
     "servicenetworking.services.addPeering",
     "servicenetworking.services.addSubnetwork",
-    "servicenetworking.services.get",
-    "servicenetworking.services.use"
+    "servicenetworking.services.get"
   ],
   "name": "roles/servicenetworking.networksAdmin",
   "stage": "BETA",
