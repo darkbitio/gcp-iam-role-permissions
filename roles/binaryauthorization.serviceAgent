@@ -5,7 +5,6 @@
     "binaryauthorization.attestors.get",
     "binaryauthorization.attestors.list",
     "binaryauthorization.attestors.verifyImageAttested",
-    "cloudasset.assets.exportResource",
     "cloudasset.feeds.create",
     "cloudasset.feeds.delete",
     "cloudasset.feeds.get",
