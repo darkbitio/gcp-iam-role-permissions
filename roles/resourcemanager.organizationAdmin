@@ -1,5 +1,5 @@
 {
-  "description": "Access to manage IAM policies and view organization policies for organizations, folders, and projects.",
+  "description": "Access to administer all resources belonging to the organization.",
   "etag": "AA==",
   "includedPermissions": [
     "orgpolicy.constraints.list",
