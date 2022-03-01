@@ -1,0 +1,11 @@
+{
+  "description": "Read access to Cloud Marketplace provider/producer resources exposed via Google Admin",
+  "etag": "AA==",
+  "includedPermissions": [
+    "commerceprice.privateoffers.get",
+    "commerceprice.privateoffers.list"
+  ],
+  "name": "roles/cloudmarketplace.googleAdminProviderReader",
+  "stage": "ALPHA",
+  "title": "Cloud Marketplace Google Admin Provider Reader"
+}
