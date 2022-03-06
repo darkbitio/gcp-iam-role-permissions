@@ -6,6 +6,6 @@
     "fleetengine.deliveryvehicles.updateLocation"
   ],
   "name": "roles/fleetengine.deliveryUntrustedDriver",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Fleet Engine Delivery Untrusted Driver User"
 }
