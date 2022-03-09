@@ -3,8 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "baremetalsolution.networks.get",
-    "baremetalsolution.networks.list",
-    "baremetalsolution.networks.update"
+    "baremetalsolution.networks.list"
   ],
   "name": "roles/baremetalsolution.networksadmin",
   "stage": "GA",
