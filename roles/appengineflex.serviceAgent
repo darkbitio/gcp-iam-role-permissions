@@ -101,7 +101,6 @@
     "compute.regionOperations.get",
     "compute.regions.get",
     "compute.routes.get",
-    "compute.routes.list",
     "compute.subnetworks.delete",
     "compute.subnetworks.get",
     "compute.targetHttpProxies.create",
