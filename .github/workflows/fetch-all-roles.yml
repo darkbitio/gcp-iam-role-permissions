@@ -19,6 +19,8 @@ jobs:
       run: gcloud config set project darkbit-audit-resources
     - name: fetch all iam roles
       run: ./fetch-all-roles.sh
+    - name: generate cai for roles
+      run: ./export-all-roles-to-cai.sh
     - name: commit, tag, and release
       run: ./.github/commit-and-release.sh
       env:
