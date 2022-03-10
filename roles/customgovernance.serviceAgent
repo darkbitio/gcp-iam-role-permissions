@@ -1,0 +1,14 @@
+{
+  "description": "Gives Custom Governance Service Agent access to CAI export functions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudasset.assets.exportAccessPolicy",
+    "cloudasset.assets.exportIamPolicy",
+    "cloudasset.assets.exportOrgPolicy",
+    "cloudasset.assets.exportResource",
+    "cloudasset.assets.searchAllResources"
+  ],
+  "name": "roles/customgovernance.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Custom Governance Service Agent"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Read access to Cloud Data Fusion instances. Use it to tether with other Cloud Data Fusion instance",
+  "etag": "AA==",
+  "includedPermissions": [
+    "datafusion.instances.get",
+    "monitoring.metricDescriptors.create",
+    "monitoring.metricDescriptors.get",
+    "monitoring.metricDescriptors.list",
+    "monitoring.monitoredResourceDescriptors.get",
+    "monitoring.monitoredResourceDescriptors.list",
+    "monitoring.timeSeries.create"
+  ],
+  "name": "roles/datafusion.odfServiceAgent",
+  "stage": "ALPHA",
+  "title": "Omni Data Fusion Service Agent"
+}
