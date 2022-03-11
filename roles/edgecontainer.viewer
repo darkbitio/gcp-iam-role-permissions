@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/edgecontainer.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Edge Container Viewer"
 }
