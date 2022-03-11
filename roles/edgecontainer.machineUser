@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/edgecontainer.machineUser",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Edge Container Machine User"
 }
