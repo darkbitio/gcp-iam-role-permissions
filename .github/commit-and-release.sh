@@ -23,6 +23,7 @@ if [[ ${CHANGES} -eq 1 ]]; then
   # Add and commit
   echo "git add -A roles"
   git add -A roles
+  git add gcp_roles_cai.json
   echo "git commit -m 'Fetch all roles'"
   git commit -m 'Fetch all roles'
 
