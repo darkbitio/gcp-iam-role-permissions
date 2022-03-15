@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.dataflowDiagnosticsViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataflow Diagnostics Viewer"
 }
