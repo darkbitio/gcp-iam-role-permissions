@@ -1,7 +1,0 @@
-{
-  "description": "Internal admin access to Bare Metal Solution instances and related resources.",
-  "etag": "AA==",
-  "name": "roles/baremetalsolutionproducer.internalAdmin",
-  "stage": "ALPHA",
-  "title": "Bare Metal Solution Producer Internal Admin"
-}
