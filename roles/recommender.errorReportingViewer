@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.errorReportingViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Error Reporting Recommender Viewer"
 }
