@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/analyticshub.listingAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Analytics Hub Listing Admin"
 }

@@ -7,6 +7,6 @@
     "resourcemanager.organizations.get"
   ],
   "name": "roles/advisorynotifications.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Advisory Notifications Viewer"
 }
