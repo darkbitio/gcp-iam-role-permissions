@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: checkout repo
       uses: actions/checkout@v2
-    - uses: google-github-actions/setup-gcloud@master
+    - uses: google-github-actions/setup-gcloud@main
       with:
         version: 'latest'
         service_account_key: ${{ secrets.GCP_SA_KEY }}
