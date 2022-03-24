@@ -97,7 +97,6 @@
     "apigee.instances.list",
     "apigee.keystorealiases.list",
     "apigee.keystores.list",
-    "apigee.keyvaluemapentries.list",
     "apigee.keyvaluemaps.list",
     "apigee.operations.list",
     "apigee.organizations.list",

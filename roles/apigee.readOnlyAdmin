@@ -59,7 +59,6 @@
     "apigee.keystorealiases.list",
     "apigee.keystores.get",
     "apigee.keystores.list",
-    "apigee.keyvaluemapentries.list",
     "apigee.keyvaluemaps.list",
     "apigee.maskconfigs.get",
     "apigee.operations.get",
