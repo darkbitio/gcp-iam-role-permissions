@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigeeregistry.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Apigee Registry Viewer"
 }

@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkeonprem.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "GKE on-prem Viewer"
 }
