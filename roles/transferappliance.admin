@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Transfer Appliance all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/transferappliance.admin",
+  "stage": "ALPHA",
+  "title": "Transfer Appliance Admin"
+}
