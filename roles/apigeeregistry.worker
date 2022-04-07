@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigeeregistry.worker",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Apigee Registry Worker"
 }
