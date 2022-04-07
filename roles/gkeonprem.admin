@@ -28,6 +28,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkeonprem.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "GKE on-prem Admin"
 }
