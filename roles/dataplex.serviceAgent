@@ -100,7 +100,6 @@
     "bigquery.tables.updateTag",
     "bigquery.transfers.get",
     "bigquery.transfers.update",
-    "bigquerymigration.translation.translate",
     "dataplex.assets.getIamPolicy",
     "dataplex.environments.get",
     "dataplex.lakes.get",

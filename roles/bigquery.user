@@ -24,7 +24,6 @@
     "bigquery.savedqueries.list",
     "bigquery.tables.list",
     "bigquery.transfers.get",
-    "bigquerymigration.translation.translate",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
