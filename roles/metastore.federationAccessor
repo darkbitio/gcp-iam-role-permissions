@@ -1,0 +1,7 @@
+{
+  "description": "Access to the Metastore Federation resource.",
+  "etag": "AA==",
+  "name": "roles/metastore.federationAccessor",
+  "stage": "ALPHA",
+  "title": "Metastore Federation Accessor"
+}
