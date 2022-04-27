@@ -1,0 +1,7 @@
+{
+  "description": "Viewer access to visionai internal APIs.",
+  "etag": "AA==",
+  "name": "roles/visionaipa.viewer",
+  "stage": "ALPHA",
+  "title": "VisionAI Viewer Role for VisionAI"
+}

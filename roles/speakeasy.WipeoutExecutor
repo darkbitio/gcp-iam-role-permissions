@@ -1,0 +1,7 @@
+{
+  "description": "Can delete Speaekasy Customers, Conversations, Sessions, Messaging Sessions, and Recordings",
+  "etag": "AA==",
+  "name": "roles/speakeasy.WipeoutExecutor",
+  "stage": "ALPHA",
+  "title": "Speakeasy Wipeout Executor"
+}
