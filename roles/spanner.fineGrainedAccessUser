@@ -1,0 +1,7 @@
+{
+  "description": "Provides fine-grained access to a Cloud Spanner database. Does not include permissions to access data. Members need to be granted access to act as specific database roles for data \"access.\"",
+  "etag": "AA==",
+  "name": "roles/spanner.fineGrainedAccessUser",
+  "stage": "ALPHA",
+  "title": "Cloud Spanner Fine-grained Access User"
+}
