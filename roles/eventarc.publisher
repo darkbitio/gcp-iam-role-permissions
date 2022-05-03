@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/eventarc.publisher",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Eventarc Publisher"
 }
