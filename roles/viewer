@@ -1505,7 +1505,6 @@
     "firebaseappcheck.deviceCheckConfig.get",
     "firebaseappcheck.playIntegrityConfig.get",
     "firebaseappcheck.recaptchaEnterpriseConfig.get",
-    "firebaseappcheck.recaptchaV3Config.get",
     "firebaseappcheck.safetyNetConfig.get",
     "firebaseappcheck.services.get",
     "firebaseappdistro.groups.list",
