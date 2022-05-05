@@ -7,11 +7,10 @@
     "firebaseappcheck.deviceCheckConfig.get",
     "firebaseappcheck.playIntegrityConfig.get",
     "firebaseappcheck.recaptchaEnterpriseConfig.get",
-    "firebaseappcheck.recaptchaV3Config.get",
     "firebaseappcheck.safetyNetConfig.get",
     "firebaseappcheck.services.get"
   ],
   "name": "roles/firebaseappcheck.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Firebase App Check Viewer"
 }
