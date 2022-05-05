@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/containersecurity.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "GKE Protect Viewer"
 }
