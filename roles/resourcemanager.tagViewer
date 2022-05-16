@@ -4,7 +4,6 @@
   "includedPermissions": [
     "artifactregistry.repositories.listEffectiveTags",
     "artifactregistry.repositories.listTagBindings",
-    "bigquery.datasets.listTagBindings",
     "cloudkms.keyRings.listEffectiveTags",
     "cloudkms.keyRings.listTagBindings",
     "cloudsql.instances.listEffectiveTags",
