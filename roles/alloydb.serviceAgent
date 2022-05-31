@@ -5,6 +5,6 @@
     "alloydb.clusters.list"
   ],
   "name": "roles/alloydb.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "AlloyDB Service Agent"
 }
