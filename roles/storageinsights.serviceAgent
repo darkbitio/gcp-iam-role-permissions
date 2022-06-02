@@ -1,0 +1,11 @@
+{
+  "description": "Permissions for Insights to write reports into customer project",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.objects.create",
+    "storage.objects.update"
+  ],
+  "name": "roles/storageinsights.serviceAgent",
+  "stage": "ALPHA",
+  "title": "StorageInsights Service Agent"
+}
