@@ -5,7 +5,6 @@
     "accessapproval.requests.approve",
     "accessapproval.requests.dismiss",
     "accessapproval.requests.get",
-    "accessapproval.requests.invalidate",
     "accessapproval.requests.list",
     "accessapproval.settings.get",
     "resourcemanager.projects.get",
