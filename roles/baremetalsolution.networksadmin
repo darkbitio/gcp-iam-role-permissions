@@ -2,7 +2,6 @@
   "description": "Admin of Bare Metal Solution networks resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.networkquotas.list",
     "baremetalsolution.networks.get",
     "baremetalsolution.networks.list",
     "baremetalsolution.networks.update"
