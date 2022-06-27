@@ -30,7 +30,6 @@
     "storage.buckets.get",
     "storage.buckets.update",
     "storage.objects.create",
-    "storage.objects.delete",
     "storage.objects.get",
     "storage.objects.list"
   ],
