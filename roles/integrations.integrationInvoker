@@ -1,5 +1,5 @@
 {
-  "description": "A role that can invoke Apigee integrations.",
+  "description": "A role that can invoke integrations.",
   "etag": "AA==",
   "includedPermissions": [
     "integrations.apigeeExecutions.list",
@@ -17,7 +17,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/integrations.apigeeIntegrationInvokerRole",
-  "stage": "GA",
-  "title": "Apigee Integration Invoker"
+  "name": "roles/integrations.integrationInvoker",
+  "stage": "ALPHA",
+  "title": "Integration Invoker"
 }

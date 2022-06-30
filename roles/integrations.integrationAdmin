@@ -1,5 +1,5 @@
 {
-  "description": "A user that has full access to all Apigee integrations.",
+  "description": "A user that has full access (CRUD) to all integrations.",
   "etag": "AA==",
   "includedPermissions": [
     "integrations.apigeeAuthConfigs.create",
@@ -74,7 +74,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/integrations.apigeeIntegrationAdminRole",
-  "stage": "GA",
-  "title": "Apigee Integration Admin"
+  "name": "roles/integrations.integrationAdmin",
+  "stage": "ALPHA",
+  "title": "Integration Admin"
 }
