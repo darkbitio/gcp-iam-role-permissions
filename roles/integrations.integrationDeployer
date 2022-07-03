@@ -1,23 +1,21 @@
 {
-  "description": "A role that can invoke Apigee integrations.",
+  "description": "A developer that can deploy/undeploy integrations to the integration runtime.",
   "etag": "AA==",
   "includedPermissions": [
-    "integrations.apigeeExecutions.list",
+    "integrations.apigeeIntegrationVers.deploy",
     "integrations.apigeeIntegrationVers.get",
     "integrations.apigeeIntegrationVers.list",
-    "integrations.apigeeIntegrations.invoke",
     "integrations.apigeeIntegrations.list",
-    "integrations.executions.list",
+    "integrations.integrationVersions.deploy",
     "integrations.integrationVersions.get",
-    "integrations.integrationVersions.invoke",
     "integrations.integrationVersions.list",
+    "integrations.integrations.deploy",
     "integrations.integrations.get",
-    "integrations.integrations.invoke",
     "integrations.integrations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/integrations.apigeeIntegrationInvokerRole",
-  "stage": "GA",
-  "title": "Apigee Integration Invoker"
+  "name": "roles/integrations.integrationDeployer",
+  "stage": "ALPHA",
+  "title": "Integration Deployer"
 }
