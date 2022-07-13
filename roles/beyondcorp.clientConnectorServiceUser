@@ -5,6 +5,6 @@
     "beyondcorp.clientConnectorServices.access"
   ],
   "name": "roles/beyondcorp.clientConnectorServiceUser",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud BeyondCorp Client Connector Service User"
 }
