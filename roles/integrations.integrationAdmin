@@ -75,6 +75,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.integrationAdmin",
-  "stage": "GA",
-  "title": "Application Integration Admin"
+  "stage": "ALPHA",
+  "title": "Integration Admin"
 }
