@@ -4,9 +4,7 @@
   "includedPermissions": [
     "timeseriesinsights.datasets.evaluate",
     "timeseriesinsights.datasets.list",
-    "timeseriesinsights.datasets.query",
-    "timeseriesinsights.locations.get",
-    "timeseriesinsights.locations.list"
+    "timeseriesinsights.datasets.query"
   ],
   "name": "roles/timeseriesinsights.datasetsViewer",
   "stage": "BETA",

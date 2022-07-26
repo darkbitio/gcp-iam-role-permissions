@@ -1411,7 +1411,6 @@
     "storagetransfer.jobs.list",
     "storagetransfer.operations.list",
     "timeseriesinsights.datasets.list",
-    "timeseriesinsights.locations.list",
     "tpu.acceleratortypes.list",
     "tpu.locations.list",
     "tpu.nodes.list",
