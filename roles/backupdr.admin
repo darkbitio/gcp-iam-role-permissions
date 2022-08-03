@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/backupdr.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Backup and DR Admin"
 }
