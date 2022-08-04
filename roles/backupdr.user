@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/backupdr.user",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Backup and DR User"
 }
