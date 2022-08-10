@@ -33,6 +33,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/migrationcenter.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Migration Center Admin"
 }

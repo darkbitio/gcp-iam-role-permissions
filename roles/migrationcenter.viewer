@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/migrationcenter.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Migration Center Viewer"
 }
