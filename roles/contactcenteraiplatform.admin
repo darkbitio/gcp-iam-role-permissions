@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/contactcenteraiplatform.admin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Contact Center AI Platform Admin"
 }
