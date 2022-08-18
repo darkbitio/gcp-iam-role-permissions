@@ -17,6 +17,6 @@
     "workloadmanager.rules.list"
   ],
   "name": "roles/workloadmanager.worker",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workload Manager Worker"
 }
