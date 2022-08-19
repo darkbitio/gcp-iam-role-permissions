@@ -23,6 +23,6 @@
     "workloadmanager.rules.list"
   ],
   "name": "roles/workloadmanager.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workload Manager Admin"
 }
