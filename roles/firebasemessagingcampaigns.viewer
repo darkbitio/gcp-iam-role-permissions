@@ -6,6 +6,6 @@
     "firebasemessagingcampaigns.campaigns.list"
   ],
   "name": "roles/firebasemessagingcampaigns.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Firebase Messaging Campaigns Viewer"
 }

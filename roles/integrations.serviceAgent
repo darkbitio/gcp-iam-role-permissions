@@ -114,8 +114,6 @@
     "pubsub.topics.updateTag",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "run.jobs.run",
-    "run.routes.invoke",
     "serviceusage.quotas.get",
     "serviceusage.services.get",
     "serviceusage.services.list"
