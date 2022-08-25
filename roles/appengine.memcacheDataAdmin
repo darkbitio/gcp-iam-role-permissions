@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/appengine.memcacheDataAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "App Engine Memcache Data Admin"
 }

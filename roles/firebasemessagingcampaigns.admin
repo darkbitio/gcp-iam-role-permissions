@@ -11,6 +11,6 @@
     "firebasemessagingcampaigns.campaigns.update"
   ],
   "name": "roles/firebasemessagingcampaigns.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Firebase Messaging Campaigns Admin"
 }

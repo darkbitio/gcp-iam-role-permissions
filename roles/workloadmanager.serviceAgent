@@ -15,6 +15,6 @@
     "monitoring.timeSeries.list"
   ],
   "name": "roles/workloadmanager.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Workload Manager Service Agent"
 }
