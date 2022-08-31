@@ -13,6 +13,6 @@
     "rma.operations.list"
   ],
   "name": "roles/rma.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Rapid Migration Assessment Viewer"
 }

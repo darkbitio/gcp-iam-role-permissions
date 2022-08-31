@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebaseappdistro.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Firebase App Distribution Admin"
 }
