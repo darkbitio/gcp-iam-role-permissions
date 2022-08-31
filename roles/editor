@@ -792,7 +792,6 @@
     "baremetalsolution.volumesnapshots.get",
     "baremetalsolution.volumesnapshots.list",
     "baremetalsolution.volumesnapshots.restore",
-    "batch.jobs.create",
     "batch.jobs.delete",
     "batch.jobs.get",
     "batch.jobs.list",

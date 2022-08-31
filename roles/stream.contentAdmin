@@ -12,6 +12,6 @@
     "stream.streamContents.update"
   ],
   "name": "roles/stream.contentAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Stream Content Admin"
 }
