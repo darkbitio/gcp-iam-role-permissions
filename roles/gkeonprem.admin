@@ -44,6 +44,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkeonprem.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "GKE on-prem Admin"
 }

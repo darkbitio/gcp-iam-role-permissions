@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datacatalog.dataSteward",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "DataCatalog Data Steward"
 }
