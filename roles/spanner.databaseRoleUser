@@ -1,0 +1,10 @@
+{
+  "description": "Select this IAM role to complete this user's access to Spanner's fine-grained access control roles and privileges.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "spanner.databaseRoles.use"
+  ],
+  "name": "roles/spanner.databaseRoleUser",
+  "stage": "ALPHA",
+  "title": "Cloud Spanner Database Role User"
+}

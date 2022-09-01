@@ -1,0 +1,11 @@
+{
+  "description": "Select this IAM role to allow this user to have access to Spanner's fine-grained access control roles and privileges. The user will also need the IAM Spanner Database Role User role enabled for full access to the fine-grained access control framework.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "spanner.databaseRoles.list",
+    "spanner.databases.useRoleBasedAccess"
+  ],
+  "name": "roles/spanner.fineGrainedAccessUser",
+  "stage": "ALPHA",
+  "title": "Cloud Spanner Fine-grained Access User"
+}
