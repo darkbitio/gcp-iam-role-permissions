@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/issuerswitch.resolutionsAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Issuerswitch Resolutions Admin"
 }
