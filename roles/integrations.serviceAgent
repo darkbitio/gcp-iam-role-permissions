@@ -122,5 +122,5 @@
   ],
   "name": "roles/integrations.serviceAgent",
   "stage": "GA",
-  "title": "Application Integration Service Agent"
+  "title": "Integrations Service Agent"
 }
