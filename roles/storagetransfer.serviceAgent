@@ -12,9 +12,10 @@
     "pubsub.topics.delete",
     "pubsub.topics.get",
     "pubsub.topics.publish",
-    "pubsub.topics.update"
+    "pubsub.topics.update",
+    "serviceusage.services.get"
   ],
   "name": "roles/storagetransfer.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Storage Transfer Service Agent"
 }
