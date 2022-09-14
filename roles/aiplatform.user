@@ -224,6 +224,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.user",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Vertex AI User"
 }

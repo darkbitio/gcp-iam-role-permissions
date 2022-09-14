@@ -37,6 +37,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Vertex AI Feature Store Admin"
 }
