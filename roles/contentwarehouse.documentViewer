@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/contentwarehouse.documentViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Content Warehouse Viewer"
 }
