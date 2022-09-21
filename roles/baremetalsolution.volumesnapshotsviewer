@@ -6,6 +6,6 @@
     "baremetalsolution.volumesnapshots.list"
   ],
   "name": "roles/baremetalsolution.volumesnapshotsviewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Snapshots Viewer"
 }

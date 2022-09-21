@@ -9,6 +9,6 @@
     "baremetalsolution.volumesnapshots.restore"
   ],
   "name": "roles/baremetalsolution.volumesnapshotsadmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Snapshots Admin"
 }
