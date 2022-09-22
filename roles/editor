@@ -5667,8 +5667,7 @@
     "workstations.workstations.list",
     "workstations.workstations.start",
     "workstations.workstations.stop",
-    "workstations.workstations.update",
-    "workstations.workstations.use"
+    "workstations.workstations.update"
   ],
   "name": "roles/editor",
   "stage": "GA",
