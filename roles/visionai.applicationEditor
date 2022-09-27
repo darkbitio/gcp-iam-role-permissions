@@ -18,6 +18,6 @@
     "visionai.instances.list"
   ],
   "name": "roles/visionai.applicationEditor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Vision AI Application Editor"
 }
