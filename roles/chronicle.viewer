@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/chronicle.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Chronicle Data Plane API Viewer"
 }
