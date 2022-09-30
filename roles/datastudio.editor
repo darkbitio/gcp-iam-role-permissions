@@ -14,6 +14,6 @@
     "resourcemanager.projects.getIamPolicy"
   ],
   "name": "roles/datastudio.editor",
-  "stage": "BETA",
-  "title": "Data Studio Asset Editor"
+  "stage": "ALPHA",
+  "title": "Data Studio Editor"
 }
