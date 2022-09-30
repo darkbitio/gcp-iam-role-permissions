@@ -12,7 +12,6 @@
     "visionai.applications.get",
     "visionai.applications.list",
     "visionai.assets.clip",
-    "visionai.assets.generateHlsUri",
     "visionai.assets.get",
     "visionai.assets.list",
     "visionai.assets.search",
@@ -31,8 +30,6 @@
     "visionai.events.list",
     "visionai.instances.get",
     "visionai.instances.list",
-    "visionai.locations.get",
-    "visionai.locations.list",
     "visionai.operations.get",
     "visionai.operations.list",
     "visionai.operators.get",
@@ -51,6 +48,6 @@
     "visionai.streams.list"
   ],
   "name": "roles/visionai.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "VisionAI Viewer"
 }
