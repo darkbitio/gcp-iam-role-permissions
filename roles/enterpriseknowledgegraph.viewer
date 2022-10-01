@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/enterpriseknowledgegraph.viewer",
-  "stage": "BETA",
+  "stage": "EAP",
   "title": "Enterprise Knowledge Graph Viewer"
 }
