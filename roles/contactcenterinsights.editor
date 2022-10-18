@@ -38,6 +38,6 @@
     "contactcenterinsights.views.update"
   ],
   "name": "roles/contactcenterinsights.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Contact Center AI Insights editor"
 }

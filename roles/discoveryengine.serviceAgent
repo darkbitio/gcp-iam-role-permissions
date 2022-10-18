@@ -32,6 +32,6 @@
     "storage.objects.update"
   ],
   "name": "roles/discoveryengine.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Discovery Engine Service Agent"
 }

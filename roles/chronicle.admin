@@ -1,5 +1,5 @@
 {
-  "description": "Full access to the Chronicle API services.",
+  "description": "Full access to the Data Plane API services.",
   "etag": "AA==",
   "includedPermissions": [
     "chronicle.dashboards.copy",
@@ -13,5 +13,5 @@
   ],
   "name": "roles/chronicle.admin",
   "stage": "GA",
-  "title": "Chronicle API Admin"
+  "title": "Chronicle Data Plane API Admin"
 }
