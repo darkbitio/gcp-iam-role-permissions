@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.networkAnalyzerAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Network Analyzer Recommender Admin"
 }
