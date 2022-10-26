@@ -13,6 +13,6 @@
     "dataplex.datascans.update"
   ],
   "name": "roles/dataplex.dataScanAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex DataScan Administrator"
 }

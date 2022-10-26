@@ -5,6 +5,6 @@
     "metastore.services.queryMetadata"
   ],
   "name": "roles/metastore.metadataQueryAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dataproc Metastore Metadata Query Admin"
 }

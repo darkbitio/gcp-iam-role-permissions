@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/commerceorggovernance.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Organization Governance Admin"
 }
