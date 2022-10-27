@@ -6,6 +6,6 @@
     "visionai.uistreams.list"
   ],
   "name": "roles/visionai.uiStreamViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Vision AI UI Stream Viewer"
 }
