@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Service Health Ingestion resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/servicehealthingestion.admin",
+  "stage": "ALPHA",
+  "title": "Service Health Ingestion Admin"
+}

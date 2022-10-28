@@ -9,6 +9,6 @@
     "discoveryengine.servingConfigs.recommend"
   ],
   "name": "roles/discoveryengine.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Discovery Engine Viewer"
 }

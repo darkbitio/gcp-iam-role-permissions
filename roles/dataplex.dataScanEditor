@@ -12,6 +12,6 @@
     "dataplex.datascans.update"
   ],
   "name": "roles/dataplex.dataScanEditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex DataScan Editor"
 }

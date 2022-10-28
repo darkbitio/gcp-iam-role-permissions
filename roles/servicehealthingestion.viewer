@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Service Health Ingestion resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/servicehealthingestion.viewer",
+  "stage": "ALPHA",
+  "title": "Service Health Ingestion Viewer"
+}
