@@ -15,6 +15,6 @@
     "discoveryengine.userEvents.import"
   ],
   "name": "roles/discoveryengine.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Discovery Engine Admin"
 }
