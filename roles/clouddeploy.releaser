@@ -22,6 +22,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.releaser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Deploy Releaser"
 }

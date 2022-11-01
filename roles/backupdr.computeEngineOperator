@@ -39,7 +39,6 @@
     "compute.regions.get",
     "compute.regions.list",
     "compute.snapshots.create",
-    "compute.snapshots.delete",
     "compute.snapshots.get",
     "compute.snapshots.setLabels",
     "compute.snapshots.useReadOnly",
@@ -51,8 +50,7 @@
     "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.list",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.get"
   ],
   "name": "roles/backupdr.computeEngineOperator",
   "stage": "GA",
