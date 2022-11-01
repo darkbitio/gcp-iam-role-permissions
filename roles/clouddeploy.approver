@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.approver",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Deploy Approver"
 }

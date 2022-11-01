@@ -39,6 +39,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Deploy Admin"
 }
