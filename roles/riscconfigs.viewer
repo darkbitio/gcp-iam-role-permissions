@@ -1,11 +1,10 @@
 {
-  "description": "Read-only access to RISC config resources.",
+  "description": "Can only see the RiscConfiguration of a project; cannot edit.",
   "etag": "AA==",
   "includedPermissions": [
-    "clientauthconfig.clients.list",
     "riscconfigurationservice.riscconfigs.get"
   ],
   "name": "roles/riscconfigs.viewer",
   "stage": "BETA",
-  "title": "RISC Configuration Viewer"
+  "title": "RiscConfiguration Resource Viewer"
 }
