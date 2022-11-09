@@ -60,7 +60,6 @@
     "containeranalysis.occurrences.update",
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.getAccessToken",
-    "iam.serviceAccounts.getOpenIdToken",
     "logging.buckets.create",
     "logging.buckets.get",
     "logging.buckets.list",

@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/commercebusinessenablement.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Business Enablement Configuration Admin"
 }
