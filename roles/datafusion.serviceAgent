@@ -285,8 +285,6 @@
     "monitoring.monitoredResourceDescriptors.list",
     "monitoring.timeSeries.create",
     "monitoring.timeSeries.list",
-    "networkconnectivity.internalRanges.get",
-    "networkconnectivity.internalRanges.list",
     "networkconnectivity.locations.get",
     "networkconnectivity.locations.list",
     "networkconnectivity.operations.get",

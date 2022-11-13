@@ -15,7 +15,6 @@
     "datafusion.locations.get",
     "datafusion.locations.list",
     "datafusion.operations.cancel",
-    "datafusion.operations.delete",
     "datafusion.operations.get",
     "datafusion.operations.list",
     "resourcemanager.projects.get",
