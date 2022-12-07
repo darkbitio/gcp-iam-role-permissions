@@ -10,6 +10,6 @@
     "pubsublite.topics.subscribe"
   ],
   "name": "roles/pubsublite.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Pub/Sub Lite Service Agent"
 }
