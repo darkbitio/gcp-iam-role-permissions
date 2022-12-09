@@ -28,6 +28,7 @@
     "compute.subnetworks.use",
     "compute.subnetworks.useExternalIp",
     "compute.zoneOperations.get",
+    "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.getAccessToken",
     "iam.serviceAccounts.getOpenIdToken",
     "iam.serviceAccounts.signJwt",
