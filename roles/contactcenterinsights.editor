@@ -19,7 +19,6 @@
     "contactcenterinsights.issueModels.list",
     "contactcenterinsights.issueModels.undeploy",
     "contactcenterinsights.issueModels.update",
-    "contactcenterinsights.issues.delete",
     "contactcenterinsights.issues.get",
     "contactcenterinsights.issues.list",
     "contactcenterinsights.issues.update",
