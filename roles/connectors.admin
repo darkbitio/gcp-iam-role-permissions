@@ -38,8 +38,7 @@
     "connectors.versions.get",
     "connectors.versions.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "secretmanager.secrets.getIamPolicy"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/connectors.admin",
   "stage": "GA",
