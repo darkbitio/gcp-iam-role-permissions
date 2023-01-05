@@ -9,6 +9,6 @@
     "aiplatform.featurestores.update"
   ],
   "name": "roles/aiplatform.featurestoreInstanceCreator",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Vertex AI Feature Store Instance Creator"
 }
