@@ -1,0 +1,11 @@
+{
+  "description": "Admin of Service Limit insights and recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.serviceLimitAdmin",
+  "stage": "ALPHA",
+  "title": "Service Limit Recommender Admin"
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Read access to project billing configs",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.projectBillingConfigViewer",
+  "stage": "ALPHA",
+  "title": "Project Billing Config Viewer"
+}
