@@ -6,7 +6,6 @@
     "contactcenteraiplatform.contactCenters.delete",
     "contactcenteraiplatform.contactCenters.get",
     "contactcenteraiplatform.contactCenters.list",
-    "contactcenteraiplatform.contactCenters.queryQuota",
     "contactcenteraiplatform.contactCenters.update",
     "contactcenteraiplatform.locations.get",
     "contactcenteraiplatform.locations.list",
