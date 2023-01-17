@@ -8,7 +8,6 @@
     "monitoring.metricDescriptors.list",
     "monitoring.monitoredResourceDescriptors.get",
     "monitoring.monitoredResourceDescriptors.list",
-    "monitoring.timeSeries.list",
     "run.routes.invoke",
     "servicedirectory.networks.access",
     "servicedirectory.services.resolve",
