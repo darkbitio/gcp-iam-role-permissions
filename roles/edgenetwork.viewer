@@ -31,6 +31,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/edgenetwork.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Edge Network Viewer"
 }

@@ -2,8 +2,6 @@
   "description": "Grants readonly access to all the Maps Platform Datasets API resources",
   "etag": "AA==",
   "includedPermissions": [
-    "mapsadmin.clientStyles.get",
-    "mapsadmin.clientStyles.list",
     "mapsplatformdatasets.datasets.get",
     "mapsplatformdatasets.datasets.list",
     "resourcemanager.projects.get",
@@ -11,5 +9,5 @@
   ],
   "name": "roles/mapsplatformdatasets.viewer",
   "stage": "BETA",
-  "title": "Maps Platform Datasets Viewer"
+  "title": "Maps Platform Datasets API Viewer"
 }

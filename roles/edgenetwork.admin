@@ -52,6 +52,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/edgenetwork.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Edge Network Admin"
 }
