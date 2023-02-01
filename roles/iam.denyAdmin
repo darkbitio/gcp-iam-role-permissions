@@ -9,6 +9,6 @@
     "iam.denypolicies.update"
   ],
   "name": "roles/iam.denyAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Deny Admin"
 }
