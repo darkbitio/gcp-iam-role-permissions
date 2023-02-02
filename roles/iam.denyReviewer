@@ -6,6 +6,6 @@
     "iam.denypolicies.list"
   ],
   "name": "roles/iam.denyReviewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Deny Reviewer"
 }
