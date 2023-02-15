@@ -1,0 +1,17 @@
+{
+  "description": "Readonly access to Blockchain Node Engine resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "blockchainnodeengine.blockchainNodes.get",
+    "blockchainnodeengine.blockchainNodes.list",
+    "blockchainnodeengine.locations.get",
+    "blockchainnodeengine.locations.list",
+    "blockchainnodeengine.operations.get",
+    "blockchainnodeengine.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/blockchainnodeengine.viewer",
+  "stage": "BETA",
+  "title": "Blockchain Node Engine Viewer"
+}
