@@ -6,7 +6,6 @@
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
     "cloudbuild.builds.update",
-    "iam.serviceAccounts.getAccessToken",
     "krmapihosting.krmApiHosts.create",
     "krmapihosting.krmApiHosts.delete",
     "krmapihosting.krmApiHosts.get",

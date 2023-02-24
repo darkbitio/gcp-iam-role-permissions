@@ -71,5 +71,5 @@
   ],
   "name": "roles/dialogflow.aamLeadDialogDesigner",
   "stage": "GA",
-  "title": "CX Premium Lead Dialog Designer"
+  "title": "AAM Lead Dialog Designer"
 }
