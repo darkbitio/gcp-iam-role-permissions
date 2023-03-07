@@ -3,8 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "appengine.applications.get",
-    "bigquery.tables.get",
-    "bigtable.tables.get",
     "cloudbuild.builds.create",
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
@@ -40,8 +38,6 @@
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.list",
     "orgpolicy.policy.get",
-    "pubsub.schemas.get",
-    "pubsub.topics.get",
     "recommender.dataflowDiagnosticsInsights.get",
     "recommender.dataflowDiagnosticsInsights.list",
     "recommender.dataflowDiagnosticsInsights.update",
