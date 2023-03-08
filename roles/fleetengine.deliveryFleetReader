@@ -6,8 +6,7 @@
     "fleetengine.deliveryvehicles.list",
     "fleetengine.tasks.get",
     "fleetengine.tasks.list",
-    "fleetengine.tasks.searchWithTrackingId",
-    "fleetengine.tasktrackinginfo.get"
+    "fleetengine.tasks.searchWithTrackingId"
   ],
   "name": "roles/fleetengine.deliveryFleetReader",
   "stage": "GA",
