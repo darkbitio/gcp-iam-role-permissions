@@ -9,6 +9,6 @@
     "logging.logEntries.create"
   ],
   "name": "roles/confidentialcomputing.workloadUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Confidential Space Workload User"
 }
