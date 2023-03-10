@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "commercebusinessenablement.leadgenConfig.get",
-    "commercebusinessenablement.partnerInfo.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
