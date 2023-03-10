@@ -4,6 +4,7 @@
   "includedPermissions": [
     "commercebusinessenablement.leadgenConfig.get",
     "commercebusinessenablement.leadgenConfig.update",
+    "commercebusinessenablement.partnerInfo.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
