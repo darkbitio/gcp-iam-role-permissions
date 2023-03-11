@@ -11,9 +11,7 @@
     "transferappliance.operations.get",
     "transferappliance.operations.list",
     "transferappliance.orders.get",
-    "transferappliance.orders.list",
-    "transferappliance.savedAddresses.get",
-    "transferappliance.savedAddresses.list"
+    "transferappliance.orders.list"
   ],
   "name": "roles/transferappliance.viewer",
   "stage": "BETA",
