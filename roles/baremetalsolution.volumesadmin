@@ -4,7 +4,6 @@
   "includedPermissions": [
     "baremetalsolution.volumes.create",
     "baremetalsolution.volumes.delete",
-    "baremetalsolution.volumes.evict",
     "baremetalsolution.volumes.get",
     "baremetalsolution.volumes.list",
     "baremetalsolution.volumes.resize",

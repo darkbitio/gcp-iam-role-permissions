@@ -1,0 +1,10 @@
+{
+  "description": "Ability to retrieve Support Offering information",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudsupport.properties.get"
+  ],
+  "name": "roles/cloudsupport.internalOfferingViewer",
+  "stage": "ALPHA",
+  "title": "Cloud Support Super User with read only offering authority"
+}

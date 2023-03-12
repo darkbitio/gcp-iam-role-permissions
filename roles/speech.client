@@ -5,8 +5,6 @@
     "speech.adaptations.execute",
     "speech.customClasses.get",
     "speech.customClasses.list",
-    "speech.locations.get",
-    "speech.locations.list",
     "speech.operations.get",
     "speech.operations.list",
     "speech.operations.wait",
