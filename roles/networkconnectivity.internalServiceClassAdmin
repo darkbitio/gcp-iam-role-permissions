@@ -1,7 +1,0 @@
-{
-  "description": "Full access to all Service Class resources.",
-  "etag": "AA==",
-  "name": "roles/networkconnectivity.internalServiceClassAdmin",
-  "stage": "ALPHA",
-  "title": "Service Class Admin"
-}

@@ -1,7 +1,0 @@
-{
-  "description": "Grant support agent permissions",
-  "etag": "AA==",
-  "name": "roles/cloudidentity.supportAgent",
-  "stage": "ALPHA",
-  "title": "Workspace Support Agent"
-}
