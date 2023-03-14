@@ -3,7 +3,10 @@
   "etag": "AA==",
   "includedPermissions": [
     "commercebusinessenablement.leadgenConfig.get",
+    "commercebusinessenablement.partnerAccounts.get",
+    "commercebusinessenablement.partnerAccounts.list",
     "commercebusinessenablement.partnerInfo.get",
+    "commercebusinessenablement.resellerConfig.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
