@@ -4,7 +4,7 @@
 
 This repository fetches the ~1,170 primitive and predefined IAM Roles in JSON format to the `roles` directory.  A GitHub Action is configured to refresh them daily.  This allows for automatic tracking of changes as they are made by GCP.
 
-A couple of helper scripts are provided to aid in searching/listing of the output:
+A couple of helper scripts are provided to aid in searching/listing of the output.  Note that `jq` should be installed and in your `PATH`:
 
 * `list-all-permissions.sh` grabs the unique list of all permissions contained in all roles fetched
 * `list-alpha/beta/ga-roles.sh` lists the roles labeled by GCP as alpha, beta, or GA (generally available)
