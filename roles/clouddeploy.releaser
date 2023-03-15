@@ -14,8 +14,6 @@
     "clouddeploy.releases.create",
     "clouddeploy.releases.get",
     "clouddeploy.releases.list",
-    "clouddeploy.rollouts.advance",
-    "clouddeploy.rollouts.cancel",
     "clouddeploy.rollouts.create",
     "clouddeploy.rollouts.get",
     "clouddeploy.rollouts.list",
