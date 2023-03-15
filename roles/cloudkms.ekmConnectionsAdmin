@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudkms.ekmConnectionsAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloud KMS EkmConnections Admin"
 }
