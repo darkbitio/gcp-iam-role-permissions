@@ -31,5 +31,5 @@
   ],
   "name": "roles/datacatalog.entryGroupOwner",
   "stage": "GA",
-  "title": "DataCatalog EntryGroup Owner"
+  "title": "DataCatalog entryGroup Owner"
 }
