@@ -2,7 +2,6 @@
   "description": "Viewer of Bare Metal Solution volumes resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.operations.get",
     "baremetalsolution.volumes.get",
     "baremetalsolution.volumes.list"
   ],

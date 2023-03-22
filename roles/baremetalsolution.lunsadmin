@@ -3,8 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "baremetalsolution.luns.get",
-    "baremetalsolution.luns.list",
-    "baremetalsolution.operations.get"
+    "baremetalsolution.luns.list"
   ],
   "name": "roles/baremetalsolution.lunsadmin",
   "stage": "GA",
