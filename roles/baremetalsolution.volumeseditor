@@ -2,7 +2,6 @@
   "description": "Editor of Bare Metal Solution volumes resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.operations.get",
     "baremetalsolution.volumequotas.list",
     "baremetalsolution.volumes.create",
     "baremetalsolution.volumes.delete",
