@@ -24,7 +24,6 @@
     "bigtable.tables.sampleRowKeys",
     "monitoring.metricDescriptors.get",
     "monitoring.metricDescriptors.list",
-    "monitoring.timeSeries.create",
     "monitoring.timeSeries.list",
     "resourcemanager.projects.get"
   ],
