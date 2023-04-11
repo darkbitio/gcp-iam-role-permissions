@@ -5,7 +5,6 @@
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
     "cloudfunctions.functions.get",
-    "cloudfunctions.functions.getIamPolicy",
     "cloudfunctions.functions.list",
     "cloudfunctions.locations.get",
     "cloudfunctions.locations.list",
