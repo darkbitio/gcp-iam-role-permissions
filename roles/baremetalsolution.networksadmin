@@ -7,7 +7,6 @@
     "baremetalsolution.networks.delete",
     "baremetalsolution.networks.get",
     "baremetalsolution.networks.list",
-    "baremetalsolution.networks.rename",
     "baremetalsolution.networks.update",
     "baremetalsolution.operations.get"
   ],

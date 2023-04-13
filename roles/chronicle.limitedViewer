@@ -1,7 +1,0 @@
-{
-  "description": "Grants readonly access to Chronicle API resources, excluding Rules and Retrohunts.",
-  "etag": "AA==",
-  "name": "roles/chronicle.limitedViewer",
-  "stage": "GA",
-  "title": "Chronicle API Limited Viewer"
-}

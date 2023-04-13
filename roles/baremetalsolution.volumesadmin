@@ -8,7 +8,6 @@
     "baremetalsolution.volumes.evict",
     "baremetalsolution.volumes.get",
     "baremetalsolution.volumes.list",
-    "baremetalsolution.volumes.rename",
     "baremetalsolution.volumes.resize",
     "baremetalsolution.volumes.update"
   ],

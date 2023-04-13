@@ -8,7 +8,6 @@
     "cloudkms.ekmConnections.get",
     "cloudkms.ekmConnections.list",
     "cloudkms.ekmConnections.update",
-    "cloudkms.ekmConnections.verifyConnectivity",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
