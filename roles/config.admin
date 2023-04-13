@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Cloud Config Manager all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/config.admin",
+  "stage": "BETA",
+  "title": "Cloud Config Manager Admin"
+}
