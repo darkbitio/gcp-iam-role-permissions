@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/commercebusinessenablement.resellerDiscountAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Business Enablement Reseller Discount Admin"
 }
