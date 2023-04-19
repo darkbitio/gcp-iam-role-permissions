@@ -16,7 +16,6 @@
     "chronicle.curatedRules.list",
     "chronicle.dashboards.get",
     "chronicle.dashboards.list",
-    "chronicle.dashboards.schedule",
     "chronicle.forwarders.generate",
     "chronicle.forwarders.get",
     "chronicle.forwarders.list",
