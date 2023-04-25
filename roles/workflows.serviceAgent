@@ -4,8 +4,7 @@
   "includedPermissions": [
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.getAccessToken",
-    "iam.serviceAccounts.getOpenIdToken",
-    "serviceusage.services.use"
+    "iam.serviceAccounts.getOpenIdToken"
   ],
   "name": "roles/workflows.serviceAgent",
   "stage": "GA",
