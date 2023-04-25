@@ -32,7 +32,6 @@
     "consumerprocurement.orders.list",
     "consumerprocurement.orders.modify",
     "consumerprocurement.orders.place",
-    "orgpolicy.policy.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "serviceusage.operations.get",
