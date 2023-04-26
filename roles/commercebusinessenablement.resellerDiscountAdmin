@@ -9,7 +9,6 @@
     "commercebusinessenablement.resellerDiscountOffers.cancel",
     "commercebusinessenablement.resellerDiscountOffers.create",
     "commercebusinessenablement.resellerDiscountOffers.list",
-    "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

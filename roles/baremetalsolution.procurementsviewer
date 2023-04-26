@@ -1,0 +1,7 @@
+{
+  "description": "Viewer of Bare Metal Solution Procurements",
+  "etag": "AA==",
+  "name": "roles/baremetalsolution.procurementsviewer",
+  "stage": "ALPHA",
+  "title": "Procurements Viewer"
+}

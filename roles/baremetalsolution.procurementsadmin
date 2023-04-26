@@ -1,0 +1,7 @@
+{
+  "description": "Administrator of Bare Metal Solution Procurements",
+  "etag": "AA==",
+  "name": "roles/baremetalsolution.procurementsadmin",
+  "stage": "ALPHA",
+  "title": "Procurements Admin"
+}
