@@ -7,6 +7,6 @@
     "baremetalsolution.skus.list"
   ],
   "name": "roles/baremetalsolution.procurementsviewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Procurements Viewer"
 }
