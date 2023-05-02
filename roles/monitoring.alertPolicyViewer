@@ -6,6 +6,6 @@
     "monitoring.alertPolicies.list"
   ],
   "name": "roles/monitoring.alertPolicyViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Monitoring AlertPolicy Viewer"
 }
