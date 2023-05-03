@@ -9,6 +9,6 @@
     "monitoring.alertPolicies.update"
   ],
   "name": "roles/monitoring.alertPolicyEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Monitoring AlertPolicy Editor"
 }
