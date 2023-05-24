@@ -300,6 +300,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/compute.loadBalancerAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compute Load Balancer Admin"
 }
