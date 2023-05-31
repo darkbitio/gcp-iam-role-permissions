@@ -26,6 +26,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/backupdr.mountUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Backup and DR Mount User"
 }
