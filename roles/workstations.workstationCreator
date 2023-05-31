@@ -11,6 +11,6 @@
     "workstations.workstations.create"
   ],
   "name": "roles/workstations.workstationCreator",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Workstations Creator"
 }

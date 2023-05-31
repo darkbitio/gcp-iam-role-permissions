@@ -5,6 +5,6 @@
     "workstations.operations.get"
   ],
   "name": "roles/workstations.operationViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Workstations Operation Viewer"
 }

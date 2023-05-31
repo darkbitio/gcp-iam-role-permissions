@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/backupdr.restoreUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Backup and DR Restore User"
 }
