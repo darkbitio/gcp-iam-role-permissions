@@ -14,7 +14,6 @@
     "integrations.securityIntegTempVers.get",
     "integrations.securityIntegTempVers.list",
     "integrations.securityIntegrationVers.create",
-    "integrations.securityIntegrationVers.delete",
     "integrations.securityIntegrationVers.deploy",
     "integrations.securityIntegrationVers.get",
     "integrations.securityIntegrationVers.list",
