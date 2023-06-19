@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebaseextensionspublisher.extensionsAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Firebase Extensions Publisher - Extensions Admin"
 }
