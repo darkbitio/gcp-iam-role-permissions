@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/accessapproval.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Access Approval Viewer"
 }
