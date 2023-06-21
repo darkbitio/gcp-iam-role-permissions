@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/accessapproval.invalidator",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Access Approval Invalidator"
 }

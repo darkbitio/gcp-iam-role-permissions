@@ -10,6 +10,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/accessapproval.configEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Access Approval Config Editor"
 }
