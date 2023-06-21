@@ -1,5 +1,5 @@
 {
-  "description": "Allows viewing key events for an offer",
+  "description": "Allows viewing events",
   "etag": "AA==",
   "includedPermissions": [
     "commerceprice.events.get",
