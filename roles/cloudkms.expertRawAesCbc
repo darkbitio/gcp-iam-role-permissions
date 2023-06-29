@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudkms.expertRawAesCbc",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud KMS Expert Raw AES-CBC Key Manager"
 }
