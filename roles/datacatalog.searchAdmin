@@ -1,0 +1,13 @@
+{
+  "description": "Can search all metadata for a project/org in DataCatalog",
+  "etag": "AA==",
+  "includedPermissions": [
+    "datacatalog.catalogs.searchAll",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datacatalog.searchAdmin",
+  "stage": "BETA",
+  "title": "DataCatalog Search Admin"
+}
