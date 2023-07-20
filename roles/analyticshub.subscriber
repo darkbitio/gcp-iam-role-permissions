@@ -5,7 +5,6 @@
     "analyticshub.dataExchanges.get",
     "analyticshub.dataExchanges.getIamPolicy",
     "analyticshub.dataExchanges.list",
-    "analyticshub.dataExchanges.subscribe",
     "analyticshub.listings.get",
     "analyticshub.listings.getIamPolicy",
     "analyticshub.listings.list",

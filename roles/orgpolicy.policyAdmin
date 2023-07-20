@@ -13,11 +13,7 @@
     "orgpolicy.policies.list",
     "orgpolicy.policies.update",
     "orgpolicy.policy.get",
-    "orgpolicy.policy.set",
-    "policysimulator.orgPolicyViolations.list",
-    "policysimulator.orgPolicyViolationsPreviews.create",
-    "policysimulator.orgPolicyViolationsPreviews.get",
-    "policysimulator.orgPolicyViolationsPreviews.list"
+    "orgpolicy.policy.set"
   ],
   "name": "roles/orgpolicy.policyAdmin",
   "stage": "GA",
