@@ -2,7 +2,6 @@
   "description": "Viewer of Payment Configuration resource",
   "etag": "AA==",
   "includedPermissions": [
-    "commercebusinessenablement.partnerInfo.get",
     "commercebusinessenablement.paymentConfig.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
