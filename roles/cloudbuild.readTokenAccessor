@@ -7,6 +7,6 @@
     "cloudbuild.repositories.get"
   ],
   "name": "roles/cloudbuild.readTokenAccessor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Build Read Only Token Accessor"
 }

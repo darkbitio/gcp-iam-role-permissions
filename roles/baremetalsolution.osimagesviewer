@@ -5,6 +5,6 @@
     "baremetalsolution.osimages.list"
   ],
   "name": "roles/baremetalsolution.osimagesviewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "OS Images Viewer"
 }
