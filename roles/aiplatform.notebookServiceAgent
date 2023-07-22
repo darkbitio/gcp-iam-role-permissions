@@ -12,6 +12,6 @@
     "monitoring.timeSeries.create"
   ],
   "name": "roles/aiplatform.notebookServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Vertex AI Notebook Service Agent"
 }

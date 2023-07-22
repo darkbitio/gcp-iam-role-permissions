@@ -9,6 +9,6 @@
     "cloudbuild.repositories.list"
   ],
   "name": "roles/cloudbuild.tokenAccessor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Build Token Accessor"
 }
