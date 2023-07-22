@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Fleet resources.",
+  "description": "Full access to GKE Hub resources.",
   "etag": "AA==",
   "includedPermissions": [
     "gkehub.features.create",
@@ -32,5 +32,5 @@
   ],
   "name": "roles/gkehub.admin",
   "stage": "GA",
-  "title": "Fleet Admin (formerly GKE Hub Admin)"
+  "title": "GKE Hub Admin"
 }

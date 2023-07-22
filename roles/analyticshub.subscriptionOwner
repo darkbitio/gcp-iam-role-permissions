@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/analyticshub.subscriptionOwner",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Analytics Hub Subscription Owner"
 }

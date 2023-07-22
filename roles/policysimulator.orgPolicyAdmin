@@ -16,6 +16,6 @@
     "resourcemanager.organizations.get"
   ],
   "name": "roles/policysimulator.orgPolicyAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "OrgPolicy Simulator Admin"
 }
