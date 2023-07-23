@@ -1,5 +1,5 @@
 {
-  "description": "Readonly access to Google Cloud NetApp Files resources.",
+  "description": "Readonly access to Google Cloud NetApp Volumes resources.",
   "etag": "AA==",
   "includedPermissions": [
     "netapp.activeDirectories.get",
@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/netapp.viewer",
-  "stage": "ALPHA",
-  "title": "Google Cloud NetApp Files Viewer"
+  "stage": "BETA",
+  "title": "Google Cloud NetApp Volumes Viewer"
 }
