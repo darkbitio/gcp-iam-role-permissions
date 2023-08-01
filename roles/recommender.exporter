@@ -5,6 +5,6 @@
     "recommender.resources.export"
   ],
   "name": "roles/recommender.exporter",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Recommendations Exporter"
 }
