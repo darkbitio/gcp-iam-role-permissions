@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/gkedataplanemanagement.warpRunServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Warp Run Service Agent"
 }
