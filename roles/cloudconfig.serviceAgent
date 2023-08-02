@@ -7,7 +7,6 @@
     "cloudbuild.builds.list",
     "cloudbuild.builds.update",
     "cloudbuild.workerpools.use",
-    "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.getAccessToken",
     "krmapihosting.krmApiHosts.create",
     "krmapihosting.krmApiHosts.delete",
