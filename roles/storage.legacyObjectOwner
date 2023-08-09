@@ -1,5 +1,5 @@
 {
-  "description": "Grants permission to view and edit objects and their metadata, including ACLs.",
+  "description": "Read/write access to existing objects without listing.",
   "etag": "AA==",
   "includedPermissions": [
     "storage.objects.get",
