@@ -5,6 +5,6 @@
     "securitycenter.simulations.get"
   ],
   "name": "roles/securitycenter.simulationsViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Security Center Simulations Reader"
 }
