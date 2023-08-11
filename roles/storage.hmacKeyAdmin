@@ -1,5 +1,5 @@
 {
-  "description": "Grants full control over HMAC keys in a project.",
+  "description": "Full control of GCS HMAC Keys.",
   "etag": "AA==",
   "includedPermissions": [
     "firebase.projects.get",
