@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudCostRecommendationViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Cost General Recommendations Recommender Viewer"
 }

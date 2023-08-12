@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudPerformanceRecommendationViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Performance General Recommendations Recommender Viewer"
 }

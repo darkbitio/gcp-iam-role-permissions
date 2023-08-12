@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.cloudSecurityRecommendationViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Security General Recommendations Recommender Viewer"
 }

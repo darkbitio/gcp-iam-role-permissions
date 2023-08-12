@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/commerceagreementpublishing.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Agreement Publishing Admin"
 }
