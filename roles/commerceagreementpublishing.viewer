@@ -1,0 +1,11 @@
+{
+  "description": "Viewer of Commerce Agreement Publishing service",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/commerceagreementpublishing.viewer",
+  "stage": "BETA",
+  "title": "Commerce Agreement Publishing Viewer"
+}
