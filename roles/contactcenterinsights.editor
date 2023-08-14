@@ -16,7 +16,6 @@
     "contactcenterinsights.issueModels.create",
     "contactcenterinsights.issueModels.delete",
     "contactcenterinsights.issueModels.deploy",
-    "contactcenterinsights.issueModels.export",
     "contactcenterinsights.issueModels.get",
     "contactcenterinsights.issueModels.list",
     "contactcenterinsights.issueModels.undeploy",

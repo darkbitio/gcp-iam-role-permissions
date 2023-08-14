@@ -2,12 +2,6 @@
   "description": "Admin of Cloud Reliability General Recommendations Insights and Recommendations.",
   "etag": "AA==",
   "includedPermissions": [
-    "recommender.cloudReliabilityGeneralInsights.get",
-    "recommender.cloudReliabilityGeneralInsights.list",
-    "recommender.cloudReliabilityGeneralInsights.update",
-    "recommender.cloudReliabilityGeneralRecommendations.get",
-    "recommender.cloudReliabilityGeneralRecommendations.list",
-    "recommender.cloudReliabilityGeneralRecommendations.update",
     "recommender.locations.get",
     "recommender.locations.list",
     "resourcemanager.projects.get",
