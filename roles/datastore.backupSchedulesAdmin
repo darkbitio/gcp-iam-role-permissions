@@ -2,6 +2,11 @@
   "description": "Manage backup schedules in Cloud Datastore.",
   "etag": "AA==",
   "includedPermissions": [
+    "datastore.backupSchedules.create",
+    "datastore.backupSchedules.delete",
+    "datastore.backupSchedules.get",
+    "datastore.backupSchedules.list",
+    "datastore.backupSchedules.update",
     "datastore.databases.getMetadata",
     "datastore.databases.list"
   ],
