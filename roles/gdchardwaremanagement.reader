@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to GDC Hardware Management resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/gdchardwaremanagement.reader",
+  "stage": "ALPHA",
+  "title": "GDC Hardware Management Reader"
+}

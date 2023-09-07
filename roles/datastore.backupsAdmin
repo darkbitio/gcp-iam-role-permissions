@@ -1,0 +1,7 @@
+{
+  "description": "Read/Write access to metadata about backups in Cloud Datastore but restore is not allowed.",
+  "etag": "AA==",
+  "name": "roles/datastore.backupsAdmin",
+  "stage": "ALPHA",
+  "title": "Cloud Datastore Backups Admin"
+}

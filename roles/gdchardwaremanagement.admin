@@ -1,0 +1,11 @@
+{
+  "description": "Full access to GDC Hardware Management resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/gdchardwaremanagement.admin",
+  "stage": "ALPHA",
+  "title": "GDC Hardware Management Admin"
+}
