@@ -1,7 +1,0 @@
-{
-  "description": "Read access to backup schedules in Cloud Datastore.",
-  "etag": "AA==",
-  "name": "roles/datastore.backupSchedulesViewer",
-  "stage": "ALPHA",
-  "title": "Cloud Datastore Backup Schedules Viewer"
-}
