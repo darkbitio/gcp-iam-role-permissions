@@ -1,11 +1,11 @@
 {
-  "description": "Readonly access to Cloud Quotas resources.",
+  "description": "Manage DLP Connections.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/cloudquotas.viewer",
+  "name": "roles/dlp.connectionsAdmin",
   "stage": "ALPHA",
-  "title": "Cloud Quotas Viewer"
+  "title": "DLP Connections Admin"
 }

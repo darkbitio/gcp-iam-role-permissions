@@ -1,0 +1,7 @@
+{
+  "description": "Read access to metadata about backups in Cloud Datastore.",
+  "etag": "AA==",
+  "name": "roles/datastore.backupsViewer",
+  "stage": "ALPHA",
+  "title": "Cloud Datastore Backups Viewer"
+}
