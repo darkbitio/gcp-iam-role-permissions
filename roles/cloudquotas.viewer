@@ -2,7 +2,6 @@
   "description": "Readonly access to Cloud Quotas resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudquotas.quotas.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
