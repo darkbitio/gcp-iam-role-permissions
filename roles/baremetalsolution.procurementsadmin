@@ -9,5 +9,5 @@
   ],
   "name": "roles/baremetalsolution.procurementsadmin",
   "stage": "GA",
-  "title": "Bare Metal Solution Procurements Admin"
+  "title": "Procurements Admin"
 }
