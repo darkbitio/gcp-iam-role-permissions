@@ -1,0 +1,11 @@
+{
+  "description": "An instance accessor can access an instance, but not necessarily create resources in the instance.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/securesourcemanager.instanceAccessor",
+  "stage": "ALPHA",
+  "title": "Secure Source Manager Instance Accessor"
+}
