@@ -3,9 +3,15 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "securesourcemanager.instances.access",
+    "securesourcemanager.instances.createRepository",
+    "securesourcemanager.sshkeys.create",
+    "securesourcemanager.sshkeys.delete",
+    "securesourcemanager.sshkeys.get",
+    "securesourcemanager.sshkeys.list"
   ],
   "name": "roles/securesourcemanager.instanceRepositoryCreator",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Secure Source Manager Instance Repository Creator"
 }
