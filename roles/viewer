@@ -179,6 +179,7 @@
     "apigateway.locations.list",
     "apigateway.operations.get",
     "apigateway.operations.list",
+    "apigee.addonsconfig.get",
     "apigee.apiproductattributes.get",
     "apigee.apiproductattributes.list",
     "apigee.apiproducts.get",

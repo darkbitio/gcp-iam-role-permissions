@@ -12,6 +12,6 @@
     "securesourcemanager.sshkeys.list"
   ],
   "name": "roles/securesourcemanager.instanceRepositoryCreator",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Secure Source Manager Instance Repository Creator"
 }
