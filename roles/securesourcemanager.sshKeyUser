@@ -10,6 +10,6 @@
     "securesourcemanager.sshkeys.list"
   ],
   "name": "roles/securesourcemanager.sshKeyUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Secure Source Manager SSH Key User"
 }

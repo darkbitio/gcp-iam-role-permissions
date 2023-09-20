@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebaseextensions.developer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Firebase Extensions Developer"
 }

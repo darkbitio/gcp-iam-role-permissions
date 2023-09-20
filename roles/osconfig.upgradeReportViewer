@@ -1,0 +1,11 @@
+{
+  "description": "Provides read-only access to VM Manager Upgrade Reports",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.upgradeReportViewer",
+  "stage": "ALPHA",
+  "title": "Upgrade Report Viewer"
+}

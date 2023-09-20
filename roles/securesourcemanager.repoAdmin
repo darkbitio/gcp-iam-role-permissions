@@ -19,6 +19,6 @@
     "securesourcemanager.repositories.writePullRequests"
   ],
   "name": "roles/securesourcemanager.repoAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Secure Source Manager Repository Admin"
 }
