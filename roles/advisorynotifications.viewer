@@ -4,7 +4,6 @@
   "includedPermissions": [
     "advisorynotifications.notifications.get",
     "advisorynotifications.notifications.list",
-    "advisorynotifications.settings.get",
     "resourcemanager.organizations.get"
   ],
   "name": "roles/advisorynotifications.viewer",

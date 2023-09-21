@@ -4,7 +4,6 @@
   "includedPermissions": [
     "chronicle.dashboards.get",
     "chronicle.dashboards.list",
-    "chronicle.globalDataAccessScopes.permit",
     "chronicle.instances.get",
     "chronicle.multitenantDirectories.get"
   ],

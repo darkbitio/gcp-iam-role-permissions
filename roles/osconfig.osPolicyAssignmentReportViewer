@@ -4,7 +4,6 @@
   "includedPermissions": [
     "osconfig.osPolicyAssignmentReports.get",
     "osconfig.osPolicyAssignmentReports.list",
-    "osconfig.osPolicyAssignmentReports.searchSummaries",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
