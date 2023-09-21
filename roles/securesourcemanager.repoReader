@@ -11,6 +11,6 @@
     "securesourcemanager.repositories.readPullRequests"
   ],
   "name": "roles/securesourcemanager.repoReader",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Secure Source Manager Repository Reader"
 }

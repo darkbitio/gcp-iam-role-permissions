@@ -13,8 +13,6 @@
     "aiplatform.entityTypes.streamingReadFeatureValues",
     "aiplatform.entityTypes.update",
     "aiplatform.entityTypes.writeFeatureValues",
-    "aiplatform.featureGroups.get",
-    "aiplatform.featureGroups.list",
     "aiplatform.featureOnlineStores.get",
     "aiplatform.featureOnlineStores.list",
     "aiplatform.featureViewSyncs.get",
