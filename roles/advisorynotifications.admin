@@ -9,6 +9,6 @@
     "resourcemanager.organizations.get"
   ],
   "name": "roles/advisorynotifications.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Advisory Notifications Admin"
 }
