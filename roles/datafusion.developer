@@ -7,6 +7,7 @@
     "datafusion.instances.get",
     "datafusion.instances.getIamPolicy",
     "datafusion.instances.list",
+    "datafusion.instances.runtime",
     "datafusion.locations.get",
     "datafusion.locations.list",
     "datafusion.operations.get",

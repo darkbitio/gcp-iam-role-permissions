@@ -1,7 +1,21 @@
 {
-  "description": "Full access to all Dataform resources.",
+  "description": "Admin role of using colab enterprise.",
   "etag": "AA==",
   "includedPermissions": [
+    "aiplatform.notebookRuntimeTemplates.apply",
+    "aiplatform.notebookRuntimeTemplates.create",
+    "aiplatform.notebookRuntimeTemplates.delete",
+    "aiplatform.notebookRuntimeTemplates.get",
+    "aiplatform.notebookRuntimeTemplates.getIamPolicy",
+    "aiplatform.notebookRuntimeTemplates.list",
+    "aiplatform.notebookRuntimeTemplates.setIamPolicy",
+    "aiplatform.notebookRuntimes.assign",
+    "aiplatform.notebookRuntimes.delete",
+    "aiplatform.notebookRuntimes.get",
+    "aiplatform.notebookRuntimes.list",
+    "aiplatform.notebookRuntimes.start",
+    "aiplatform.notebookRuntimes.update",
+    "aiplatform.notebookRuntimes.upgrade",
     "dataform.compilationResults.create",
     "dataform.compilationResults.get",
     "dataform.compilationResults.list",
@@ -62,7 +76,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/dataform.admin",
-  "stage": "BETA",
-  "title": "Dataform Admin"
+  "name": "roles/aiplatform.colabEnterpriseAdmin",
+  "stage": "ALPHA",
+  "title": "Colab Enterprise Admin"
 }
