@@ -1,0 +1,10 @@
+{
+  "description": "Gives IGM Borg account the ability to assert service account authority.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "iam.serviceAccounts.getAccessToken"
+  ],
+  "name": "roles/compute.instanceGroupManagerServiceAgent",
+  "stage": "GA",
+  "title": "Instance Group Manager Service Agent"
+}
