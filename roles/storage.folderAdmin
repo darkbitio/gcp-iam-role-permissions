@@ -1,5 +1,5 @@
 {
-  "description": "Access to create, read, update and delete objects and multipart uploads in GCS.",
+  "description": "Grants full control over folders and objects, including listing, creating, viewing, and deleting objects.",
   "etag": "AA==",
   "includedPermissions": [
     "orgpolicy.policy.get",
@@ -8,7 +8,9 @@
     "storage.managedFolders.create",
     "storage.managedFolders.delete",
     "storage.managedFolders.get",
+    "storage.managedFolders.getIamPolicy",
     "storage.managedFolders.list",
+    "storage.managedFolders.setIamPolicy",
     "storage.multipartUploads.abort",
     "storage.multipartUploads.create",
     "storage.multipartUploads.list",
@@ -16,10 +18,12 @@
     "storage.objects.create",
     "storage.objects.delete",
     "storage.objects.get",
+    "storage.objects.getIamPolicy",
     "storage.objects.list",
+    "storage.objects.setIamPolicy",
     "storage.objects.update"
   ],
-  "name": "roles/storage.objectUser",
-  "stage": "GA",
-  "title": "Storage Object User"
+  "name": "roles/storage.folderAdmin",
+  "stage": "ALPHA",
+  "title": "Storage Folder Admin"
 }
