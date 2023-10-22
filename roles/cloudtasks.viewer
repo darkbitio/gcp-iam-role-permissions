@@ -2,7 +2,6 @@
   "description": "Get and list access to tasks, queues, and locations.",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudtasks.cmekConfig.get",
     "cloudtasks.locations.get",
     "cloudtasks.locations.list",
     "cloudtasks.queues.get",
