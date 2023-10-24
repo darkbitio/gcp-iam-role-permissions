@@ -2,7 +2,6 @@
   "description": "Grants Connectors Platform service account to manage customer resources",
   "etag": "AA==",
   "includedPermissions": [
-    "connectors.actions.list",
     "connectors.connections.get",
     "connectors.connections.getConnectionSchemaMetadata",
     "connectors.connections.list",
@@ -10,7 +9,6 @@
     "connectors.connectors.list",
     "connectors.endpointAttachments.get",
     "connectors.endpointAttachments.list",
-    "connectors.entityTypes.list",
     "connectors.eventSubscriptions.get",
     "connectors.eventSubscriptions.list",
     "connectors.eventtypes.get",
