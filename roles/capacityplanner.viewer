@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/capacityplanner.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Capacity Planner Usage Viewer"
 }
