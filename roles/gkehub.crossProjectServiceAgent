@@ -6,6 +6,6 @@
     "resourcemanager.projects.setIamPolicy"
   ],
   "name": "roles/gkehub.crossProjectServiceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "GKE Hub Cross Project Service Agent"
 }
