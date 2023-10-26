@@ -16,7 +16,6 @@
     "compute.globalOperations.list",
     "compute.images.create",
     "compute.images.get",
-    "compute.images.setLabels",
     "compute.images.useReadOnly",
     "compute.instances.create",
     "compute.instances.delete",

@@ -4,7 +4,6 @@
   "includedPermissions": [
     "bigquery.config.get",
     "bigquery.jobs.create",
-    "compute.networkAttachments.get",
     "iam.serviceAccounts.getAccessToken",
     "logging.logEntries.create",
     "logging.logEntries.route",
