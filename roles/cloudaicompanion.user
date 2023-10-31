@@ -3,9 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "cloudaicompanion.companions.generateChat",
-    "cloudaicompanion.companions.generateCode",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "cloudaicompanion.companions.generateCode"
   ],
   "name": "roles/cloudaicompanion.user",
   "stage": "BETA",
