@@ -1,0 +1,15 @@
+{
+  "description": "Full access to publication reader resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "readerrevenuesubscriptionlinking.readerEntitlements.get",
+    "readerrevenuesubscriptionlinking.readerEntitlements.update",
+    "readerrevenuesubscriptionlinking.readers.delete",
+    "readerrevenuesubscriptionlinking.readers.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/readerrevenuesubscriptionlinking.admin",
+  "stage": "GA",
+  "title": "Subscription Linking Admin"
+}
