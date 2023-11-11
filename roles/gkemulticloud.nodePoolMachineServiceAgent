@@ -7,6 +7,6 @@
     "artifactregistry.repositories.get"
   ],
   "name": "roles/gkemulticloud.nodePoolMachineServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Anthos Multi-Cloud Node Pool Machine Service Agent"
 }
