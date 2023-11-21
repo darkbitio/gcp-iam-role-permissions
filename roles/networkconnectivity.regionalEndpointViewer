@@ -2,8 +2,6 @@
   "description": "Read-only access to all Regional Endpoint resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "networkconnectivity.regionalEndpoints.get",
-    "networkconnectivity.regionalEndpoints.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
