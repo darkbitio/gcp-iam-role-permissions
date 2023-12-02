@@ -2,11 +2,13 @@
   "description": "Full access to Vehicle and Trip resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "fleetengine.trips.allowAllActions",
     "fleetengine.trips.create",
     "fleetengine.trips.get",
     "fleetengine.trips.search",
     "fleetengine.trips.update",
     "fleetengine.trips.updateState",
+    "fleetengine.vehicles.allowAllActions",
     "fleetengine.vehicles.create",
     "fleetengine.vehicles.get",
     "fleetengine.vehicles.list",
