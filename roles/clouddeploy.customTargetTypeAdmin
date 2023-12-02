@@ -1,0 +1,12 @@
+{
+  "description": "Permission to manage CustomTargetType resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "clouddeploy.config.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/clouddeploy.customTargetTypeAdmin",
+  "stage": "ALPHA",
+  "title": "Cloud Deploy Custom Target Type Admin"
+}
