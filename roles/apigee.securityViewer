@@ -22,7 +22,6 @@
     "apigee.securityProfileEnvironments.computeScore",
     "apigee.securityProfiles.get",
     "apigee.securityProfiles.list",
-    "apigee.securitySettings.get",
     "apigee.securityStats.queryTabularStats",
     "apigee.securityStats.queryTimeSeriesStats",
     "apigee.securityreports.get",
