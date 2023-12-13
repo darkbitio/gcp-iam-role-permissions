@@ -24,6 +24,6 @@
     "workloadmanager.rules.list"
   ],
   "name": "roles/workloadmanager.evaluationAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workload Manager Evaluation Admin"
 }
