@@ -1,5 +1,5 @@
 {
-  "description": "Can view BigQuery workloads, but cannot create or modify slot reservations or commitments.",
+  "description": "View all BigQuery resources but cannot make changes or purchasing decisions.",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.bireservations.get",
