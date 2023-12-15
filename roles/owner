@@ -3559,7 +3559,6 @@
     "connectors.connections.getRuntimeActionSchema",
     "connectors.connections.getRuntimeEntitySchema",
     "connectors.connections.list",
-    "connectors.connections.listenEvent",
     "connectors.connections.setIamPolicy",
     "connectors.connections.update",
     "connectors.connectors.get",
