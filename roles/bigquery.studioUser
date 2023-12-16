@@ -1,5 +1,5 @@
 {
-  "description": "Combination role of BigQuery Job User, BigQuery Read Session User, Dataform Code Creator, and Notebook Runtime User.",
+  "description": "Roll up Role of BigQuery Job User, Bigquery Read Session User, Runtime User and Dataform code creater",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.notebookRuntimeTemplates.apply",

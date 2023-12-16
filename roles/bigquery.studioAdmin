@@ -1,5 +1,5 @@
 {
-  "description": "Combination role of BigQuery Admin, Dataform Admin, and Notebook Runtime Admin.",
+  "description": "Roll up Role of BigQuery Admin, Runtime Admin and Dataform Admin",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.notebookRuntimeTemplates.apply",
