@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Marketplace Solutions resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/marketplacesolutions.admin",
+  "stage": "ALPHA",
+  "title": "Marketplace Solutions Admin"
+}

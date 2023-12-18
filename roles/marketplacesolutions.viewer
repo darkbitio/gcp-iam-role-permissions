@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Marketplace Solutions resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/marketplacesolutions.viewer",
+  "stage": "ALPHA",
+  "title": "Marketplace Solutions Viewer"
+}
