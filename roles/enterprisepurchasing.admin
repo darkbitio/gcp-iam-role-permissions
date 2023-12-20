@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/enterprisepurchasing.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Enterprise Purchasing Admin"
 }

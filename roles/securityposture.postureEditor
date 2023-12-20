@@ -10,6 +10,6 @@
     "securityposture.postures.update"
   ],
   "name": "roles/securityposture.postureEditor",
-  "stage": "GA",
+  "stage": "EAP",
   "title": "Security Posture Resource Editor"
 }

@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mandiant.threatIntelEditor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Mandiant Threat Intel Editor"
 }

@@ -30,6 +30,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/consumerprocurement.procurementViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Consumer Procurement Viewer"
 }

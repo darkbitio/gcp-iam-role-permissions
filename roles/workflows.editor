@@ -1,5 +1,5 @@
 {
-  "description": "Read and write access to workflows and related resources, including development and debugging of workflows.",
+  "description": "Read and write access to workflows and related resources.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
