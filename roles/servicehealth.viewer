@@ -11,8 +11,7 @@
     "servicehealth.organizationEvents.get",
     "servicehealth.organizationEvents.list",
     "servicehealth.organizationImpacts.get",
-    "servicehealth.organizationImpacts.list",
-    "servicehealth.statuses.get"
+    "servicehealth.organizationImpacts.list"
   ],
   "name": "roles/servicehealth.viewer",
   "stage": "BETA",
