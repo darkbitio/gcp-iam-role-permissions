@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mandiant.validationEditor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Mandiant Validation Editor"
 }

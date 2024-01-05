@@ -27,6 +27,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/marketplacesolutions.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Marketplace Solutions Admin"
 }

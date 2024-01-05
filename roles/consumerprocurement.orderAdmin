@@ -33,6 +33,6 @@
     "consumerprocurement.orders.place"
   ],
   "name": "roles/consumerprocurement.orderAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Consumer Procurement Order Administrator"
 }

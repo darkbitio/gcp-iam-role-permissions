@@ -7,8 +7,7 @@
     "cloudmessaging.messages.create",
     "firebase.clients.create",
     "servicemanagement.services.bind",
-    "serviceusage.services.enable",
-    "serviceusage.services.get"
+    "serviceusage.services.enable"
   ],
   "name": "roles/firebase.sdkProvisioningServiceAgent",
   "stage": "GA",
