@@ -21,6 +21,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/consumerprocurement.entitlementManager",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Consumer Procurement Entitlement Manager"
 }
