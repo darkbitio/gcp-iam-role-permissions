@@ -1,0 +1,18 @@
+{
+  "description": "Full access to Assured OSS resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "assuredoss.locations.get",
+    "assuredoss.locations.list",
+    "assuredoss.operations.cancel",
+    "assuredoss.operations.delete",
+    "assuredoss.operations.get",
+    "assuredoss.operations.list",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/assuredoss.admin",
+  "stage": "ALPHA",
+  "title": "Assured OSS Admin"
+}

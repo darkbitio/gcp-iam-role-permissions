@@ -1,5 +1,5 @@
 {
-  "description": "Read access to Assured OSS packages and metadata.",
+  "description": "Read access to all Assured OSS resources.",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.dockerimages.get",
@@ -27,13 +27,18 @@
     "artifactregistry.tags.list",
     "artifactregistry.versions.get",
     "artifactregistry.versions.list",
+    "assuredoss.config.get",
+    "assuredoss.locations.get",
+    "assuredoss.locations.list",
     "assuredoss.metadata.get",
     "assuredoss.metadata.list",
+    "assuredoss.operations.get",
+    "assuredoss.operations.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/assuredoss.user",
+  "name": "roles/assuredoss.reader",
   "stage": "BETA",
-  "title": "Assured OSS User"
+  "title": "Assured OSS Reader"
 }

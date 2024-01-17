@@ -2,6 +2,10 @@
   "description": "Grants read access to all discovery engine resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "discoveryengine.analytics.acquireDashboardSession",
+    "discoveryengine.analytics.refreshDashboardSessionTokens",
+    "discoveryengine.cmekConfigs.get",
+    "discoveryengine.cmekConfigs.list",
     "discoveryengine.completionConfigs.get",
     "discoveryengine.controls.get",
     "discoveryengine.controls.list",
@@ -33,6 +37,6 @@
     "discoveryengine.widgetConfigs.get"
   ],
   "name": "roles/discoveryengine.viewer",
-  "stage": "BETA",
+  "stage": "GA",
   "title": "Discovery Engine Viewer"
 }
