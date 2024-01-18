@@ -1,5 +1,5 @@
 {
-  "description": "Full access to Assured OSS resources.",
+  "description": "Read access to Assured OSS packages and metadata.",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.dockerimages.get",
@@ -17,7 +17,6 @@
     "artifactregistry.projectsettings.get",
     "artifactregistry.pythonpackages.get",
     "artifactregistry.pythonpackages.list",
-    "artifactregistry.repositories.create",
     "artifactregistry.repositories.downloadArtifacts",
     "artifactregistry.repositories.get",
     "artifactregistry.repositories.list",
@@ -28,20 +27,17 @@
     "artifactregistry.tags.list",
     "artifactregistry.versions.get",
     "artifactregistry.versions.list",
-    "assuredoss.config.get",
     "assuredoss.locations.get",
     "assuredoss.locations.list",
     "assuredoss.metadata.get",
     "assuredoss.metadata.list",
-    "assuredoss.operations.cancel",
-    "assuredoss.operations.delete",
     "assuredoss.operations.get",
     "assuredoss.operations.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/assuredoss.admin",
+  "name": "roles/assuredoss.user",
   "stage": "BETA",
-  "title": "Assured OSS Admin"
+  "title": "Assured OSS User"
 }
