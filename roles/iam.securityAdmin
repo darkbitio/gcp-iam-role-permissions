@@ -196,7 +196,6 @@
     "artifactregistry.tags.list",
     "artifactregistry.versions.list",
     "assuredoss.locations.list",
-    "assuredoss.metadata.list",
     "assuredoss.operations.list",
     "assuredworkloads.operations.list",
     "assuredworkloads.violations.list",
