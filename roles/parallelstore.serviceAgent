@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/parallelstore.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Parallelstore Service Agent"
 }

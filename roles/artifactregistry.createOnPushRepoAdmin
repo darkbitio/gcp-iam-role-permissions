@@ -40,6 +40,5 @@
     "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.createOnPushRepoAdmin",
-  "stage": "GA",
-  "title": "Artifact Registry Create-on-Push Repository Administrator"
+  "stage": "GA"
 }
