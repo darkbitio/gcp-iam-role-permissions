@@ -36,6 +36,5 @@
     "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.createOnPushWriter",
-  "stage": "GA",
-  "title": "Artifact Registry Create-on-Push Writer"
+  "stage": "GA"
 }
