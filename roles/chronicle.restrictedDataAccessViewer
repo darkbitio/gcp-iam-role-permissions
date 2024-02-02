@@ -5,7 +5,6 @@
     "chronicle.ais.createFeedback",
     "chronicle.ais.translateUdmQuery",
     "chronicle.ais.translateYlRule",
-    "chronicle.dataAccessScopes.list",
     "chronicle.entities.find",
     "chronicle.entities.findRelatedEntities",
     "chronicle.entities.get",
