@@ -1,0 +1,12 @@
+{
+  "description": "Administrator owning access to Direct Access",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudtestservice.environmentcatalog.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudtestservice.directAccessAdmin",
+  "stage": "ALPHA",
+  "title": "Firebase Test Lab Direct Access Admin"
+}
