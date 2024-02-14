@@ -125,8 +125,6 @@
     "bigquery.transfers.get",
     "bigquery.transfers.update",
     "bigquerymigration.translation.translate",
-    "compute.reservations.get",
-    "compute.reservations.list",
     "dataform.compilationResults.create",
     "dataform.compilationResults.get",
     "dataform.compilationResults.list",
