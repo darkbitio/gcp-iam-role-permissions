@@ -1,0 +1,7 @@
+{
+  "description": "Role allowing access to the Cloud SQL instance schema on Dataplex",
+  "etag": "AA==",
+  "name": "roles/cloudsql.schemaViewer",
+  "stage": "ALPHA",
+  "title": "Cloud SQL Schema Viewer"
+}
