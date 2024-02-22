@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.recentchangeriskAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Recent Change Risk Recommender Admin"
 }
