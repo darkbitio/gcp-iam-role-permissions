@@ -61,7 +61,6 @@
     "bigquery.tables.replicateData",
     "bigquery.tables.restoreSnapshot",
     "bigquery.tables.setCategory",
-    "bigquery.tables.setColumnDataPolicy",
     "bigquery.tables.setIamPolicy",
     "bigquery.tables.update",
     "bigquery.tables.updateData",
