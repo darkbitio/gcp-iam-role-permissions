@@ -1,0 +1,11 @@
+{
+  "description": "Owns Metadata Entries.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataplex.entryOwner",
+  "stage": "GA",
+  "title": "Dataplex Entry Owner"
+}
