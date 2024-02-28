@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.entryOwner",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex Entry Owner"
 }
