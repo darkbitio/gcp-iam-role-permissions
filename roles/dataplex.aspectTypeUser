@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.aspectTypeUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dataplex Aspect Type User"
 }
