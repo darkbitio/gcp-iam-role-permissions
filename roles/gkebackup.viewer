@@ -6,7 +6,6 @@
     "gkebackup.backupPlans.getIamPolicy",
     "gkebackup.backupPlans.list",
     "gkebackup.backups.get",
-    "gkebackup.backups.getBackupIndex",
     "gkebackup.backups.list",
     "gkebackup.locations.get",
     "gkebackup.locations.list",
