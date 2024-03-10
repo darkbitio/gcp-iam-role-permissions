@@ -1,0 +1,10 @@
+{
+  "description": "Full access to Privileged Access Manager resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get"
+  ],
+  "name": "roles/privilegedaccessmanager.admin",
+  "stage": "ALPHA",
+  "title": "Privileged Access Manager Admin"
+}

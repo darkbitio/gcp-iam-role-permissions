@@ -1,0 +1,7 @@
+{
+  "description": "Access to Approve/Deny Privileged Access Manager Grants.",
+  "etag": "AA==",
+  "name": "roles/privilegedaccessmanager.approver",
+  "stage": "ALPHA",
+  "title": "Privileged Access Manager Approver"
+}
