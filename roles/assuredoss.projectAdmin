@@ -1,5 +1,5 @@
 {
-  "description": "Allows service accounts access to Assured OSS for a specified project. The accounts will have permissions to use Assured OSS.",
+  "description": "Allows users admin access to Assured OSS for a specified project. Users can view and manage Assured OSS entitlement and configurations.",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.dockerimages.get",
@@ -18,6 +18,7 @@
     "artifactregistry.projectsettings.get",
     "artifactregistry.pythonpackages.get",
     "artifactregistry.pythonpackages.list",
+    "artifactregistry.repositories.create",
     "artifactregistry.repositories.downloadArtifacts",
     "artifactregistry.repositories.get",
     "artifactregistry.repositories.list",
@@ -28,17 +29,24 @@
     "artifactregistry.tags.list",
     "artifactregistry.versions.get",
     "artifactregistry.versions.list",
+    "assuredoss.config.get",
     "assuredoss.locations.get",
     "assuredoss.locations.list",
     "assuredoss.metadata.get",
     "assuredoss.metadata.list",
+    "assuredoss.operations.cancel",
+    "assuredoss.operations.delete",
     "assuredoss.operations.get",
     "assuredoss.operations.list",
+    "iam.serviceAccounts.create",
+    "iam.serviceAccounts.get",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "serviceusage.services.enable",
+    "serviceusage.services.get"
   ],
-  "name": "roles/assuredoss.user",
+  "name": "roles/assuredoss.projectAdmin",
   "stage": "BETA",
-  "title": "Assured OSS User"
+  "title": "Assured OSS Project Admin"
 }
