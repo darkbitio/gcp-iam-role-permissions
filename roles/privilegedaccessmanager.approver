@@ -9,6 +9,6 @@
     "privilegedaccessmanager.grants.list"
   ],
   "name": "roles/privilegedaccessmanager.approver",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Privileged Access Manager Approver"
 }
