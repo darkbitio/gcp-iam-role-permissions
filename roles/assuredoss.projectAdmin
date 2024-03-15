@@ -1,5 +1,5 @@
 {
-  "description": "Access to use Assured OSS and manage configuration.",
+  "description": "Allows users admin access to Assured OSS for a specified project. Users can view and manage Assured OSS entitlement and configurations.",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.dockerimages.get",
@@ -30,7 +30,6 @@
     "artifactregistry.versions.get",
     "artifactregistry.versions.list",
     "assuredoss.config.get",
-    "assuredoss.customers.create",
     "assuredoss.locations.get",
     "assuredoss.locations.list",
     "assuredoss.metadata.get",
