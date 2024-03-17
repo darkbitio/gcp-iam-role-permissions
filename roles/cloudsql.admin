@@ -20,7 +20,6 @@
     "cloudsql.instances.delete",
     "cloudsql.instances.deleteTagBinding",
     "cloudsql.instances.demoteMaster",
-    "cloudsql.instances.executeSql",
     "cloudsql.instances.export",
     "cloudsql.instances.failover",
     "cloudsql.instances.get",
