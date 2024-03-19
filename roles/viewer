@@ -2849,8 +2849,6 @@
     "metastore.imports.list",
     "metastore.locations.get",
     "metastore.locations.list",
-    "metastore.migrations.get",
-    "metastore.migrations.list",
     "metastore.operations.get",
     "metastore.operations.list",
     "metastore.services.export",
