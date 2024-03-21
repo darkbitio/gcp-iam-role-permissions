@@ -42,7 +42,6 @@
     "spanner.databases.beginReadOnlyTransaction",
     "spanner.databases.partitionQuery",
     "spanner.databases.select",
-    "spanner.databases.useDataBoost",
     "spanner.sessions.create",
     "storage.buckets.create",
     "storage.buckets.get",
