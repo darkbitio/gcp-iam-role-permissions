@@ -1,0 +1,11 @@
+{
+  "description": "Read/write access to project feature settings",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/osconfig.projectFeatureSettingsEditor",
+  "stage": "ALPHA",
+  "title": "Project Feature Settings Editor"
+}
