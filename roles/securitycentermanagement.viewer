@@ -16,12 +16,13 @@
     "securitycentermanagement.eventThreatDetectionCustomModules.validate",
     "securitycentermanagement.locations.get",
     "securitycentermanagement.locations.list",
+    "securitycentermanagement.securityCommandCenter.get",
     "securitycentermanagement.securityHealthAnalyticsCustomModules.get",
     "securitycentermanagement.securityHealthAnalyticsCustomModules.list",
     "securitycentermanagement.securityHealthAnalyticsCustomModules.simulate",
     "securitycentermanagement.securityHealthAnalyticsCustomModules.test"
   ],
   "name": "roles/securitycentermanagement.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Security Center Management Viewer"
 }
