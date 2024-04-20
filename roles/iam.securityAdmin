@@ -746,7 +746,6 @@
     "contactcenterinsights.conversations.list",
     "contactcenterinsights.faqEntries.list",
     "contactcenterinsights.faqModels.list",
-    "contactcenterinsights.feedbackLabels.list",
     "contactcenterinsights.issueModels.list",
     "contactcenterinsights.issues.list",
     "contactcenterinsights.operations.list",
