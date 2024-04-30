@@ -118,6 +118,8 @@
     "aiplatform.trainingPipelines.list",
     "aiplatform.trials.get",
     "aiplatform.trials.list",
+    "aiplatform.tuningJobs.get",
+    "aiplatform.tuningJobs.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
