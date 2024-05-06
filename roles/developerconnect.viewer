@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Developer Connect resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/developerconnect.viewer",
+  "stage": "ALPHA",
+  "title": "Developer Connect Viewer"
+}

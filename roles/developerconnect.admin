@@ -1,0 +1,11 @@
+{
+  "description": "Full access to Developer Connect resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/developerconnect.admin",
+  "stage": "ALPHA",
+  "title": "Developer Connect Admin"
+}
