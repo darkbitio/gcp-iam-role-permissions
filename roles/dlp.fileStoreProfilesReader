@@ -1,0 +1,10 @@
+{
+  "description": "Read DLP file store profiles.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dlp.charts.get"
+  ],
+  "name": "roles/dlp.fileStoreProfilesReader",
+  "stage": "ALPHA",
+  "title": "DLP File Store Data Profiles Reader"
+}
