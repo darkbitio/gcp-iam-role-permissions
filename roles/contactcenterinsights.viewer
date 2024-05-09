@@ -20,6 +20,10 @@
     "contactcenterinsights.operations.list",
     "contactcenterinsights.phraseMatchers.get",
     "contactcenterinsights.phraseMatchers.list",
+    "contactcenterinsights.qaQuestions.get",
+    "contactcenterinsights.qaQuestions.list",
+    "contactcenterinsights.qaScorecards.get",
+    "contactcenterinsights.qaScorecards.list",
     "contactcenterinsights.settings.get",
     "contactcenterinsights.views.get",
     "contactcenterinsights.views.list"
