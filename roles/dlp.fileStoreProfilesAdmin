@@ -1,6 +1,11 @@
 {
   "description": "Manage DLP file store profiles.",
   "etag": "AA==",
+  "includedPermissions": [
+    "dlp.fileStoreProfiles.delete",
+    "dlp.fileStoreProfiles.get",
+    "dlp.fileStoreProfiles.list"
+  ],
   "name": "roles/dlp.fileStoreProfilesAdmin",
   "stage": "ALPHA",
   "title": "DLP File Store Data Profiles Admin"
