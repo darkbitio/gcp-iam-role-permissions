@@ -20,7 +20,6 @@
     "logging.queries.create",
     "logging.queries.delete",
     "logging.queries.get",
-    "logging.queries.getShared",
     "logging.queries.list",
     "logging.queries.listShared",
     "logging.queries.update",
