@@ -100,6 +100,8 @@
     "compute.urlMaps.listTagBindings",
     "container.clusters.listEffectiveTags",
     "container.clusters.listTagBindings",
+    "datafusion.instances.listEffectiveTags",
+    "datafusion.instances.listTagBindings",
     "datastore.databases.listEffectiveTags",
     "datastore.databases.listTagBindings",
     "datastream.connectionProfiles.listEffectiveTags",
