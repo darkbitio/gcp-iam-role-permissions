@@ -1611,7 +1611,6 @@
     "networkservices.meshes.list",
     "networkservices.meshes.setIamPolicy",
     "networkservices.operations.list",
-    "networkservices.route_views.list",
     "networkservices.serviceBindings.list",
     "networkservices.serviceLbPolicies.list",
     "networkservices.tcpRoutes.getIamPolicy",
