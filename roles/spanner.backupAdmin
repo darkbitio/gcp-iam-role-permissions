@@ -19,8 +19,6 @@
     "spanner.databases.createBackup",
     "spanner.databases.get",
     "spanner.databases.list",
-    "spanner.instancePartitions.get",
-    "spanner.instancePartitions.list",
     "spanner.instances.createTagBinding",
     "spanner.instances.deleteTagBinding",
     "spanner.instances.get",
