@@ -5,6 +5,6 @@
     "pubsub.topics.publish"
   ],
   "name": "roles/spectrumsas.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Spectrum SAS Service Agent"
 }
