@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataprocrm.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dataproc Resource Manager Viewer"
 }

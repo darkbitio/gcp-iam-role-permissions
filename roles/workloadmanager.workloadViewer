@@ -7,6 +7,6 @@
     "workloadmanager.discoveredprofiles.list"
   ],
   "name": "roles/workloadmanager.workloadViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workload Manager Workload Viewer"
 }

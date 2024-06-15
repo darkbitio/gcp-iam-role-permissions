@@ -28,6 +28,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataprocrm.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dataproc Resource Manager Admin"
 }
