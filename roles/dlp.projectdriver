@@ -701,13 +701,7 @@
     "recommender.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "serviceusage.services.use",
-    "storage.buckets.getIamPolicy",
-    "storage.managedFolders.get",
-    "storage.managedFolders.list",
-    "storage.objects.get",
-    "storage.objects.getIamPolicy",
-    "storage.objects.list"
+    "serviceusage.services.use"
   ],
   "name": "roles/dlp.projectdriver",
   "stage": "GA",
