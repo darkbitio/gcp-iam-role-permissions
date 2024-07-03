@@ -31,7 +31,6 @@
     "compute.regionBackendServices.use",
     "compute.regionHealthChecks.create",
     "compute.regionHealthChecks.delete",
-    "compute.regionHealthChecks.use",
     "compute.regionHealthChecks.useReadOnly",
     "compute.serviceAttachments.create",
     "compute.serviceAttachments.delete",
@@ -49,6 +48,6 @@
     "datastream.streams.update"
   ],
   "name": "roles/metastore.migrationAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Dataproc Metastore Managed Migration Admin"
 }
