@@ -21,6 +21,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/managedkafka.consumerGroupEditor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Managed Kafka Consumer Group Editor"
 }

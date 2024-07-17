@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.policyAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloud Deploy Policy Admin"
 }

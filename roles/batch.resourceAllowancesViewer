@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/batch.resourceAllowancesViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Batch ResourceAllowance Viewer"
 }
