@@ -22,6 +22,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/managedkafka.topicEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Managed Kafka Topic Editor"
 }

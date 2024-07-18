@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/clouddeploy.policyOverrider",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Deploy Policy Overrider"
 }
