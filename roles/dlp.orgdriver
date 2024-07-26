@@ -863,7 +863,6 @@
     "datafusion.instances.deleteTagBinding",
     "datafusion.instances.listEffectiveTags",
     "datafusion.instances.listTagBindings",
-    "dataplex.projects.search",
     "datastore.databases.createTagBinding",
     "datastore.databases.deleteTagBinding",
     "datastore.databases.listEffectiveTags",

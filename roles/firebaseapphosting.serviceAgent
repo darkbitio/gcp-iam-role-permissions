@@ -35,6 +35,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/firebaseapphosting.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Firebase App Hosting Service Agent"
 }
