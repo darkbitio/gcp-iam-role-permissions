@@ -10,7 +10,6 @@
     "datacatalog.tagTemplates.setIamPolicy",
     "datacatalog.tagTemplates.update",
     "datacatalog.tagTemplates.use",
-    "dataplex.projects.search",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
