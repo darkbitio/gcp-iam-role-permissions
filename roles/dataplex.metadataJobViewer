@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.metadataJobViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dataplex Metadata Job Viewer"
 }

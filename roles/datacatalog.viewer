@@ -17,7 +17,6 @@
     "datacatalog.tagTemplates.getTag",
     "datacatalog.taxonomies.get",
     "datacatalog.taxonomies.list",
-    "dataplex.projects.search",
     "pubsub.topics.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
