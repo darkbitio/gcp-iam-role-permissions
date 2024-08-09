@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/managedflink.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Managed Flink Admin"
 }

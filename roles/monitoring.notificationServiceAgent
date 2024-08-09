@@ -5,7 +5,6 @@
     "bigquery.jobs.create",
     "cloudfunctions.functions.get",
     "cloudtrace.traces.patch",
-    "logging.links.list",
     "monitoring.metricDescriptors.get",
     "monitoring.metricDescriptors.list",
     "monitoring.monitoredResourceDescriptors.get",
