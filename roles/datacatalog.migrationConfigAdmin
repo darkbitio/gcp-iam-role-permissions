@@ -2,11 +2,13 @@
   "description": "Full access to Migration Config",
   "etag": "AA==",
   "includedPermissions": [
+    "datacatalog.migrationConfig.get",
+    "datacatalog.migrationConfig.set",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/datacatalog.migrationConfigAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "DataCatalog Migration Config Admin"
 }

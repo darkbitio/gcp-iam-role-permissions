@@ -14,7 +14,6 @@
     "connectors.customConnectors.list",
     "connectors.endpointAttachments.get",
     "connectors.endpointAttachments.list",
-    "connectors.entities.get",
     "connectors.entityTypes.list",
     "connectors.eventSubscriptions.get",
     "connectors.eventSubscriptions.list",
