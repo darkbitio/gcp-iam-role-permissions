@@ -2,6 +2,7 @@
   "description": "Read-only access to Network Management resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "networkmanagement.config.get",
     "networkmanagement.connectivitytests.get",
     "networkmanagement.connectivitytests.getIamPolicy",
     "networkmanagement.connectivitytests.list",
@@ -9,8 +10,7 @@
     "networkmanagement.locations.list",
     "networkmanagement.operations.get",
     "networkmanagement.operations.list",
-    "networkmanagement.vpcflowlogsconfigs.get",
-    "networkmanagement.vpcflowlogsconfigs.list",
+    "networkmanagement.topologygraphs.read",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
