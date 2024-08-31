@@ -2,6 +2,7 @@
   "description": "Full access to manage bulk operations.",
   "etag": "AA==",
   "includedPermissions": [
+    "datastore.databases.bulkDelete",
     "datastore.databases.getMetadata",
     "datastore.operations.cancel",
     "datastore.operations.get",
