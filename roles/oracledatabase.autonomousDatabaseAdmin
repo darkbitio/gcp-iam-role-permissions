@@ -1,0 +1,11 @@
+{
+  "description": "Grants full access to manage all Autonomous Database resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/oracledatabase.autonomousDatabaseAdmin",
+  "stage": "ALPHA",
+  "title": "Oracle Database @ Google Cloud Autonomous Database Admin"
+}
