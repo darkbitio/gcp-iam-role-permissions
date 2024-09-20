@@ -1,0 +1,11 @@
+{
+  "description": "Grants read access to see all Autonomous Database resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/oracledatabase.autonomousDatabaseViewer",
+  "stage": "ALPHA",
+  "title": "Oracle Database @ Google Cloud Autonomous Database Viewer"
+}

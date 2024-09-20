@@ -1,0 +1,11 @@
+{
+  "description": "Grants view access to all Oracle Database resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/oracledatabase.viewer",
+  "stage": "ALPHA",
+  "title": "Oracle Database @ Google Cloud viewer"
+}

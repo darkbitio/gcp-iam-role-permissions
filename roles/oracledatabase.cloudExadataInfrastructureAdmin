@@ -1,0 +1,11 @@
+{
+  "description": "Grants full access to manage all Exadata Infrastructure resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/oracledatabase.cloudExadataInfrastructureAdmin",
+  "stage": "ALPHA",
+  "title": "Oracle Database @ Google Cloud Exadata Infrastructure Admin"
+}
