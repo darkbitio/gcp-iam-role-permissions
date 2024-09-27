@@ -17,7 +17,6 @@
     "dataplex.entries.update",
     "dataplex.entryGroups.create",
     "dataplex.entryGroups.delete",
-    "dataplex.entryGroups.export",
     "dataplex.entryGroups.get",
     "dataplex.entryGroups.getIamPolicy",
     "dataplex.entryGroups.import",
