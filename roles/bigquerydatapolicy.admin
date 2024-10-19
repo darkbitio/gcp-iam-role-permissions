@@ -11,6 +11,6 @@
     "bigquery.dataPolicies.update"
   ],
   "name": "roles/bigquerydatapolicy.admin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "BigQuery Data Policy Admin"
 }

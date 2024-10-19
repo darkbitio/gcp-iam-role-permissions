@@ -274,8 +274,6 @@
     "compute.networkAttachments.listTagBindings",
     "compute.networkEdgeSecurityServices.get",
     "compute.networkEdgeSecurityServices.list",
-    "compute.networkEdgeSecurityServices.listEffectiveTags",
-    "compute.networkEdgeSecurityServices.listTagBindings",
     "compute.networkEndpointGroups.attachNetworkEndpoints",
     "compute.networkEndpointGroups.create",
     "compute.networkEndpointGroups.createTagBinding",

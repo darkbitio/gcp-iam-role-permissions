@@ -39,6 +39,6 @@
     "resourcemanager.projects.getIamPolicy"
   ],
   "name": "roles/lookerstudio.lookerAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Looker Admin"
 }
