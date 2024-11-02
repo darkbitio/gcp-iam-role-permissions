@@ -9,7 +9,6 @@
     "securesourcemanager.branchRules.get",
     "securesourcemanager.branchRules.list",
     "securesourcemanager.branchRules.update",
-    "securesourcemanager.repositories.approvePullRequests",
     "securesourcemanager.repositories.create",
     "securesourcemanager.repositories.delete",
     "securesourcemanager.repositories.fetch",
