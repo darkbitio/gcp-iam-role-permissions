@@ -8,12 +8,10 @@
     "networkservices.lbRouteExtensions.list",
     "networkservices.lbTrafficExtensions.get",
     "networkservices.lbTrafficExtensions.list",
-    "networkservices.wasmPlugins.get",
-    "networkservices.wasmPlugins.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkservices.serviceExtensionsViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Service Extensions Viewer"
 }

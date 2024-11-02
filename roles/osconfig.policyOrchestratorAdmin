@@ -1,17 +1,7 @@
 {
   "description": "Admin of PolicyOrchestrator resources",
   "etag": "AA==",
-  "includedPermissions": [
-    "osconfig.locations.get",
-    "osconfig.locations.list",
-    "osconfig.operations.get",
-    "osconfig.policyOrchestrators.create",
-    "osconfig.policyOrchestrators.delete",
-    "osconfig.policyOrchestrators.get",
-    "osconfig.policyOrchestrators.list",
-    "osconfig.policyOrchestrators.update"
-  ],
   "name": "roles/osconfig.policyOrchestratorAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "PolicyOrchestrator Admin"
 }
