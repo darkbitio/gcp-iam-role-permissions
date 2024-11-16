@@ -9,7 +9,6 @@
     "paymentsresellersubscription.subscriptions.get",
     "paymentsresellersubscription.subscriptions.provision",
     "paymentsresellersubscription.subscriptions.undoCancel",
-    "paymentsresellersubscription.userSessions.generate",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
