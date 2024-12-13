@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataproc.serverlessViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataproc serverless session view permissions"
 }

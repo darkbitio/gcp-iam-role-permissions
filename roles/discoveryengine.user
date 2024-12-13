@@ -3,13 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "discoveryengine.answers.get",
-    "discoveryengine.completionConfigs.completeQuery",
     "discoveryengine.servingConfigs.answer",
     "discoveryengine.servingConfigs.search",
-    "discoveryengine.sessions.delete",
-    "discoveryengine.sessions.get",
-    "discoveryengine.sessions.list",
-    "discoveryengine.sessions.update"
+    "discoveryengine.sessions.get"
   ],
   "name": "roles/discoveryengine.user",
   "stage": "BETA",

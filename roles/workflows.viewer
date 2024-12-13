@@ -15,9 +15,7 @@
     "workflows.stepEntries.list",
     "workflows.workflows.get",
     "workflows.workflows.list",
-    "workflows.workflows.listEffectiveTags",
-    "workflows.workflows.listRevision",
-    "workflows.workflows.listTagBindings"
+    "workflows.workflows.listRevision"
   ],
   "name": "roles/workflows.viewer",
   "stage": "GA",

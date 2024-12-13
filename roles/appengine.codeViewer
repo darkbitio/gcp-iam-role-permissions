@@ -13,7 +13,6 @@
     "appengine.versions.get",
     "appengine.versions.getFileContents",
     "appengine.versions.list",
-    "artifactregistry.projectsettings.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

@@ -1,5 +1,5 @@
 {
-  "description": "Edit access to Observability resources.",
+  "description": "Grants permissions to use Cloud Observability Analytics.",
   "etag": "AA==",
   "includedPermissions": [
     "observability.analyticsViews.create",
@@ -7,10 +7,9 @@
     "observability.analyticsViews.get",
     "observability.analyticsViews.list",
     "observability.analyticsViews.update",
-    "observability.scopes.get",
-    "observability.scopes.update"
+    "observability.scopes.get"
   ],
-  "name": "roles/observability.editor",
+  "name": "roles/observability.analyticsUser",
   "stage": "BETA",
-  "title": "Observability Editor"
+  "title": "Observability Analytics User"
 }

@@ -50,6 +50,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataproc.serverlessEditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataproc serverless session user permissions"
 }
