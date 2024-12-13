@@ -1,0 +1,7 @@
+{
+  "description": "Full access to Custom Compliance Framework resources.",
+  "etag": "AA==",
+  "name": "roles/auditmanager.ccfAdmin",
+  "stage": "ALPHA",
+  "title": "Custom Compliance Framework Admin"
+}

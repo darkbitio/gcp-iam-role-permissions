@@ -1,30 +1,12 @@
 {
-  "description": "Combination role of BigQuery Job User, BigQuery Read Session User, Dataform Code Creator, Notebook Runtime User and Dataproc Serverless Editor.",
+  "description": "Permissions needed to run serverless sessions as a user",
   "etag": "AA==",
   "includedPermissions": [
-    "aiplatform.notebookRuntimeTemplates.apply",
-    "aiplatform.notebookRuntimeTemplates.get",
-    "aiplatform.notebookRuntimeTemplates.getIamPolicy",
-    "aiplatform.notebookRuntimeTemplates.list",
-    "aiplatform.notebookRuntimes.assign",
-    "aiplatform.notebookRuntimes.get",
-    "aiplatform.notebookRuntimes.list",
-    "aiplatform.operations.list",
-    "bigquery.config.get",
-    "bigquery.jobs.create",
-    "bigquery.readsessions.create",
-    "bigquery.readsessions.getData",
-    "bigquery.readsessions.update",
     "compute.projects.get",
     "compute.regions.get",
     "compute.regions.list",
     "compute.zones.get",
     "compute.zones.list",
-    "dataform.locations.get",
-    "dataform.locations.list",
-    "dataform.repositories.create",
-    "dataform.repositories.list",
-    "dataplex.projects.search",
     "dataproc.batches.analyze",
     "dataproc.batches.cancel",
     "dataproc.batches.create",
@@ -67,7 +49,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/bigquery.studioUser",
+  "name": "roles/dataproc.serverlessEditor",
   "stage": "GA",
-  "title": "BigQuery Studio User"
+  "title": "Dataproc serverless session user permissions"
 }
