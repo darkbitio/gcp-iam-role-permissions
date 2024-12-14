@@ -356,11 +356,7 @@
     "storage.buckets.createTagBinding",
     "storage.buckets.deleteTagBinding",
     "storage.buckets.listEffectiveTags",
-    "storage.buckets.listTagBindings",
-    "workflows.workflows.createTagBinding",
-    "workflows.workflows.deleteTagBinding",
-    "workflows.workflows.listEffectiveTags",
-    "workflows.workflows.listTagBindings"
+    "storage.buckets.listTagBindings"
   ],
   "name": "roles/resourcemanager.tagUser",
   "stage": "GA",

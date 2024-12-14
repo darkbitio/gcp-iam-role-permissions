@@ -180,9 +180,7 @@
     "spanner.instances.listEffectiveTags",
     "spanner.instances.listTagBindings",
     "storage.buckets.listEffectiveTags",
-    "storage.buckets.listTagBindings",
-    "workflows.workflows.listEffectiveTags",
-    "workflows.workflows.listTagBindings"
+    "storage.buckets.listTagBindings"
   ],
   "name": "roles/resourcemanager.tagViewer",
   "stage": "GA",

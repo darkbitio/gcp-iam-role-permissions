@@ -12,7 +12,6 @@
     "contactcenterinsights.faqEntries.list",
     "contactcenterinsights.faqModels.get",
     "contactcenterinsights.faqModels.list",
-    "contactcenterinsights.feedbackLabels.download",
     "contactcenterinsights.feedbackLabels.get",
     "contactcenterinsights.feedbackLabels.list",
     "contactcenterinsights.issueModels.get",

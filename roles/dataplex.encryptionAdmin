@@ -6,9 +6,7 @@
     "dataplex.encryptionConfig.delete",
     "dataplex.encryptionConfig.get",
     "dataplex.encryptionConfig.list",
-    "dataplex.encryptionConfig.update",
-    "dataplex.operations.get",
-    "dataplex.operations.list"
+    "dataplex.encryptionConfig.update"
   ],
   "name": "roles/dataplex.encryptionAdmin",
   "stage": "BETA",

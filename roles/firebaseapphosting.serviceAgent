@@ -7,7 +7,6 @@
     "artifactregistry.repositories.create",
     "artifactregistry.repositories.delete",
     "artifactregistry.repositories.deleteArtifacts",
-    "artifactregistry.repositories.downloadArtifacts",
     "artifactregistry.repositories.get",
     "artifactregistry.repositories.update",
     "cloudbuild.builds.create",

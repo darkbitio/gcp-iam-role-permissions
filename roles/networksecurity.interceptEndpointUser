@@ -1,7 +1,0 @@
-{
-  "description": "Allows a consumer to connect their networks to a interceptEndpointGroup.",
-  "etag": "AA==",
-  "name": "roles/networksecurity.interceptEndpointUser",
-  "stage": "ALPHA",
-  "title": "Intercept Endpoint User"
-}
