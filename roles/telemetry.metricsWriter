@@ -1,0 +1,7 @@
+{
+  "description": "Access to write metrics.",
+  "etag": "AA==",
+  "name": "roles/telemetry.metricsWriter",
+  "stage": "EAP",
+  "title": "Cloud Telemetry Metrics Writer"
+}

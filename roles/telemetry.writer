@@ -1,0 +1,7 @@
+{
+  "description": "Full access to write all telemetry data.",
+  "etag": "AA==",
+  "name": "roles/telemetry.writer",
+  "stage": "EAP",
+  "title": "Cloud Telemetry Writer"
+}
