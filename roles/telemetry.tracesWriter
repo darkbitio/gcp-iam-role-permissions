@@ -1,7 +1,0 @@
-{
-  "description": "Access to write trace spans.",
-  "etag": "AA==",
-  "name": "roles/telemetry.tracesWriter",
-  "stage": "EAP",
-  "title": "Cloud Telemetry Traces Writer"
-}
