@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/discoveryengine.notebookLmUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud NotebookLM User"
 }

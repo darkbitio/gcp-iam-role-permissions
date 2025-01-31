@@ -2,6 +2,6 @@
   "description": "Grants read and write access to a Cloud NotebookLM Notebook.",
   "etag": "AA==",
   "name": "roles/discoveryengine.notebookEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud NotebookLM Notebook Editor"
 }

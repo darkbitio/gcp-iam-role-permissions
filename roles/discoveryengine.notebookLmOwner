@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/discoveryengine.notebookLmOwner",
-  "stage": "ALPHA",
-  "title": "Cloud NotebookLM Owner"
+  "stage": "BETA",
+  "title": "Cloud NotebookLM Admin"
 }

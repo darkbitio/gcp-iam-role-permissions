@@ -2,6 +2,6 @@
   "description": "Grants full access to a Cloud NotebookLM Notebook.",
   "etag": "AA==",
   "name": "roles/discoveryengine.notebookOwner",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud NotebookLM Notebook Owner"
 }
