@@ -20,7 +20,6 @@
     "storage.buckets.getIpFilter",
     "storage.buckets.listEffectiveTags",
     "storage.buckets.listTagBindings",
-    "storage.buckets.relocate",
     "storage.buckets.restore",
     "storage.buckets.setIamPolicy",
     "storage.buckets.setIpFilter",
