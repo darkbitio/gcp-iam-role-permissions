@@ -174,7 +174,6 @@
     "securitycenter.websecurityscannersettings.calculate",
     "securitycenter.websecurityscannersettings.get",
     "securitycenter.websecurityscannersettings.update",
-    "securitycentermanagement.billingMetadata.get",
     "securitycentermanagement.effectiveEventThreatDetectionCustomModules.get",
     "securitycentermanagement.effectiveEventThreatDetectionCustomModules.list",
     "securitycentermanagement.effectiveSecurityHealthAnalyticsCustomModules.get",
