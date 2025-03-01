@@ -1,5 +1,5 @@
 {
-  "description": "Access to view metadata of dataset, table, model, routine, and property graph",
+  "description": "Access to view table and dataset metadata",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.datasets.get",
