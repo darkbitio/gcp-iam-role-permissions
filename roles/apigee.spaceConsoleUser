@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigee.spaceConsoleUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Apigee Space Console User"
 }

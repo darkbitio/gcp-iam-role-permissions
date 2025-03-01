@@ -21,12 +21,10 @@
     "apigee.sharedflowrevisions.list",
     "apigee.sharedflows.get",
     "apigee.sharedflows.list",
-    "apigee.spaces.get",
-    "apigee.spaces.list",
     "apigee.tracesessions.get",
     "apigee.tracesessions.list"
   ],
   "name": "roles/apigee.spaceContentViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Apigee Space Content Viewer"
 }
