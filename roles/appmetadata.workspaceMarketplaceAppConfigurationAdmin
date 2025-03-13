@@ -14,6 +14,6 @@
     "workspacemarketplace.appConfiguration.view"
   ],
   "name": "roles/appmetadata.workspaceMarketplaceAppConfigurationAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Workspace Marketplace App Configuration Admin"
 }
