@@ -8,8 +8,7 @@
     "cloudsql.instances.get",
     "cloudsql.instances.login",
     "cloudsql.users.create",
-    "cloudsql.users.get",
-    "serviceusage.services.use"
+    "cloudsql.users.get"
   ],
   "name": "roles/firebasedataconnect.serviceAgent",
   "stage": "GA",

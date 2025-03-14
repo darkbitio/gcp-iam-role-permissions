@@ -5,10 +5,6 @@
     "cloudasset.assets.searchAllResources",
     "managedkafka.clusters.get",
     "managedkafka.clusters.list",
-    "managedkafka.connectClusters.get",
-    "managedkafka.connectClusters.list",
-    "managedkafka.connectors.get",
-    "managedkafka.connectors.list",
     "managedkafka.consumerGroups.get",
     "managedkafka.consumerGroups.list",
     "managedkafka.locations.get",
@@ -24,6 +20,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/managedkafka.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Managed Kafka Viewer"
 }

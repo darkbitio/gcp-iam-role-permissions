@@ -1,7 +1,0 @@
-{
-  "description": "Provides read and write access to Kafka Connect clusters. Intended for, e.g., IT Departments that provision Kafka Connect clusters, but need not be able to read or modify connectors.",
-  "etag": "AA==",
-  "name": "roles/managedkafka.connectClusterEditor",
-  "stage": "ALPHA",
-  "title": "Managed Kafka Connect Cluster Editor"
-}
