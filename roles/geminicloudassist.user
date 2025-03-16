@@ -13,11 +13,10 @@
     "cloudaicompanion.instances.queryEffectiveSetting",
     "cloudaicompanion.instances.queryEffectiveSettingBindings",
     "cloudaicompanion.licenses.selfAssign",
-    "cloudaicompanion.topics.create",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/geminicloudassist.user",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Gemini Cloud Assist User"
 }
