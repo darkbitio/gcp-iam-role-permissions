@@ -1,5 +1,5 @@
 {
-  "description": "A user who can use Gemini for Google Cloud",
+  "description": "A user who can use Gemini Cloud Assist",
   "etag": "AA==",
   "includedPermissions": [
     "cloudaicompanion.companions.generateChat",
@@ -13,12 +13,11 @@
     "cloudaicompanion.instances.queryEffectiveSetting",
     "cloudaicompanion.instances.queryEffectiveSettingBindings",
     "cloudaicompanion.licenses.selfAssign",
-    "cloudaicompanion.operations.get",
     "cloudaicompanion.topics.create",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/cloudaicompanion.user",
+  "name": "roles/geminicloudassist.user",
   "stage": "BETA",
-  "title": "Gemini for Google Cloud User"
+  "title": "Gemini Cloud Assist User"
 }
