@@ -211,7 +211,6 @@
     "networkservices.tlsRoutes.get",
     "networkservices.tlsRoutes.list",
     "networkservices.tlsRoutes.update",
-    "resourcemanager.projects.get",
     "serviceusage.services.get",
     "serviceusage.services.use",
     "trafficdirector.networks.getConfigs",

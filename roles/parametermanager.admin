@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/parametermanager.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Parameter Manager Admin"
 }

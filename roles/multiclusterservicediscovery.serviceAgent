@@ -53,6 +53,7 @@
     "compute.globalForwardingRules.listTagBindings",
     "compute.globalForwardingRules.pscCreate",
     "compute.globalForwardingRules.pscDelete",
+    "compute.globalForwardingRules.pscGet",
     "compute.globalForwardingRules.pscSetLabels",
     "compute.globalForwardingRules.pscSetTarget",
     "compute.globalForwardingRules.pscUpdate",

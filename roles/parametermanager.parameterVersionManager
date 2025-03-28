@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/parametermanager.parameterVersionManager",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Parameter Manager Parameter Version Manager"
 }

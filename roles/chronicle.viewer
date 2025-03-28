@@ -7,7 +7,6 @@
     "chronicle.ais.translateYlRule",
     "chronicle.analyticValues.list",
     "chronicle.analytics.list",
-    "chronicle.bigQueryExport.get",
     "chronicle.cases.countPriorities",
     "chronicle.collectors.get",
     "chronicle.collectors.list",

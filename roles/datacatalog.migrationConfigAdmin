@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/datacatalog.migrationConfigAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "DataCatalog Migration Config Admin"
 }

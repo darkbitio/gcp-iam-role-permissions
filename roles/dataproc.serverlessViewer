@@ -1,5 +1,5 @@
 {
-  "description": "Permissions needed to view serverless sessions and batches",
+  "description": "Permissions needed to view serverless sessions",
   "etag": "AA==",
   "includedPermissions": [
     "compute.projects.get",
@@ -18,5 +18,5 @@
   ],
   "name": "roles/dataproc.serverlessViewer",
   "stage": "GA",
-  "title": "Dataproc Serverless Viewer"
+  "title": "Dataproc serverless session view permissions"
 }

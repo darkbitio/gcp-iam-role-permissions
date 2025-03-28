@@ -1,8 +1,7 @@
 {
-  "description": "Grants the Backup and DR Service access to discover and protect GCP resources.",
+  "description": "Grants the Backup and DR Service access to protect GCE instances.",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudsql.instances.get",
     "compute.addresses.list",
     "compute.addresses.use",
     "compute.addresses.useInternal",
