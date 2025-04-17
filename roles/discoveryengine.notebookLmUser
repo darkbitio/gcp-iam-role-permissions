@@ -2,9 +2,6 @@
   "description": "Grants user-level access to Cloud NotebookLM resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "discoveryengine.accounts.create",
-    "discoveryengine.notebooks.create",
-    "discoveryengine.notebooks.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

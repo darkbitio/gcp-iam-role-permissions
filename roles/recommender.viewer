@@ -139,7 +139,6 @@
     "recommender.computeInstanceIdleResourceRecommenderConfig.get",
     "recommender.computeInstanceMachineTypeRecommendations.get",
     "recommender.computeInstanceMachineTypeRecommendations.list",
-    "recommender.computeInstanceMachineTypeRecommenderConfig.get",
     "recommender.computeInstanceMemoryUsageInsights.get",
     "recommender.computeInstanceMemoryUsageInsights.list",
     "recommender.computeInstanceMemoryUsagePredictionInsights.get",

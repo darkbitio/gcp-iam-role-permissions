@@ -19,7 +19,6 @@
     "oracledatabase.operations.delete",
     "oracledatabase.operations.get",
     "oracledatabase.operations.list",
-    "oracledatabase.systemVersions.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

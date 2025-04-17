@@ -36,7 +36,6 @@
     "datastore.indexes.get",
     "datastore.indexes.list",
     "datastore.indexes.update",
-    "datastore.insights.get",
     "datastore.keyVisualizerScans.get",
     "datastore.keyVisualizerScans.list",
     "datastore.locations.get",

@@ -47,7 +47,6 @@
     "bigquery.routines.updateTag",
     "bigquery.rowAccessPolicies.create",
     "bigquery.rowAccessPolicies.delete",
-    "bigquery.rowAccessPolicies.get",
     "bigquery.rowAccessPolicies.getIamPolicy",
     "bigquery.rowAccessPolicies.list",
     "bigquery.rowAccessPolicies.setIamPolicy",
