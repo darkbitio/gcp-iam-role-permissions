@@ -2,12 +2,6 @@
   "description": "Administrator owning access to Direct Access",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudtestservice.devicesession.cancel",
-    "cloudtestservice.devicesession.create",
-    "cloudtestservice.devicesession.get",
-    "cloudtestservice.devicesession.list",
-    "cloudtestservice.devicesession.update",
-    "cloudtestservice.devicesession.use",
     "cloudtestservice.environmentcatalog.get",
     "devicestreaming.deviceSessions.cancel",
     "devicestreaming.deviceSessions.create",
@@ -17,7 +11,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/cloudtestservice.directAccessAdmin",
-  "stage": "BETA",
-  "title": "Firebase Test Lab Direct Access Admin"
+  "name": "roles/devicestreaming.admin",
+  "stage": "GA",
+  "title": "Device Streaming Admin"
 }
