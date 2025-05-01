@@ -648,6 +648,6 @@
     "storage.buckets.list"
   ],
   "name": "roles/cloudsecuritycompliance.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Security Compliance Service Agent"
 }
