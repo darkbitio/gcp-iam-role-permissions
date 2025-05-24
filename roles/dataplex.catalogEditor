@@ -23,7 +23,6 @@
     "dataplex.entryGroups.list",
     "dataplex.entryGroups.update",
     "dataplex.entryGroups.useContactsAspect",
-    "dataplex.entryGroups.useDataQualityScorecardAspect",
     "dataplex.entryGroups.useDefinitionEntryLink",
     "dataplex.entryGroups.useGenericAspect",
     "dataplex.entryGroups.useGenericEntry",

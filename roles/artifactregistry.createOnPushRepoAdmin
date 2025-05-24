@@ -52,8 +52,7 @@
     "artifactregistry.versions.get",
     "artifactregistry.versions.list",
     "artifactregistry.versions.update",
-    "artifactregistry.yumartifacts.create",
-    "resourcemanager.projects.get"
+    "artifactregistry.yumartifacts.create"
   ],
   "name": "roles/artifactregistry.createOnPushRepoAdmin",
   "stage": "GA",
