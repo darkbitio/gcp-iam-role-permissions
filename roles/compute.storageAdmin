@@ -4,7 +4,6 @@
   "includedPermissions": [
     "backupdr.backupPlanAssociations.createForComputeDisk",
     "backupdr.backupPlanAssociations.deleteForComputeDisk",
-    "backupdr.backupPlanAssociations.getForComputeDisk",
     "backupdr.backupPlanAssociations.triggerBackupForComputeDisk",
     "backupdr.backupPlanAssociations.updateForComputeDisk",
     "backupdr.backupPlans.useForComputeDisk",

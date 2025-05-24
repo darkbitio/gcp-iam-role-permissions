@@ -26,7 +26,6 @@
     "contactcenterinsights.conversations.list",
     "contactcenterinsights.datasets.get",
     "contactcenterinsights.datasets.list",
-    "contactcenterinsights.encryptionSpecs.get",
     "contactcenterinsights.faqEntries.get",
     "contactcenterinsights.faqEntries.list",
     "contactcenterinsights.faqModels.get",
