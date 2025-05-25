@@ -64,8 +64,7 @@
     "cloudkms.keyHandles.get",
     "cloudkms.keyHandles.list",
     "cloudkms.operations.get",
-    "cloudkms.projects.showEffectiveAutokeyConfig",
-    "resourcemanager.projects.get"
+    "cloudkms.projects.showEffectiveAutokeyConfig"
   ],
   "name": "roles/artifactregistry.admin",
   "stage": "GA",

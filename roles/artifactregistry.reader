@@ -31,8 +31,7 @@
     "artifactregistry.tags.get",
     "artifactregistry.tags.list",
     "artifactregistry.versions.get",
-    "artifactregistry.versions.list",
-    "resourcemanager.projects.get"
+    "artifactregistry.versions.list"
   ],
   "name": "roles/artifactregistry.reader",
   "stage": "GA",
