@@ -33,6 +33,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkconnectivity.groupAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Group Admin"
 }
