@@ -13,8 +13,6 @@
     "backupdr.backupPlanAssociations.triggerBackupForComputeInstance",
     "backupdr.backupPlanAssociations.updateForComputeDisk",
     "backupdr.backupPlanAssociations.updateForComputeInstance",
-    "backupdr.backupPlanRevisions.get",
-    "backupdr.backupPlanRevisions.list",
     "backupdr.backupPlans.get",
     "backupdr.backupPlans.list",
     "backupdr.backupPlans.useForComputeDisk",

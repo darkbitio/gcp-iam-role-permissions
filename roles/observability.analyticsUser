@@ -2,9 +2,6 @@
   "description": "Grants permissions to use Cloud Observability Analytics.",
   "etag": "AA==",
   "includedPermissions": [
-    "logging.queries.getShared",
-    "logging.queries.listShared",
-    "logging.queries.usePrivate",
     "observability.analyticsViews.create",
     "observability.analyticsViews.delete",
     "observability.analyticsViews.get",
