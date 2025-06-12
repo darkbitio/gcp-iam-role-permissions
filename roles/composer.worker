@@ -495,7 +495,6 @@
     "containeranalysis.occurrences.list",
     "containeranalysis.occurrences.update",
     "datalineage.events.create",
-    "datalineage.locations.processOpenLineageMessage",
     "datalineage.processes.create",
     "datalineage.processes.get",
     "datalineage.processes.update",
