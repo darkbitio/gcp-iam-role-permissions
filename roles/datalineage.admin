@@ -6,7 +6,6 @@
     "datalineage.events.delete",
     "datalineage.events.get",
     "datalineage.events.list",
-    "datalineage.locations.processOpenLineageMessage",
     "datalineage.locations.searchLinks",
     "datalineage.operations.get",
     "datalineage.processes.create",
