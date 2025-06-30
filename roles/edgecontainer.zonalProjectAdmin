@@ -1,0 +1,15 @@
+{
+  "description": "Access to manage zonal projects.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "edgecontainer.locations.get",
+    "edgecontainer.locations.list",
+    "edgecontainer.operations.cancel",
+    "edgecontainer.operations.delete",
+    "edgecontainer.operations.get",
+    "edgecontainer.operations.list"
+  ],
+  "name": "roles/edgecontainer.zonalProjectAdmin",
+  "stage": "ALPHA",
+  "title": "Zonal Project Admin"
+}
