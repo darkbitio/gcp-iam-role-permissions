@@ -59,6 +59,6 @@
     "vmwareengine.vmwareEngineNetworks.listTagBindings"
   ],
   "name": "roles/vmwareengine.vmwareenginePrivilegedUser",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "VMware Engine Service Privileged User"
 }
