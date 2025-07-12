@@ -129,7 +129,6 @@
     "identitytoolkit.tenants.list",
     "identitytoolkit.tenants.setIamPolicy",
     "identitytoolkit.tenants.update",
-    "monitoring.timeSeries.create",
     "orgpolicy.policy.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",

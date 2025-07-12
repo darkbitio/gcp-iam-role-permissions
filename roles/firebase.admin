@@ -460,7 +460,6 @@
     "firebasevertexai.configs.get",
     "firebasevertexai.configs.update",
     "logging.logEntries.list",
-    "monitoring.timeSeries.create",
     "monitoring.timeSeries.list",
     "oauthconfig.verification.get",
     "orgpolicy.policy.get",
