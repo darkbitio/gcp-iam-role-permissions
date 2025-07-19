@@ -5,14 +5,12 @@
     "oracledatabase.entitlements.list",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
-    "oracledatabase.odbNetworks.get",
-    "oracledatabase.odbNetworks.list",
     "oracledatabase.operations.get",
     "oracledatabase.operations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/oracledatabase.odbNetworkViewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Oracle Database@Google ODB Network Viewer"
 }

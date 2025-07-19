@@ -14,5 +14,5 @@
   ],
   "name": "roles/edgecontainer.zonalServiceAdmin",
   "stage": "GA",
-  "title": "Edge Container Zonal Service Admin"
+  "title": "Zonal Service Admin"
 }
