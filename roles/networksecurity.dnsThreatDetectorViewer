@@ -2,12 +2,10 @@
   "description": "Enables view access to DNS Threat Detector resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "networksecurity.dnsThreatDetectors.get",
-    "networksecurity.dnsThreatDetectors.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/networksecurity.dnsThreatDetectorViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "DNS Threat Detector Viewer"
 }

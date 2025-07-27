@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networksecurity.firewallEndpointAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Firewall Endpoint Admin"
 }

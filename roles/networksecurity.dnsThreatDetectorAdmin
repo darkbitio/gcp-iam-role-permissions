@@ -2,15 +2,10 @@
   "description": "Enables full access to DNS Threat Detector resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "networksecurity.dnsThreatDetectors.create",
-    "networksecurity.dnsThreatDetectors.delete",
-    "networksecurity.dnsThreatDetectors.get",
-    "networksecurity.dnsThreatDetectors.list",
-    "networksecurity.dnsThreatDetectors.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/networksecurity.dnsThreatDetectorAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "DNS Threat Detector Admin"
 }

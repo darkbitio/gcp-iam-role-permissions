@@ -7,6 +7,6 @@
     "bigquery.datasets.link"
   ],
   "name": "roles/observability.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Observability Service Agent"
 }

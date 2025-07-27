@@ -32,7 +32,6 @@
     "compute.machineImages.create",
     "compute.machineImages.get",
     "compute.machineTypes.list",
-    "compute.networks.get",
     "compute.networks.use",
     "compute.networks.useExternalIp",
     "compute.subnetworks.use",
