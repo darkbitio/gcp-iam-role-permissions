@@ -2,6 +2,6 @@
   "description": "Grants admin-level access to Agent resources.",
   "etag": "AA==",
   "name": "roles/discoveryengine.agentAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Agent Admin"
 }
