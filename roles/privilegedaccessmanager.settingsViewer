@@ -1,0 +1,7 @@
+{
+  "description": "Readonly access to Privileged Access Manager Settings & Effective Settings.",
+  "etag": "AA==",
+  "name": "roles/privilegedaccessmanager.settingsViewer",
+  "stage": "ALPHA",
+  "title": "Privileged Access Manager Settings Viewer"
+}
