@@ -1,7 +1,11 @@
 {
   "description": "Readonly access to Privileged Access Manager Settings & Effective Settings.",
   "etag": "AA==",
+  "includedPermissions": [
+    "privilegedaccessmanager.settings.fetchEffective",
+    "privilegedaccessmanager.settings.get"
+  ],
   "name": "roles/privilegedaccessmanager.settingsViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Privileged Access Manager Settings Viewer"
 }
