@@ -7,6 +7,6 @@
     "iam.principalaccessboundarypolicies.searchPolicyBindings"
   ],
   "name": "roles/iam.principalAccessBoundaryViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Principal Access Boundary Policy Viewer"
 }

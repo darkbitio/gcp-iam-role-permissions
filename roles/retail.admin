@@ -27,8 +27,6 @@
     "automlrecommendations.recommendations.pause",
     "automlrecommendations.recommendations.resume",
     "automlrecommendations.recommendations.update",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
     "retail.alertConfigs.get",
     "retail.alertConfigs.update",
     "retail.attributesConfigs.addCatalogAttribute",
@@ -106,8 +104,7 @@
     "retail.userEvents.create",
     "retail.userEvents.import",
     "retail.userEvents.purge",
-    "retail.userEvents.rejoin",
-    "serviceusage.services.list"
+    "retail.userEvents.rejoin"
   ],
   "name": "roles/retail.admin",
   "stage": "GA",

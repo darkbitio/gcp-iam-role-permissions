@@ -2,12 +2,9 @@
   "description": "Administrator of Privileged Access Manager Settings.",
   "etag": "AA==",
   "includedPermissions": [
-    "privilegedaccessmanager.operations.get",
-    "privilegedaccessmanager.settings.fetchEffective",
-    "privilegedaccessmanager.settings.get",
-    "privilegedaccessmanager.settings.update"
+    "privilegedaccessmanager.operations.get"
   ],
   "name": "roles/privilegedaccessmanager.settingsAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Privileged Access Manager Settings Admin"
 }
