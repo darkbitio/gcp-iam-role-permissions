@@ -1,0 +1,17 @@
+{
+  "description": "Grants read access to see all DB System resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "oracledatabase.dbSystemShapes.list",
+    "oracledatabase.entitlements.list",
+    "oracledatabase.locations.get",
+    "oracledatabase.locations.list",
+    "oracledatabase.operations.get",
+    "oracledatabase.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/oracledatabase.dbSystemViewer",
+  "stage": "ALPHA",
+  "title": "Oracle Database@Google Cloud DB System Viewer"
+}
