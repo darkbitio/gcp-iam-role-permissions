@@ -1,7 +1,0 @@
-{
-  "description": "Read access to alerts.",
-  "etag": "AA==",
-  "name": "roles/monitoring.alertViewer",
-  "stage": "ALPHA",
-  "title": "Monitoring Alert Viewer"
-}

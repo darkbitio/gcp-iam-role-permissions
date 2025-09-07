@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "datalineage.events.get",
-    "datalineage.events.getFields",
     "datalineage.events.list",
     "datalineage.locations.searchLinks",
     "datalineage.processes.get",

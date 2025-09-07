@@ -1,7 +1,0 @@
-{
-  "description": "Readonly access to Managed Kafka ACL resources.",
-  "etag": "AA==",
-  "name": "roles/managedkafka.aclViewer",
-  "stage": "ALPHA",
-  "title": "Managed Kafka ACL Viewer"
-}
