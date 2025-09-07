@@ -1,11 +1,7 @@
 {
   "description": "Read access to alerts.",
   "etag": "AA==",
-  "includedPermissions": [
-    "monitoring.alerts.get",
-    "monitoring.alerts.list"
-  ],
   "name": "roles/monitoring.alertViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Monitoring Alert Viewer"
 }
