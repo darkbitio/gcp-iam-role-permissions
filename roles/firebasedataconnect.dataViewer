@@ -2,9 +2,7 @@
   "description": "Readonly access to data sources.",
   "etag": "AA==",
   "includedPermissions": [
-    "firebasedataconnect.connectors.impersonateQuery",
-    "firebasedataconnect.services.executeGraphqlRead",
-    "firebasedataconnect.services.introspectGraphql"
+    "firebasedataconnect.services.executeGraphqlRead"
   ],
   "name": "roles/firebasedataconnect.dataViewer",
   "stage": "BETA",

@@ -2,11 +2,8 @@
   "description": "Full access to data sources.",
   "etag": "AA==",
   "includedPermissions": [
-    "firebasedataconnect.connectors.impersonateMutation",
-    "firebasedataconnect.connectors.impersonateQuery",
     "firebasedataconnect.services.executeGraphql",
-    "firebasedataconnect.services.executeGraphqlRead",
-    "firebasedataconnect.services.introspectGraphql"
+    "firebasedataconnect.services.executeGraphqlRead"
   ],
   "name": "roles/firebasedataconnect.dataAdmin",
   "stage": "BETA",

@@ -1,5 +1,5 @@
 {
-  "description": "Read only access to metadata within table and fileset entities and partitions.",
+  "description": "Read only access to metadata.",
   "etag": "AA==",
   "includedPermissions": [
     "dataplex.assets.get",
