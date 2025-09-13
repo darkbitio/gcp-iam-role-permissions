@@ -1,5 +1,5 @@
 {
-  "description": "Read access to Dataplex Universal Catalog resources, except for catalog resources like entries, entry groups, and glossaries.",
+  "description": "Read access to Dataplex resources.",
   "etag": "AA==",
   "includedPermissions": [
     "cloudasset.assets.analyzeIamPolicy",
