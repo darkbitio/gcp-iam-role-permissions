@@ -1,0 +1,11 @@
+{
+  "description": "Grants read-write access to Collections.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/vectorsearch.collectionWriter",
+  "stage": "ALPHA",
+  "title": "Vector Search Collection Writer"
+}

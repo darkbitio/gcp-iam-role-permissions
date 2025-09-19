@@ -1,0 +1,22 @@
+{
+  "description": "Grants read-write access to DataObjects and read access to parent Collections.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "vectorsearch.collections.get",
+    "vectorsearch.collections.list",
+    "vectorsearch.dataObjects.create",
+    "vectorsearch.dataObjects.delete",
+    "vectorsearch.dataObjects.get",
+    "vectorsearch.dataObjects.import",
+    "vectorsearch.dataObjects.query",
+    "vectorsearch.dataObjects.search",
+    "vectorsearch.dataObjects.update",
+    "vectorsearch.locations.get",
+    "vectorsearch.locations.list"
+  ],
+  "name": "roles/vectorsearch.dataObjectWriter",
+  "stage": "GA",
+  "title": "Vector Search DataObject Writer"
+}
