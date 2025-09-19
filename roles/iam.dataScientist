@@ -956,8 +956,7 @@
     "storage.objects.restore",
     "storage.objects.setIamPolicy",
     "storage.objects.setRetention",
-    "storage.objects.update",
-    "telemetry.metrics.write"
+    "storage.objects.update"
   ],
   "name": "roles/iam.dataScientist",
   "stage": "GA",

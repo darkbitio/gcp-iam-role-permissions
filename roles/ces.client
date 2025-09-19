@@ -1,7 +1,0 @@
-{
-  "description": "Query access to Customer Engagement Suite agents.",
-  "etag": "AA==",
-  "name": "roles/ces.client",
-  "stage": "ALPHA",
-  "title": "Customer Engagement Suite Client"
-}
