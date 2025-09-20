@@ -17,6 +17,6 @@
     "cloudaicompanion.topics.create"
   ],
   "name": "roles/cloudaicompanion.individualUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Gemini for Google Cloud individual User"
 }
