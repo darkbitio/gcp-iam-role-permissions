@@ -3,21 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "vectorsearch.collections.get",
-    "vectorsearch.collections.list",
-    "vectorsearch.indexes.create",
-    "vectorsearch.indexes.delete",
-    "vectorsearch.indexes.get",
-    "vectorsearch.indexes.list",
-    "vectorsearch.locations.get",
-    "vectorsearch.locations.list",
-    "vectorsearch.operations.cancel",
-    "vectorsearch.operations.delete",
-    "vectorsearch.operations.get",
-    "vectorsearch.operations.list"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/vectorsearch.indexWriter",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Vector Search Index Writer"
 }
