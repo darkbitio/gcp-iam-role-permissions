@@ -14,5 +14,5 @@
   ],
   "name": "roles/alloydb.databaseUser",
   "stage": "BETA",
-  "title": "AlloyDB Database User"
+  "title": "Cloud AlloyDB Database User"
 }
