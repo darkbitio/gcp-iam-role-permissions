@@ -1,0 +1,11 @@
+{
+  "description": "Provides access to see and configure Earth subscriptions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/earth.subscriptionsAdmin",
+  "stage": "ALPHA",
+  "title": "Earth Subscriptions Administrator"
+}

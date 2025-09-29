@@ -2440,8 +2440,6 @@
     "gkehub.scopes.getIamPolicy",
     "gkehub.scopes.list",
     "gkemulticloud.attachedClusters.list",
-    "gkemulticloud.attachedClusters.listEffectiveTags",
-    "gkemulticloud.attachedClusters.listTagBindings",
     "gkemulticloud.awsClusters.list",
     "gkemulticloud.awsNodePools.list",
     "gkemulticloud.azureClients.list",

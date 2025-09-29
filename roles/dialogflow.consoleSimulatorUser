@@ -14,8 +14,6 @@
     "dialogflow.conversations.update",
     "dialogflow.documents.get",
     "dialogflow.documents.list",
-    "dialogflow.interactionMonitoringAlerts.ack",
-    "dialogflow.interactionMonitoringAlerts.get",
     "dialogflow.knowledgeBases.get",
     "dialogflow.knowledgeBases.list",
     "dialogflow.participants.analyzeContent",

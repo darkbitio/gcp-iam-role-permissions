@@ -1,0 +1,11 @@
+{
+  "description": "Provides read-only access to Earth subscriptions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/earth.subscriptionsViewer",
+  "stage": "ALPHA",
+  "title": "Earth Subscriptions Viewer"
+}

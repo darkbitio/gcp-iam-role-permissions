@@ -244,6 +244,7 @@
     "compute.licenseCodes.get",
     "compute.licenseCodes.getIamPolicy",
     "compute.licenseCodes.list",
+    "compute.licenseCodes.update",
     "compute.licenses.create",
     "compute.licenses.delete",
     "compute.licenses.get",
