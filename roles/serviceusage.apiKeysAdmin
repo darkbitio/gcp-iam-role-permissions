@@ -12,8 +12,7 @@
     "apikeys.keys.update",
     "orgpolicy.policy.get",
     "serviceusage.apiKeys.regenerate",
-    "serviceusage.apiKeys.revert",
-    "serviceusage.operations.get"
+    "serviceusage.apiKeys.revert"
   ],
   "name": "roles/serviceusage.apiKeysAdmin",
   "stage": "GA",
