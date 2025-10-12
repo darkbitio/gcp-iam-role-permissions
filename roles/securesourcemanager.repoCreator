@@ -7,6 +7,6 @@
     "securesourcemanager.repositories.create"
   ],
   "name": "roles/securesourcemanager.repoCreator",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Secure Source Manager Repository Creator"
 }

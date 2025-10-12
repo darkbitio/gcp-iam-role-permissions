@@ -45,6 +45,6 @@
     "securesourcemanager.repositories.writePullRequests"
   ],
   "name": "roles/securesourcemanager.repoWriter",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Secure Source Manager Repository Writer"
 }
