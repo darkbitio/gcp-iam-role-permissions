@@ -6,17 +6,9 @@
     "cloudkms.keyRings.create",
     "orgpolicy.policies.list",
     "orgpolicy.policy.get",
-    "serviceusage.consumerpolicy.analyze",
-    "serviceusage.consumerpolicy.get",
-    "serviceusage.consumerpolicy.update",
-    "serviceusage.effectivepolicy.get",
-    "serviceusage.groups.list",
-    "serviceusage.groups.listExpandedMembers",
-    "serviceusage.groups.listMembers",
     "serviceusage.services.enable",
     "serviceusage.services.get",
-    "serviceusage.services.use",
-    "serviceusage.values.test"
+    "serviceusage.services.use"
   ],
   "name": "roles/assuredworkloads.serviceAgent",
   "stage": "GA",

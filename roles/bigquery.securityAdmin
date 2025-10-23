@@ -2,7 +2,6 @@
   "description": "Administer all BigQuery security controls",
   "etag": "AA==",
   "includedPermissions": [
-    "bigquery.dataPolicies.attach",
     "bigquery.dataPolicies.create",
     "bigquery.dataPolicies.delete",
     "bigquery.dataPolicies.get",
