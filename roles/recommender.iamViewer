@@ -14,9 +14,7 @@
     "recommender.locations.get",
     "recommender.locations.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "securitycenter.findings.group",
-    "securitycenter.userinterfacemetadata.get"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.iamViewer",
   "stage": "GA",
