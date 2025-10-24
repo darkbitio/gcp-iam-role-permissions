@@ -34,7 +34,6 @@
     "monitoring.monitoredResourceDescriptors.get",
     "monitoring.monitoredResourceDescriptors.list",
     "monitoring.timeSeries.create",
-    "resourcemanager.projects.get",
     "serviceusage.services.use",
     "storage.buckets.get",
     "storage.buckets.list",
