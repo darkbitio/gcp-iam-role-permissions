@@ -2,7 +2,6 @@
   "description": "User role of using colab enterprise.",
   "etag": "AA==",
   "includedPermissions": [
-    "aiplatform.locations.get",
     "aiplatform.notebookExecutionJobs.create",
     "aiplatform.notebookExecutionJobs.delete",
     "aiplatform.notebookExecutionJobs.get",
