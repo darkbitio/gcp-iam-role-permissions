@@ -66,6 +66,6 @@
     "recommender.usageCommitmentRecommendations.list"
   ],
   "name": "roles/billing.linkAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Account Hierarchy Manager"
 }
