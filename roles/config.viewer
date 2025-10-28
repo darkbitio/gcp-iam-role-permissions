@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/config.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Infrastructure Manager Viewer"
 }
