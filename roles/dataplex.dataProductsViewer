@@ -1,0 +1,11 @@
+{
+  "description": "Read access to Data Products.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataplex.dataProductsViewer",
+  "stage": "ALPHA",
+  "title": "Dataplex Data Products Viewer"
+}
