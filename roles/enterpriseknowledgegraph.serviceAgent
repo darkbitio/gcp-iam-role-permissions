@@ -14,7 +14,6 @@
     "bigquery.tables.list",
     "bigquery.tables.update",
     "bigquery.tables.updateData",
-    "dataform.folders.create",
     "dataform.locations.get",
     "dataform.locations.list",
     "dataform.repositories.create",
