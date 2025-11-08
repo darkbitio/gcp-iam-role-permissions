@@ -4,7 +4,6 @@
   "includedPermissions": [
     "monitoring.timeSeries.create",
     "spanner.databases.beginReadOnlyTransaction",
-    "spanner.databases.get",
     "spanner.databases.getDdl",
     "spanner.databases.partitionQuery",
     "spanner.databases.partitionRead",

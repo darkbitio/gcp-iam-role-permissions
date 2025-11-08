@@ -1,0 +1,7 @@
+{
+  "description": "Access Policies user role, with permissions to view access policies, and to bind and unbind access policies to targets",
+  "etag": "AA==",
+  "name": "roles/iam.accessPolicyUser",
+  "stage": "ALPHA",
+  "title": "Access Policy User"
+}
