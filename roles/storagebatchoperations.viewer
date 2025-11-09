@@ -1,0 +1,17 @@
+{
+  "description": "Readonly access to Storage Batch Operations resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storagebatchoperations.jobs.get",
+    "storagebatchoperations.jobs.list",
+    "storagebatchoperations.locations.get",
+    "storagebatchoperations.locations.list",
+    "storagebatchoperations.operations.get",
+    "storagebatchoperations.operations.list"
+  ],
+  "name": "roles/storagebatchoperations.viewer",
+  "stage": "GA",
+  "title": "Storage Batch Operations Viewer"
+}

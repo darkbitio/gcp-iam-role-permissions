@@ -16,6 +16,6 @@
     "bigquery.tables.updateData"
   ],
   "name": "roles/bigquery.routineDataEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "BigQuery Authorized Routine Data Editor"
 }

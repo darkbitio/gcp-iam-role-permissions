@@ -14,10 +14,15 @@
     "compute.rollouts.delete",
     "compute.rollouts.get",
     "compute.rollouts.list",
+    "compute.vmExtensionPolicies.create",
+    "compute.vmExtensionPolicies.delete",
+    "compute.vmExtensionPolicies.get",
+    "compute.vmExtensionPolicies.list",
+    "compute.vmExtensionPolicies.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/compute.vmExtensionPolicyAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Compute VM extension policy admin"
 }
