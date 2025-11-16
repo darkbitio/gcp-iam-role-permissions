@@ -1,0 +1,7 @@
+{
+  "description": "Grants read and write access to connections through the HTTP Proxy.",
+  "etag": "AA==",
+  "name": "roles/developerconnect.connectionHttpProxyWriter",
+  "stage": "ALPHA",
+  "title": "Developer Connect HTTP Proxy Writer"
+}
