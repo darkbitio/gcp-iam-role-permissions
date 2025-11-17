@@ -3,8 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "developerconnect.connections.get",
-    "developerconnect.connections.httpProxyRead",
-    "developerconnect.connections.httpProxyWrite",
     "developerconnect.gitRepositoryLinks.get"
   ],
   "name": "roles/geminicodeassistmanagement.serviceAgent",

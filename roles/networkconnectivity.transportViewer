@@ -1,0 +1,15 @@
+{
+  "description": "Enables view access to Transport resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "networkconnectivity.locations.get",
+    "networkconnectivity.locations.list",
+    "networkconnectivity.operations.get",
+    "networkconnectivity.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/networkconnectivity.transportViewer",
+  "stage": "ALPHA",
+  "title": "Transport Viewer"
+}
