@@ -98,7 +98,6 @@
     "databasesconsole.studioQueries.list",
     "databasesconsole.studioQueries.search",
     "databasesconsole.studioQueries.update",
-    "monitoring.timeSeries.list",
     "recommender.cloudsqlIdleInstanceRecommendations.get",
     "recommender.cloudsqlIdleInstanceRecommendations.list",
     "recommender.cloudsqlIdleInstanceRecommendations.update",

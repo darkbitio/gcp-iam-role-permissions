@@ -37,7 +37,6 @@
     "apigateway.operations.delete",
     "apigateway.operations.get",
     "apigateway.operations.list",
-    "apihub.runTimeProjectAttachments.list",
     "monitoring.metricDescriptors.list",
     "monitoring.monitoredResourceDescriptors.get",
     "monitoring.timeSeries.list",

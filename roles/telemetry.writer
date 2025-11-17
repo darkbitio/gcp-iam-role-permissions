@@ -2,7 +2,6 @@
   "description": "Full access to write all telemetry data.",
   "etag": "AA==",
   "includedPermissions": [
-    "telemetry.logs.write",
     "telemetry.metrics.write",
     "telemetry.traces.write"
   ],
