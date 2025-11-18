@@ -6,6 +6,6 @@
     "file.instances.get"
   ],
   "name": "roles/backupdr.filestoreOperator",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Backup and DR Filestore Operator"
 }
