@@ -1,0 +1,10 @@
+{
+  "description": "Grants ability to create SingleTenantHsmInstances and SingleTenantHsmInstanceProposals.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudkms.operations.get"
+  ],
+  "name": "roles/cloudkms.hsmSingleTenantProposer",
+  "stage": "ALPHA",
+  "title": "Cloud KMS single-tenant HSM Proposer"
+}

@@ -6,6 +6,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/beyondcorp.clientConnectorViewer",
-  "stage": "BETA",
+  "stage": "DEPRECATED",
   "title": "Cloud BeyondCorp Client Connector Viewer"
 }
