@@ -21,10 +21,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
     "securitycenter.findings.group",
-    "securitycenter.userinterfacemetadata.get",
-    "securitycentermanagement.securityCommandCenter.activate",
-    "securitycentermanagement.securityCommandCenter.checkActivationOperation",
-    "securitycentermanagement.securityCommandCenter.checkEligibility"
+    "securitycenter.userinterfacemetadata.get"
   ],
   "name": "roles/recommender.iamAdmin",
   "stage": "GA",

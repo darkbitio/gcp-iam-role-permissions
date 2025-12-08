@@ -1,7 +1,0 @@
-{
-  "description": "Access Client Connector Service",
-  "etag": "AA==",
-  "name": "roles/beyondcorp.clientConnectorServiceUser",
-  "stage": "DEPRECATED",
-  "title": "Cloud BeyondCorp Client Connector Service User"
-}
