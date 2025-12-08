@@ -13,6 +13,6 @@
     "discoveryengine.users.update"
   ],
   "name": "roles/discoveryengine.agentspaceRestrictedUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Gemini Enterprise Restricted User"
 }
