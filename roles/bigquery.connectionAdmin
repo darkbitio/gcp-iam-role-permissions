@@ -1,5 +1,4 @@
 {
-  "description": "Grants full control over BigQuery connections.",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.connections.create",
