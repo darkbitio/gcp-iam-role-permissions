@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.endpoints.predict",
-    "aiplatform.locations.evaluateInstances",
     "aiplatform.memories.create",
     "aiplatform.memories.delete",
     "aiplatform.memories.generate",
