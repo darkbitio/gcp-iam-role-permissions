@@ -18,8 +18,6 @@
     "artifactregistry.repositories.deleteArtifacts",
     "artifactregistry.repositories.downloadArtifacts",
     "artifactregistry.repositories.uploadArtifacts",
-    "recommender.locations.get",
-    "recommender.locations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
