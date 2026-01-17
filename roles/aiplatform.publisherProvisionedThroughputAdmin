@@ -1,7 +1,0 @@
-{
-  "description": "Grants Publisher access to use all resources related to Vertex AI Provisioned Throughput Orders",
-  "etag": "AA==",
-  "name": "roles/aiplatform.publisherProvisionedThroughputAdmin",
-  "stage": "ALPHA",
-  "title": "Vertex AI Platform Publisher Provisioned Throughput Admin"
-}
