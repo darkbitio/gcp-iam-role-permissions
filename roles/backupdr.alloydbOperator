@@ -5,6 +5,6 @@
     "alloydb.operations.get"
   ],
   "name": "roles/backupdr.alloydbOperator",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Backup and DR AlloyDB Operator"
 }

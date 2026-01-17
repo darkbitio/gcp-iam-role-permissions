@@ -6,6 +6,6 @@
     "cloudsql.instances.get"
   ],
   "name": "roles/backupdr.cloudSqlOperator",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Backup and DR Cloud SQL Operator"
 }
