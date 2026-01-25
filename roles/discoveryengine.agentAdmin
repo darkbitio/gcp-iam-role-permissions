@@ -5,10 +5,7 @@
     "discoveryengine.agents.create",
     "discoveryengine.agents.delete",
     "discoveryengine.agents.get",
-    "discoveryengine.agents.getIamPolicy",
     "discoveryengine.agents.list",
-    "discoveryengine.agents.manage",
-    "discoveryengine.agents.setIamPolicy",
     "discoveryengine.agents.update"
   ],
   "name": "roles/discoveryengine.agentAdmin",
