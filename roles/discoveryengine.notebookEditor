@@ -9,7 +9,6 @@
     "discoveryengine.audioOverviews.sendSdpOffer",
     "discoveryengine.notebooks.generateGuide",
     "discoveryengine.notebooks.get",
-    "discoveryengine.notebooks.getAnalytics",
     "discoveryengine.notebooks.getIamPolicy",
     "discoveryengine.notebooks.interactSources",
     "discoveryengine.notebooks.list",
