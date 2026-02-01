@@ -2,19 +2,6 @@
   "description": "Grants user-level access to Gemini Enterprise resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "cloudaicompanion.companions.generateChat",
-    "cloudaicompanion.companions.generateCode",
-    "cloudaicompanion.entitlements.get",
-    "cloudaicompanion.instances.completeCode",
-    "cloudaicompanion.instances.completeTask",
-    "cloudaicompanion.instances.exportMetrics",
-    "cloudaicompanion.instances.generateCode",
-    "cloudaicompanion.instances.generateText",
-    "cloudaicompanion.instances.queryEffectiveSetting",
-    "cloudaicompanion.instances.queryEffectiveSettingBindings",
-    "cloudaicompanion.licenses.selfAssign",
-    "cloudaicompanion.operations.get",
-    "cloudaicompanion.topics.create",
     "discoveryengine.accounts.create",
     "discoveryengine.agents.create",
     "discoveryengine.agents.delete",
@@ -63,6 +50,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/discoveryengine.agentspaceUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Enterprise User"
 }

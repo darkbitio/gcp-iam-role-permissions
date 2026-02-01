@@ -5,7 +5,6 @@
     "cloudaicompanion.entitlements.get",
     "databasecenter.databaseGroups.list",
     "databasecenter.fleetHealthStats.list",
-    "databasecenter.fleetInsights.list",
     "databasecenter.fleetStats.list",
     "databasecenter.locations.list",
     "databasecenter.products.list",

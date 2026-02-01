@@ -12,7 +12,6 @@
     "apphub.serviceProjectAttachments.list",
     "cloudbuild.builds.get",
     "cloudbuild.builds.list",
-    "config.automigrationconfig.get",
     "config.deployments.get",
     "config.deployments.getIamPolicy",
     "config.deployments.list",
