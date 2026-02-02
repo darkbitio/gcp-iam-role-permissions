@@ -120,6 +120,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ces.appEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Gemini Enterprise for Customer Experience App Editor"
 }

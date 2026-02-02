@@ -123,6 +123,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ces.evalsEditor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Gemini Enterprise for Customer Experience Evals Editor"
 }
