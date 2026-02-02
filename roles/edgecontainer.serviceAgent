@@ -23,8 +23,6 @@
     "compute.vpnTunnels.create",
     "compute.vpnTunnels.delete",
     "compute.vpnTunnels.get",
-    "gkehub.features.create",
-    "gkehub.features.update",
     "gkehub.memberships.create",
     "gkehub.memberships.delete",
     "gkehub.memberships.generateConnectManifest",
