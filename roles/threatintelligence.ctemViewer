@@ -1,0 +1,11 @@
+{
+  "description": "This role can view all resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/threatintelligence.ctemViewer",
+  "stage": "ALPHA",
+  "title": "CTEM Viewer"
+}
