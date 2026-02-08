@@ -11,8 +11,7 @@
     "dataprocrm.nodePools.get",
     "dataprocrm.nodePools.list",
     "dataprocrm.nodePools.resize",
-    "dataprocrm.nodes.list",
-    "dataprocrm.operations.get"
+    "dataprocrm.nodes.list"
   ],
   "name": "roles/dataproc.serverlessNode",
   "stage": "GA",
