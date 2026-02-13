@@ -20,10 +20,8 @@
     "looker.operations.delete",
     "looker.operations.get",
     "looker.operations.list",
-    "monitoring.timeSeries.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "serviceusage.quotas.get"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/looker.admin",
   "stage": "GA",
