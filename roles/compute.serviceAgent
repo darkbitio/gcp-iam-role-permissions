@@ -53,7 +53,6 @@
     "compute.regionBackendServices.use",
     "compute.regionOperations.get",
     "compute.resourcePolicies.use",
-    "compute.snapshots.listEffectiveTags",
     "compute.snapshots.useReadOnly",
     "compute.subnetworks.use",
     "compute.subnetworks.useExternalIp",

@@ -37,6 +37,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudsecuritycompliance.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compliance Manager Viewer"
 }
