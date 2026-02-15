@@ -57,6 +57,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudsecuritycompliance.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compliance Manager Admin"
 }
