@@ -235,6 +235,6 @@
     "storage.objects.update"
   ],
   "name": "roles/hypercomputecluster.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cluster Director Service Agent"
 }
