@@ -3,14 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "oracledatabase.entitlements.list",
-    "oracledatabase.goldenGateDeploymentTypes.list",
-    "oracledatabase.goldenGateDeploymentVersions.list",
-    "oracledatabase.goldenGateDeployments.create",
-    "oracledatabase.goldenGateDeployments.delete",
-    "oracledatabase.goldenGateDeployments.get",
-    "oracledatabase.goldenGateDeployments.list",
-    "oracledatabase.goldenGateDeployments.start",
-    "oracledatabase.goldenGateDeployments.stop",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
     "oracledatabase.odbSubnets.get",
@@ -22,6 +14,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/oracledatabase.goldenGateDeploymentAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Oracle Database@Google Cloud GoldenGate Deployment Admin"
 }

@@ -3,6 +3,11 @@
   "etag": "AA==",
   "includedPermissions": [
     "oracledatabase.entitlements.list",
+    "oracledatabase.goldenGateConnectionTypes.list",
+    "oracledatabase.goldenGateConnections.create",
+    "oracledatabase.goldenGateConnections.delete",
+    "oracledatabase.goldenGateConnections.get",
+    "oracledatabase.goldenGateConnections.list",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
     "oracledatabase.odbSubnets.get",
@@ -14,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/oracledatabase.goldenGateConnectionAdmin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Oracle Database@Google Cloud GoldenGate Connection Admin"
 }
