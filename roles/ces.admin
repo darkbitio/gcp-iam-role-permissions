@@ -265,6 +265,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ces.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Enterprise for Customer Experience Admin"
 }
