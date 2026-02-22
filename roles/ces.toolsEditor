@@ -121,6 +121,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ces.toolsEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Enterprise for Customer Experience Tools Editor"
 }

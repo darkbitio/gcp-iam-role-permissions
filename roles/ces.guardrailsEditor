@@ -118,6 +118,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ces.guardrailsEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Enterprise for Customer Experience Guardrails Editor"
 }
