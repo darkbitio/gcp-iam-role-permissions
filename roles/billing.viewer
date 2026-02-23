@@ -31,7 +31,6 @@
     "billing.resourceAssociations.list",
     "billing.subscriptions.get",
     "billing.subscriptions.list",
-    "chroniclesm.contracts.get",
     "commerceoffercatalog.agreements.get",
     "commerceoffercatalog.agreements.list",
     "commerceoffercatalog.documents.get",
