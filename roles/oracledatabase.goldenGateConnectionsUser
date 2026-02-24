@@ -2,6 +2,9 @@
   "description": "Grants use access to GoldenGate Connections resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "oracledatabase.goldenGateConnections.get",
+    "oracledatabase.goldenGateConnections.list",
+    "oracledatabase.goldenGateConnections.use",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
     "oracledatabase.operations.get",
@@ -10,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/oracledatabase.goldenGateConnectionsUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Oracle Database@Google GoldenGate Connections User"
 }
