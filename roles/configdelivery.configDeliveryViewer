@@ -14,12 +14,10 @@
     "configdelivery.resourceBundles.list",
     "configdelivery.rollouts.get",
     "configdelivery.rollouts.list",
-    "configdelivery.variants.get",
-    "configdelivery.variants.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/configdelivery.configDeliveryViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "ConfigDelivery Viewer"
 }

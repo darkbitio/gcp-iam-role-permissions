@@ -584,8 +584,7 @@
     "recommender.locations.get",
     "recommender.locations.list",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "serviceusage.services.use"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/geminicloudassist.investigationEditor",
   "stage": "BETA",
