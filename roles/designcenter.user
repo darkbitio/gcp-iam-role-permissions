@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "apphub.serviceProjectAttachments.list",
-    "container.clusters.list",
     "designcenter.applicationTemplateRevisions.delete",
     "designcenter.applicationTemplateRevisions.get",
     "designcenter.applicationTemplateRevisions.list",
@@ -72,6 +71,6 @@
     "storage.objects.updateContext"
   ],
   "name": "roles/designcenter.user",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Application Design Center User"
 }

@@ -28,15 +28,10 @@
     "configdelivery.rollouts.list",
     "configdelivery.rollouts.resume",
     "configdelivery.rollouts.suspend",
-    "configdelivery.variants.create",
-    "configdelivery.variants.delete",
-    "configdelivery.variants.get",
-    "configdelivery.variants.list",
-    "configdelivery.variants.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/configdelivery.configDeliveryAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "ConfigDelivery Admin"
 }
