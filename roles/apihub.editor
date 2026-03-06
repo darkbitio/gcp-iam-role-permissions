@@ -85,6 +85,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apihub.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud API Hub Editor"
 }

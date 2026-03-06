@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apihub.addonsAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud API hub Addons Admin"
 }

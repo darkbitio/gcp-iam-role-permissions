@@ -8,7 +8,6 @@
     "edgecontainer.operations.delete",
     "edgecontainer.operations.get",
     "edgecontainer.operations.list",
-    "edgecontainer.zonalservices.disable",
     "edgecontainer.zonalservices.enable",
     "edgecontainer.zonalservices.get",
     "edgecontainer.zonalservices.list"
