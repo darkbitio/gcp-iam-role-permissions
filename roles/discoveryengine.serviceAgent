@@ -44,7 +44,6 @@
     "cloudsql.databases.get",
     "cloudsql.instances.export",
     "cloudsql.instances.get",
-    "consumerprocurement.entitlements.list",
     "datastore.databases.export",
     "datastore.databases.get",
     "datastore.databases.getMetadata",

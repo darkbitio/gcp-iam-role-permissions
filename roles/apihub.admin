@@ -126,6 +126,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apihub.admin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud API Hub Admin"
 }
