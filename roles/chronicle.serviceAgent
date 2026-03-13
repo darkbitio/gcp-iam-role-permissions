@@ -59,7 +59,6 @@
     "chronicle.rules.get",
     "logging.logEntries.create",
     "logging.logEntries.route",
-    "mcp.tools.call",
     "monitoring.alertPolicies.create",
     "monitoring.alertPolicies.delete",
     "monitoring.alertPolicies.get",

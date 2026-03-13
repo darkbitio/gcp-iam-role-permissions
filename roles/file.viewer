@@ -10,7 +10,6 @@
     "file.backups.list",
     "file.backups.listEffectiveTags",
     "file.backups.listTagBindings",
-    "file.backups.useReadOnly",
     "file.instances.get",
     "file.instances.list",
     "file.instances.listEffectiveTags",
