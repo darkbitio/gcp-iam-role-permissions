@@ -1,0 +1,12 @@
+{
+  "description": "Read-only access to Cloud Network Insights resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/networkmanagement.CloudNetworkInsightsViewer",
+  "stage": "ALPHA",
+  "title": "Cloud Network Insights Viewer"
+}
