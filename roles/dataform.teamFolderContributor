@@ -63,6 +63,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataform.teamFolderContributor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Team Folder Contributor"
 }

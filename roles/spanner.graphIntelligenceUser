@@ -9,6 +9,7 @@
     "spanner.databases.partitionQuery",
     "spanner.databases.partitionRead",
     "spanner.databases.read",
+    "spanner.databases.runGraphAlgorithms",
     "spanner.databases.select",
     "spanner.databases.useDataBoost",
     "spanner.instancePartitions.get",
@@ -19,6 +20,6 @@
     "spanner.sessions.list"
   ],
   "name": "roles/spanner.graphIntelligenceUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Spanner Database Graph Intelligence features user"
 }
