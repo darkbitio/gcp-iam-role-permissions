@@ -1,0 +1,7 @@
+{
+  "description": "Viewer role for Database Insights intelligence data",
+  "etag": "AA==",
+  "name": "roles/databaseinsights.intelligenceViewer",
+  "stage": "ALPHA",
+  "title": "Database Insights intelligence viewer"
+}

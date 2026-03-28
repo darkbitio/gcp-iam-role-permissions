@@ -1,0 +1,7 @@
+{
+  "description": "Viewer role for Database Insights virtual Dbx data",
+  "etag": "AA==",
+  "name": "roles/databaseinsights.virtualDbxViewer",
+  "stage": "ALPHA",
+  "title": "Database Insights virtual Dbx viewer"
+}
