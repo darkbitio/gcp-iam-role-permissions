@@ -5,6 +5,6 @@
     "dns.networks.targetWithPeeringZone"
   ],
   "name": "roles/agentgateway.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Agent Gateway Service Agent"
 }
