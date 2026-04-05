@@ -68,6 +68,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dlp.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "DLP Editor"
 }

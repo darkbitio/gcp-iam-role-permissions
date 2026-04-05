@@ -49,6 +49,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkservices.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Network Services Viewer"
 }

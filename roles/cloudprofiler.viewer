@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprofiler.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloudprofiler Viewer"
 }

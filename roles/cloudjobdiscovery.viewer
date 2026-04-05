@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudjobdiscovery.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Cloudjobdiscovery Viewer"
 }

@@ -156,6 +156,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networksecurity.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Networksecurity Editor"
 }

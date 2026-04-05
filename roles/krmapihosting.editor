@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/krmapihosting.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Krmapihosting Editor"
 }

@@ -18,6 +18,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/ids.editor",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Ids Editor"
 }

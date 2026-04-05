@@ -2,7 +2,6 @@
   "description": "Grants full access to all Model Armor Floor Setting resources. Intended for administrators & owners.",
   "etag": "AA==",
   "includedPermissions": [
-    "modelarmor.floorSettings.computeEffectiveFloorSetting",
     "modelarmor.floorSettings.get",
     "modelarmor.floorSettings.update",
     "modelarmor.locations.get",

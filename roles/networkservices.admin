@@ -111,6 +111,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkservices.admin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Network Services Admin"
 }

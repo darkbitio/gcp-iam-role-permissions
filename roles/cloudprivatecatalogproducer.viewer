@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Cloudprivatecatalogproducer Viewer"
 }

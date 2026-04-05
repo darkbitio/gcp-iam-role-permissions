@@ -9,6 +9,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mapsanalytics.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Mapsanalytics Admin"
 }

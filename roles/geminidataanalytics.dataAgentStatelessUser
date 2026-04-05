@@ -2,10 +2,9 @@
   "description": "Stateless access to Gemini Data Analytics chat.",
   "etag": "AA==",
   "includedPermissions": [
-    "geminidataanalytics.locations.suggestContext",
     "geminidataanalytics.locations.useDataEngineeringAgent"
   ],
   "name": "roles/geminidataanalytics.dataAgentStatelessUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Data Analytics Stateless Chat User"
 }

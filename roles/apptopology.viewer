@@ -3,16 +3,10 @@
   "etag": "AA==",
   "includedPermissions": [
     "apptopology.applicationTopologies.generate",
-    "apptopology.discoveredResourcesTopologies.generate",
-    "apptopology.domains.get",
-    "apptopology.domains.list",
     "apptopology.locations.get",
     "apptopology.locations.list",
     "apptopology.operations.get",
     "apptopology.operations.list",
-    "apptopology.schemas.get",
-    "apptopology.topologyViews.get",
-    "apptopology.topologyViews.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

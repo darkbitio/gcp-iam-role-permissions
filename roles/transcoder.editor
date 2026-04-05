@@ -18,6 +18,6 @@
     "transcoder.jobs.listTagBindings"
   ],
   "name": "roles/transcoder.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Transcoder Editor"
 }

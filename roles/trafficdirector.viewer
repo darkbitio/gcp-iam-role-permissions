@@ -7,6 +7,6 @@
     "trafficdirector.networks.getConfigs"
   ],
   "name": "roles/trafficdirector.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Trafficdirector Viewer"
 }

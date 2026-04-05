@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/earth.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Earth Viewer"
 }
