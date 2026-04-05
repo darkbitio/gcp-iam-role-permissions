@@ -7,6 +7,6 @@
     "subscribewithgoogledeveloper.tools.get"
   ],
   "name": "roles/subscribewithgoogledeveloper.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Subscribewithgoogledeveloper Admin"
 }

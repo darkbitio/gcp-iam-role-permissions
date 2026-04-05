@@ -110,6 +110,6 @@
     "vmwareengine.vmwareEngineNetworks.update"
   ],
   "name": "roles/vmwareengine.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Vmwareengine Editor"
 }

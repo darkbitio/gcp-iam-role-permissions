@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataprocessing.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Dataprocessing Editor"
 }

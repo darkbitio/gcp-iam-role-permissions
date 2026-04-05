@@ -10,6 +10,6 @@
     "stackdriver.resourceMetadata.write"
   ],
   "name": "roles/stackdriver.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Stackdriver Admin"
 }

@@ -9,6 +9,6 @@
     "telemetry.traces.write"
   ],
   "name": "roles/telemetry.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Telemetry Editor"
 }

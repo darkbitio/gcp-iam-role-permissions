@@ -17,6 +17,6 @@
     "serviceusage.values.test"
   ],
   "name": "roles/dataprep.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataprep Admin"
 }

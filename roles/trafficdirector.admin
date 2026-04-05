@@ -8,6 +8,6 @@
     "trafficdirector.networks.reportMetrics"
   ],
   "name": "roles/trafficdirector.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Trafficdirector Admin"
 }

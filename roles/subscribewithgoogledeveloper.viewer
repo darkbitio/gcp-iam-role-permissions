@@ -7,6 +7,6 @@
     "subscribewithgoogledeveloper.tools.get"
   ],
   "name": "roles/subscribewithgoogledeveloper.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Subscribewithgoogledeveloper Viewer"
 }

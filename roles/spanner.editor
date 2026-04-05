@@ -85,6 +85,6 @@
     "spanner.sessions.list"
   ],
   "name": "roles/spanner.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Spanner Editor"
 }

@@ -23,6 +23,6 @@
     "storage.intelligenceConfigs.get"
   ],
   "name": "roles/storage.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Storage Editor"
 }

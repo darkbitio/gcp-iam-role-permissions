@@ -14,6 +14,6 @@
     "telemetry.traces.write"
   ],
   "name": "roles/telemetry.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Telemetry Admin"
 }
