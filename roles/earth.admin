@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/earth.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Earth Admin"
 }

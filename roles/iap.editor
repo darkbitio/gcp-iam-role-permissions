@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/iap.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Iap Editor"
 }

@@ -51,6 +51,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Integrations Viewer"
 }

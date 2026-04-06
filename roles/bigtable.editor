@@ -85,6 +85,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/bigtable.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Bigtable Editor"
 }

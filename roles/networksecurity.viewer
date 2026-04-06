@@ -65,6 +65,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networksecurity.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Networksecurity Viewer"
 }

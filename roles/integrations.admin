@@ -113,6 +113,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/integrations.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Integrations Admin"
 }

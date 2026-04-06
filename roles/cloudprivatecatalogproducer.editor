@@ -39,6 +39,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudprivatecatalogproducer.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloudprivatecatalogproducer Editor"
 }

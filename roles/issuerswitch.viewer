@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/issuerswitch.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Issuerswitch Viewer"
 }

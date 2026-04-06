@@ -7,6 +7,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mcp.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "MCP Admin"
 }

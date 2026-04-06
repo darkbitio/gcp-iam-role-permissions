@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataconnectors.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataconnectors Editor"
 }

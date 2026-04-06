@@ -65,6 +65,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/iam.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Iam Editor"
 }

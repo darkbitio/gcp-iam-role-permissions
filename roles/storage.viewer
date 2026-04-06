@@ -15,6 +15,6 @@
     "storage.intelligenceConfigs.get"
   ],
   "name": "roles/storage.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Storage Viewer"
 }
