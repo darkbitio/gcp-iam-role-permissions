@@ -1,0 +1,7 @@
+{
+  "description": "Read-only access to Health resources.",
+  "etag": "AA==",
+  "name": "roles/health.viewer",
+  "stage": "ALPHA",
+  "title": "Health Viewer"
+}
