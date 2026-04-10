@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud BeyondCorp",
+  "description": "Editor role for beyondcorp",
   "etag": "AA==",
   "includedPermissions": [
     "beyondcorp.appConnections.create",
@@ -56,5 +56,5 @@
   ],
   "name": "roles/beyondcorp.editor",
   "stage": "BETA",
-  "title": "Cloud BeyondCorp Editor"
+  "title": "Beyondcorp Editor"
 }

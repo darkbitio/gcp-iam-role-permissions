@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebaseapphosting.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Firebase App Hosting Viewer"
 }

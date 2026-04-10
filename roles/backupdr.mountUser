@@ -9,8 +9,6 @@
     "backupdr.managementServers.getDynamicProtection",
     "backupdr.managementServers.list",
     "backupdr.managementServers.listDynamicProtection",
-    "backupdr.managementServers.listEffectiveTags",
-    "backupdr.managementServers.listTagBindings",
     "backupdr.managementServers.manageApplications",
     "backupdr.managementServers.manageClones",
     "backupdr.managementServers.manageHosts",

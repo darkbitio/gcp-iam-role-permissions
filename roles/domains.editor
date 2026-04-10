@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Domains",
+  "description": "Editor role for domains",
   "etag": "AA==",
   "includedPermissions": [
     "domains.locations.get",
@@ -23,5 +23,5 @@
   ],
   "name": "roles/domains.editor",
   "stage": "GA",
-  "title": "Cloud Domains Editor"
+  "title": "Domains Editor"
 }

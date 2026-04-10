@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Edge Network",
+  "description": "Editor role for edgenetwork",
   "etag": "AA==",
   "includedPermissions": [
     "edgenetwork.interconnectAttachments.create",
@@ -52,5 +52,5 @@
   ],
   "name": "roles/edgenetwork.editor",
   "stage": "GA",
-  "title": "Edge Network Editor"
+  "title": "Edgenetwork Editor"
 }

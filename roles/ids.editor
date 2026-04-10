@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud IDS",
+  "description": "Editor role for ids",
   "etag": "AA==",
   "includedPermissions": [
     "ids.endpoints.create",
@@ -19,5 +19,5 @@
   ],
   "name": "roles/ids.editor",
   "stage": "BETA",
-  "title": "Cloud IDS Editor"
+  "title": "Ids Editor"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Anthos Multi-cloud",
+  "description": "Editor role for gkemulticloud",
   "etag": "AA==",
   "includedPermissions": [
     "gkemulticloud.attachedClusters.create",
@@ -50,5 +50,5 @@
   ],
   "name": "roles/gkemulticloud.editor",
   "stage": "GA",
-  "title": "Anthos Multi-cloud Editor"
+  "title": "Gkemulticloud Editor"
 }

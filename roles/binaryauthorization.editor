@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Binary Authorization",
+  "description": "Editor role for binaryauthorization",
   "etag": "AA==",
   "includedPermissions": [
     "binaryauthorization.attestors.create",
@@ -27,5 +27,5 @@
   ],
   "name": "roles/binaryauthorization.editor",
   "stage": "GA",
-  "title": "Binary Authorization Editor"
+  "title": "Binaryauthorization Editor"
 }

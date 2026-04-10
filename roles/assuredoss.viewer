@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Assured OSS",
+  "description": "Viewer role for assuredoss",
   "etag": "AA==",
   "includedPermissions": [
     "assuredoss.config.get",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/assuredoss.viewer",
   "stage": "GA",
-  "title": "Assured OSS Viewer"
+  "title": "Assuredoss Viewer"
 }
