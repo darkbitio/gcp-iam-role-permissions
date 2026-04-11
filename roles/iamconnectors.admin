@@ -1,0 +1,7 @@
+{
+  "description": "Grants access to manage connectors, authorizations, and access events.",
+  "etag": "AA==",
+  "name": "roles/iamconnectors.admin",
+  "stage": "ALPHA",
+  "title": "Connector Admin"
+}

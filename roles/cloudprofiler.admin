@@ -1,5 +1,5 @@
 {
-  "description": "Admin role for Cloud Profiler",
+  "description": "Admin role for cloudprofiler",
   "etag": "AA==",
   "includedPermissions": [
     "cloudprofiler.profiles.create",
@@ -10,5 +10,5 @@
   ],
   "name": "roles/cloudprofiler.admin",
   "stage": "GA",
-  "title": "Cloud Profiler Admin"
+  "title": "Cloudprofiler Admin"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for ApiGateway",
+  "description": "Editor role for apigateway",
   "etag": "AA==",
   "includedPermissions": [
     "apigateway.apiconfigs.create",
@@ -49,5 +49,5 @@
   ],
   "name": "roles/apigateway.editor",
   "stage": "GA",
-  "title": "ApiGateway Editor"
+  "title": "Apigateway Editor"
 }

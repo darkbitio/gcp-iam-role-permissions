@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Cloud Build",
+  "description": "Viewer role for cloudbuild",
   "etag": "AA==",
   "includedPermissions": [
     "cloudbuild.builds.get",
@@ -24,5 +24,5 @@
   ],
   "name": "roles/cloudbuild.viewer",
   "stage": "GA",
-  "title": "Cloud Build Viewer"
+  "title": "Cloudbuild Viewer"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Data Connectors",
+  "description": "Viewer role for dataconnectors",
   "etag": "AA==",
   "includedPermissions": [
     "dataconnectors.connectors.get",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/dataconnectors.viewer",
   "stage": "BETA",
-  "title": "Data Connectors Viewer"
+  "title": "Dataconnectors Viewer"
 }

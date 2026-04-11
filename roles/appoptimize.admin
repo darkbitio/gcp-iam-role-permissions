@@ -1,7 +1,0 @@
-{
-  "description": "Lets you create, read, update, and delete App Optimize resources.",
-  "etag": "AA==",
-  "name": "roles/appoptimize.admin",
-  "stage": "ALPHA",
-  "title": "App Optimize Admin"
-}

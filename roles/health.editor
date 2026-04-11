@@ -1,7 +1,0 @@
-{
-  "description": "Edit access to Health resources.",
-  "etag": "AA==",
-  "name": "roles/health.editor",
-  "stage": "ALPHA",
-  "title": "Health Editor"
-}

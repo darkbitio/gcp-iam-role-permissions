@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Config Controller",
+  "description": "Editor role for krmapihosting",
   "etag": "AA==",
   "includedPermissions": [
     "krmapihosting.krmApiHosts.create",
@@ -7,8 +7,6 @@
     "krmapihosting.krmApiHosts.get",
     "krmapihosting.krmApiHosts.getIamPolicy",
     "krmapihosting.krmApiHosts.list",
-    "krmapihosting.krmApiHosts.listEffectiveTags",
-    "krmapihosting.krmApiHosts.listTagBindings",
     "krmapihosting.krmApiHosts.update",
     "krmapihosting.locations.get",
     "krmapihosting.locations.list",
@@ -21,5 +19,5 @@
   ],
   "name": "roles/krmapihosting.editor",
   "stage": "GA",
-  "title": "Config Controller Editor"
+  "title": "Krmapihosting Editor"
 }
