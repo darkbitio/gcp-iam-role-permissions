@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Google Cloud Managed Identities",
+  "description": "Editor role for managedidentities",
   "etag": "AA==",
   "includedPermissions": [
     "managedidentities.backups.create",
@@ -47,5 +47,5 @@
   ],
   "name": "roles/managedidentities.editor",
   "stage": "GA",
-  "title": "Google Cloud Managed Identities Editor"
+  "title": "Managedidentities Editor"
 }

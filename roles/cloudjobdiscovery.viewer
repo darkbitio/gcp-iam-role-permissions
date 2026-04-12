@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Cloud Talent Solution.",
+  "description": "Viewer role for cloudjobdiscovery",
   "etag": "AA==",
   "includedPermissions": [
     "cloudjobdiscovery.companies.get",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/cloudjobdiscovery.viewer",
   "stage": "GA",
-  "title": "Cloud Talent Solution Viewer"
+  "title": "Cloudjobdiscovery Viewer"
 }

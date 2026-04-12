@@ -102,6 +102,6 @@
     "telemetry.traces.write"
   ],
   "name": "roles/firebaseapphosting.computeRunner",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Firebase App Hosting Compute Runner"
 }

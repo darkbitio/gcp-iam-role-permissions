@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebaseapphosting.developer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Firebase App Hosting Developer"
 }

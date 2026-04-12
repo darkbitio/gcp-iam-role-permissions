@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Data Catalog",
+  "description": "Editor role for datacatalog",
   "etag": "AA==",
   "includedPermissions": [
     "bigquery.connections.get",
@@ -84,5 +84,5 @@
   ],
   "name": "roles/datacatalog.editor",
   "stage": "GA",
-  "title": "Data Catalog Editor"
+  "title": "Datacatalog Editor"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Private Catalog",
+  "description": "Editor role for cloudprivatecatalogproducer",
   "etag": "AA==",
   "includedPermissions": [
     "cloudprivatecatalogproducer.associations.create",
@@ -40,5 +40,5 @@
   ],
   "name": "roles/cloudprivatecatalogproducer.editor",
   "stage": "BETA",
-  "title": "Catalog Editor"
+  "title": "Cloudprivatecatalogproducer Editor"
 }

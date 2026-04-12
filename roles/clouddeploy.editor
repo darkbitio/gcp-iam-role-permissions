@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Deploy",
+  "description": "Editor role for clouddeploy",
   "etag": "AA==",
   "includedPermissions": [
     "clouddeploy.automationRuns.cancel",
@@ -67,5 +67,5 @@
   ],
   "name": "roles/clouddeploy.editor",
   "stage": "GA",
-  "title": "Cloud Deploy Editor"
+  "title": "Clouddeploy Editor"
 }

@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for IAP",
+  "description": "Editor role for iap",
   "etag": "AA==",
   "includedPermissions": [
     "iap.projects.getSettings",
@@ -22,5 +22,5 @@
   ],
   "name": "roles/iap.editor",
   "stage": "GA",
-  "title": "IAP Policy Editor"
+  "title": "Iap Editor"
 }
