@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/parametermanager.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Parametermanager Viewer"
 }

@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/chroniclesm.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Chroniclesm Editor"
 }
