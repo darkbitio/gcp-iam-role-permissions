@@ -11,6 +11,6 @@
     "timeseriesinsights.locations.list"
   ],
   "name": "roles/timeseriesinsights.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Timeseriesinsights Viewer"
 }

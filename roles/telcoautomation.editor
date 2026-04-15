@@ -38,6 +38,6 @@
     "telcoautomation.publicBlueprints.list"
   ],
   "name": "roles/telcoautomation.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Telcoautomation Editor"
 }

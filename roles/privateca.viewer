@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for CA Service",
+  "description": "Viewer role for privateca",
   "etag": "AA==",
   "includedPermissions": [
     "privateca.caPools.get",
@@ -34,5 +34,5 @@
   ],
   "name": "roles/privateca.viewer",
   "stage": "GA",
-  "title": "CA Service Viewer"
+  "title": "Privateca Viewer"
 }
