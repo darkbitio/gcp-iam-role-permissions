@@ -2,7 +2,6 @@
   "description": "Full access to DataScan resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "dataplex.datascans.cancel",
     "dataplex.datascans.create",
     "dataplex.datascans.delete",
     "dataplex.datascans.get",

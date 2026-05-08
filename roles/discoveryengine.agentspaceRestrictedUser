@@ -21,6 +21,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/discoveryengine.agentspaceRestrictedUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini Enterprise Restricted User"
 }

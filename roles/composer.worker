@@ -26,8 +26,6 @@
     "artifactregistry.packages.get",
     "artifactregistry.packages.list",
     "artifactregistry.packages.update",
-    "artifactregistry.projectconfigs.get",
-    "artifactregistry.projectconfigs.update",
     "artifactregistry.projectsettings.get",
     "artifactregistry.projectsettings.update",
     "artifactregistry.pythonpackages.get",
@@ -619,7 +617,8 @@
     "storage.objects.setIamPolicy",
     "storage.objects.setRetention",
     "storage.objects.update",
-    "storage.objects.updateContext"
+    "storage.objects.updateContext",
+    "telemetry.metrics.write"
   ],
   "name": "roles/composer.worker",
   "stage": "GA",

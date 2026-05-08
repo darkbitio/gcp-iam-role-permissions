@@ -1,5 +1,5 @@
 {
-  "description": "Access to all Cluster Director resources.",
+  "description": "Admin role for hypercomputecluster",
   "etag": "AA==",
   "includedPermissions": [
     "hypercomputecluster.clusters.create",
@@ -22,6 +22,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/hypercomputecluster.admin",
-  "stage": "ALPHA",
-  "title": "Cluster Director Admin"
+  "stage": "BETA",
+  "title": "Hypercomputecluster Admin"
 }

@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/compute.vmExtensionPolicyAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Compute VM extension policy admin"
 }
