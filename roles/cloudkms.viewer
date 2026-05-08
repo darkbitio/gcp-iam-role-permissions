@@ -20,7 +20,6 @@
     "cloudkms.locations.get",
     "cloudkms.locations.list",
     "cloudkms.operations.get",
-    "cloudkms.protectableResources.list",
     "cloudkms.retiredResources.get",
     "cloudkms.retiredResources.list",
     "cloudkms.singleTenantHsmInstanceProposals.get",

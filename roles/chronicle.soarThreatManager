@@ -30,6 +30,6 @@
     "securitycenter.valuedresources.list"
   ],
   "name": "roles/chronicle.soarThreatManager",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Chronicle SOAR Threat Manager"
 }

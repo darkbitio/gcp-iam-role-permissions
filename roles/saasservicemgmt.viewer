@@ -4,14 +4,6 @@
   "includedPermissions": [
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "saasservicemgmt.flagAttributes.get",
-    "saasservicemgmt.flagAttributes.list",
-    "saasservicemgmt.flagReleases.get",
-    "saasservicemgmt.flagReleases.list",
-    "saasservicemgmt.flagRevisions.get",
-    "saasservicemgmt.flagRevisions.list",
-    "saasservicemgmt.flags.get",
-    "saasservicemgmt.flags.list",
     "saasservicemgmt.locations.get",
     "saasservicemgmt.locations.list",
     "saasservicemgmt.operations.get",
@@ -34,6 +26,6 @@
     "saasservicemgmt.units.list"
   ],
   "name": "roles/saasservicemgmt.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "SaaS Service Management Viewer"
 }

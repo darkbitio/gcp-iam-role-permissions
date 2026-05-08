@@ -1,0 +1,32 @@
+{
+  "description": "Admin role for Database Insights",
+  "etag": "AA==",
+  "includedPermissions": [
+    "databaseinsights.activeQueries.fetch",
+    "databaseinsights.activeQuery.terminate",
+    "databaseinsights.activitySummary.fetch",
+    "databaseinsights.aggregatedEvents.query",
+    "databaseinsights.aggregatedStats.query",
+    "databaseinsights.clusterEvents.query",
+    "databaseinsights.databaseIssues.troubleshoot",
+    "databaseinsights.dbCenter.query",
+    "databaseinsights.dbPerformance.query",
+    "databaseinsights.instanceEvents.query",
+    "databaseinsights.locations.get",
+    "databaseinsights.locations.list",
+    "databaseinsights.performanceIssues.detect",
+    "databaseinsights.performanceIssues.investigate",
+    "databaseinsights.queryMetrics.fetch",
+    "databaseinsights.recommendations.query",
+    "databaseinsights.resourceRecommendations.query",
+    "databaseinsights.systemMetrics.fetch",
+    "databaseinsights.timeSeries.query",
+    "databaseinsights.virtualDbxAgent.query",
+    "databaseinsights.workloadRecommendations.fetch",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/databaseinsights.admin",
+  "stage": "ALPHA",
+  "title": "Database Insights Admin"
+}

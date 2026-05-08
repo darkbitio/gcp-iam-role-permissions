@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Gemini for Google Cloud",
+  "description": "Viewer role for cloudaicompanion",
   "etag": "AA==",
   "includedPermissions": [
     "cloudaicompanion.aiDevToolsSettings.get",
@@ -49,6 +49,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudaicompanion.viewer",
-  "stage": "GA",
-  "title": "Gemini for Google Cloud Viewer"
+  "stage": "ALPHA",
+  "title": "Cloudaicompanion Viewer"
 }

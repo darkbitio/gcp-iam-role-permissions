@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Fault Testing resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/faulttesting.viewer",
+  "stage": "ALPHA",
+  "title": "Fault Testing Viewer"
+}
