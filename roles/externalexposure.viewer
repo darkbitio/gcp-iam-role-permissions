@@ -2,10 +2,15 @@
   "description": "Read only access to external exposure resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "externalexposure.locations.get",
+    "externalexposure.locations.list",
+    "externalexposure.operations.get",
+    "externalexposure.operations.list",
+    "externalexposure.scanMetrics.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/externalexposure.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "External Exposure Viewer"
 }
