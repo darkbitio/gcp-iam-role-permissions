@@ -1,0 +1,17 @@
+{
+  "description": "Viewer of App Engine Version Cost Insights and Recommendations.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "recommender.appengineVersionCostInsights.get",
+    "recommender.appengineVersionCostInsights.list",
+    "recommender.appengineVersionCostRecommendations.get",
+    "recommender.appengineVersionCostRecommendations.list",
+    "recommender.locations.get",
+    "recommender.locations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/recommender.appengineversioncostViewer",
+  "stage": "BETA",
+  "title": "App Engine Version Cost Recommender Viewer"
+}
