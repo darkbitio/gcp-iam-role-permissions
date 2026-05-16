@@ -1,5 +1,5 @@
 {
-  "description": "Admin access to Google Health API resources.",
+  "description": "Admin access to Health resources.",
   "etag": "AA==",
   "includedPermissions": [
     "health.subscribers.create",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/health.admin",
   "stage": "GA",
-  "title": "Google Health API Admin"
+  "title": "Health Admin"
 }

@@ -13,8 +13,6 @@
     "modelarmor.templates.useToSanitizeModelResponse",
     "modelarmor.templates.useToSanitizeOutput",
     "modelarmor.templates.useToSanitizeUserPrompt",
-    "modelarmor.templates.useToStreamSanitizeModelResponse",
-    "modelarmor.templates.useToStreamSanitizeUserPrompt",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
