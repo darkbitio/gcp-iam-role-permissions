@@ -29,6 +29,6 @@
     "backupdr.serviceConfig.initialize"
   ],
   "name": "roles/alloydb.backupDrAdmin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "AlloyDB Admin for BackupDR"
 }
