@@ -559,8 +559,6 @@
     "networkservices.endpointPolicies.list",
     "networkservices.gateways.get",
     "networkservices.gateways.list",
-    "networkservices.googleTagGatewayPolicies.get",
-    "networkservices.googleTagGatewayPolicies.list",
     "networkservices.grpcRoutes.get",
     "networkservices.grpcRoutes.list",
     "networkservices.httpFilters.get",
