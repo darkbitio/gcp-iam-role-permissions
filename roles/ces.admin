@@ -51,7 +51,6 @@
     "ces.evaluationRuns.list",
     "ces.evaluations.create",
     "ces.evaluations.delete",
-    "ces.evaluations.export",
     "ces.evaluations.get",
     "ces.evaluations.list",
     "ces.evaluations.update",
