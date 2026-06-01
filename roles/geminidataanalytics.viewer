@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/geminidataanalytics.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Gemini Data Analytics Viewer"
 }

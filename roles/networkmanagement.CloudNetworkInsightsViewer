@@ -16,6 +16,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkmanagement.CloudNetworkInsightsViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Network Insights Viewer"
 }
