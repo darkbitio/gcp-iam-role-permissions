@@ -262,6 +262,8 @@
     "chronicle.iocAssociations.batchGet",
     "chronicle.iocAssociations.fetchRelated",
     "chronicle.iocAssociations.get",
+    "chronicle.iocMatches.get",
+    "chronicle.iocMatches.list",
     "chronicle.iocState.get",
     "chronicle.iocState.update",
     "chronicle.iocs.batchGet",

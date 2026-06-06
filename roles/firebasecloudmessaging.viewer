@@ -2,6 +2,8 @@
   "description": "Read-only access to Firebase Cloud Messaging API resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudmessaging.topicSubscriptions.get",
+    "cloudmessaging.topicSubscriptions.list",
     "fcmdata.deliverydata.list",
     "firebase.clients.get",
     "firebase.clients.list",
@@ -12,6 +14,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/firebasecloudmessaging.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase Cloud Messaging API Viewer"
 }
