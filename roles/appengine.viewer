@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/appengine.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Appengine Viewer"
 }

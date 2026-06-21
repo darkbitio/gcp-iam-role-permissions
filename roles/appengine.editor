@@ -32,6 +32,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/appengine.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Appengine Editor"
 }
