@@ -16,6 +16,6 @@
     "telemetry.traces.write"
   ],
   "name": "roles/firebasetelemetry.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Firebase Telemetry Service Agent"
 }
