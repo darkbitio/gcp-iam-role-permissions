@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Workload Identity API resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/workloadidentity.viewer",
+  "stage": "ALPHA",
+  "title": "Workload Identity API Viewer"
+}
