@@ -9,5 +9,5 @@
   ],
   "name": "roles/dataconnectors.connectorUser",
   "stage": "BETA",
-  "title": "Data Connector User"
+  "title": "Connector User"
 }

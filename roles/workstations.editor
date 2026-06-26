@@ -26,7 +26,8 @@
     "workstations.workstations.list",
     "workstations.workstations.start",
     "workstations.workstations.stop",
-    "workstations.workstations.update"
+    "workstations.workstations.update",
+    "workstations.workstations.use"
   ],
   "name": "roles/workstations.editor",
   "stage": "GA",

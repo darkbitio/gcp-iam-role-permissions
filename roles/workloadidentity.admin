@@ -3,16 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "workloadidentity.locations.get",
-    "workloadidentity.locations.list",
-    "workloadidentity.operations.cancel",
-    "workloadidentity.operations.delete",
-    "workloadidentity.operations.get",
-    "workloadidentity.operations.list",
-    "workloadidentity.serviceAgents.create"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/workloadidentity.admin",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Workload Identity API Admin"
 }
