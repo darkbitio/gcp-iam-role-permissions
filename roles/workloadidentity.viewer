@@ -3,9 +3,13 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "workloadidentity.locations.get",
+    "workloadidentity.locations.list",
+    "workloadidentity.operations.get",
+    "workloadidentity.operations.list"
   ],
   "name": "roles/workloadidentity.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Workload Identity API Viewer"
 }
