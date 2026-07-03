@@ -98,7 +98,6 @@
     "dataplex.entryGroups.export",
     "dataplex.entryGroups.import",
     "dataplex.entryGroups.requestChanges",
-    "dataplex.entryGroups.useContextEntryLink",
     "dataplex.entryGroups.useDefinitionEntryLink",
     "dataplex.entryGroups.useRelatedEntryLink",
     "dataplex.entryGroups.useSchemaJoinEntryLink",

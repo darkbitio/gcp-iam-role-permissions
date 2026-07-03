@@ -1,0 +1,7 @@
+{
+  "description": "Grants read access to ParameterManager TemplateVersion resources. Intended for users & applications that need to perform read operations on TemplateVersions only.",
+  "etag": "AA==",
+  "name": "roles/parametermanager.templateAccessor",
+  "stage": "ALPHA",
+  "title": "Parameter Manager Template Accessor"
+}
