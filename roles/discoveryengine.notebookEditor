@@ -28,6 +28,6 @@
     "discoveryengine.sources.update"
   ],
   "name": "roles/discoveryengine.notebookEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud NotebookLM Notebook Editor"
 }

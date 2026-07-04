@@ -51,6 +51,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dns.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "DNS Editor"
 }

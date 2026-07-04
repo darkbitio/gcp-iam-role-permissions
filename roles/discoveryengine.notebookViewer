@@ -17,6 +17,6 @@
     "discoveryengine.sources.get"
   ],
   "name": "roles/discoveryengine.notebookViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud NotebookLM Notebook Viewer"
 }
