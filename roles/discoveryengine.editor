@@ -59,7 +59,6 @@
     "discoveryengine.dataStores.list",
     "discoveryengine.dataStores.listCustomModels",
     "discoveryengine.dataStores.trainCustomModel",
-    "discoveryengine.devToolsConfigs.get",
     "discoveryengine.documentProcessingConfigs.get",
     "discoveryengine.documents.batchGetDocumentsMetadata",
     "discoveryengine.documents.create",
