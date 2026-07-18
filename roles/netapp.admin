@@ -45,7 +45,6 @@
     "netapp.locations.get",
     "netapp.locations.list",
     "netapp.ontap.delete",
-    "netapp.ontap.get",
     "netapp.ontap.patch",
     "netapp.ontap.post",
     "netapp.operations.cancel",

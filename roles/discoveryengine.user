@@ -2,7 +2,6 @@
   "description": "Grants user-level access to Discovery Engine resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "businessaicode.locations.fetchQuotaStatus",
     "businessaicode.locations.generateContent",
     "businessaicode.locations.queryConfiguration",
     "businessaicode.locations.selfAssignLicense",
