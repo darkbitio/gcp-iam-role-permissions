@@ -2006,7 +2006,6 @@
     "ml.versions.list",
     "modelarmor.locations.list",
     "modelarmor.templates.list",
-    "modelarmor.topics.list",
     "monitoring.alertPolicies.list",
     "monitoring.alerts.list",
     "monitoring.dashboards.list",
