@@ -66,7 +66,6 @@
     "compute.globalForwardingRules.list",
     "compute.globalForwardingRules.listEffectiveTags",
     "compute.globalForwardingRules.listTagBindings",
-    "compute.globalFrontendSettings.get",
     "compute.globalNetworkEndpointGroups.get",
     "compute.globalNetworkEndpointGroups.list",
     "compute.globalNetworkEndpointGroups.listEffectiveTags",
