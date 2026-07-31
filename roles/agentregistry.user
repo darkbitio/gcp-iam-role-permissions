@@ -1,16 +1,13 @@
 {
-  "description": "Full access to Agent Registry API resources.",
+  "description": "Create, update, and delete skills and skill revisions.",
   "etag": "AA==",
   "includedPermissions": [
     "agentregistry.agents.get",
     "agentregistry.agents.list",
     "agentregistry.agents.search",
-    "agentregistry.bindings.create",
-    "agentregistry.bindings.delete",
     "agentregistry.bindings.fetchAvailable",
     "agentregistry.bindings.get",
     "agentregistry.bindings.list",
-    "agentregistry.bindings.update",
     "agentregistry.endpoints.get",
     "agentregistry.endpoints.list",
     "agentregistry.locations.get",
@@ -18,17 +15,12 @@
     "agentregistry.mcpServers.get",
     "agentregistry.mcpServers.list",
     "agentregistry.mcpServers.search",
-    "agentregistry.operations.cancel",
-    "agentregistry.operations.delete",
     "agentregistry.operations.get",
     "agentregistry.operations.list",
     "agentregistry.publishers.get",
     "agentregistry.publishers.list",
-    "agentregistry.services.create",
-    "agentregistry.services.delete",
     "agentregistry.services.get",
     "agentregistry.services.list",
-    "agentregistry.services.update",
     "agentregistry.skillRevisions.create",
     "agentregistry.skillRevisions.delete",
     "agentregistry.skillRevisions.get",
@@ -40,7 +32,7 @@
     "agentregistry.skills.search",
     "agentregistry.skills.update"
   ],
-  "name": "roles/agentregistry.admin",
+  "name": "roles/agentregistry.user",
   "stage": "BETA",
-  "title": "Agent Registry API Admin"
+  "title": "Agent Registry User"
 }

@@ -20,6 +20,6 @@
     "agentidentity.locations.list"
   ],
   "name": "roles/agentidentity.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Agent Identity Editor"
 }
