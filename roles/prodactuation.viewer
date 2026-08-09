@@ -2,10 +2,20 @@
   "description": "Readonly access to ProdActuation API resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "prodactuation.dnsConfigs.get",
+    "prodactuation.dnsConfigs.list",
+    "prodactuation.ganpatiGroups.get",
+    "prodactuation.ganpatiGroups.list",
+    "prodactuation.ganpatiGroups.listMemberships",
+    "prodactuation.ganpatiMemberships.get",
+    "prodactuation.locations.get",
+    "prodactuation.locations.list",
+    "prodactuation.operations.get",
+    "prodactuation.operations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/prodactuation.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "ProdActuation API Viewer"
 }
