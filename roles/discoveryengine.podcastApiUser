@@ -66,7 +66,6 @@
     "discoveryengine.ideaForgeIdeas.get",
     "discoveryengine.ideaForgeInstances.get",
     "discoveryengine.ideaForgeInstances.start",
-    "discoveryengine.ideaForgeInstances.stop",
     "discoveryengine.locations.completeExternalIdentities",
     "discoveryengine.locations.fetchAgentCards",
     "discoveryengine.memories.delete",
