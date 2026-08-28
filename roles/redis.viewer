@@ -10,8 +10,6 @@
     "redis.backups.list",
     "redis.clusters.get",
     "redis.clusters.list",
-    "redis.clusters.listEffectiveTags",
-    "redis.clusters.listTagBindings",
     "redis.instances.get",
     "redis.instances.list",
     "redis.instances.listEffectiveTags",

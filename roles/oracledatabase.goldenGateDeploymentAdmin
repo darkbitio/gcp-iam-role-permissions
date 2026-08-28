@@ -12,7 +12,6 @@
     "oracledatabase.goldenGateDeployments.list",
     "oracledatabase.goldenGateDeployments.start",
     "oracledatabase.goldenGateDeployments.stop",
-    "oracledatabase.goldenGateDeployments.update",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
     "oracledatabase.odbSubnets.get",
