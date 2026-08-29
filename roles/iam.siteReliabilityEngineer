@@ -3,7 +3,6 @@
   "etag": "AA==",
   "includedPermissions": [
     "apptopology.applicationTopologies.generate",
-    "apptopology.devOpsDomainTopologies.generate",
     "apptopology.discoveredResourcesTopologies.generate",
     "apptopology.domains.get",
     "apptopology.domains.list",
@@ -12,8 +11,6 @@
     "apptopology.operations.get",
     "apptopology.operations.list",
     "apptopology.schemas.get",
-    "apptopology.securityDomainTopologies.generate",
-    "apptopology.sreDomainTopologies.generate",
     "apptopology.topologyViews.get",
     "apptopology.topologyViews.list",
     "backupdr.backupPlanAssociations.createForComputeDisk",

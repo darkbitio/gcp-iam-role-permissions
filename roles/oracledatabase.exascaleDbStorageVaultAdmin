@@ -9,7 +9,6 @@
     "oracledatabase.exascaleDbStorageVaults.delete",
     "oracledatabase.exascaleDbStorageVaults.get",
     "oracledatabase.exascaleDbStorageVaults.list",
-    "oracledatabase.exascaleDbStorageVaults.update",
     "oracledatabase.giVersions.list",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
