@@ -5,6 +5,6 @@
     "logging.logEntries.create"
   ],
   "name": "roles/telemetry.logsWriter",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Telemetry Logs Writer"
 }
