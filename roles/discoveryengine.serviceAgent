@@ -96,7 +96,6 @@
     "networkservices.agentGateways.use",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "serviceextensions.callouts.invoke",
     "spanner.databases.beginReadOnlyTransaction",
     "spanner.databases.partitionQuery",
     "spanner.databases.select",
