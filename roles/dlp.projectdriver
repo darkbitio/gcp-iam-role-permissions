@@ -1387,7 +1387,6 @@
     "financialservices.v1instances.deleteTagBinding",
     "financialservices.v1instances.listEffectiveTags",
     "financialservices.v1instances.listTagBindings",
-    "geminidataanalytics.locations.chat",
     "gkemulticloud.attachedClusters.createTagBinding",
     "gkemulticloud.attachedClusters.deleteTagBinding",
     "gkemulticloud.attachedClusters.listEffectiveTags",
