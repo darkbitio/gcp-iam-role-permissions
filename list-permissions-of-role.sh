@@ -11,4 +11,8 @@ fi
 
 source ./lib/helper.sh
 
-cat roles/* | jq -r --arg ROLE "roles/$1" 'select(.name==$ROLE and .includedPermissions!=null and .includedPermissions!=[]) | .includedPermissions[] | "\(.)"'
+if [[ "$1" =~ ^roles ]]; then
+  cat roles/* | jq -r --arg ROLE "$1" 'select(.name==$ROLE and .includedPermissions!=null and .includedPermissions!=[]) | .includedPermissions[] | "\(.)"'
+else
+  cat roles/* | jq -r --arg ROLE "roles/$1" 'select(.name==$ROLE and .includedPermissions!=null and .includedPermissions!=[]) | .includedPermissions[] | "\(.)"'
+fi
