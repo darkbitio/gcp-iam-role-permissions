@@ -1,14 +1,4 @@
 #!/usr/bin/env bash
 
-if [ "$#" -ne 1 ]
-then
-  echo "Error: Must specify the permission to search for"
-  echo ""
-  echo "e.g: $0 resourcemanager.projects.get"
-  echo ""
-  exit 1
-fi
-
-source ./lib/helper.sh
-
-cat roles/* | jq -r --arg PERM "$1" 'select(.includedPermissions!=null and (.includedPermissions[] | contains($PERM))) | "\(.name)"'
+# Note: this is just a compatibility alias to not break pipelines using the old single-permission version
+source ./list-roles-with-permissions.sh
