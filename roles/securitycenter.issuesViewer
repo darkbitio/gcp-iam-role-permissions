@@ -7,10 +7,7 @@
     "securitycenter.issues.get",
     "securitycenter.issues.group",
     "securitycenter.issues.list",
-    "securitycenter.issues.listFilterValues",
-    "securitycenter.issues.retrieve",
-    "securitycenter.issues.search",
-    "securitycenter.issues.searchImpactedResources"
+    "securitycenter.issues.listFilterValues"
   ],
   "name": "roles/securitycenter.issuesViewer",
   "stage": "GA",
