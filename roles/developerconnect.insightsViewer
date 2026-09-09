@@ -14,6 +14,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/developerconnect.insightsViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Developer Connect Insights Viewer"
 }

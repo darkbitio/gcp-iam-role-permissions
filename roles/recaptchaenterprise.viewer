@@ -10,7 +10,6 @@
     "recaptchaenterprise.keys.listEffectiveTags",
     "recaptchaenterprise.keys.listTagBindings",
     "recaptchaenterprise.metrics.get",
-    "recaptchaenterprise.policies.get",
     "recaptchaenterprise.projectmetadata.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"

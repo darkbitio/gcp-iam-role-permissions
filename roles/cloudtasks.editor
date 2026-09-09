@@ -25,6 +25,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudtasks.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud Tasks Editor"
 }
