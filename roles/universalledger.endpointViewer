@@ -1,0 +1,7 @@
+{
+  "description": "Grants the ability to read the endpoints for a given project.",
+  "etag": "AA==",
+  "name": "roles/universalledger.endpointViewer",
+  "stage": "ALPHA",
+  "title": "Universal Ledger Endpoint Viewer"
+}

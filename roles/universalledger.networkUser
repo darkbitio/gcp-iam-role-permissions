@@ -1,0 +1,7 @@
+{
+  "description": "Grants full access to the GCUL Network, including the ability to send transactions.",
+  "etag": "AA==",
+  "name": "roles/universalledger.networkUser",
+  "stage": "ALPHA",
+  "title": "Universal Ledger Network User"
+}

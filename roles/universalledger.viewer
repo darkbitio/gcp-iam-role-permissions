@@ -1,0 +1,7 @@
+{
+  "description": "Grants the ability to view endpoints, and query the network via an endpoint.",
+  "etag": "AA==",
+  "name": "roles/universalledger.viewer",
+  "stage": "ALPHA",
+  "title": "Universal Ledger Viewer"
+}
