@@ -1,0 +1,10 @@
+{
+  "description": "Default role for the Database Insights service agent.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "serviceusage.services.use"
+  ],
+  "name": "roles/databaseinsights.serviceAgent",
+  "stage": "ALPHA",
+  "title": "Database Insights Service Agent"
+}
