@@ -1,7 +1,0 @@
-{
-  "description": "Full access to DataSets.",
-  "etag": "AA==",
-  "name": "roles/timeseriesinsights.datasetsOwner",
-  "stage": "DEPRECATED",
-  "title": "Timeseries Insights DataSet Owner"
-}

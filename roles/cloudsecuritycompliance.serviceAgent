@@ -647,7 +647,6 @@
     "compute.zones.list",
     "container.clusters.get",
     "container.clusters.list",
-    "discoveryengine.dataStores.get",
     "discoveryengine.dataStores.list",
     "dlp.fileStoreProfiles.list",
     "dlp.inspectTemplates.list",
