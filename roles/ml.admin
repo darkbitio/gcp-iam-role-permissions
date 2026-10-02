@@ -40,8 +40,7 @@
     "ml.versions.list",
     "ml.versions.predict",
     "ml.versions.update",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.get"
   ],
   "name": "roles/ml.admin",
   "stage": "GA",

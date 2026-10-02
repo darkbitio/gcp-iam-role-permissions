@@ -76,14 +76,7 @@
     "servicedirectory.namespaces.delete",
     "servicedirectory.services.create",
     "servicedirectory.services.delete",
-    "serviceusage.consumerpolicy.analyze",
-    "serviceusage.consumerpolicy.get",
-    "serviceusage.effectivepolicy.get",
-    "serviceusage.groups.list",
-    "serviceusage.groups.listExpandedMembers",
-    "serviceusage.groups.listMembers",
-    "serviceusage.services.get",
-    "serviceusage.values.test"
+    "serviceusage.services.get"
   ],
   "name": "roles/workstations.serviceAgent",
   "stage": "GA",

@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Access Context Manager",
+  "description": "Viewer role for accesscontextmanager",
   "etag": "AA==",
   "includedPermissions": [
     "accesscontextmanager.accessLevels.get",
@@ -19,5 +19,5 @@
   ],
   "name": "roles/accesscontextmanager.viewer",
   "stage": "GA",
-  "title": "Access Context Manager Viewer"
+  "title": "Accesscontextmanager Viewer"
 }

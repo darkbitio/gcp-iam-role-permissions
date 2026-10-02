@@ -61,9 +61,7 @@
     "workloadmanager.operations.get",
     "workloadmanager.operations.list",
     "workloadmanager.results.list",
-    "workloadmanager.rules.list",
-    "workloadmanager.workloads.get",
-    "workloadmanager.workloads.list"
+    "workloadmanager.rules.list"
   ],
   "name": "roles/workloadmanager.admin",
   "stage": "BETA",

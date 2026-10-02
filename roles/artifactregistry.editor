@@ -66,5 +66,5 @@
   ],
   "name": "roles/artifactregistry.editor",
   "stage": "GA",
-  "title": "Artifact Registry Editor"
+  "title": "Artifactregistry Editor"
 }

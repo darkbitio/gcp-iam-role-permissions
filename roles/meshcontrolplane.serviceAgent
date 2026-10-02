@@ -436,7 +436,6 @@
     "gkehub.rbacrolebindings.get",
     "gkehub.rbacrolebindings.list",
     "gkehub.scopes.get",
-    "gkehub.scopes.getIamPolicy",
     "gkehub.scopes.list",
     "gkehub.scopes.listBoundMemberships",
     "logging.logEntries.create",

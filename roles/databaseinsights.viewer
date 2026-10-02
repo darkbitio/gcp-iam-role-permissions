@@ -4,14 +4,11 @@
   "includedPermissions": [
     "databaseinsights.activeQueries.fetch",
     "databaseinsights.activitySummary.fetch",
-    "databaseinsights.aggregatedEvents.query",
     "databaseinsights.aggregatedStats.query",
-    "databaseinsights.clusterEvents.query",
     "databaseinsights.databaseIssues.troubleshoot",
     "databaseinsights.dbCenter.query",
     "databaseinsights.dbPerformance.query",
     "databaseinsights.indexRecommendations.query",
-    "databaseinsights.instanceEvents.query",
     "databaseinsights.locations.get",
     "databaseinsights.locations.list",
     "databaseinsights.performanceIssues.detect",
@@ -32,5 +29,5 @@
   ],
   "name": "roles/databaseinsights.viewer",
   "stage": "GA",
-  "title": "Database Insights Viewer"
+  "title": "Database Insights viewer"
 }

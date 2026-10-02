@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Service Consumer Management",
+  "description": "Viewer role for serviceconsumermanagement",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
@@ -10,5 +10,5 @@
   ],
   "name": "roles/serviceconsumermanagement.viewer",
   "stage": "BETA",
-  "title": "Service Consumer Management Viewer"
+  "title": "Serviceconsumermanagement Viewer"
 }

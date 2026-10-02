@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Apigee",
+  "description": "Viewer role for apigee",
   "etag": "AA==",
   "includedPermissions": [
     "apigee.addonsconfig.get",

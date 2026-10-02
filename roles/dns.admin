@@ -18,7 +18,6 @@
     "dns.managedZones.get",
     "dns.managedZones.getIamPolicy",
     "dns.managedZones.list",
-    "dns.managedZones.setIamPolicy",
     "dns.managedZones.update",
     "dns.networks.bindDNSResponsePolicy",
     "dns.networks.bindPrivateDNSPolicy",
