@@ -1,0 +1,7 @@
+{
+  "description": "Edit DLP content policies.",
+  "etag": "AA==",
+  "name": "roles/dlp.contentPoliciesEditor",
+  "stage": "ALPHA",
+  "title": "DLP Content Policies Editor"
+}

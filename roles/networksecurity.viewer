@@ -1,5 +1,5 @@
 {
-  "description": "Viewer role for Network Security",
+  "description": "Viewer role for networksecurity",
   "etag": "AA==",
   "includedPermissions": [
     "networksecurity.addressGroups.get",
@@ -77,5 +77,5 @@
   ],
   "name": "roles/networksecurity.viewer",
   "stage": "GA",
-  "title": "Network Security Viewer"
+  "title": "Networksecurity Viewer"
 }

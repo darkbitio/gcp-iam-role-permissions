@@ -44,7 +44,6 @@
     "baremetalsolution.operations.get",
     "baremetalsolution.osimages.list",
     "baremetalsolution.pods.list",
-    "baremetalsolution.procurements.create",
     "baremetalsolution.procurements.get",
     "baremetalsolution.procurements.list",
     "baremetalsolution.skus.list",

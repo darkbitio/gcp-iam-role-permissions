@@ -46,7 +46,6 @@
     "pubsub.schemas.create",
     "pubsub.schemas.delete",
     "pubsub.schemas.get",
-    "pubsub.schemas.getIamPolicy",
     "pubsub.schemas.list",
     "pubsub.schemas.listRevisions",
     "pubsub.schemas.rollback",
