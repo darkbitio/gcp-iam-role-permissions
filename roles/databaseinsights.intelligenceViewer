@@ -6,13 +6,10 @@
     "databaseinsights.dbCenter.query",
     "databaseinsights.dbPerformance.query",
     "databaseinsights.indexRecommendations.query",
-    "databaseinsights.logs.fetch",
     "databaseinsights.queryMetrics.fetch",
     "databaseinsights.queryStats.fetch",
     "databaseinsights.queryTimeSeries.fetch",
-    "databaseinsights.resourceMetadata.fetch",
     "databaseinsights.systemMetrics.fetch",
-    "databaseinsights.traces.fetch",
     "databaseinsights.waitEventStats.fetch",
     "databaseinsights.waitEventTimeSeries.fetch"
   ],
