@@ -31,7 +31,6 @@
     "networkconnectivity.spokes.listTagBindings",
     "networkconnectivity.spokes.setIamPolicy",
     "networkconnectivity.spokes.update",
-    "networkconnectivity.spokes.use",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

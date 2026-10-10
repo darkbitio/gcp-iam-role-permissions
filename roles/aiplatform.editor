@@ -14,7 +14,6 @@
     "aiplatform.agents.create",
     "aiplatform.agents.delete",
     "aiplatform.agents.get",
-    "aiplatform.agents.getIamPolicy",
     "aiplatform.agents.list",
     "aiplatform.agents.update",
     "aiplatform.analyzedInvocations.get",

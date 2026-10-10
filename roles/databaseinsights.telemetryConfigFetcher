@@ -1,0 +1,7 @@
+{
+  "description": "Role used to fetch telemetry configuration.",
+  "etag": "AA==",
+  "name": "roles/databaseinsights.telemetryConfigFetcher",
+  "stage": "ALPHA",
+  "title": "Telemetry Config Fetcher"
+}

@@ -2,9 +2,6 @@
   "description": "Read access to DataScan resources, excluding the results.",
   "etag": "AA==",
   "includedPermissions": [
-    "dataplex.agentTasks.get",
-    "dataplex.agentTasks.getIamPolicy",
-    "dataplex.agentTasks.list",
     "dataplex.datascans.get",
     "dataplex.datascans.getIamPolicy",
     "dataplex.datascans.list"
