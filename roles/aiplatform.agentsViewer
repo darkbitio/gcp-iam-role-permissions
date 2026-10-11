@@ -6,6 +6,6 @@
     "aiplatform.agents.list"
   ],
   "name": "roles/aiplatform.agentsViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Agent Platform Agents Viewer Role"
 }

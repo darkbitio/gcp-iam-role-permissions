@@ -6,6 +6,6 @@
     "aiplatform.agents.list"
   ],
   "name": "roles/aiplatform.agentsCreator",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Agent Platform Agents Creator Role"
 }
