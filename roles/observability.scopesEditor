@@ -17,6 +17,6 @@
     "observability.traceScopes.update"
   ],
   "name": "roles/observability.scopesEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Observability Scopes Editor"
 }

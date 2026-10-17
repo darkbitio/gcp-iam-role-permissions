@@ -53,7 +53,6 @@
     "serviceusage.quotas.get",
     "serviceusage.services.get",
     "serviceusage.services.list",
-    "serviceusage.services.listApis",
     "serviceusage.values.test"
   ],
   "name": "roles/managedkafka.connectorEditor",

@@ -42,6 +42,6 @@
     "observability.views.update"
   ],
   "name": "roles/observability.editor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Observability Editor"
 }
