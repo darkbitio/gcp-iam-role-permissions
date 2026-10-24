@@ -62,7 +62,6 @@
     "dataplex.datascans.list",
     "dataplex.datascans.run",
     "dataplex.datascans.update",
-    "dataplex.entryGroups.createContextSet",
     "dataplex.environments.create",
     "dataplex.environments.delete",
     "dataplex.environments.get",

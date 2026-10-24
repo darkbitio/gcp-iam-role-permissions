@@ -25,8 +25,7 @@
     "storage.objects.create",
     "storage.objects.delete",
     "storage.objects.get",
-    "storage.objects.list",
-    "storageinsights.reportConfigs.update"
+    "storage.objects.list"
   ],
   "name": "roles/wiz.dataSecurityScanner",
   "stage": "GA",
