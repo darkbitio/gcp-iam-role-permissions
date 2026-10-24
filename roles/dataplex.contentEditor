@@ -1,0 +1,20 @@
+{
+  "description": "Authorizes context engineers, curators, and agents to modify context entries, author guidelines, and update curation specifications without administrative IAM sharing or container deletion capabilities.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataplex.entries.createContext",
+    "dataplex.entries.deleteContext",
+    "dataplex.entries.getContext",
+    "dataplex.entries.listContext",
+    "dataplex.entries.updateContext",
+    "dataplex.entryGroups.getContextSet",
+    "dataplex.entryGroups.getIamPolicy",
+    "dataplex.entryGroups.requestContextChanges",
+    "dataplex.entryGroups.updateContextSet",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataplex.contentEditor",
+  "stage": "ALPHA",
+  "title": "Dataplex Content Editor"
+}

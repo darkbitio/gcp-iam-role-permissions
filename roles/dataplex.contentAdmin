@@ -1,0 +1,22 @@
+{
+  "description": "Grants full lifecycle ownership, IAM sharing (getIamPolicy/setIamPolicy), context entry management, curation specification updates, and deletion rights on a specific Context Set.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataplex.entries.createContext",
+    "dataplex.entries.deleteContext",
+    "dataplex.entries.getContext",
+    "dataplex.entries.listContext",
+    "dataplex.entries.updateContext",
+    "dataplex.entryGroups.deleteContextSet",
+    "dataplex.entryGroups.getContextSet",
+    "dataplex.entryGroups.getIamPolicy",
+    "dataplex.entryGroups.requestContextChanges",
+    "dataplex.entryGroups.setIamPolicy",
+    "dataplex.entryGroups.updateContextSet",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataplex.contentAdmin",
+  "stage": "ALPHA",
+  "title": "Dataplex Content Admin"
+}
