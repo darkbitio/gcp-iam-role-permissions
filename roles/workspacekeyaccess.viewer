@@ -3,17 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "workspacekeyaccess.configs.get",
-    "workspacekeyaccess.configs.list",
-    "workspacekeyaccess.endpoints.get",
-    "workspacekeyaccess.endpoints.list",
-    "workspacekeyaccess.locations.get",
-    "workspacekeyaccess.locations.list",
-    "workspacekeyaccess.operations.get",
-    "workspacekeyaccess.operations.list"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/workspacekeyaccess.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workspace Key Access API Viewer"
 }

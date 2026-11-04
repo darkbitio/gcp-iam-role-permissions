@@ -3,24 +3,9 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "workspacekeyaccess.configs.create",
-    "workspacekeyaccess.configs.delete",
-    "workspacekeyaccess.configs.get",
-    "workspacekeyaccess.configs.list",
-    "workspacekeyaccess.configs.update",
-    "workspacekeyaccess.endpoints.create",
-    "workspacekeyaccess.endpoints.get",
-    "workspacekeyaccess.endpoints.list",
-    "workspacekeyaccess.endpoints.update",
-    "workspacekeyaccess.locations.get",
-    "workspacekeyaccess.locations.list",
-    "workspacekeyaccess.operations.cancel",
-    "workspacekeyaccess.operations.delete",
-    "workspacekeyaccess.operations.get",
-    "workspacekeyaccess.operations.list"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/workspacekeyaccess.admin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Workspace Key Access API Admin"
 }

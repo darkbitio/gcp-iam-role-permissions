@@ -2,8 +2,6 @@
   "description": "Grants user-level access to the Podcast resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "agentregistry.skills.create",
-    "agentregistry.skills.search",
     "businessaicode.locations.fetchQuotaStatus",
     "businessaicode.locations.generateContent",
     "businessaicode.locations.queryConfiguration",
@@ -79,7 +77,6 @@
     "discoveryengine.locations.buildAuthorizationUrl",
     "discoveryengine.locations.completeExternalIdentities",
     "discoveryengine.locations.fetchAgentCards",
-    "discoveryengine.locations.getConnectorSource",
     "discoveryengine.locations.listConnectorSources",
     "discoveryengine.memories.delete",
     "discoveryengine.memories.list",
