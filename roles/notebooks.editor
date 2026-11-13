@@ -10,8 +10,6 @@
     "compute.acceleratorInterconnects.get",
     "compute.acceleratorInterconnects.list",
     "compute.acceleratorInterconnects.queryFormability",
-    "compute.acceleratorPodControllers.get",
-    "compute.acceleratorPodControllers.list",
     "compute.acceleratorTypes.get",
     "compute.acceleratorTypes.list",
     "compute.addresses.get",
