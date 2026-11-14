@@ -502,7 +502,6 @@
     "chronicle.marketplaceIntegrations.install",
     "chronicle.marketplaceIntegrations.uninstall",
     "chronicle.messages.create",
-    "chronicle.messages.createLongRunning",
     "chronicle.messages.delete",
     "chronicle.messages.get",
     "chronicle.messages.list",
