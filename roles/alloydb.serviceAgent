@@ -13,7 +13,6 @@
     "biglake.tables.create",
     "biglake.tables.delete",
     "biglake.tables.get",
-    "biglake.tables.getData",
     "biglake.tables.list",
     "biglake.tables.register",
     "biglake.tables.update",

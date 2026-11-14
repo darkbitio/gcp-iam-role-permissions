@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Firebase Telemetry Admin resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/firebasetelemetryadmin.viewer",
+  "stage": "ALPHA",
+  "title": "Firebase Telemetry Admin Viewer"
+}
