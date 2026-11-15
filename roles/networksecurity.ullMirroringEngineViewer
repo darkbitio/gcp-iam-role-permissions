@@ -1,0 +1,16 @@
+{
+  "description": "Enables read-only access to Ull Mirroring Engine and Collector resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "networksecurity.ullMirroringCollectors.get",
+    "networksecurity.ullMirroringCollectors.list",
+    "networksecurity.ullMirroringEngines.get",
+    "networksecurity.ullMirroringEngines.list",
+    "networksecurity.ullMirroringEngines.listNetworks",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/networksecurity.ullMirroringEngineViewer",
+  "stage": "GA",
+  "title": "Ull Mirroring Engine Viewer"
+}
